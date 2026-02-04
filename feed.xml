@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>每日科技热帖</title>
+    <link>https://github.com/edwardhanhk/daily-tech-news</link>
+    <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
+    <lastBuildDate>Wed, 04 Feb 2026 07:55:41 +0000</lastBuildDate>
+    <generator>GitHub Actions + Python</generator>
+    <item>
+      <title>[HN] The full history of Windows widgets, from 1997 to today</title>
+      <link>https://xakpc.dev/windows-widgets/history/</link>
+      <guid isPermaLink="true">https://xakpc.dev/windows-widgets/history/</guid>
+      <pubDate>Wed, 04 Feb 2026 06:22:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HN] Petition for Recognition of Work on Open-Source as Volunteering in Germany</title>
+      <link>https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany</link>
+      <guid isPermaLink="true">https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany</guid>
+      <pubDate>Wed, 04 Feb 2026 04:46:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HN] I miss thinking hard</title>
+      <link>https://www.jernesto.com/articles/thinking_hard</link>
+      <guid isPermaLink="true">https://www.jernesto.com/articles/thinking_hard</guid>
+      <pubDate>Wed, 04 Feb 2026 03:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HN] Notepad++ supply chain attack breakdown</title>
+      <link>https://securelist.com/notepad-supply-chain-attack/118708/</link>
+      <guid isPermaLink="true">https://securelist.com/notepad-supply-chain-attack/118708/</guid>
+      <pubDate>Tue, 03 Feb 2026 22:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HN] FlashAttention-T: Towards Tensorized Attention</title>
+      <link>https://dl.acm.org/doi/10.1145/3774934.3786425</link>
+      <guid isPermaLink="true">https://dl.acm.org/doi/10.1145/3774934.3786425</guid>
+      <pubDate>Tue, 03 Feb 2026 21:15:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/technology] DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email</title>
+      <link>https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/</guid>
+      <pubDate>2026-02-04T00:34:34+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/&quot;&gt; &lt;img alt=&quot;DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email&quot; src=&quot;https://external-preview.redd.it/OhvHcAgtWuYiAVCQpMMg3URG5qCjog0G-wWh8ZNBVyg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4d77625e81eea16e943e9f77eea4c2daebb457f9&quot; title=&quot;DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/RoachedCoach&quot;&gt; /u/RoachedCoach &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Mozilla Unveils Kill Switch to Disable All Firefox AI features</title>
+      <link>https://www.reddit.com/r/technology/comments/1quvj6c/mozilla_unveils_kill_switch_to_disable_all/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1quvj6c/mozilla_unveils_kill_switch_to_disable_all/</guid>
+      <pubDate>2026-02-03T15:50:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1quvj6c/mozilla_unveils_kill_switch_to_disable_all/&quot;&gt; &lt;img alt=&quot;Mozilla Unveils Kill Switch to Disable All Firefox AI features&quot; src=&quot;https://external-preview.redd.it/DPWILl4TRymZUkI1fs2FUdHjxRnXVwnU0Iyi7hKXgzQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8f9fa65789e973dfb3c7fb7d2feac01186d2ad9f&quot; title=&quot;Mozilla Unveils Kill Switch to Disable All Firefox AI features&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MetaKnowing&quot;&gt; /u/MetaKnowing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://cybersecuritynews.com/firefox-ai-kill-switch/amp/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1quvj6c/mozilla_unveils_kill_switch_to_disable_all/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Tech billionaires fuel US President’s $429mn haul ahead of midterm elections</title>
+      <link>https://www.reddit.com/r/technology/comments/1qutem9/tech_billionaires_fuel_us_presidents_429mn_haul/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qutem9/tech_billionaires_fuel_us_presidents_429mn_haul/</guid>
+      <pubDate>2026-02-03T14:29:54+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qutem9/tech_billionaires_fuel_us_presidents_429mn_haul/&quot;&gt; &lt;img alt=&quot;Tech billionaires fuel US President’s $429mn haul ahead of midterm elections&quot; src=&quot;https://external-preview.redd.it/yWXWt_7US1bexGJPstlAdUtBStvZ_IJ8qdAYOQiKKL4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=49788285da9ab17dab0efb0a69b6282635bb1f92&quot; title=&quot;Tech billionaires fuel US President’s $429mn haul ahead of midterm elections&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/rezwenn&quot;&gt; /u/rezwenn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ft.com/content/5038f2b1-6334-4d28-85e6-312d06796ca7&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qutem9/tech_billionaires_fuel_us_presidents_429mn_haul/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Greece is &quot;very close&quot; to announcing a social media ban for children aged under 15, a senior government source told Reuters on Tuesday.</title>
+      <link>https://www.reddit.com/r/technology/comments/1qustvs/greece_is_very_close_to_announcing_a_social_media/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qustvs/greece_is_very_close_to_announcing_a_social_media/</guid>
+      <pubDate>2026-02-03T14:06:39+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qustvs/greece_is_very_close_to_announcing_a_social_media/&quot;&gt; &lt;img alt=&quot;Greece is &amp;quot;very close&amp;quot; to announcing a social media ban for children aged under 15, a senior government source told Reuters on Tuesday.&quot; src=&quot;https://external-preview.redd.it/RiDWUFQxgN_UkKZSjE7YIdWR11UaZSWLaeHM78hSoAI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b4f94c9519782f51a115f8856681eb29793b309f&quot; title=&quot;Greece is &amp;quot;very close&amp;quot; to announcing a social media ban for children aged under 15, a senior government source told Reuters on Tuesday.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MRADEL90&quot;&gt; /u/MRADEL90 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/sustainability/society-equity/greece-soon-announce-social-media-ban-children-under-15-government-source-says-2026-02-03/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qustvs/greece_is_very_close_to_announcing_a_social_media/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Palantir CEO defends surveillance tech as US government contracts boost sales</title>
+      <link>https://www.reddit.com/r/technology/comments/1qurw13/palantir_ceo_defends_surveillance_tech_as_us/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qurw13/palantir_ceo_defends_surveillance_tech_as_us/</guid>
+      <pubDate>2026-02-03T13:27:18+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qurw13/palantir_ceo_defends_surveillance_tech_as_us/&quot;&gt; &lt;img alt=&quot;Palantir CEO defends surveillance tech as US government contracts boost sales&quot; src=&quot;https://external-preview.redd.it/hu_Ws0GWVlhHcbRxZk8ZlTFZ2IQS5rO3RRsmO3Xj0D8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=66b2988d686c716e1f3e654c7fab5dc372d7c597&quot; title=&quot;Palantir CEO defends surveillance tech as US government contracts boost sales&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/rezwenn&quot;&gt; /u/rezwenn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/world/europe/palantir-ceo-defends-surveillance-tech-us-government-contracts-boost-sales-2026-02-02/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qurw13/palantir_ceo_defends_surveillance_tech_as_us/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
