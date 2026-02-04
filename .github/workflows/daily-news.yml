@@ -1,14 +1,12 @@
-name: Daily Tech News Push
+name: Daily Tech News Push + RSS
 
 on:
   schedule:
-    # 每天 UTC 时间 0:00 触发（即北京时间早上 8:00）
-    - cron: "0 0 * * *"
-  # 允许手动触发测试
+    - cron: "0 0 * * *"  # 北京时间 8:00
   workflow_dispatch:
 
 jobs:
-  send-news:
+  send-and-publish:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -21,11 +19,23 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests
+          pip install feedparser
 
-      - name: Run news fetcher
+      - name: Generate RSS feed
+        run: |
+          python generate_rss.py
+
+      - name: Send to Telegram (optional)
+        if: env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python fetch_news.py
+          python fetch_news.py  # 保留原有推送功能
+
+      - name: Deploy RSS to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
