@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests  # ← 同时安装两个库
+          pip install -r requirements.txt
 
       - name: Generate RSS feed
         run: python generate_rss.py
