@@ -1,4 +1,4 @@
-name: Daily Tech News Push + RSS
+name: Daily Tech News RSS
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  send-and-publish:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -19,23 +19,20 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser
+          pip install feedparser requests  # ← 同时安装两个库
 
       - name: Generate RSS feed
-        run: |
-          python generate_rss.py
+        run: python generate_rss.py
 
       - name: Send to Telegram (optional)
         if: env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          python fetch_news.py  # 保留原有推送功能
+        run: python fetch_news.py
 
       - name: Deploy RSS to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
-          publish_branch: gh-pages
