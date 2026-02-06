@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 05 Feb 2026 02:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 02:26:23 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] As Rocks May Think</title>
-      <link>https://evjang.com/2026/02/04/rocks.html</link>
-      <guid isPermaLink="true">https://evjang.com/2026/02/04/rocks.html</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:34 +0000</pubDate>
+      <title>[HN] Show HN: Local task classifier and dispatcher on RTX 3080</title>
+      <link>https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel</link>
+      <guid isPermaLink="true">https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel</guid>
+      <pubDate>Thu, 05 Feb 2026 23:31:01 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Debian's Challenge When Its Developers Drift Away</title>
-      <link>https://www.phoronix.com/news/Debian-Developers-Quiet-Away</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Debian-Developers-Quiet-Away</guid>
-      <pubDate>Wed, 04 Feb 2026 22:34:46 +0000</pubDate>
+      <title>[HN] The RCE that AMD won't fix</title>
+      <link>https://mrbruh.com/amd/</link>
+      <guid isPermaLink="true">https://mrbruh.com/amd/</guid>
+      <pubDate>Thu, 05 Feb 2026 23:29:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Sam Altman responds to Anthropic's &quot;Ads are coming to AI. But not to Claude&quot; ads</title>
-      <link>https://xcancel.com/sama/status/2019139174339928189</link>
-      <guid isPermaLink="true">https://xcancel.com/sama/status/2019139174339928189</guid>
-      <pubDate>Thu, 05 Feb 2026 00:50:11 +0000</pubDate>
+      <title>[HN] What if writing tests was a joyful experience? (2023)</title>
+      <link>https://blog.janestreet.com/the-joy-of-expect-tests/</link>
+      <guid isPermaLink="true">https://blog.janestreet.com/the-joy-of-expect-tests/</guid>
+      <pubDate>Thu, 05 Feb 2026 21:51:51 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] OpenClaw is what Apple intelligence should have been</title>
-      <link>https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</link>
-      <guid isPermaLink="true">https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</guid>
-      <pubDate>Thu, 05 Feb 2026 00:28:06 +0000</pubDate>
+      <title>[HN] Bitcoin gets a zero price target in wake of Burry warning</title>
+      <link>https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero</link>
+      <guid isPermaLink="true">https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero</guid>
+      <pubDate>Fri, 06 Feb 2026 01:19:31 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Steam Hardware: Launch timing and other FAQs</title>
-      <link>https://store.steampowered.com/news/group/45479024/view/625565405086220583</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/group/45479024/view/625565405086220583</guid>
-      <pubDate>Thu, 05 Feb 2026 00:21:06 +0000</pubDate>
+      <title>[HN] C isn't a programming language anymore (2022)</title>
+      <link>https://faultlore.com/blah/c-isnt-a-language/</link>
+      <guid isPermaLink="true">https://faultlore.com/blah/c-isnt-a-language/</guid>
+      <pubDate>Fri, 06 Feb 2026 00:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Reports</title>
-      <link>https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/</guid>
-      <pubDate>2026-02-05T00:04:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/&quot;&gt; &lt;img alt=&quot;3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment After Parents Remove Access to Phone: Reports&quot; src=&quot;https://external-preview.redd.it/-WkHtHgrRshMIdMFo-6bDnith25AaTg7kVG1f69c9TY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b7b544b02ee3171a5ad4cc0d5cf38022c40d75a8&quot; title=&quot;3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment After Parents Remove Access to Phone: Reports&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Sandstorm400&quot;&gt; /u/Sandstorm400 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://people.com/3-sisters-jumping-deaths-online-gaming-addiction-11899069&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] U.S. Dealers In Full Panic Mode After Canada Green-Lights Chinese Cars</title>
+      <link>https://www.reddit.com/r/technology/comments/1qwyn4b/us_dealers_in_full_panic_mode_after_canada/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qwyn4b/us_dealers_in_full_panic_mode_after_canada/</guid>
+      <pubDate>2026-02-05T21:43:29+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DonkeyFuel&quot;&gt; /u/DonkeyFuel &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/u-s-dealers-in-full-panic-mode-after-canada-green-lights-chinese-cars&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwyn4b/us_dealers_in_full_panic_mode_after_canada/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] BMW Commits to Subscriptions Even After Heated Seat Debacle</title>
-      <link>https://www.reddit.com/r/technology/comments/1qvy3vd/bmw_commits_to_subscriptions_even_after_heated/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qvy3vd/bmw_commits_to_subscriptions_even_after_heated/</guid>
-      <pubDate>2026-02-04T19:23:07+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qvy3vd/bmw_commits_to_subscriptions_even_after_heated/&quot;&gt; &lt;img alt=&quot;BMW Commits to Subscriptions Even After Heated Seat Debacle&quot; src=&quot;https://external-preview.redd.it/XTy2INpZKJO8LWQ0-OpMExcp1tGcFOdCpw_T5JrNdDw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1ab3802d3bebe6f860206350b7d8f08797fd53ab&quot; title=&quot;BMW Commits to Subscriptions Even After Heated Seat Debacle&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/bmw-commits-to-subscriptions-even-after-heated-seat-debacle&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qvy3vd/bmw_commits_to_subscriptions_even_after_heated/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] ‘It’s on fire. Help please’</title>
+      <link>https://www.reddit.com/r/technology/comments/1qwj9s9/trapped_tesla_drivers_911_call_its_on_fire_help/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qwj9s9/trapped_tesla_drivers_911_call_its_on_fire_help/</guid>
+      <pubDate>2026-02-05T11:52:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwj9s9/trapped_tesla_drivers_911_call_its_on_fire_help/&quot;&gt; &lt;img alt=&quot;Trapped Tesla Driver’s 911 Call: ‘It’s on fire. Help please’&quot; src=&quot;https://external-preview.redd.it/L8y7YnIMhtSVXhe3at8jwLCFRB_0ZIIWpW32nAFVO-s.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b1a91d5966a506ebf523feb46326f484d51c56ec&quot; title=&quot;Trapped Tesla Driver’s 911 Call: ‘It’s on fire. Help please’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-02-04/tesla-sued-over-crash-that-trapped-killed-massachusetts-driver&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwj9s9/trapped_tesla_drivers_911_call_its_on_fire_help/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Palantir declares itself the guardian of Americans' rights</title>
-      <link>https://www.reddit.com/r/technology/comments/1qvmieg/palantir_declares_itself_the_guardian_of/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qvmieg/palantir_declares_itself_the_guardian_of/</guid>
-      <pubDate>2026-02-04T11:51:23+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qvmieg/palantir_declares_itself_the_guardian_of/&quot;&gt; &lt;img alt=&quot;Palantir declares itself the guardian of Americans' rights&quot; src=&quot;https://external-preview.redd.it/EL0lKYOMKaFGk4QA3nw5CelG6jzrc_FNTOgZdtrHgTY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=06e08831a6abe7f83cb2d7d0dd6d3a4e1fc8bf72&quot; title=&quot;Palantir declares itself the guardian of Americans' rights&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theregister.com/2026/02/03/palantir_american_rights/?td=rt-3a&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qvmieg/palantir_declares_itself_the_guardian_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Sam Altman got exceptionally testy over Claude Super Bowl ads</title>
+      <link>https://www.reddit.com/r/technology/comments/1qwj6rl/sam_altman_got_exceptionally_testy_over_claude/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qwj6rl/sam_altman_got_exceptionally_testy_over_claude/</guid>
+      <pubDate>2026-02-05T11:47:55+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwj6rl/sam_altman_got_exceptionally_testy_over_claude/&quot;&gt; &lt;img alt=&quot;Sam Altman got exceptionally testy over Claude Super Bowl ads&quot; src=&quot;https://external-preview.redd.it/5Sb7IIeRPZYb2rDDsfqfQm9i3h5mBUd2Ee4DqqBKkVY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=88d5f4bdb2b515fa3b31591cf82e8dacc98f3d68&quot; title=&quot;Sam Altman got exceptionally testy over Claude Super Bowl ads&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwj6rl/sam_altman_got_exceptionally_testy_over_claude/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Nvidia's $100 billion OpenAI deal has seemingly vanished</title>
-      <link>https://www.reddit.com/r/technology/comments/1qvf76p/nvidias_100_billion_openai_deal_has_seemingly/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qvf76p/nvidias_100_billion_openai_deal_has_seemingly/</guid>
-      <pubDate>2026-02-04T04:48:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qvf76p/nvidias_100_billion_openai_deal_has_seemingly/&quot;&gt; &lt;img alt=&quot;Nvidia's $100 billion OpenAI deal has seemingly vanished&quot; src=&quot;https://external-preview.redd.it/178yxnRe7m_9tHaQ4Rl85Iyd5TA-o-DVrI6Nss_oCvw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=517c394747af495979b035d381af2de242a53c94&quot; title=&quot;Nvidia's $100 billion OpenAI deal has seemingly vanished&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Midnight_M_&quot;&gt; /u/Midnight_M_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qvf76p/nvidias_100_billion_openai_deal_has_seemingly/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] India’s female workers watching hours of abusive content to train AI</title>
+      <link>https://www.reddit.com/r/technology/comments/1qwh6vr/in_the_end_you_feel_blank_indias_female_workers/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qwh6vr/in_the_end_you_feel_blank_indias_female_workers/</guid>
+      <pubDate>2026-02-05T09:53:13+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwh6vr/in_the_end_you_feel_blank_indias_female_workers/&quot;&gt; &lt;img alt=&quot;‘In the end, you feel blank’: India’s female workers watching hours of abusive content to train AI&quot; src=&quot;https://external-preview.redd.it/xY-FNtogDxBCE9E18Q7PoitTcnCSvjTUxVxxCUNFZaM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4d26488c2365f2232464b64362eb9941bda7d047&quot; title=&quot;‘In the end, you feel blank’: India’s female workers watching hours of abusive content to train AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/WombatusMighty&quot;&gt; /u/WombatusMighty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwh6vr/in_the_end_you_feel_blank_indias_female_workers/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Pinterest CEO rebukes, fires ‘obstructionist’ employees who created tool to track layoffs</title>
-      <link>https://www.reddit.com/r/technology/comments/1qvdgax/pinterest_ceo_rebukes_fires_obstructionist/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qvdgax/pinterest_ceo_rebukes_fires_obstructionist/</guid>
-      <pubDate>2026-02-04T03:26:00+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qvdgax/pinterest_ceo_rebukes_fires_obstructionist/&quot;&gt; &lt;img alt=&quot;Pinterest CEO rebukes, fires ‘obstructionist’ employees who created tool to track layoffs&quot; src=&quot;https://external-preview.redd.it/dSZ3cZtOvIWEC1bznHX4wcCukSDOj8lza4awBIjdg1c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=25c3176531bae4ded6038fc8d54674d1b302f775&quot; title=&quot;Pinterest CEO rebukes, fires ‘obstructionist’ employees who created tool to track layoffs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/02/03/pinterest-ceo-puts-staffers-on-blast-who-created-tool-to-track-layoffs.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qvdgax/pinterest_ceo_rebukes_fires_obstructionist/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Amazon expands layoffs with 2,200 job cuts</title>
+      <link>https://www.reddit.com/r/technology/comments/1qwc5ns/amazon_expands_layoffs_with_2200_job_cuts/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qwc5ns/amazon_expands_layoffs_with_2200_job_cuts/</guid>
+      <pubDate>2026-02-05T05:00:22+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwc5ns/amazon_expands_layoffs_with_2200_job_cuts/&quot;&gt; &lt;img alt=&quot;Amazon expands layoffs with 2,200 job cuts&quot; src=&quot;https://external-preview.redd.it/_t49Nve1w7cMEUwznsrd6RMc1soodqvetQAWGsHpoac.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3a369a16b87457dc43ea7e7d82e0160ba18c55af&quot; title=&quot;Amazon expands layoffs with 2,200 job cuts&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://americanbazaaronline.com/2026/02/03/amazon-expands-layoffs-with-2200-job-cuts-474427/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qwc5ns/amazon_expands_layoffs_with_2200_job_cuts/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
