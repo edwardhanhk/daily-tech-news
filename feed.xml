@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 09 Feb 2026 02:33:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 02:42:07 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Every book recommended on the Odd Lots Discord</title>
-      <link>https://odd-lots-books.netlify.app/</link>
-      <guid isPermaLink="true">https://odd-lots-books.netlify.app/</guid>
-      <pubDate>Sun, 08 Feb 2026 23:27:59 +0000</pubDate>
+      <title>[HN] How TikTok 2.0 Became a Weapon for ICE</title>
+      <link>https://newrepublic.com/article/205956/americanized-tiktok-backdoor-ice-surveillance</link>
+      <guid isPermaLink="true">https://newrepublic.com/article/205956/americanized-tiktok-backdoor-ice-surveillance</guid>
+      <pubDate>Tue, 10 Feb 2026 01:52:12 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] AI makes the easy part easier and the hard part harder</title>
-      <link>https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder</link>
-      <guid isPermaLink="true">https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder</guid>
-      <pubDate>Sun, 08 Feb 2026 23:13:34 +0000</pubDate>
+      <title>[HN] Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser</title>
+      <link>https://github.com/TrevorS/voxtral-mini-realtime-rs</link>
+      <guid isPermaLink="true">https://github.com/TrevorS/voxtral-mini-realtime-rs</guid>
+      <pubDate>Tue, 10 Feb 2026 01:26:42 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: A custom font that displays Cistercian numerals using ligatures</title>
-      <link>https://bobbiec.github.io/cistercian-font.html</link>
-      <guid isPermaLink="true">https://bobbiec.github.io/cistercian-font.html</guid>
-      <pubDate>Sun, 08 Feb 2026 22:39:46 +0000</pubDate>
+      <title>[HN] What Functional Programmers Get Wrong About Systems</title>
+      <link>https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/</link>
+      <guid isPermaLink="true">https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:07:44 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Toma (YC W24) Is Hiring Founding Engineers</title>
-      <link>https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products</link>
-      <guid isPermaLink="true">https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products</guid>
-      <pubDate>Sun, 08 Feb 2026 22:38:14 +0000</pubDate>
+      <title>[HN] The shadowy world of abandoned oil tankers</title>
+      <link>https://www.bbc.com/news/articles/cddg885344do</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cddg885344do</guid>
+      <pubDate>Mon, 09 Feb 2026 23:17:42 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] In the AI gold rush, tech firms are embracing 72-hour weeks</title>
-      <link>https://www.bbc.com/news/articles/cvgn2k285ypo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cvgn2k285ypo</guid>
-      <pubDate>Mon, 09 Feb 2026 01:28:16 +0000</pubDate>
+      <title>[HN] LiftKit – UI where &quot;everything derives from the golden ratio&quot;</title>
+      <link>https://www.chainlift.io/liftkit</link>
+      <guid isPermaLink="true">https://www.chainlift.io/liftkit</guid>
+      <pubDate>Mon, 09 Feb 2026 22:01:34 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Waymo admits that its autopilot is often just guys from the Philippines</title>
-      <link>https://www.reddit.com/r/technology/comments/1qz9hry/waymo_admits_that_its_autopilot_is_often_just/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qz9hry/waymo_admits_that_its_autopilot_is_often_just/</guid>
-      <pubDate>2026-02-08T13:53:57+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz9hry/waymo_admits_that_its_autopilot_is_often_just/&quot;&gt; &lt;img alt=&quot;Waymo admits that its autopilot is often just guys from the Philippines&quot; src=&quot;https://external-preview.redd.it/dX5A586L-U4hAQL9z_b1Qx2lOHKKpTRxx5t_MLDHlyQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fa7a381adff3b260dac8fbe3aed87b339a9f3bab&quot; title=&quot;Waymo admits that its autopilot is often just guys from the Philippines&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/111233-waymo-admits-autopilot-often-guys-philippines.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz9hry/waymo_admits_that_its_autopilot_is_often_just/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Discord faces backlash over age checks after data breach exposed 70,000 IDs</title>
+      <link>https://www.reddit.com/r/technology/comments/1r0ee6g/discord_faces_backlash_over_age_checks_after_data/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r0ee6g/discord_faces_backlash_over_age_checks_after_data/</guid>
+      <pubDate>2026-02-09T19:47:35+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r0ee6g/discord_faces_backlash_over_age_checks_after_data/&quot;&gt; &lt;img alt=&quot;Discord faces backlash over age checks after data breach exposed 70,000 IDs&quot; src=&quot;https://external-preview.redd.it/jp6Z3vJ514Ly0myryqrP9bR464gHYpuDCSKQ7kXf-LA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=53a9b7a6f83d87edd1a6bfe07d2e1dd0732be47d&quot; title=&quot;Discord faces backlash over age checks after data breach exposed 70,000 IDs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Accurate_Cry_8937&quot;&gt; /u/Accurate_Cry_8937 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r0ee6g/discord_faces_backlash_over_age_checks_after_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Vibe Coding Is Killing Open Source Software, Researchers Argue</title>
-      <link>https://www.reddit.com/r/technology/comments/1qz7rcz/vibe_coding_is_killing_open_source_software/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qz7rcz/vibe_coding_is_killing_open_source_software/</guid>
-      <pubDate>2026-02-08T12:32:27+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz7rcz/vibe_coding_is_killing_open_source_software/&quot;&gt; &lt;img alt=&quot;Vibe Coding Is Killing Open Source Software, Researchers Argue&quot; src=&quot;https://external-preview.redd.it/Vh6S7G3vCcytj6FrM_BfhWKPy5YkSRiQECIC9FbOGQo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=064f80f0e05e872281585238dad5b6a24f4cc96a&quot; title=&quot;Vibe Coding Is Killing Open Source Software, Researchers Argue&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hopeful_Adeptness964&quot;&gt; /u/Hopeful_Adeptness964 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz7rcz/vibe_coding_is_killing_open_source_software/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Ring to turn on all camera to track pets. Privacy concerns</title>
+      <link>https://www.reddit.com/r/technology/comments/1r088je/ring_to_turn_on_all_camera_to_track_pets_privacy/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r088je/ring_to_turn_on_all_camera_to_track_pets_privacy/</guid>
+      <pubDate>2026-02-09T16:08:02+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/cosmoplast14&quot;&gt; /u/cosmoplast14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tyla.com/news/super-bowl-ring-doorbell-ad-privacy-concerns-099156-20260209&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r088je/ring_to_turn_on_all_camera_to_track_pets_privacy/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Homeland Security Spying on Reddit Users</title>
-      <link>https://www.reddit.com/r/technology/comments/1qz6em6/homeland_security_spying_on_reddit_users/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qz6em6/homeland_security_spying_on_reddit_users/</guid>
-      <pubDate>2026-02-08T11:16:33+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz6em6/homeland_security_spying_on_reddit_users/&quot;&gt; &lt;img alt=&quot;Homeland Security Spying on Reddit Users&quot; src=&quot;https://external-preview.redd.it/cbskIU9Ks0Ox27wwym6AdcdRAGNrR0QBDVHalkK-vLo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1c622105a7d0c9caf10852b4adabbf861b8686b7&quot; title=&quot;Homeland Security Spying on Reddit Users&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CantStopPoppin&quot;&gt; /u/CantStopPoppin &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit?r=1z6uci&amp;amp;triedRedirect=true&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz6em6/homeland_security_spying_on_reddit_users/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Hobbyist rescues $500 of RAM from local landfill — a &quot;major haul&quot; exposes our throwaway culture during one of the worst hardware shortages ever</title>
+      <link>https://www.reddit.com/r/technology/comments/1r07ixp/hobbyist_rescues_500_of_ram_from_local_landfill_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r07ixp/hobbyist_rescues_500_of_ram_from_local_landfill_a/</guid>
+      <pubDate>2026-02-09T15:42:13+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r07ixp/hobbyist_rescues_500_of_ram_from_local_landfill_a/&quot;&gt; &lt;img alt=&quot;Hobbyist rescues $500 of RAM from local landfill — a &amp;quot;major haul&amp;quot; exposes our throwaway culture during one of the worst hardware shortages ever&quot; src=&quot;https://external-preview.redd.it/cNQv0rP03fT1yyqLVU3lANA0-LzEkMtFlftXc432j-w.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9c891ebf398147a7d1899bdc5df75dbe0a368908&quot; title=&quot;Hobbyist rescues $500 of RAM from local landfill — a &amp;quot;major haul&amp;quot; exposes our throwaway culture during one of the worst hardware shortages ever&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PaiDuck&quot;&gt; /u/PaiDuck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.windowscentral.com/hardware/hobbyist-major-haul-dump-ram-hardware&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r07ixp/hobbyist_rescues_500_of_ram_from_local_landfill_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] TikTok creators flock to UpScrolled app after U.S. takeover. Here's why</title>
-      <link>https://www.reddit.com/r/technology/comments/1qz3lzx/tiktok_creators_flock_to_upscrolled_app_after_us/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qz3lzx/tiktok_creators_flock_to_upscrolled_app_after_us/</guid>
-      <pubDate>2026-02-08T08:27:13+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz3lzx/tiktok_creators_flock_to_upscrolled_app_after_us/&quot;&gt; &lt;img alt=&quot;TikTok creators flock to UpScrolled app after U.S. takeover. Here's why&quot; src=&quot;https://external-preview.redd.it/U8sC9THjhxTnBOMrTJ6BzRsYRLs1ZdZ7x0MlRsINpi4.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=25116d9b514963ab1305ccdfb425f0210144fdd3&quot; title=&quot;TikTok creators flock to UpScrolled app after U.S. takeover. Here's why&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/rezwenn&quot;&gt; /u/rezwenn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cbc.ca/news/world/upscrolled-app-tiktok-users-downloading-censorship-9.7073441&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz3lzx/tiktok_creators_flock_to_upscrolled_app_after_us/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Discord will require a face scan or ID for full access next month / ﻿Beginning in March, all accounts will have a “teen-appropriate experience by default.”</title>
+      <link>https://www.reddit.com/r/technology/comments/1r057xx/discord_will_require_a_face_scan_or_id_for_full/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r057xx/discord_will_require_a_face_scan_or_id_for_full/</guid>
+      <pubDate>2026-02-09T14:11:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r057xx/discord_will_require_a_face_scan_or_id_for_full/&quot;&gt; &lt;img alt=&quot;Discord will require a face scan or ID for full access next month / ﻿Beginning in March, all accounts will have a “teen-appropriate experience by default.”&quot; src=&quot;https://external-preview.redd.it/giqo8ERIO01cbU5z-QqLlMgP5Qij5E4OSCG4r5Q8YII.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ca0bdf6d15fcda2a384f4f70bb76b3a238d87ba5&quot; title=&quot;Discord will require a face scan or ID for full access next month / ﻿Beginning in March, all accounts will have a “teen-appropriate experience by default.”&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r057xx/discord_will_require_a_face_scan_or_id_for_full/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] The AI boom is so huge it’s causing shortages everywhere else</title>
-      <link>https://www.reddit.com/r/technology/comments/1qz2lfj/the_ai_boom_is_so_huge_its_causing_shortages/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1qz2lfj/the_ai_boom_is_so_huge_its_causing_shortages/</guid>
-      <pubDate>2026-02-08T07:25:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz2lfj/the_ai_boom_is_so_huge_its_causing_shortages/&quot;&gt; &lt;img alt=&quot;The AI boom is so huge it’s causing shortages everywhere else&quot; src=&quot;https://external-preview.redd.it/MwakaiHUSrRX69RDgXtPnFYclQWZ6VsWwL2WrOHCiT0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=47fd0167a1bd3ebef4d878190d0e175133355245&quot; title=&quot;The AI boom is so huge it’s causing shortages everywhere else&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/FootballAndFries&quot;&gt; /u/FootballAndFries &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1qz2lfj/the_ai_boom_is_so_huge_its_causing_shortages/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] AI Companies Sold Us Their Vision of the Future at the Super Bowl. Here’s Why We Should Reject It</title>
+      <link>https://www.reddit.com/r/technology/comments/1r055nb/ai_companies_sold_us_their_vision_of_the_future/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r055nb/ai_companies_sold_us_their_vision_of_the_future/</guid>
+      <pubDate>2026-02-09T14:09:16+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r055nb/ai_companies_sold_us_their_vision_of_the_future/&quot;&gt; &lt;img alt=&quot;AI Companies Sold Us Their Vision of the Future at the Super Bowl. Here’s Why We Should Reject It&quot; src=&quot;https://external-preview.redd.it/5DRcwY6cKoJxDYPbx9Nxzzfdp8LSeE5Mh8LRNnxKOfE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4006343033ed436ab4a65e6d8edae636589aab98&quot; title=&quot;AI Companies Sold Us Their Vision of the Future at the Super Bowl. Here’s Why We Should Reject It&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/autogenerated_015&quot;&gt; /u/autogenerated_015 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.hollywoodreporter.com/business/digital/super-bowl-commercials-ai-best-worst-video-1236500292/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r055nb/ai_companies_sold_us_their_vision_of_the_future/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
