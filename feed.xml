@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Fri, 13 Feb 2026 02:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 02:24:08 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Resizing windows on macOS Tahoe – the saga continues</title>
-      <link>https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/</link>
-      <guid isPermaLink="true">https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/</guid>
-      <pubDate>Thu, 12 Feb 2026 23:52:24 +0000</pubDate>
+      <title>[HN] An AI Agent Published a Hit Piece on Me – More Things Have Happened</title>
+      <link>https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/</link>
+      <guid isPermaLink="true">https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/</guid>
+      <pubDate>Sat, 14 Feb 2026 00:37:53 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Ring cancels its partnership with Flock Safety after surveillance backlash</title>
-      <link>https://www.theverge.com/news/878447/ring-flock-partnership-canceled</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/878447/ring-flock-partnership-canceled</guid>
-      <pubDate>Thu, 12 Feb 2026 23:51:16 +0000</pubDate>
+      <title>[HN] OpenAI has deleted the word 'safely' from its mission</title>
+      <link>https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467</link>
+      <guid isPermaLink="true">https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467</guid>
+      <pubDate>Fri, 13 Feb 2026 22:17:06 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] What 1.4M emails reveal about America's most notorious sex offender</title>
-      <link>https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network</link>
-      <guid isPermaLink="true">https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network</guid>
-      <pubDate>Fri, 13 Feb 2026 01:09:37 +0000</pubDate>
+      <title>[HN] Show HN: Data Engineering Book – An open source, community-driven guide</title>
+      <link>https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md</link>
+      <guid isPermaLink="true">https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md</guid>
+      <pubDate>Fri, 13 Feb 2026 21:35:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Skip the Tips: A game to select &quot;No Tip&quot; but dark patterns try to stop you</title>
-      <link>https://skipthe.tips/</link>
-      <guid isPermaLink="true">https://skipthe.tips/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:54:51 +0000</pubDate>
+      <title>[HN] The EU moves to kill infinite scrolling</title>
+      <link>https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/</link>
+      <guid isPermaLink="true">https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/</guid>
+      <pubDate>Fri, 13 Feb 2026 20:52:11 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] AWS Adds support for nested virtualization</title>
-      <link>https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e</link>
-      <guid isPermaLink="true">https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e</guid>
-      <pubDate>Fri, 13 Feb 2026 00:07:57 +0000</pubDate>
+      <title>[HN] The &quot;AI agent hit piece&quot; situation clarifies how dumb we are acting</title>
+      <link>https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/</link>
+      <guid isPermaLink="true">https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/</guid>
+      <pubDate>Fri, 13 Feb 2026 19:41:42 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Ring cancels its partnership with Flock Safety after surveillance backlash</title>
-      <link>https://www.reddit.com/r/technology/comments/1r38hw6/ring_cancels_its_partnership_with_flock_safety/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r38hw6/ring_cancels_its_partnership_with_flock_safety/</guid>
-      <pubDate>2026-02-12T23:05:02+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r38hw6/ring_cancels_its_partnership_with_flock_safety/&quot;&gt; &lt;img alt=&quot;Ring cancels its partnership with Flock Safety after surveillance backlash&quot; src=&quot;https://external-preview.redd.it/OZFD0iNOHY8PGYtZgLlCy1b41ksJYhZISywdGueixds.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=db60a1fce754cf5849acfcc2dc39712fbc8dc0eb&quot; title=&quot;Ring cancels its partnership with Flock Safety after surveillance backlash&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/news/878447/ring-flock-partnership-canceled&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r38hw6/ring_cancels_its_partnership_with_flock_safety/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Ford CEO Jim Farley says &quot;the customer has spoken&quot; after its EV business lost nearly $5 billion in 2025</title>
+      <link>https://www.reddit.com/r/technology/comments/1r41v2q/ford_ceo_jim_farley_says_the_customer_has_spoken/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r41v2q/ford_ceo_jim_farley_says_the_customer_has_spoken/</guid>
+      <pubDate>2026-02-13T21:33:56+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r41v2q/ford_ceo_jim_farley_says_the_customer_has_spoken/&quot;&gt; &lt;img alt=&quot;Ford CEO Jim Farley says &amp;quot;the customer has spoken&amp;quot; after its EV business lost nearly $5 billion in 2025&quot; src=&quot;https://external-preview.redd.it/v87UtPj1J--p9wLXz6tQU3jm6-sWVGDttLSBKd-uxjI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e55632ac26c00404bc920d936952d8a1e7f7f31f&quot; title=&quot;Ford CEO Jim Farley says &amp;quot;the customer has spoken&amp;quot; after its EV business lost nearly $5 billion in 2025&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/ford-ceo-customer-spoken-ev-business-lost-billions-2026-2&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r41v2q/ford_ceo_jim_farley_says_the_customer_has_spoken/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Spotify says its best developers haven't written a line of code since December, thanks to AI</title>
-      <link>https://www.reddit.com/r/technology/comments/1r353io/spotify_says_its_best_developers_havent_written_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r353io/spotify_says_its_best_developers_havent_written_a/</guid>
-      <pubDate>2026-02-12T20:52:06+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r353io/spotify_says_its_best_developers_havent_written_a/&quot;&gt; &lt;img alt=&quot;Spotify says its best developers haven't written a line of code since December, thanks to AI&quot; src=&quot;https://external-preview.redd.it/BqWf7xdohMCV4JZAYzSQMx9gKY3OwLLTF8uw4sQovuE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6de34c25eea1b60056e4a83106365ffdbc0498ec&quot; title=&quot;Spotify says its best developers haven't written a line of code since December, thanks to AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/joe4942&quot;&gt; /u/joe4942 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r353io/spotify_says_its_best_developers_havent_written_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] FTC wants Apple News to promote more Fox News and Breitbart stories</title>
+      <link>https://www.reddit.com/r/technology/comments/1r40e0c/ftc_wants_apple_news_to_promote_more_fox_news_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r40e0c/ftc_wants_apple_news_to_promote_more_fox_news_and/</guid>
+      <pubDate>2026-02-13T20:36:01+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r40e0c/ftc_wants_apple_news_to_promote_more_fox_news_and/&quot;&gt; &lt;img alt=&quot;FTC wants Apple News to promote more Fox News and Breitbart stories&quot; src=&quot;https://external-preview.redd.it/cIdkPE2v1yr5Kn8X-XA4xvmXddM9o9QDwolkpm_qzo4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cb3fe1e8dac3e63ff76a0abaf96b2774360d6c1c&quot; title=&quot;FTC wants Apple News to promote more Fox News and Breitbart stories&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/StraightedgexLiberal&quot;&gt; /u/StraightedgexLiberal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/02/trump-ftc-denies-being-speech-police-but-says-apple-news-is-too-liberal/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r40e0c/ftc_wants_apple_news_to_promote_more_fox_news_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr.</title>
-      <link>https://www.reddit.com/r/technology/comments/1r311i5/rfk_jr_food_pyramid_site_links_to_grok_which_says/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r311i5/rfk_jr_food_pyramid_site_links_to_grok_which_says/</guid>
-      <pubDate>2026-02-12T18:20:35+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r311i5/rfk_jr_food_pyramid_site_links_to_grok_which_says/&quot;&gt; &lt;img alt=&quot;RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr.&quot; src=&quot;https://external-preview.redd.it/53siFKn7knIIgbAmIl2ez1auAoRSp15e_Z-hRF4yLmc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0f43062bc25454eb320e3a08f4db7ea836c88c31&quot; title=&quot;RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Choobeen&quot;&gt; /u/Choobeen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/health/2026/02/rfk-jr-food-pyramid-site-links-to-grok-which-says-you-shouldnt-trust-rfk-jr&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r311i5/rfk_jr_food_pyramid_site_links_to_grok_which_says/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] UN approves 40-member scientific panel on the impact of artificial intelligence over US objections</title>
+      <link>https://www.reddit.com/r/technology/comments/1r3sxl4/un_approves_40member_scientific_panel_on_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r3sxl4/un_approves_40member_scientific_panel_on_the/</guid>
+      <pubDate>2026-02-13T15:58:27+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r3sxl4/un_approves_40member_scientific_panel_on_the/&quot;&gt; &lt;img alt=&quot;UN approves 40-member scientific panel on the impact of artificial intelligence over US objections&quot; src=&quot;https://external-preview.redd.it/RID61cOhQlZP4ERcEzpiCnWYTmDT6iVLiLAfHonzUGQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9824f7c8387f170086ee08275818d2c252a60c6f&quot; title=&quot;UN approves 40-member scientific panel on the impact of artificial intelligence over US objections&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plow_King&quot;&gt; /u/Plow_King &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://apnews.com/article/un-us-artificial-intelligence-scientific-panel-8936f242689792be7a7ab97e841cade8&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r3sxl4/un_approves_40member_scientific_panel_on_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders</title>
-      <link>https://www.reddit.com/r/technology/comments/1r2w060/x_appears_to_be_violating_us_sanctions_by_selling/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r2w060/x_appears_to_be_violating_us_sanctions_by_selling/</guid>
-      <pubDate>2026-02-12T15:13:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r2w060/x_appears_to_be_violating_us_sanctions_by_selling/&quot;&gt; &lt;img alt=&quot;X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders&quot; src=&quot;https://external-preview.redd.it/a1eZG_2A76ScAvH5-ZkKWWAdqgbjLFMkj-JhOo0_MA8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=31b2c82154f484b636a8145103c84c62a2b14908&quot; title=&quot;X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/rezwenn&quot;&gt; /u/rezwenn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wired.com/story/elon-musk-x-premium-accounts-iran/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r2w060/x_appears_to_be_violating_us_sanctions_by_selling/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The EU moves to kill infinite scrolling</title>
+      <link>https://www.reddit.com/r/technology/comments/1r3sa4p/the_eu_moves_to_kill_infinite_scrolling/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r3sa4p/the_eu_moves_to_kill_infinite_scrolling/</guid>
+      <pubDate>2026-02-13T15:33:43+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r3sa4p/the_eu_moves_to_kill_infinite_scrolling/&quot;&gt; &lt;img alt=&quot;The EU moves to kill infinite scrolling&quot; src=&quot;https://external-preview.redd.it/mtguHCCP2bU2PAv-cZ5xXxwEurJvudTd5Oyuk7-uhX0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a5c17c88fc5c1765e08390bad55ce50c6c2d224e&quot; title=&quot;The EU moves to kill infinite scrolling&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/defenestrate_urself&quot;&gt; /u/defenestrate_urself &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r3sa4p/the_eu_moves_to_kill_infinite_scrolling/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Why are people disconnecting or destroying their Ring cameras?</title>
-      <link>https://www.reddit.com/r/technology/comments/1r2mbjs/why_are_people_disconnecting_or_destroying_their/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r2mbjs/why_are_people_disconnecting_or_destroying_their/</guid>
-      <pubDate>2026-02-12T06:38:47+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r2mbjs/why_are_people_disconnecting_or_destroying_their/&quot;&gt; &lt;img alt=&quot;Why are people disconnecting or destroying their Ring cameras?&quot; src=&quot;https://external-preview.redd.it/Fsg5u8rbYoNrVKMpnP-_-IWxNxa2fibryf7s7NQnYaQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0b529323b78fb6faf84f128971a6864baee1994e&quot; title=&quot;Why are people disconnecting or destroying their Ring cameras?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/South-Cow-1030&quot;&gt; /u/South-Cow-1030 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.usatoday.com/story/news/nation/2026/02/10/ring-super-bowl-ad-dog-camera-privacy/88606738007/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r2mbjs/why_are_people_disconnecting_or_destroying_their/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Joseph Gordon-Levitt Goes To Washington DC, Gets Section 230 Completely Backwards</title>
+      <link>https://www.reddit.com/r/technology/comments/1r3fo5p/joseph_gordonlevitt_goes_to_washington_dc_gets/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r3fo5p/joseph_gordonlevitt_goes_to_washington_dc_gets/</guid>
+      <pubDate>2026-02-13T04:31:39+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r3fo5p/joseph_gordonlevitt_goes_to_washington_dc_gets/&quot;&gt; &lt;img alt=&quot;Joseph Gordon-Levitt Goes To Washington DC, Gets Section 230 Completely Backwards&quot; src=&quot;https://external-preview.redd.it/QdCWJLZtSx1Ly9Z2yTbDMgT5dhGTgi8syC6l1SyLf7U.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a1a6cfbe9524d8a1a6256dc8bc5c1b9956207d61&quot; title=&quot;Joseph Gordon-Levitt Goes To Washington DC, Gets Section 230 Completely Backwards&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/StraightedgexLiberal&quot;&gt; /u/StraightedgexLiberal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techdirt.com/2026/02/12/joseph-gordon-levitt-goes-to-washington-dc-gets-section-230-completely-backwards/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r3fo5p/joseph_gordonlevitt_goes_to_washington_dc_gets/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
