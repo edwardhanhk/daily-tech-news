@@ -4,72 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 17 Feb 2026 02:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 02:31:57 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Dark web agent spotted bedroom wall clue to rescue girl from abuse</title>
-      <link>https://www.bbc.com/news/articles/cx2gn239exlo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx2gn239exlo</guid>
-      <pubDate>Tue, 17 Feb 2026 01:01:00 +0000</pubDate>
+      <title>[HN] It's not just you, YouTube is partially down in outage</title>
+      <link>https://9to5google.com/2026/02/17/youtube-outage-february-2026/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/02/17/youtube-outage-february-2026/</guid>
+      <pubDate>Wed, 18 Feb 2026 02:00:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] AI is destroying Open Source, and it's not even good yet</title>
-      <link>https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/</guid>
-      <pubDate>Tue, 17 Feb 2026 00:26:20 +0000</pubDate>
+      <title>[HN] Thousands of CEOs just admitted AI had no impact on employment or productivity</title>
+      <link>https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/</link>
+      <guid isPermaLink="true">https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/</guid>
+      <pubDate>Wed, 18 Feb 2026 01:40:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Andrej Karpathy's microgpt.py to C99 microgpt.c – 4,600x faster</title>
-      <link>https://github.com/enjector/microgpt-c</link>
-      <guid isPermaLink="true">https://github.com/enjector/microgpt-c</guid>
-      <pubDate>Tue, 17 Feb 2026 00:06:20 +0000</pubDate>
+      <title>[HN] Advice, not control: the role of Remote Assistance in Waymo's operations</title>
+      <link>https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance</link>
+      <guid isPermaLink="true">https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance</guid>
+      <pubDate>Wed, 18 Feb 2026 01:19:15 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Building for an audience of one: starting and finishing side projects with AI</title>
-      <link>https://codemade.net/blog/building-for-one/</link>
-      <guid isPermaLink="true">https://codemade.net/blog/building-for-one/</guid>
-      <pubDate>Tue, 17 Feb 2026 00:00:03 +0000</pubDate>
+      <title>[HN] Google Public CA is down</title>
+      <link>https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3</link>
+      <guid isPermaLink="true">https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3</guid>
+      <pubDate>Wed, 18 Feb 2026 01:05:33 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Scanned 1927-1945 Daily USFS Work Diary</title>
-      <link>https://forestrydiary.com/</link>
-      <guid isPermaLink="true">https://forestrydiary.com/</guid>
-      <pubDate>Mon, 16 Feb 2026 23:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/technology] Meta patents AI that takes over a dead person’s account to keep posting and chatting</title>
-      <link>https://www.reddit.com/r/technology/comments/1r6n7es/meta_patents_ai_that_takes_over_a_dead_persons/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r6n7es/meta_patents_ai_that_takes_over_a_dead_persons/</guid>
-      <pubDate>2026-02-16T21:54:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r6n7es/meta_patents_ai_that_takes_over_a_dead_persons/&quot;&gt; &lt;img alt=&quot;Meta patents AI that takes over a dead person’s account to keep posting and chatting&quot; src=&quot;https://external-preview.redd.it/CFsfg1YnRkZck7rfW9R-S6ME6DDAKOA5XM4_366KBq0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6e1636c803aab10818252242f03878a4c43e9834&quot; title=&quot;Meta patents AI that takes over a dead person’s account to keep posting and chatting&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IndicaOatmeal&quot;&gt; /u/IndicaOatmeal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/meta-patents-ai-that-takes-over-a-dead-persons-account-to-keep-posting-and-chatting-3320326/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r6n7es/meta_patents_ai_that_takes_over_a_dead_persons/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Trillion-dollar AI market wipeout happened because investors banked that ‘almost every tech company would come out a winner’</title>
-      <link>https://www.reddit.com/r/technology/comments/1r6lc2h/trilliondollar_ai_market_wipeout_happened_because/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r6lc2h/trilliondollar_ai_market_wipeout_happened_because/</guid>
-      <pubDate>2026-02-16T20:43:33+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r6lc2h/trilliondollar_ai_market_wipeout_happened_because/&quot;&gt; &lt;img alt=&quot;Trillion-dollar AI market wipeout happened because investors banked that ‘almost every tech company would come out a winner’&quot; src=&quot;https://external-preview.redd.it/3ZucjHpULvNRQFBEZJ1Wb8Ml3Lwq8a1fDhJo4UNY1HU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c8f5ca9f3e50f46e8bc2a82b2e04ddf8094310b7&quot; title=&quot;Trillion-dollar AI market wipeout happened because investors banked that ‘almost every tech company would come out a winner’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Adventurous-Host8062&quot;&gt; /u/Adventurous-Host8062 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/news/trillion-dollar-ai-market-wipeout-115521847.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r6lc2h/trilliondollar_ai_market_wipeout_happened_because/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Parents opt kids out of school computers, insisting on pen-and-paper instead</title>
-      <link>https://www.reddit.com/r/technology/comments/1r6angt/parents_opt_kids_out_of_school_computers/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r6angt/parents_opt_kids_out_of_school_computers/</guid>
-      <pubDate>2026-02-16T14:12:06+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r6angt/parents_opt_kids_out_of_school_computers/&quot;&gt; &lt;img alt=&quot;Parents opt kids out of school computers, insisting on pen-and-paper instead&quot; src=&quot;https://external-preview.redd.it/hEgmzfDw-ryG4mk7yUuMPbrVzT_mZ209SCTZbxwevCQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=de26701b8434bcdb5baeb829a0a03368cb1b7837&quot; title=&quot;Parents opt kids out of school computers, insisting on pen-and-paper instead&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/deraser&quot;&gt; /u/deraser &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nbcnews.com/tech/tech-news/parents-opt-kids-school-laptops-ask-pen-paper-rcna257158&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r6angt/parents_opt_kids_out_of_school_computers/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Hard drives are already sold out for the entire year, says Western Digital</title>
-      <link>https://www.reddit.com/r/technology/comments/1r657he/ai_hard_drives_are_already_sold_out_for_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r657he/ai_hard_drives_are_already_sold_out_for_the/</guid>
-      <pubDate>2026-02-16T09:30:59+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r657he/ai_hard_drives_are_already_sold_out_for_the/&quot;&gt; &lt;img alt=&quot;AI: Hard drives are already sold out for the entire year, says Western Digital&quot; src=&quot;https://external-preview.redd.it/XLoYSBOg9rXs2MeXeRhD7PMewb1DJ4xckdOkAvW5hBI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7faf8744ffb458233218e9f29d0aca2c1ac7a146&quot; title=&quot;AI: Hard drives are already sold out for the entire year, says Western Digital&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r657he/ai_hard_drives_are_already_sold_out_for_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Japan Has Created the World's First Engine That Generates Electricity on 30% Hydrogen</title>
-      <link>https://www.reddit.com/r/technology/comments/1r5ze30/japan_has_created_the_worlds_first_engine_that/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r5ze30/japan_has_created_the_worlds_first_engine_that/</guid>
-      <pubDate>2026-02-16T04:02:54+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r5ze30/japan_has_created_the_worlds_first_engine_that/&quot;&gt; &lt;img alt=&quot;Japan Has Created the World's First Engine That Generates Electricity on 30% Hydrogen&quot; src=&quot;https://external-preview.redd.it/sVyDqzMurCU2VYIoIvyc51o5NxldA0vVhj-Bn8_Tr_c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0add520508f4b2d39800d85812a4cadc1d4b8835&quot; title=&quot;Japan Has Created the World's First Engine That Generates Electricity on 30% Hydrogen&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://dailygalaxy.com/2026/02/japan-create-first-30-percent-hydrogen-power-engine/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r5ze30/japan_has_created_the_worlds_first_engine_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] Minimal x86 Kernel Zig</title>
+      <link>https://github.com/lopespm/zig-minimal-kernel-x86</link>
+      <guid isPermaLink="true">https://github.com/lopespm/zig-minimal-kernel-x86</guid>
+      <pubDate>Wed, 18 Feb 2026 00:02:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
