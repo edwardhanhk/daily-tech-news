@@ -4,37 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 18 Feb 2026 02:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 02:30:42 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] It's not just you, YouTube is partially down in outage</title>
-      <link>https://9to5google.com/2026/02/17/youtube-outage-february-2026/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/02/17/youtube-outage-february-2026/</guid>
-      <pubDate>Wed, 18 Feb 2026 02:00:52 +0000</pubDate>
+      <title>[HN] Microsoft offers guide to pirating Harry Potter series for LLM training</title>
+      <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/</guid>
+      <pubDate>Wed, 18 Feb 2026 23:19:29 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Thousands of CEOs just admitted AI had no impact on employment or productivity</title>
-      <link>https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/</link>
-      <guid isPermaLink="true">https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/</guid>
-      <pubDate>Wed, 18 Feb 2026 01:40:52 +0000</pubDate>
+      <title>[HN] Ladybird: Closing this as we are no longer pursuing Swift adoption</title>
+      <link>https://github.com/LadybirdBrowser/ladybird/issues/933</link>
+      <guid isPermaLink="true">https://github.com/LadybirdBrowser/ladybird/issues/933</guid>
+      <pubDate>Wed, 18 Feb 2026 23:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Advice, not control: the role of Remote Assistance in Waymo's operations</title>
-      <link>https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance</link>
-      <guid isPermaLink="true">https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance</guid>
-      <pubDate>Wed, 18 Feb 2026 01:19:15 +0000</pubDate>
+      <title>[HN] All Look Same?</title>
+      <link>https://alllooksame.com/</link>
+      <guid isPermaLink="true">https://alllooksame.com/</guid>
+      <pubDate>Wed, 18 Feb 2026 22:48:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Google Public CA is down</title>
-      <link>https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3</link>
-      <guid isPermaLink="true">https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3</guid>
-      <pubDate>Wed, 18 Feb 2026 01:05:33 +0000</pubDate>
+      <title>[HN] Sizing chaos</title>
+      <link>https://pudding.cool/2026/02/womens-sizing/</link>
+      <guid isPermaLink="true">https://pudding.cool/2026/02/womens-sizing/</guid>
+      <pubDate>Wed, 18 Feb 2026 21:18:20 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Minimal x86 Kernel Zig</title>
-      <link>https://github.com/lopespm/zig-minimal-kernel-x86</link>
-      <guid isPermaLink="true">https://github.com/lopespm/zig-minimal-kernel-x86</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:06 +0000</pubDate>
+      <title>[HN] Minecraft Java is switching from OpenGL to Vulkan</title>
+      <link>https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/</link>
+      <guid isPermaLink="true">https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/</guid>
+      <pubDate>Thu, 19 Feb 2026 01:55:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/technology] Discord is trying to defend its ridiculous age verification rollout, but it's too little too late, as users flock to Nitro cancellations</title>
+      <link>https://www.reddit.com/r/technology/comments/1r8ibmp/discord_is_trying_to_defend_its_ridiculous_age/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r8ibmp/discord_is_trying_to_defend_its_ridiculous_age/</guid>
+      <pubDate>2026-02-18T23:00:51+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r8ibmp/discord_is_trying_to_defend_its_ridiculous_age/&quot;&gt; &lt;img alt=&quot;Discord is trying to defend its ridiculous age verification rollout, but it's too little too late, as users flock to Nitro cancellations&quot; src=&quot;https://external-preview.redd.it/gxJvAGX60EQoefwrB895WQJ5sTET0k2Ypyl4iQ3_jsY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=72bd210b5790c4f0940ed6ac39475f967bc1f309&quot; title=&quot;Discord is trying to defend its ridiculous age verification rollout, but it's too little too late, as users flock to Nitro cancellations&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Haunterblademoi&quot;&gt; /u/Haunterblademoi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techradar.com/computing/social-media/discord-tries-to-share-clarity-on-disastrous-age-verification-plans-amid-mass-cancellations-but-safe-to-say-its-not-helping-its-getting-thoroughly-community-noted&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r8ibmp/discord_is_trying_to_defend_its_ridiculous_age/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Leaked Email Shows Dystopian Plan for Ring ‘Search Party’ Feature</title>
+      <link>https://www.reddit.com/r/technology/comments/1r89hsz/leaked_email_shows_dystopian_plan_for_ring_search/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r89hsz/leaked_email_shows_dystopian_plan_for_ring_search/</guid>
+      <pubDate>2026-02-18T17:33:33+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r89hsz/leaked_email_shows_dystopian_plan_for_ring_search/&quot;&gt; &lt;img alt=&quot;Leaked Email Shows Dystopian Plan for Ring ‘Search Party’ Feature&quot; src=&quot;https://external-preview.redd.it/nDomJ9zjr8KRvjfAQJK1YdxOgyYq6BpPdAb1KGYEzDA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ae0386da983d0a241d51dc8fb6239052d9de0426&quot; title=&quot;Leaked Email Shows Dystopian Plan for Ring ‘Search Party’ Feature&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Large_banana_hammock&quot;&gt; /u/Large_banana_hammock &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedailybeast.com/leaked-email-shows-dystopian-plan-for-ring-search-party-feature/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r89hsz/leaked_email_shows_dystopian_plan_for_ring_search/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] I’ve learned Trump will kill Netflix’s bid for Warner and help Paramount win, giving him control of Fox, CBS, CNN, and TikTok. But as Colbert showed, we can fight back.</title>
+      <link>https://www.reddit.com/r/technology/comments/1r88jyb/after_censoring_cbs_trump_will_go_for_cnn_ive/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r88jyb/after_censoring_cbs_trump_will_go_for_cnn_ive/</guid>
+      <pubDate>2026-02-18T17:00:31+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r88jyb/after_censoring_cbs_trump_will_go_for_cnn_ive/&quot;&gt; &lt;img alt=&quot;After Censoring CBS, Trump Will Go For CNN: I’ve learned Trump will kill Netflix’s bid for Warner and help Paramount win, giving him control of Fox, CBS, CNN, and TikTok. But as Colbert showed, we can fight back.&quot; src=&quot;https://external-preview.redd.it/5D3-WhEnrWNF4Uof58F4R4AHHF_yXjlDidFcCDJ0Bas.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=926fbc6417f38657e3e0d6a472c2df9825960f42&quot; title=&quot;After Censoring CBS, Trump Will Go For CNN: I’ve learned Trump will kill Netflix’s bid for Warner and help Paramount win, giving him control of Fox, CBS, CNN, and TikTok. But as Colbert showed, we can fight back.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/abrownn&quot;&gt; /u/abrownn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://washingtonmonthly.com/2026/02/17/trump-media-control-paramount-warner-merger/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r88jyb/after_censoring_cbs_trump_will_go_for_cnn_ive/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Meta CEO Mark Zuckerberg to face jury in landmark social media addiction trial</title>
+      <link>https://www.reddit.com/r/technology/comments/1r80ynt/meta_ceo_mark_zuckerberg_to_face_jury_in_landmark/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r80ynt/meta_ceo_mark_zuckerberg_to_face_jury_in_landmark/</guid>
+      <pubDate>2026-02-18T11:52:40+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r80ynt/meta_ceo_mark_zuckerberg_to_face_jury_in_landmark/&quot;&gt; &lt;img alt=&quot;Meta CEO Mark Zuckerberg to face jury in landmark social media addiction trial&quot; src=&quot;https://external-preview.redd.it/t_iPLttMs8-k_LA1GMa2mgqEhQLH_T58rkUmgmrzvkE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e1bcdc04126b3bdd0cfe0f55aaf41afa75471131&quot; title=&quot;Meta CEO Mark Zuckerberg to face jury in landmark social media addiction trial&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/zsreport&quot;&gt; /u/zsreport &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.npr.org/2026/02/18/nx-s1-5716229/zuckerberg-social-media-addiction-trial&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r80ynt/meta_ceo_mark_zuckerberg_to_face_jury_in_landmark/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Roblox, Reddit and Discord users compelled to use biometric ID system backed by Palantir co-founder Peter Thiel</title>
+      <link>https://www.reddit.com/r/technology/comments/1r7vbs7/roblox_reddit_and_discord_users_compelled_to_use/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1r7vbs7/roblox_reddit_and_discord_users_compelled_to_use/</guid>
+      <pubDate>2026-02-18T06:16:15+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r7vbs7/roblox_reddit_and_discord_users_compelled_to_use/&quot;&gt; &lt;img alt=&quot;Roblox, Reddit and Discord users compelled to use biometric ID system backed by Palantir co-founder Peter Thiel&quot; src=&quot;https://external-preview.redd.it/_8eaqOMY5nZWupGIJ4EuTF_ZmLQwx7bGkrLV2xVtfYQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2bd0673b611ff49b717fb968769551d62924366f&quot; title=&quot;Roblox, Reddit and Discord users compelled to use biometric ID system backed by Palantir co-founder Peter Thiel&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ph-sub&quot;&gt; /u/ph-sub &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.openrightsgroup.org/press-releases/roblox-reddit-and-discord-users-compelled-to-use-biometric-id-system-backed-by-palantir-co-founder-peter-thiel/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1r7vbs7/roblox_reddit_and_discord_users_compelled_to_use/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
