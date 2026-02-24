@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 23 Feb 2026 02:32:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 02:28:35 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them</title>
-      <link>https://quesma.com/blog/introducing-binaryaudit/</link>
-      <guid isPermaLink="true">https://quesma.com/blog/introducing-binaryaudit/</guid>
-      <pubDate>Sun, 22 Feb 2026 14:50:44 +0000</pubDate>
+      <title>[HN] NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)</title>
+      <link>https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents</link>
+      <guid isPermaLink="true">https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents</guid>
+      <pubDate>Tue, 24 Feb 2026 01:31:09 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Man accidentally gains control of 7k robot vacuums</title>
-      <link>https://www.popsci.com/technology/robot-vacuum-army/</link>
-      <guid isPermaLink="true">https://www.popsci.com/technology/robot-vacuum-army/</guid>
-      <pubDate>Sun, 22 Feb 2026 14:44:42 +0000</pubDate>
+      <title>[HN] Shatner is making an album with 35 metal icons</title>
+      <link>https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album</link>
+      <guid isPermaLink="true">https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album</guid>
+      <pubDate>Tue, 24 Feb 2026 00:33:06 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Iran students stage first large anti-government protests since deadly crackdown</title>
-      <link>https://www.bbc.com/news/articles/c5yj2kzkrj0o</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c5yj2kzkrj0o</guid>
-      <pubDate>Sun, 22 Feb 2026 13:59:40 +0000</pubDate>
+      <title>[HN] I Ported Coreboot to the ThinkPad X270</title>
+      <link>https://dork.dev/posts/2026-02-20-ported-coreboot/</link>
+      <guid isPermaLink="true">https://dork.dev/posts/2026-02-20-ported-coreboot/</guid>
+      <pubDate>Mon, 23 Feb 2026 23:58:45 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] I put New Zealand behind a $1 paywall</title>
-      <link>https://rename.world/</link>
-      <guid isPermaLink="true">https://rename.world/</guid>
-      <pubDate>Sun, 22 Feb 2026 13:57:18 +0000</pubDate>
+      <title>[HN] Why Your Load Balancer Still Sends Traffic to Dead Backends</title>
+      <link>https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html</link>
+      <guid isPermaLink="true">https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html</guid>
+      <pubDate>Mon, 23 Feb 2026 23:16:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Volatility: The volatile memory forensic extraction framework</title>
-      <link>https://github.com/volatilityfoundation/volatility3</link>
-      <guid isPermaLink="true">https://github.com/volatilityfoundation/volatility3</guid>
-      <pubDate>Sun, 22 Feb 2026 13:20:07 +0000</pubDate>
+      <title>[HN] AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says</title>
+      <link>https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380</link>
+      <guid isPermaLink="true">https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380</guid>
+      <pubDate>Mon, 23 Feb 2026 22:55:08 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Proposed data center in New Brunswick, New Jersey, denied by local authorities</title>
-      <link>https://www.reddit.com/r/technology/comments/1rbsw55/proposed_data_center_in_new_brunswick_new_jersey/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rbsw55/proposed_data_center_in_new_brunswick_new_jersey/</guid>
-      <pubDate>2026-02-22T18:09:19+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Wagamaga&quot;&gt; /u/Wagamaga &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.datacenterdynamics.com/en/news/proposed-data-center-in-new-brunswick-new-jersey-denied-by-local-authorities/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbsw55/proposed_data_center_in_new_brunswick_new_jersey/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] China invents process that turns desert sand into fertile soil in just 10 months</title>
+      <link>https://www.reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/</guid>
+      <pubDate>2026-02-23T20:58:14+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/&quot;&gt; &lt;img alt=&quot;China invents process that turns desert sand into fertile soil in just 10 months&quot; src=&quot;https://external-preview.redd.it/LtOUdjc8shUzF-vv38iY5JTIUf7IcWKWxtRrqaouTIQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=55d68df1ba83e21e0605964f2c7547ee5129f07f&quot; title=&quot;China invents process that turns desert sand into fertile soil in just 10 months&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.earth.com/news/process-microbes-turn-desert-sand-into-fertile-soil-in-just-10-months/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] AI blamed again as hard drives are sold out for this year</title>
-      <link>https://www.reddit.com/r/technology/comments/1rbrge1/ai_blamed_again_as_hard_drives_are_sold_out_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rbrge1/ai_blamed_again_as_hard_drives_are_sold_out_for/</guid>
-      <pubDate>2026-02-22T17:15:44+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbrge1/ai_blamed_again_as_hard_drives_are_sold_out_for/&quot;&gt; &lt;img alt=&quot;AI blamed again as hard drives are sold out for this year&quot; src=&quot;https://external-preview.redd.it/U5kAw2Ouy6WMByMadBihOAnOOgadjKxJC6awnculFGo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b043357f9efdd141e962e9d0352cdb7a579d4e82&quot; title=&quot;AI blamed again as hard drives are sold out for this year&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theregister.com/2026/02/20/ai_blamed_again_as_hard_drives_sell_out/?td=rt-3a&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbrge1/ai_blamed_again_as_hard_drives_are_sold_out_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says</title>
+      <link>https://www.reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/</guid>
+      <pubDate>2026-02-23T20:33:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/&quot;&gt; &lt;img alt=&quot;AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says&quot; src=&quot;https://external-preview.redd.it/GVOU5xRHEbAuPwI1AYFjMo8J8BkpA_CWNkbKlzXgR7M.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=25ead40db11e07884f7376d4e18d4e3a753e5557&quot; title=&quot;AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mepper&quot;&gt; /u/mepper &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] The result is the first generation less cognitively capable than their parents</title>
-      <link>https://www.reddit.com/r/technology/comments/1rbgkot/the_us_spent_30_billion_to_ditch_textbooks_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rbgkot/the_us_spent_30_billion_to_ditch_textbooks_for/</guid>
-      <pubDate>2026-02-22T08:29:59+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbgkot/the_us_spent_30_billion_to_ditch_textbooks_for/&quot;&gt; &lt;img alt=&quot;The U.S. spent $30 billion to ditch textbooks for laptops and tablets: The result is the first generation less cognitively capable than their parents&quot; src=&quot;https://external-preview.redd.it/dbswKmUMHVc8XHTFmrOop3idhul7BsNIo55yx1T1tkc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1ce9e049dcbed5a408304315dc1373e4f542f072&quot; title=&quot;The U.S. spent $30 billion to ditch textbooks for laptops and tablets: The result is the first generation less cognitively capable than their parents&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/02/21/laptops-tablets-schools-gen-z-less-cognitively-capable-parents-first-time-cellphone-bans-standardized-test-scores/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbgkot/the_us_spent_30_billion_to_ditch_textbooks_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Data centers are now hoarding SSDs as hard drive supplies dry up</title>
+      <link>https://www.reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/</guid>
+      <pubDate>2026-02-23T18:07:29+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/&quot;&gt; &lt;img alt=&quot;Data centers are now hoarding SSDs as hard drive supplies dry up&quot; src=&quot;https://external-preview.redd.it/efTs3vuzQL2pfRv56M5ejP1xvGM4Nj-1C_G0UftYPLE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ffe6cbf7ffff8ca89faf951cad2a32a863fdf265&quot; title=&quot;Data centers are now hoarding SSDs as hard drive supplies dry up&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SecureChannel249&quot;&gt; /u/SecureChannel249 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/110196-data-centers-now-hoarding-ssds-hard-drive-supplies.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Sam Altman would like remind you that humans use a lot of energy, too</title>
-      <link>https://www.reddit.com/r/technology/comments/1rbclks/sam_altman_would_like_remind_you_that_humans_use/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rbclks/sam_altman_would_like_remind_you_that_humans_use/</guid>
-      <pubDate>2026-02-22T04:43:44+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbclks/sam_altman_would_like_remind_you_that_humans_use/&quot;&gt; &lt;img alt=&quot;Sam Altman would like remind you that humans use a lot of energy, too&quot; src=&quot;https://external-preview.redd.it/FN4-2NuZIYHlnna3s-Lww4janmpPtLAEmOjOPawolAs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=36e6db40459327aafed443ecab4770b6a4296507&quot; title=&quot;Sam Altman would like remind you that humans use a lot of energy, too&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbclks/sam_altman_would_like_remind_you_that_humans_use/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Sam Altman compares AI energy use to the cost of &quot;training&quot; humans, says water-usage concerns are &quot;fake&quot;</title>
+      <link>https://www.reddit.com/r/technology/comments/1rcigcs/sam_altman_compares_ai_energy_use_to_the_cost_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rcigcs/sam_altman_compares_ai_energy_use_to_the_cost_of/</guid>
+      <pubDate>2026-02-23T14:10:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rcigcs/sam_altman_compares_ai_energy_use_to_the_cost_of/&quot;&gt; &lt;img alt=&quot;Sam Altman compares AI energy use to the cost of &amp;quot;training&amp;quot; humans, says water-usage concerns are &amp;quot;fake&amp;quot;&quot; src=&quot;https://external-preview.redd.it/P5xtaMeoOT_XjwVX_59tYMHU2G8o7NeMzaY9eMbcdlo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=797a7da6a0f325e7f67a721574adfa308811a712&quot; title=&quot;Sam Altman compares AI energy use to the cost of &amp;quot;training&amp;quot; humans, says water-usage concerns are &amp;quot;fake&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rcigcs/sam_altman_compares_ai_energy_use_to_the_cost_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich</title>
-      <link>https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/</guid>
-      <pubDate>2026-02-22T03:42:21+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/&quot;&gt; &lt;img alt=&quot;Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich&quot; src=&quot;https://external-preview.redd.it/4dxVql44IENUKcBp-MVqW58kvYFXom5Z4odbjbaCrlw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fab55a068716efcd82fafd66959e2dc943926329&quot; title=&quot;Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/02/21/peter-thiel-bill-gates-steve-jobs-steve-chen-tech-billionaires-publicly-shielding-their-children-from-tech-products-social-media/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] I am a 15-year-old girl. Let me show you the vile misogyny that confronts me on social media every day</title>
+      <link>https://www.reddit.com/r/technology/comments/1rcge9n/i_am_a_15yearold_girl_let_me_show_you_the_vile/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rcge9n/i_am_a_15yearold_girl_let_me_show_you_the_vile/</guid>
+      <pubDate>2026-02-23T12:42:15+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rcge9n/i_am_a_15yearold_girl_let_me_show_you_the_vile/&quot;&gt; &lt;img alt=&quot;I am a 15-year-old girl. Let me show you the vile misogyny that confronts me on social media every day&quot; src=&quot;https://external-preview.redd.it/gN1Hlm-LQbY0e6CldKz0cINXFXY01gIugi9Er_2h1lo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bbb292313a98a8edf74a1d6ef13628c6f8fdb231&quot; title=&quot;I am a 15-year-old girl. Let me show you the vile misogyny that confronts me on social media every day&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/zsreport&quot;&gt; /u/zsreport &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/commentisfree/2026/feb/23/15-year-old-girl-misogyny-social-media-online-abuse&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rcge9n/i_am_a_15yearold_girl_let_me_show_you_the_vile/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
