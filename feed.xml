@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 02 Mar 2026 02:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 02:30:04 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Allegations of insider trading over prediction-market bets tied to Iran conflict</title>
-      <link>https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict</link>
-      <guid isPermaLink="true">https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict</guid>
-      <pubDate>Sun, 01 Mar 2026 22:39:27 +0000</pubDate>
+      <title>[HN] Zuckerberg's internal emails rendered as Facebook Messenger</title>
+      <link>https://zuckmail.vercel.app/</link>
+      <guid isPermaLink="true">https://zuckmail.vercel.app/</guid>
+      <pubDate>Tue, 03 Mar 2026 01:38:35 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Little Free Library Books</title>
-      <link>https://littlefreelibrary.org/</link>
-      <guid isPermaLink="true">https://littlefreelibrary.org/</guid>
-      <pubDate>Sun, 01 Mar 2026 22:18:10 +0000</pubDate>
+      <title>[HN] Show HN: PHP 8 disable_functions bypass PoC</title>
+      <link>https://github.com/m0x41nos/TimeAfterFree</link>
+      <guid isPermaLink="true">https://github.com/m0x41nos/TimeAfterFree</guid>
+      <pubDate>Tue, 03 Mar 2026 01:12:14 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] WebMCP is available for early preview</title>
-      <link>https://developer.chrome.com/blog/webmcp-epp</link>
-      <guid isPermaLink="true">https://developer.chrome.com/blog/webmcp-epp</guid>
-      <pubDate>Sun, 01 Mar 2026 22:13:58 +0000</pubDate>
+      <title>[HN] How to Build Your Own Quantum Computer</title>
+      <link>https://physics.aps.org/articles/v19/24</link>
+      <guid isPermaLink="true">https://physics.aps.org/articles/v19/24</guid>
+      <pubDate>Mon, 02 Mar 2026 23:22:50 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] South Korean Police Lose Seized Crypto by Posting Password Online</title>
-      <link>https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191</link>
-      <guid isPermaLink="true">https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191</guid>
-      <pubDate>Sun, 01 Mar 2026 21:52:16 +0000</pubDate>
+      <title>[HN] Closure of the Weatheradio Service in Canada</title>
+      <link>https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/</link>
+      <guid isPermaLink="true">https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/</guid>
+      <pubDate>Mon, 02 Mar 2026 23:03:59 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Timber – Ollama for classical ML models, 336x faster than Python</title>
-      <link>https://github.com/kossisoroyce/timber</link>
-      <guid isPermaLink="true">https://github.com/kossisoroyce/timber</guid>
-      <pubDate>Mon, 02 Mar 2026 00:57:40 +0000</pubDate>
+      <title>[HN] Seed of Might Color Correction Process (2023) [pdf]</title>
+      <link>https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf</link>
+      <guid isPermaLink="true">https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf</guid>
+      <pubDate>Mon, 02 Mar 2026 22:49:47 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] the 'cancel ChatGPT' trend is growing after OpenAI signs a deal with the US military</title>
-      <link>https://www.reddit.com/r/technology/comments/1ribnqe/no_ethics_at_all_the_cancel_chatgpt_trend_is/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ribnqe/no_ethics_at_all_the_cancel_chatgpt_trend_is/</guid>
-      <pubDate>2026-03-01T22:46:54+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ribnqe/no_ethics_at_all_the_cancel_chatgpt_trend_is/&quot;&gt; &lt;img alt=&quot;'No ethics at all': the 'cancel ChatGPT' trend is growing after OpenAI signs a deal with the US military&quot; src=&quot;https://external-preview.redd.it/EaQYmV1o2DnkXkqA5RoT66vVzOEuGTso4bUAsLZwsEk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0862b5993ee72ba4e38abc14590fb4c9b37ce50f&quot; title=&quot;'No ethics at all': the 'cancel ChatGPT' trend is growing after OpenAI signs a deal with the US military&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techradar.com/ai-platforms-assistants/chatgpt/no-ethics-at-all-the-cancel-chatgpt-trend-is-growing-after-openai-signs-a-deal-with-the-us-military&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ribnqe/no_ethics_at_all_the_cancel_chatgpt_trend_is/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] ChatGPT uninstalls surged by 295% after DoD deal</title>
+      <link>https://www.reddit.com/r/technology/comments/1rj9vjo/chatgpt_uninstalls_surged_by_295_after_dod_deal/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rj9vjo/chatgpt_uninstalls_surged_by_295_after_dod_deal/</guid>
+      <pubDate>2026-03-03T00:05:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rj9vjo/chatgpt_uninstalls_surged_by_295_after_dod_deal/&quot;&gt; &lt;img alt=&quot;ChatGPT uninstalls surged by 295% after DoD deal&quot; src=&quot;https://external-preview.redd.it/XvVMuxlgekAZzO3seZ9Kmbr3C_imtmKXASrcz4kDAP0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a94ee988d49e4c2e360b1c9e36f71e900ea9c529&quot; title=&quot;ChatGPT uninstalls surged by 295% after DoD deal&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rj9vjo/chatgpt_uninstalls_surged_by_295_after_dod_deal/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] California introduces age verification law for all operating systems, including Linux and SteamOS — user age verified during OS account setup</title>
-      <link>https://www.reddit.com/r/technology/comments/1ri2112/california_introduces_age_verification_law_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ri2112/california_introduces_age_verification_law_for/</guid>
-      <pubDate>2026-03-01T16:44:04+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ri2112/california_introduces_age_verification_law_for/&quot;&gt; &lt;img alt=&quot;California introduces age verification law for all operating systems, including Linux and SteamOS — user age verified during OS account setup&quot; src=&quot;https://external-preview.redd.it/HpkWddQgR-iqd5JQDDofesmEVrrKVHSYAN4CCm22Sm8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=394a2c519927e2995f02e86b1bde3f747a72608b&quot; title=&quot;California introduces age verification law for all operating systems, including Linux and SteamOS — user age verified during OS account setup&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PenlessScribe&quot;&gt; /u/PenlessScribe &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/software/operating-systems/california-introduces-age-verification-law&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ri2112/california_introduces_age_verification_law_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Ohio EPA weighs allowing data centers to dump wastewater into rivers</title>
+      <link>https://www.reddit.com/r/technology/comments/1riv9n2/ohio_epa_weighs_allowing_data_centers_to_dump/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1riv9n2/ohio_epa_weighs_allowing_data_centers_to_dump/</guid>
+      <pubDate>2026-03-02T15:07:18+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1riv9n2/ohio_epa_weighs_allowing_data_centers_to_dump/&quot;&gt; &lt;img alt=&quot;Ohio EPA weighs allowing data centers to dump wastewater into rivers&quot; src=&quot;https://external-preview.redd.it/glKeswu6PgiB6gomyY5HWWELBZzhSI-4i6AEjISGSrw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d9155682be0ba90ebfa65b3123d483af0e7f54fe&quot; title=&quot;Ohio EPA weighs allowing data centers to dump wastewater into rivers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nbc4i.com/news/local-news/columbus/ohio-epa-weighs-allowing-data-centers-to-release-wastewater-into-rivers/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1riv9n2/ohio_epa_weighs_allowing_data_centers_to_dump/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] 'Disagreeing with the government is the most American thing in the world'</title>
-      <link>https://www.reddit.com/r/technology/comments/1ri1f56/dario_amodei_on_anthropics_pentagon_spat/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ri1f56/dario_amodei_on_anthropics_pentagon_spat/</guid>
-      <pubDate>2026-03-01T16:20:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ri1f56/dario_amodei_on_anthropics_pentagon_spat/&quot;&gt; &lt;img alt=&quot;Dario Amodei on Anthropic's Pentagon spat: 'Disagreeing with the government is the most American thing in the world'&quot; src=&quot;https://external-preview.redd.it/zmBw00mYXnUwzubqvUoLFlWQuq1YrlZQCgY7yOHCDGI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a0209e04eef20282ca7599ef97a984f44f5a0d37&quot; title=&quot;Dario Amodei on Anthropic's Pentagon spat: 'Disagreeing with the government is the most American thing in the world'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/FinnFarrow&quot;&gt; /u/FinnFarrow &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/dario-amodei-pentagon-free-speech-patriots-american-values-2026-2&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ri1f56/dario_amodei_on_anthropics_pentagon_spat/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Anthropic AI not working in major outage</title>
+      <link>https://www.reddit.com/r/technology/comments/1risumw/claude_down_anthropic_ai_not_working_in_major/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1risumw/claude_down_anthropic_ai_not_working_in_major/</guid>
+      <pubDate>2026-03-02T13:29:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1risumw/claude_down_anthropic_ai_not_working_in_major/&quot;&gt; &lt;img alt=&quot;Claude down: Anthropic AI not working in major outage&quot; src=&quot;https://external-preview.redd.it/GjGc8cg8evRnUL1D1rtzpM8LDLanqWMzlpcNt7SWOf0.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e84d80a621193a9ce974ef799e4389532696f638&quot; title=&quot;Claude down: Anthropic AI not working in major outage&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/cmaia1503&quot;&gt; /u/cmaia1503 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.the-independent.com/tech/claude-down-anthropic-not-working-b2930222.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1risumw/claude_down_anthropic_ai_not_working_in_major/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] cars return to physical buttons</title>
-      <link>https://www.reddit.com/r/technology/comments/1rhwdfx/goodbye_teslastyle_giant_touchscreens_cars_return/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rhwdfx/goodbye_teslastyle_giant_touchscreens_cars_return/</guid>
-      <pubDate>2026-03-01T12:43:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rhwdfx/goodbye_teslastyle_giant_touchscreens_cars_return/&quot;&gt; &lt;img alt=&quot;Goodbye, Tesla-style giant touchscreens: cars return to physical buttons&quot; src=&quot;https://external-preview.redd.it/ceAVnYOrvdaG-0ZUkxf8HZAl6eZkxNdeDT268cHqc1Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=004196343b03ad734210776dae888604432ba468&quot; title=&quot;Goodbye, Tesla-style giant touchscreens: cars return to physical buttons&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/KeySpecialist9139&quot;&gt; /u/KeySpecialist9139 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.domusweb.it/en/news/gallery/2026/02/20/cars-return-to-physical-buttons-ferrari-tesla.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rhwdfx/goodbye_teslastyle_giant_touchscreens_cars_return/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Microsoft gets tired of “Microslop,” bans the word on its Discord, then locks the server after backlash</title>
+      <link>https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/</guid>
+      <pubDate>2026-03-02T11:29:01+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/&quot;&gt; &lt;img alt=&quot;Microsoft gets tired of “Microslop,” bans the word on its Discord, then locks the server after backlash&quot; src=&quot;https://external-preview.redd.it/wGJVJwnnC6UprV2GPZq0ePdISmZ8o1hVNm-RxSaFJQs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0e614e773673fe5edacaa84e7208b3ed9723f879&quot; title=&quot;Microsoft gets tired of “Microslop,” bans the word on its Discord, then locks the server after backlash&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/GreyXor&quot;&gt; /u/GreyXor &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance</title>
-      <link>https://www.reddit.com/r/technology/comments/1rhoi54/claude_hits_no_1_on_app_store_as_chatgpt_users/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rhoi54/claude_hits_no_1_on_app_store_as_chatgpt_users/</guid>
-      <pubDate>2026-03-01T05:04:43+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rhoi54/claude_hits_no_1_on_app_store_as_chatgpt_users/&quot;&gt; &lt;img alt=&quot;Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance&quot; src=&quot;https://external-preview.redd.it/I5960qBIGzzGKf_i2tnm__u1XwujikRqyoAAx8YGKgQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=21379434ed81b46e0fe0724acff890da50350df4&quot; title=&quot;Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Ephoenix6&quot;&gt; /u/Ephoenix6 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rhoi54/claude_hits_no_1_on_app_store_as_chatgpt_users/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The Pentagon’s Claude Use in Iran Is a Reminder that Anthropic Never Objected to Military Use</title>
+      <link>https://www.reddit.com/r/technology/comments/1riiv2z/the_pentagons_claude_use_in_iran_is_a_reminder/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1riiv2z/the_pentagons_claude_use_in_iran_is_a_reminder/</guid>
+      <pubDate>2026-03-02T04:12:18+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1riiv2z/the_pentagons_claude_use_in_iran_is_a_reminder/&quot;&gt; &lt;img alt=&quot;The Pentagon’s Claude Use in Iran Is a Reminder that Anthropic Never Objected to Military Use&quot; src=&quot;https://external-preview.redd.it/7MZGsWB0YOOXObYrBiKp7uqnPIeIe-D0mnMZtgoEDSg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ad3c071376296cf3d702babbe0709a16059261d6&quot; title=&quot;The Pentagon’s Claude Use in Iran Is a Reminder that Anthropic Never Objected to Military Use&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/deraser&quot;&gt; /u/deraser &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/the-pentagons-claude-use-in-iran-is-a-reminder-that-anthropic-never-objected-to-military-use-2000728150&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1riiv2z/the_pentagons_claude_use_in_iran_is_a_reminder/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
