@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Fri, 06 Mar 2026 02:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 02:11:15 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now</title>
-      <link>https://charm.land/blog/v2/</link>
-      <guid isPermaLink="true">https://charm.land/blog/v2/</guid>
-      <pubDate>Thu, 05 Mar 2026 23:26:52 +0000</pubDate>
+      <title>[HN] LLM Doesn't Write Correct Code. It Writes Plausible Code</title>
+      <link>https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code</link>
+      <guid isPermaLink="true">https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code</guid>
+      <pubDate>Sat, 07 Mar 2026 01:17:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A standard protocol to handle and discard low-effort, AI-Generated pull requests</title>
-      <link>https://406.fail/</link>
-      <guid isPermaLink="true">https://406.fail/</guid>
-      <pubDate>Thu, 05 Mar 2026 22:04:59 +0000</pubDate>
+      <title>[HN] Show HN: Kula – Lightweight, self-contained Linux server monitoring tool</title>
+      <link>https://github.com/c0m4r/kula</link>
+      <guid isPermaLink="true">https://github.com/c0m4r/kula</guid>
+      <pubDate>Sat, 07 Mar 2026 00:07:25 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Ethiopia gets $350M World Bank financing for its digital ID project (2024)</title>
-      <link>https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project</link>
-      <guid isPermaLink="true">https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project</guid>
-      <pubDate>Thu, 05 Mar 2026 21:41:31 +0000</pubDate>
+      <title>[HN] Plasma Bigscreen – 10-foot interface for KDE plasma</title>
+      <link>https://plasma-bigscreen.org</link>
+      <guid isPermaLink="true">https://plasma-bigscreen.org</guid>
+      <pubDate>Fri, 06 Mar 2026 23:59:16 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester</title>
-      <link>https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/</link>
-      <guid isPermaLink="true">https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/</guid>
-      <pubDate>Thu, 05 Mar 2026 21:35:40 +0000</pubDate>
+      <title>[HN] Show HN: The Roman Industrial Revolution that could have been (Vol 2)</title>
+      <link>https://thelydianstone.com/volume-2</link>
+      <guid isPermaLink="true">https://thelydianstone.com/volume-2</guid>
+      <pubDate>Fri, 06 Mar 2026 23:17:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Where things stand with the Department of War</title>
-      <link>https://www.anthropic.com/news/where-stand-department-war</link>
-      <guid isPermaLink="true">https://www.anthropic.com/news/where-stand-department-war</guid>
-      <pubDate>Fri, 06 Mar 2026 00:40:41 +0000</pubDate>
+      <title>[HN] C# strings silently kill your SQL Server indexes in Dapper</title>
+      <link>https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap</link>
+      <guid isPermaLink="true">https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap</guid>
+      <pubDate>Fri, 06 Mar 2026 22:55:37 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Tinder agrees to pay $60.5M after dating app sued for charging certain users more</title>
-      <link>https://www.reddit.com/r/technology/comments/1rlvhrg/tinder_agrees_to_pay_605m_after_dating_app_sued/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rlvhrg/tinder_agrees_to_pay_605m_after_dating_app_sued/</guid>
-      <pubDate>2026-03-05T22:12:50+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rlvhrg/tinder_agrees_to_pay_605m_after_dating_app_sued/&quot;&gt; &lt;img alt=&quot;Tinder agrees to pay $60.5M after dating app sued for charging certain users more&quot; src=&quot;https://external-preview.redd.it/jaTpHVzT_84fA2XDkDpSXGpCxSop2332nv_OEFpndLo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9f73eed72ebdd0b161782e7b500a99f82152205f&quot; title=&quot;Tinder agrees to pay $60.5M after dating app sued for charging certain users more&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IndicaOatmeal&quot;&gt; /u/IndicaOatmeal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/tinder-agrees-to-pay-60-5m-after-dating-app-sued-for-charging-certain-users-more-3330330/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rlvhrg/tinder_agrees_to_pay_605m_after_dating_app_sued/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] By bullying Anthropic, the Pentagon is violating the First Amendment. Here’s why.</title>
+      <link>https://www.reddit.com/r/technology/comments/1rmswfp/by_bullying_anthropic_the_pentagon_is_violating/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmswfp/by_bullying_anthropic_the_pentagon_is_violating/</guid>
+      <pubDate>2026-03-06T22:54:08+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmswfp/by_bullying_anthropic_the_pentagon_is_violating/&quot;&gt; &lt;img alt=&quot;By bullying Anthropic, the Pentagon is violating the First Amendment. Here’s why.&quot; src=&quot;https://external-preview.redd.it/_eQa53aZldD4exsQZtydEHtna2_nJZ7on_c7M3547Oc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=07a8c599c279768c1a7f73e9bcc226b52b13a97a&quot; title=&quot;By bullying Anthropic, the Pentagon is violating the First Amendment. Here’s why.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/StraightedgexLiberal&quot;&gt; /u/StraightedgexLiberal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.fire.org/news/bullying-anthropic-pentagon-violating-first-amendment-heres-why&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmswfp/by_bullying_anthropic_the_pentagon_is_violating/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Congress Is Considering Abolishing Your Right to Be Anonymous Online | The bipartisan push to remove anonymity from the internet is ushering in an era of unprecedented mass surveillance and censorship</title>
-      <link>https://www.reddit.com/r/technology/comments/1rloqez/congress_is_considering_abolishing_your_right_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rloqez/congress_is_considering_abolishing_your_right_to/</guid>
-      <pubDate>2026-03-05T18:05:40+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rloqez/congress_is_considering_abolishing_your_right_to/&quot;&gt; &lt;img alt=&quot;Congress Is Considering Abolishing Your Right to Be Anonymous Online | The bipartisan push to remove anonymity from the internet is ushering in an era of unprecedented mass surveillance and censorship&quot; src=&quot;https://external-preview.redd.it/vRPQigtVK27AAc940WtkQhwqDubt1XVLfGjAJ9HQBSc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8a4aba4314161c3de5c10b0c73db0631f7cc3e28&quot; title=&quot;Congress Is Considering Abolishing Your Right to Be Anonymous Online | The bipartisan push to remove anonymity from the internet is ushering in an era of unprecedented mass surveillance and censorship&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hrmbee&quot;&gt; /u/Hrmbee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://theintercept.com/2026/03/05/kosa-online-age-verification-free-speech-privacy/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rloqez/congress_is_considering_abolishing_your_right_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Influencers in Dubai warned they face prison for posting material about the conflict with Iran</title>
+      <link>https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/</guid>
+      <pubDate>2026-03-06T19:10:35+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/&quot;&gt; &lt;img alt=&quot;Influencers in Dubai warned they face prison for posting material about the conflict with Iran&quot; src=&quot;https://external-preview.redd.it/9j43hP7QDicficaiyxc0H09FNtn9idwX9n2_cSVYyrE.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3a0a726d1e3758c4b7c77844e29ecb704c5ddd4f&quot; title=&quot;Influencers in Dubai warned they face prison for posting material about the conflict with Iran&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Wagamaga&quot;&gt; /u/Wagamaga &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.standard.co.uk/news/world/dubai-influencers-prison-warning-posting-iran-war-b1273587.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] United Airlines can now ban passengers who don't wear headphones</title>
-      <link>https://www.reddit.com/r/technology/comments/1rln0bn/united_airlines_can_now_ban_passengers_who_dont/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rln0bn/united_airlines_can_now_ban_passengers_who_dont/</guid>
-      <pubDate>2026-03-05T17:03:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rln0bn/united_airlines_can_now_ban_passengers_who_dont/&quot;&gt; &lt;img alt=&quot;United Airlines can now ban passengers who don't wear headphones&quot; src=&quot;https://external-preview.redd.it/7nenrnbC-5yycacLM2u_bA9y761Fzv_N8CQvrGmIakQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ae21d67772c2c82a7464405adda9879ffbd09d0d&quot; title=&quot;United Airlines can now ban passengers who don't wear headphones&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TylerFortier_Photo&quot;&gt; /u/TylerFortier_Photo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.usatoday.com/story/travel/2026/03/03/united-airlines-headphones-passengers-flights-policy/88971122007/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rln0bn/united_airlines_can_now_ban_passengers_who_dont/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Nintendo suing U.S. government over tariffs</title>
+      <link>https://www.reddit.com/r/technology/comments/1rmm6x8/nintendo_suing_us_government_over_tariffs/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmm6x8/nintendo_suing_us_government_over_tariffs/</guid>
+      <pubDate>2026-03-06T18:37:31+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmm6x8/nintendo_suing_us_government_over_tariffs/&quot;&gt; &lt;img alt=&quot;Nintendo suing U.S. government over tariffs&quot; src=&quot;https://external-preview.redd.it/nAHvzpst2fvehkqKCELntxfhFk5luLin249D6by85s0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ca5c5f25c920e797e7ee980807c2a1217fbb4ea6&quot; title=&quot;Nintendo suing U.S. government over tariffs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PaiDuck&quot;&gt; /u/PaiDuck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gonintendo.com/contents/58526-nintendo-suing-u-s-government-over-tariffs&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmm6x8/nintendo_suing_us_government_over_tariffs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] President Bought Netflix Debt in January 2026, Amid Paramount’s Fight for Warner Bros. | New financial disclosures released Wednesday show that the President acquired Netflix bonds as Paramount was trying to pry WBD away from the streaming giant.</title>
-      <link>https://www.reddit.com/r/technology/comments/1rlblhn/president_bought_netflix_debt_in_january_2026/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rlblhn/president_bought_netflix_debt_in_january_2026/</guid>
-      <pubDate>2026-03-05T07:49:32+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rlblhn/president_bought_netflix_debt_in_january_2026/&quot;&gt; &lt;img alt=&quot;President Bought Netflix Debt in January 2026, Amid Paramount’s Fight for Warner Bros. | New financial disclosures released Wednesday show that the President acquired Netflix bonds as Paramount was trying to pry WBD away from the streaming giant.&quot; src=&quot;https://external-preview.redd.it/XSBACNuRi4133ba58Mw8oJr3jF3lKMlM3TUJhJsXw_4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9adc0dee60d27f21fe07cdd1ce5c5846356c5d5f&quot; title=&quot;President Bought Netflix Debt in January 2026, Amid Paramount’s Fight for Warner Bros. | New financial disclosures released Wednesday show that the President acquired Netflix bonds as Paramount was trying to pry WBD away from the streaming giant.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.hollywoodreporter.com/business/business-news/trump-bought-netflix-bonds-amid-paramount-warners-fight-1236521512/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rlblhn/president_bought_netflix_debt_in_january_2026/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] 2 young billionaires are behind the prediction market boom. They hate each other</title>
+      <link>https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/</guid>
+      <pubDate>2026-03-06T17:52:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/&quot;&gt; &lt;img alt=&quot;2 young billionaires are behind the prediction market boom. They hate each other&quot; src=&quot;https://external-preview.redd.it/-0uRuWyKp7NUR3B34iy_zbcWDcfp4Tj651jOkr9CVZg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bf2047d85571620b21124f2a19a9ed17c1309b3f&quot; title=&quot;2 young billionaires are behind the prediction market boom. They hate each other&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/JasonBob&quot;&gt; /u/JasonBob &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.npr.org/2026/03/06/nx-s1-5735893/iran-war-kalshi-polymarket-feud&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] US air defenses may not be able to intercept many of Iran’s one-way drones</title>
-      <link>https://www.reddit.com/r/technology/comments/1rl6lay/us_air_defenses_may_not_be_able_to_intercept_many/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rl6lay/us_air_defenses_may_not_be_able_to_intercept_many/</guid>
-      <pubDate>2026-03-05T03:22:32+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rl6lay/us_air_defenses_may_not_be_able_to_intercept_many/&quot;&gt; &lt;img alt=&quot;US air defenses may not be able to intercept many of Iran’s one-way drones&quot; src=&quot;https://external-preview.redd.it/OEZtFNf4-f6PnJEA3YPwg1SuZDeG4fbZwToCe3NvVA4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=83cc3bfb8c425563145272bc179774fb4ee7db04&quot; title=&quot;US air defenses may not be able to intercept many of Iran’s one-way drones&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnn.com/2026/03/04/politics/us-air-defenses-iran-attack-drones-challenge&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rl6lay/us_air_defenses_may_not_be_able_to_intercept_many/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Pentagon follows through with its threat, labels Anthropic a supply chain risk ‘effective immediately’</title>
+      <link>https://www.reddit.com/r/technology/comments/1rmg4y7/pentagon_follows_through_with_its_threat_labels/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmg4y7/pentagon_follows_through_with_its_threat_labels/</guid>
+      <pubDate>2026-03-06T14:55:19+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/WadieXkiller&quot;&gt; /u/WadieXkiller &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.fastcompany.com/91504225/pentagon-follows-through-threat-labels-anthropic-supply-chain-risk-effective-immediately&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmg4y7/pentagon_follows_through_with_its_threat_labels/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
   </channel>
 </rss>
