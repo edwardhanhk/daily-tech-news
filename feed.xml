@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 07 Mar 2026 02:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 02:28:56 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] LLM Doesn't Write Correct Code. It Writes Plausible Code</title>
-      <link>https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code</link>
-      <guid isPermaLink="true">https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code</guid>
-      <pubDate>Sat, 07 Mar 2026 01:17:57 +0000</pubDate>
+      <title>[HN] Science Fiction Is Dying. Long Live Post Sci-Fi?</title>
+      <link>https://www.typebarmagazine.com/science-fiction-is-dying-long-live-post-sci-fi/</link>
+      <guid isPermaLink="true">https://www.typebarmagazine.com/science-fiction-is-dying-long-live-post-sci-fi/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:57:43 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Kula – Lightweight, self-contained Linux server monitoring tool</title>
-      <link>https://github.com/c0m4r/kula</link>
-      <guid isPermaLink="true">https://github.com/c0m4r/kula</guid>
-      <pubDate>Sat, 07 Mar 2026 00:07:25 +0000</pubDate>
+      <title>[HN] Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers</title>
+      <link>https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html</link>
+      <guid isPermaLink="true">https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html</guid>
+      <pubDate>Sun, 08 Mar 2026 00:44:32 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Plasma Bigscreen – 10-foot interface for KDE plasma</title>
-      <link>https://plasma-bigscreen.org</link>
-      <guid isPermaLink="true">https://plasma-bigscreen.org</guid>
-      <pubDate>Fri, 06 Mar 2026 23:59:16 +0000</pubDate>
+      <title>[HN] Put the zip code first</title>
+      <link>https://zipcodefirst.com</link>
+      <guid isPermaLink="true">https://zipcodefirst.com</guid>
+      <pubDate>Sat, 07 Mar 2026 23:26:26 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: The Roman Industrial Revolution that could have been (Vol 2)</title>
-      <link>https://thelydianstone.com/volume-2</link>
-      <guid isPermaLink="true">https://thelydianstone.com/volume-2</guid>
-      <pubDate>Fri, 06 Mar 2026 23:17:19 +0000</pubDate>
+      <title>[HN] Lisp-style C++ template meta programming</title>
+      <link>https://github.com/mistivia/lmp</link>
+      <guid isPermaLink="true">https://github.com/mistivia/lmp</guid>
+      <pubDate>Sat, 07 Mar 2026 22:21:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] C# strings silently kill your SQL Server indexes in Dapper</title>
-      <link>https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap</link>
-      <guid isPermaLink="true">https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap</guid>
-      <pubDate>Fri, 06 Mar 2026 22:55:37 +0000</pubDate>
+      <title>[HN] Ask HN: Would you use a job board where every listing is verified?</title>
+      <link>https://news.ycombinator.com/item?id=47291699</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47291699</guid>
+      <pubDate>Sat, 07 Mar 2026 21:37:29 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] By bullying Anthropic, the Pentagon is violating the First Amendment. Here’s why.</title>
-      <link>https://www.reddit.com/r/technology/comments/1rmswfp/by_bullying_anthropic_the_pentagon_is_violating/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmswfp/by_bullying_anthropic_the_pentagon_is_violating/</guid>
-      <pubDate>2026-03-06T22:54:08+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmswfp/by_bullying_anthropic_the_pentagon_is_violating/&quot;&gt; &lt;img alt=&quot;By bullying Anthropic, the Pentagon is violating the First Amendment. Here’s why.&quot; src=&quot;https://external-preview.redd.it/_eQa53aZldD4exsQZtydEHtna2_nJZ7on_c7M3547Oc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=07a8c599c279768c1a7f73e9bcc226b52b13a97a&quot; title=&quot;By bullying Anthropic, the Pentagon is violating the First Amendment. Here’s why.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/StraightedgexLiberal&quot;&gt; /u/StraightedgexLiberal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.fire.org/news/bullying-anthropic-pentagon-violating-first-amendment-heres-why&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmswfp/by_bullying_anthropic_the_pentagon_is_violating/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Claude Code deletes developers' production setup, including its database and snapshots — 2.5 years of records were nuked in an instant</title>
+      <link>https://www.reddit.com/r/technology/comments/1rng7sr/claude_code_deletes_developers_production_setup/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rng7sr/claude_code_deletes_developers_production_setup/</guid>
+      <pubDate>2026-03-07T17:45:10+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rng7sr/claude_code_deletes_developers_production_setup/&quot;&gt; &lt;img alt=&quot;Claude Code deletes developers' production setup, including its database and snapshots — 2.5 years of records were nuked in an instant&quot; src=&quot;https://external-preview.redd.it/WsMv9aoRPCqgtOneu0xmLDjXveGbE50ZQeWBO9Bd7-A.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=35c3f3b0c64bfd71ff9312a11b6a30fa9684f20c&quot; title=&quot;Claude Code deletes developers' production setup, including its database and snapshots — 2.5 years of records were nuked in an instant&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-code-deletes-developers-production-setup-including-its-database-and-snapshots-2-5-years-of-records-were-nuked-in-an-instant&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rng7sr/claude_code_deletes_developers_production_setup/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Influencers in Dubai warned they face prison for posting material about the conflict with Iran</title>
-      <link>https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/</guid>
-      <pubDate>2026-03-06T19:10:35+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/&quot;&gt; &lt;img alt=&quot;Influencers in Dubai warned they face prison for posting material about the conflict with Iran&quot; src=&quot;https://external-preview.redd.it/9j43hP7QDicficaiyxc0H09FNtn9idwX9n2_cSVYyrE.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3a0a726d1e3758c4b7c77844e29ecb704c5ddd4f&quot; title=&quot;Influencers in Dubai warned they face prison for posting material about the conflict with Iran&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Wagamaga&quot;&gt; /u/Wagamaga &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.standard.co.uk/news/world/dubai-influencers-prison-warning-posting-iran-war-b1273587.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Kalshi customers who bet on the death of Iran’s Ayatollah won’t get any of the $54 million wagered, company says</title>
+      <link>https://www.reddit.com/r/technology/comments/1rndb4n/kalshi_customers_who_bet_on_the_death_of_irans/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rndb4n/kalshi_customers_who_bet_on_the_death_of_irans/</guid>
+      <pubDate>2026-03-07T15:51:28+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rndb4n/kalshi_customers_who_bet_on_the_death_of_irans/&quot;&gt; &lt;img alt=&quot;Kalshi customers who bet on the death of Iran’s Ayatollah won’t get any of the $54 million wagered, company says&quot; src=&quot;https://external-preview.redd.it/IxXI9vl-e8UUINTqspk-3658jX9DSUsZ-7C-7ZR_tP4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1af73b772f75afc0df47d67d54a4f2302c67be33&quot; title=&quot;Kalshi customers who bet on the death of Iran’s Ayatollah won’t get any of the $54 million wagered, company says&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mepper&quot;&gt; /u/mepper &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.independent.co.uk/news/world/americas/us-politics/kalshi-bets-iran-ayatollah-ali-khamenei-death-b2932018.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rndb4n/kalshi_customers_who_bet_on_the_death_of_irans/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Nintendo suing U.S. government over tariffs</title>
-      <link>https://www.reddit.com/r/technology/comments/1rmm6x8/nintendo_suing_us_government_over_tariffs/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmm6x8/nintendo_suing_us_government_over_tariffs/</guid>
-      <pubDate>2026-03-06T18:37:31+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmm6x8/nintendo_suing_us_government_over_tariffs/&quot;&gt; &lt;img alt=&quot;Nintendo suing U.S. government over tariffs&quot; src=&quot;https://external-preview.redd.it/nAHvzpst2fvehkqKCELntxfhFk5luLin249D6by85s0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ca5c5f25c920e797e7ee980807c2a1217fbb4ea6&quot; title=&quot;Nintendo suing U.S. government over tariffs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PaiDuck&quot;&gt; /u/PaiDuck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gonintendo.com/contents/58526-nintendo-suing-u-s-government-over-tariffs&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmm6x8/nintendo_suing_us_government_over_tariffs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] BYD just killed your EV argument with a battery that competes with gas engines</title>
+      <link>https://www.reddit.com/r/technology/comments/1rn5ssv/byd_just_killed_your_ev_argument_with_a_battery/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rn5ssv/byd_just_killed_your_ev_argument_with_a_battery/</guid>
+      <pubDate>2026-03-07T09:32:39+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.fastcompany.com/91503415/byd-ev-battery-competes-with-gas-engines&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rn5ssv/byd_just_killed_your_ev_argument_with_a_battery/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] 2 young billionaires are behind the prediction market boom. They hate each other</title>
-      <link>https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/</guid>
-      <pubDate>2026-03-06T17:52:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/&quot;&gt; &lt;img alt=&quot;2 young billionaires are behind the prediction market boom. They hate each other&quot; src=&quot;https://external-preview.redd.it/-0uRuWyKp7NUR3B34iy_zbcWDcfp4Tj651jOkr9CVZg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bf2047d85571620b21124f2a19a9ed17c1309b3f&quot; title=&quot;2 young billionaires are behind the prediction market boom. They hate each other&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/JasonBob&quot;&gt; /u/JasonBob &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.npr.org/2026/03/06/nx-s1-5735893/iran-war-kalshi-polymarket-feud&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Satellite firm pauses imagery after revealing Iran's attacks on U.S bases | Planet Labs wants to prevent “adversarial actors” from using images for “Battle Damage Assessment” purposes.</title>
+      <link>https://www.reddit.com/r/technology/comments/1rn30cy/satellite_firm_pauses_imagery_after_revealing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rn30cy/satellite_firm_pauses_imagery_after_revealing/</guid>
+      <pubDate>2026-03-07T06:48:13+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rn30cy/satellite_firm_pauses_imagery_after_revealing/&quot;&gt; &lt;img alt=&quot;Satellite firm pauses imagery after revealing Iran's attacks on U.S bases | Planet Labs wants to prevent “adversarial actors” from using images for “Battle Damage Assessment” purposes.&quot; src=&quot;https://external-preview.redd.it/yLge3sIDQGO2Tbgb2Zkm9M9sNBNFn9VTdTXNld-ctqI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7b7cef5e7389545a8a76bd1380908628347aa365&quot; title=&quot;Satellite firm pauses imagery after revealing Iran's attacks on U.S bases | Planet Labs wants to prevent “adversarial actors” from using images for “Battle Damage Assessment” purposes.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rn30cy/satellite_firm_pauses_imagery_after_revealing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Pentagon follows through with its threat, labels Anthropic a supply chain risk ‘effective immediately’</title>
-      <link>https://www.reddit.com/r/technology/comments/1rmg4y7/pentagon_follows_through_with_its_threat_labels/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmg4y7/pentagon_follows_through_with_its_threat_labels/</guid>
-      <pubDate>2026-03-06T14:55:19+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/WadieXkiller&quot;&gt; /u/WadieXkiller &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.fastcompany.com/91504225/pentagon-follows-through-threat-labels-anthropic-supply-chain-risk-effective-immediately&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmg4y7/pentagon_follows_through_with_its_threat_labels/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Helldivers 2 Player Who Organised A Charity Challenge Says His Life Was Ruined Overnight After Doxxers Got Him Fired</title>
+      <link>https://www.reddit.com/r/technology/comments/1rmyftp/helldivers_2_player_who_organised_a_charity/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rmyftp/helldivers_2_player_who_organised_a_charity/</guid>
+      <pubDate>2026-03-07T02:56:43+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmyftp/helldivers_2_player_who_organised_a_charity/&quot;&gt; &lt;img alt=&quot;Helldivers 2 Player Who Organised A Charity Challenge Says His Life Was Ruined Overnight After Doxxers Got Him Fired&quot; src=&quot;https://external-preview.redd.it/_R92Pk50YCFtKdES-iPBwXhDCQL_f5wKi1ySPKdHvF0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4d4273b3552545dcc2a1b782893fbfe39efb8e89&quot; title=&quot;Helldivers 2 Player Who Organised A Charity Challenge Says His Life Was Ruined Overnight After Doxxers Got Him Fired&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/healingtwo_&quot;&gt; /u/healingtwo_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thegamer.com/helldivers-2-d10-organiser-fired-doxxed/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rmyftp/helldivers_2_player_who_organised_a_charity/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
