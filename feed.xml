@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 15 Mar 2026 02:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 02:43:16 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Federal Surveillance Tech Becomes Mandatory in New Cars by 2027</title>
-      <link>https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027</link>
-      <guid isPermaLink="true">https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027</guid>
-      <pubDate>Sun, 15 Mar 2026 01:27:25 +0000</pubDate>
+      <title>[HN] AI tools are making me lose interest in CS fundamentals</title>
+      <link>https://news.ycombinator.com/item?id=47394291</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47394291</guid>
+      <pubDate>Mon, 16 Mar 2026 02:02:12 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Tree Search Distillation for Language Models Using PPO</title>
-      <link>https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/</link>
-      <guid isPermaLink="true">https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/</guid>
-      <pubDate>Sun, 15 Mar 2026 00:51:55 +0000</pubDate>
+      <title>[HN] Quillx is an open standard for disclosing AI involvement in software projects</title>
+      <link>https://github.com/QAInsights/AIx</link>
+      <guid isPermaLink="true">https://github.com/QAInsights/AIx</guid>
+      <pubDate>Mon, 16 Mar 2026 01:21:39 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection</title>
-      <link>https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/</link>
-      <guid isPermaLink="true">https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/</guid>
-      <pubDate>Sun, 15 Mar 2026 00:15:10 +0000</pubDate>
+      <title>[HN] I built an ephemeral P2P chat with WebRTC, without servers</title>
+      <link>https://ephemchat.vercel.app/</link>
+      <guid isPermaLink="true">https://ephemchat.vercel.app/</guid>
+      <pubDate>Mon, 16 Mar 2026 01:11:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] SBCL Fibers – Lightweight Cooperative Threads</title>
-      <link>https://atgreen.github.io/repl-yell/posts/sbcl-fibers/</link>
-      <guid isPermaLink="true">https://atgreen.github.io/repl-yell/posts/sbcl-fibers/</guid>
-      <pubDate>Sat, 14 Mar 2026 23:22:39 +0000</pubDate>
+      <title>[HN] What Is Agentic Engineering?</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/</guid>
+      <pubDate>Mon, 16 Mar 2026 01:07:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Airbus is preparing two uncrewed combat aircraft</title>
-      <link>https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european</link>
-      <guid isPermaLink="true">https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european</guid>
-      <pubDate>Sat, 14 Mar 2026 23:10:24 +0000</pubDate>
+      <title>[HN] An experiment to use GitHub Actions as a control plane for a PaaS</title>
+      <link>https://towlion.github.io</link>
+      <guid isPermaLink="true">https://towlion.github.io</guid>
+      <pubDate>Mon, 16 Mar 2026 00:51:18 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] The Removed DOGE Deposition Videos Have Already Been Backed Up Across the Internet | On Friday, a judge ordered those who uploaded the videos to YouTube to remove them. By Saturday, a backup of the videos was available online as a torrent and on the Internet Archive.</title>
-      <link>https://www.reddit.com/r/technology/comments/1ru0ut2/the_removed_doge_deposition_videos_have_already/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ru0ut2/the_removed_doge_deposition_videos_have_already/</guid>
-      <pubDate>2026-03-15T01:19:15+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ru0ut2/the_removed_doge_deposition_videos_have_already/&quot;&gt; &lt;img alt=&quot;The Removed DOGE Deposition Videos Have Already Been Backed Up Across the Internet | On Friday, a judge ordered those who uploaded the videos to YouTube to remove them. By Saturday, a backup of the videos was available online as a torrent and on the Internet Archive.&quot; src=&quot;https://external-preview.redd.it/uCsjfrohrhBalqYMlTi5jHj8BcmgAikVC0Q1s8YXlco.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e416c9814645601a60f135499ccdd88772ef2e8f&quot; title=&quot;The Removed DOGE Deposition Videos Have Already Been Backed Up Across the Internet | On Friday, a judge ordered those who uploaded the videos to YouTube to remove them. By Saturday, a backup of the videos was available online as a torrent and on the Internet Archive.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/the-removed-doge-deposition-videos-have-already-been-backed-up-across-the-internet/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ru0ut2/the_removed_doge_deposition_videos_have_already/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] the new rules of job searching in the AI era</title>
+      <link>https://www.reddit.com/r/technology/comments/1rug3qd/75_of_resumes_never_reach_a_human_the_new_rules/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rug3qd/75_of_resumes_never_reach_a_human_the_new_rules/</guid>
+      <pubDate>2026-03-15T14:55:20+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rug3qd/75_of_resumes_never_reach_a_human_the_new_rules/&quot;&gt; &lt;img alt=&quot;75% of resumes never reach a human: the new rules of job searching in the AI era&quot; src=&quot;https://external-preview.redd.it/OeNFvOxZIGmecSJuuvkkoBhOiOO7qixtqhP1YSHXdJ4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=29a85f36ebef2de6b5e10e591843449411c5a813&quot; title=&quot;75% of resumes never reach a human: the new rules of job searching in the AI era&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Boonzies&quot;&gt; /u/Boonzies &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/03/15/ai-hiring-labor-market-workers-career-strategy/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rug3qd/75_of_resumes_never_reach_a_human_the_new_rules/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] ‘Pokémon Go’ players have been unknowingly training delivery robots</title>
-      <link>https://www.reddit.com/r/technology/comments/1rtxcfr/pokémon_go_players_have_been_unknowingly_training/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rtxcfr/pokémon_go_players_have_been_unknowingly_training/</guid>
-      <pubDate>2026-03-14T22:44:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rtxcfr/pokémon_go_players_have_been_unknowingly_training/&quot;&gt; &lt;img alt=&quot;‘Pokémon Go’ players have been unknowingly training delivery robots&quot; src=&quot;https://external-preview.redd.it/2djQwWqm6EvVm6FPo_KivizhSRc0WdeQv1exhB3q-do.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=43ff65415493a4fc4d41953c3484dfd89b894b61&quot; title=&quot;‘Pokémon Go’ players have been unknowingly training delivery robots&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/waozen&quot;&gt; /u/waozen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rtxcfr/pokémon_go_players_have_been_unknowingly_training/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Texas Was on the Cutting Edge of Lab-Grown Meat, Until the State Banned It</title>
+      <link>https://www.reddit.com/r/technology/comments/1rufqc1/texas_was_on_the_cutting_edge_of_labgrown_meat/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rufqc1/texas_was_on_the_cutting_edge_of_labgrown_meat/</guid>
+      <pubDate>2026-03-15T14:40:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rufqc1/texas_was_on_the_cutting_edge_of_labgrown_meat/&quot;&gt; &lt;img alt=&quot;Texas Was on the Cutting Edge of Lab-Grown Meat, Until the State Banned It&quot; src=&quot;https://external-preview.redd.it/C1_SfJquJ-jvEZK7YSPhvmqdgISFJhqK8N-MB8hPOV0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e5eb15df282847286d324b0d0dd7c5137e2402c0&quot; title=&quot;Texas Was on the Cutting Edge of Lab-Grown Meat, Until the State Banned It&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SnoozeDoggyDog&quot;&gt; /u/SnoozeDoggyDog &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.austinchronicle.com/news/texas-was-on-the-cutting-edge-of-lab-grown-meat-until-the-state-banned-it/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rufqc1/texas_was_on_the_cutting_edge_of_labgrown_meat/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] “We support warfare and we are proud of it”</title>
-      <link>https://www.reddit.com/r/technology/comments/1rtqm1d/palantir_ceo_karp_we_support_warfare_and_we_are/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rtqm1d/palantir_ceo_karp_we_support_warfare_and_we_are/</guid>
-      <pubDate>2026-03-14T18:16:38+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rtqm1d/palantir_ceo_karp_we_support_warfare_and_we_are/&quot;&gt; &lt;img alt=&quot;Palantir CEO Karp: “We support warfare and we are proud of it”&quot; src=&quot;https://external-preview.redd.it/UYqccjUoVoNGgrC1sO5Jb_S2--8usjEZkAQljbr7LYU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a752d7532e22189435508cd81bbd1b8d0da80ab9&quot; title=&quot;Palantir CEO Karp: “We support warfare and we are proud of it”&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/FervidBug42&quot;&gt; /u/FervidBug42 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.heise.de/news/Palantir-Chef-Karp-Wir-unterstuetzen-Kriegsfuehrung-und-wir-sind-stolz-darauf-11211101.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rtqm1d/palantir_ceo_karp_we_support_warfare_and_we_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Lawsuit Alleges DOGE Cancelled $349,000 HVAC Grant to Museum after ChatGPT Flagged It As DEI</title>
+      <link>https://www.reddit.com/r/technology/comments/1ruf4tv/lawsuit_alleges_doge_cancelled_349000_hvac_grant/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ruf4tv/lawsuit_alleges_doge_cancelled_349000_hvac_grant/</guid>
+      <pubDate>2026-03-15T14:15:06+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ruf4tv/lawsuit_alleges_doge_cancelled_349000_hvac_grant/&quot;&gt; &lt;img alt=&quot;Lawsuit Alleges DOGE Cancelled $349,000 HVAC Grant to Museum after ChatGPT Flagged It As DEI&quot; src=&quot;https://external-preview.redd.it/44xFZA3VjRS_lKi3vGzZlZkneu-1mnUDJWONbY6hlu8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ab20e45a3b0fa0b7c9240c02631fbc2a4cce95a2&quot; title=&quot;Lawsuit Alleges DOGE Cancelled $349,000 HVAC Grant to Museum after ChatGPT Flagged It As DEI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sr_local&quot;&gt; /u/sr_local &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.artnews.com/art-news/news/chatgpt-dei-high-point-museum-hvac-grant-lawsuit-doge-1234777297/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ruf4tv/lawsuit_alleges_doge_cancelled_349000_hvac_grant/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] HP's ink-blocking firmware may violate new global sustainability rules</title>
-      <link>https://www.reddit.com/r/technology/comments/1rtjllm/hps_inkblocking_firmware_may_violate_new_global/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rtjllm/hps_inkblocking_firmware_may_violate_new_global/</guid>
-      <pubDate>2026-03-14T13:35:35+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rtjllm/hps_inkblocking_firmware_may_violate_new_global/&quot;&gt; &lt;img alt=&quot;HP's ink-blocking firmware may violate new global sustainability rules&quot; src=&quot;https://external-preview.redd.it/P_EPNN6Yon5_GB2NDt8uT8HAPdcx3Zwfcut218NFIwQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=eddb97bb7b9cc45ca6b0bcf2198c453d2fbb08c5&quot; title=&quot;HP's ink-blocking firmware may violate new global sustainability rules&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/111672-hp-ink-blocking-firmware-clashes-new-global-sustainability.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rtjllm/hps_inkblocking_firmware_may_violate_new_global/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races | CNN Politics</title>
+      <link>https://www.reddit.com/r/technology/comments/1rucnpy/republicans_release_ai_deepfake_of_james_talarico/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rucnpy/republicans_release_ai_deepfake_of_james_talarico/</guid>
+      <pubDate>2026-03-15T12:21:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rucnpy/republicans_release_ai_deepfake_of_james_talarico/&quot;&gt; &lt;img alt=&quot;Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races | CNN Politics&quot; src=&quot;https://external-preview.redd.it/X871rP1ZXgVIjWgv7NKbbRtfp2XuY3atQNJxRawUtXA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9ffba9010a458a00f6f14f75be6bb7d8d3d33c12&quot; title=&quot;Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races | CNN Politics&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/NicolasCageFan492&quot;&gt; /u/NicolasCageFan492 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnn.com/2026/03/13/politics/james-talarico-ai-deepfake-republicans-midterms&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rucnpy/republicans_release_ai_deepfake_of_james_talarico/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Microsoft confirms Windows 11 bug crippling PCs and making drive C inaccessible</title>
-      <link>https://www.reddit.com/r/technology/comments/1rtidoc/microsoft_confirms_windows_11_bug_crippling_pcs/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rtidoc/microsoft_confirms_windows_11_bug_crippling_pcs/</guid>
-      <pubDate>2026-03-14T12:38:59+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.neowin.net/news/microsoft-confirms-windows-11-bug-crippling-pcs-and-making-drive-c-inaccessible/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rtidoc/microsoft_confirms_windows_11_bug_crippling_pcs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] The new robber barons are the tech tycoons</title>
+      <link>https://www.reddit.com/r/technology/comments/1ru8l50/the_new_robber_barons_are_the_tech_tycoons/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ru8l50/the_new_robber_barons_are_the_tech_tycoons/</guid>
+      <pubDate>2026-03-15T08:19:13+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ru8l50/the_new_robber_barons_are_the_tech_tycoons/&quot;&gt; &lt;img alt=&quot;The new robber barons are the tech tycoons&quot; src=&quot;https://external-preview.redd.it/bIVWqzr143NfNwupgyT1vjp52j9sDbDF_2dd4oUzn8c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bab1a408a67e6bc335405a66eb323728f2646e22&quot; title=&quot;The new robber barons are the tech tycoons&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/nimicdoareu&quot;&gt; /u/nimicdoareu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://english.elpais.com/opinion/2026-03-15/the-new-robber-barons-are-the-tech-tycoons.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ru8l50/the_new_robber_barons_are_the_tech_tycoons/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
