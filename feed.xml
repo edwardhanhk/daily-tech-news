@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 19 Mar 2026 02:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 02:26:19 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] RX – a new random-access JSON alternative</title>
-      <link>https://github.com/creationix/rx</link>
-      <guid isPermaLink="true">https://github.com/creationix/rx</guid>
-      <pubDate>Wed, 18 Mar 2026 23:58:05 +0000</pubDate>
+      <title>[HN] The Day I Discovered Type Design</title>
+      <link>https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/</link>
+      <guid isPermaLink="true">https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:08:37 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] What’s on HTTP?</title>
-      <link>https://whatsonhttp.com/</link>
-      <guid isPermaLink="true">https://whatsonhttp.com/</guid>
-      <pubDate>Wed, 18 Mar 2026 21:57:58 +0000</pubDate>
+      <title>[HN] Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found</title>
+      <link>https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</link>
+      <guid isPermaLink="true">https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</guid>
+      <pubDate>Fri, 20 Mar 2026 01:09:45 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training</title>
-      <link>https://github.com/alainnothere/llm-circuit-finder</link>
-      <guid isPermaLink="true">https://github.com/alainnothere/llm-circuit-finder</guid>
-      <pubDate>Wed, 18 Mar 2026 21:31:12 +0000</pubDate>
+      <title>[HN] Drugwars for the TI-82/83/83 Calculators</title>
+      <link>https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404</link>
+      <guid isPermaLink="true">https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404</guid>
+      <pubDate>Fri, 20 Mar 2026 00:26:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Autoresearch for SAT Solvers</title>
-      <link>https://github.com/iliazintchenko/agent-sat</link>
-      <guid isPermaLink="true">https://github.com/iliazintchenko/agent-sat</guid>
-      <pubDate>Thu, 19 Mar 2026 00:40:32 +0000</pubDate>
+      <title>[HN] Claude Code: Channels</title>
+      <link>https://code.claude.com/docs/en/channels</link>
+      <guid isPermaLink="true">https://code.claude.com/docs/en/channels</guid>
+      <pubDate>Fri, 20 Mar 2026 00:22:08 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Austin’s surge of new housing construction drove down rents</title>
-      <link>https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents</link>
-      <guid isPermaLink="true">https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents</guid>
-      <pubDate>Thu, 19 Mar 2026 00:15:39 +0000</pubDate>
+      <title>[HN] Wayland set the Linux Desktop back by 10 years</title>
+      <link>https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</link>
+      <guid isPermaLink="true">https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</guid>
+      <pubDate>Fri, 20 Mar 2026 00:01:40 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] FBI is buying location data to track US citizens, director confirms</title>
-      <link>https://www.reddit.com/r/technology/comments/1rxcfgy/fbi_is_buying_location_data_to_track_us_citizens/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rxcfgy/fbi_is_buying_location_data_to_track_us_citizens/</guid>
-      <pubDate>2026-03-18T18:45:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rxcfgy/fbi_is_buying_location_data_to_track_us_citizens/&quot;&gt; &lt;img alt=&quot;FBI is buying location data to track US citizens, director confirms&quot; src=&quot;https://external-preview.redd.it/dOQeOMvfISZpI2MDBcekwwxZUcmaDL3SKXVB7LHsIxw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0b2d198c28f67f5cc809a1e1ed7060d35d8e71fc&quot; title=&quot;FBI is buying location data to track US citizens, director confirms&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/?utm_source=dlvr.it&amp;amp;utm_medium=twitter&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rxcfgy/fbi_is_buying_location_data_to_track_us_citizens/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] RFK Jr. has destroyed over a quarter of health dept's expert panels | Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.</title>
+      <link>https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/</guid>
+      <pubDate>2026-03-20T00:15:39+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/&quot;&gt; &lt;img alt=&quot;RFK Jr. has destroyed over a quarter of health dept's expert panels | Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.&quot; src=&quot;https://external-preview.redd.it/1CYmTIEV1kfIu_BkSJc49UHEZ0l0pNmKeotZgKthDl8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=af5b339111a6f8e3d2f86c69c215333e494c8692&quot; title=&quot;RFK Jr. has destroyed over a quarter of health dept's expert panels | Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers</title>
-      <link>https://www.reddit.com/r/technology/comments/1rx85a3/robot_dogs_priced_at_300000_a_piece_are_now/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rx85a3/robot_dogs_priced_at_300000_a_piece_are_now/</guid>
-      <pubDate>2026-03-18T16:11:12+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rx85a3/robot_dogs_priced_at_300000_a_piece_are_now/&quot;&gt; &lt;img alt=&quot;Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers&quot; src=&quot;https://external-preview.redd.it/Z4xnzFV-cEJxH_6xcyLZKtnjsLuDaf1TGp0n3ogEfA4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a811f3da9e8ade9e569ed0be134ff94ebd3b7f33&quot; title=&quot;Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/FinnFarrow&quot;&gt; /u/FinnFarrow &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rx85a3/robot_dogs_priced_at_300000_a_piece_are_now/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] U.S. tech execs smuggled Nvidia chips to China, prosecutors say</title>
+      <link>https://www.reddit.com/r/technology/comments/1ryeh5h/us_tech_execs_smuggled_nvidia_chips_to_china/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ryeh5h/us_tech_execs_smuggled_nvidia_chips_to_china/</guid>
+      <pubDate>2026-03-19T22:24:17+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryeh5h/us_tech_execs_smuggled_nvidia_chips_to_china/&quot;&gt; &lt;img alt=&quot;U.S. tech execs smuggled Nvidia chips to China, prosecutors say&quot; src=&quot;https://external-preview.redd.it/06ykSxAanqPxl5YIGdhU8oHEckyEqb6z3D4ZDyBw1xQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ef152ac0a3477845534079e46fd5d006aac0795e&quot; title=&quot;U.S. tech execs smuggled Nvidia chips to China, prosecutors say&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puginator&quot;&gt; /u/Puginator &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryeh5h/us_tech_execs_smuggled_nvidia_chips_to_china/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are &quot;completely wrong&quot;</title>
-      <link>https://www.reddit.com/r/technology/comments/1rx3vza/nvidia_ceo_jensen_huang_says_gamers_calling_dlss/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rx3vza/nvidia_ceo_jensen_huang_says_gamers_calling_dlss/</guid>
-      <pubDate>2026-03-18T13:27:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rx3vza/nvidia_ceo_jensen_huang_says_gamers_calling_dlss/&quot;&gt; &lt;img alt=&quot;Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are &amp;quot;completely wrong&amp;quot;&quot; src=&quot;https://external-preview.redd.it/0hIY4YvjB11RgQx2agKRrbNFKMW8mI7nqlyDoFzdvpg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c954ace5339fb7c58f6c07f978a9d55360b4542b&quot; title=&quot;Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are &amp;quot;completely wrong&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/111727-nvidia-ceo-jensen-huang-gamers-calling-dlss-5.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rx3vza/nvidia_ceo_jensen_huang_says_gamers_calling_dlss/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Windows 11’s free video editor Clipchamp now requires OneDrive</title>
+      <link>https://www.reddit.com/r/technology/comments/1ry5kpq/windows_11s_free_video_editor_clipchamp_now/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ry5kpq/windows_11s_free_video_editor_clipchamp_now/</guid>
+      <pubDate>2026-03-19T16:44:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ry5kpq/windows_11s_free_video_editor_clipchamp_now/&quot;&gt; &lt;img alt=&quot;Windows 11’s free video editor Clipchamp now requires OneDrive&quot; src=&quot;https://external-preview.redd.it/0Rsz7YKyzkgKKq6RFTlJTwZmpasHZw3hCYbuo0hpQEk.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a3ce07216c5b4dfe0c820572aa8d5647efc0d3c6&quot; title=&quot;Windows 11’s free video editor Clipchamp now requires OneDrive&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/KryssCom&quot;&gt; /u/KryssCom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.pcworld.com/article/3093519/windows-11-free-video-editor-clipchamp-now-requires-onedrive.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ry5kpq/windows_11s_free_video_editor_clipchamp_now/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Peter Thiel, the billionaire venture capitalist and MAGA donor, is in Rome this week for a series of private lectures on the Antichrist.</title>
-      <link>https://www.reddit.com/r/technology/comments/1rx2pcw/peter_thiel_the_billionaire_venture_capitalist/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rx2pcw/peter_thiel_the_billionaire_venture_capitalist/</guid>
-      <pubDate>2026-03-18T12:36:49+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rx2pcw/peter_thiel_the_billionaire_venture_capitalist/&quot;&gt; &lt;img alt=&quot;Peter Thiel, the billionaire venture capitalist and MAGA donor, is in Rome this week for a series of private lectures on the Antichrist.&quot; src=&quot;https://external-preview.redd.it/sJvDzYIaLgvMt3qKCJ8ebxjWHP3WR_DyYzZ3lDEzXr0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f03637ba3e584e27ea043859e689c36244a7d16d&quot; title=&quot;Peter Thiel, the billionaire venture capitalist and MAGA donor, is in Rome this week for a series of private lectures on the Antichrist.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://edition.cnn.com/2026/03/16/europe/peter-thiel-antichrist-lectures-rome-intl&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rx2pcw/peter_thiel_the_billionaire_venture_capitalist/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] FBI admits buying Americans' location data and says it won't stop</title>
+      <link>https://www.reddit.com/r/technology/comments/1rxzv9x/fbi_admits_buying_americans_location_data_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rxzv9x/fbi_admits_buying_americans_location_data_and/</guid>
+      <pubDate>2026-03-19T13:04:37+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rxzv9x/fbi_admits_buying_americans_location_data_and/&quot;&gt; &lt;img alt=&quot;FBI admits buying Americans' location data and says it won't stop&quot; src=&quot;https://external-preview.redd.it/FHQtS_X5EG2zgKlcHXzg5mSblE8qht2jS55nfxj-21A.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=176d7b5c67ec300da6b9764f9fbf50afe358314e&quot; title=&quot;FBI admits buying Americans' location data and says it won't stop&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/111739-fbi-admits-buying-americans-location-data-wont-stop.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rxzv9x/fbi_admits_buying_americans_location_data_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds</title>
-      <link>https://www.reddit.com/r/technology/comments/1rx0lba/americans_recognize_ai_as_a_wealth_inequality/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rx0lba/americans_recognize_ai_as_a_wealth_inequality/</guid>
-      <pubDate>2026-03-18T10:52:52+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rx0lba/americans_recognize_ai_as_a_wealth_inequality/&quot;&gt; &lt;img alt=&quot;Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds&quot; src=&quot;https://external-preview.redd.it/P7Pv38fkfCyd22tkpawc7SB4NVFMmTbCJbL2bFFzG2Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3862366328785fb875d2d243851e5b1622e4bce5&quot; title=&quot;Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rx0lba/americans_recognize_ai_as_a_wealth_inequality/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Touch Buttons Cost Half As Much As Physical Controls</title>
+      <link>https://www.reddit.com/r/technology/comments/1rxwxc6/ferrari_boss_touch_buttons_cost_half_as_much_as/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rxwxc6/ferrari_boss_touch_buttons_cost_half_as_much_as/</guid>
+      <pubDate>2026-03-19T10:36:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rxwxc6/ferrari_boss_touch_buttons_cost_half_as_much_as/&quot;&gt; &lt;img alt=&quot;Ferrari Boss: Touch Buttons Cost Half As Much As Physical Controls&quot; src=&quot;https://external-preview.redd.it/Xf5XuD4QZMXmDwr-1difhIthEsJOhHMshbA1bfRPyxI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c60ba43435d9a3d981b387b50bae56ca5e93f163&quot; title=&quot;Ferrari Boss: Touch Buttons Cost Half As Much As Physical Controls&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DonkeyFuel&quot;&gt; /u/DonkeyFuel &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.motor1.com/news/790467/ferrari-touch-buttons-cost-half-physical-buttons/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rxwxc6/ferrari_boss_touch_buttons_cost_half_as_much_as/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
