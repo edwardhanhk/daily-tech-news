@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 21 Mar 2026 02:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 02:34:46 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)</title>
-      <link>https://github.com/arnoldrobbins/LinuxByExample-2e</link>
-      <guid isPermaLink="true">https://github.com/arnoldrobbins/LinuxByExample-2e</guid>
-      <pubDate>Fri, 20 Mar 2026 23:57:22 +0000</pubDate>
+      <title>[HN] The Three Pillars of JavaScript Bloat</title>
+      <link>https://43081j.com/2026/03/three-pillars-of-javascript-bloat</link>
+      <guid isPermaLink="true">https://43081j.com/2026/03/three-pillars-of-javascript-bloat</guid>
+      <pubDate>Sun, 22 Mar 2026 02:04:31 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers</title>
-      <link>https://github.com/RedGridTactical/RedGridLink</link>
-      <guid isPermaLink="true">https://github.com/RedGridTactical/RedGridLink</guid>
-      <pubDate>Fri, 20 Mar 2026 22:25:51 +0000</pubDate>
+      <title>[HN] Chest Fridge</title>
+      <link>https://mtbest.net/chest-fridge/</link>
+      <guid isPermaLink="true">https://mtbest.net/chest-fridge/</guid>
+      <pubDate>Sun, 22 Mar 2026 01:02:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Ghostling</title>
-      <link>https://github.com/ghostty-org/ghostling</link>
-      <guid isPermaLink="true">https://github.com/ghostty-org/ghostling</guid>
-      <pubDate>Fri, 20 Mar 2026 22:11:37 +0000</pubDate>
+      <title>[HN] Why craft-lovers are losing their craft</title>
+      <link>https://writings.hongminhee.org/2026/03/craft-alienation-llm/</link>
+      <guid isPermaLink="true">https://writings.hongminhee.org/2026/03/craft-alienation-llm/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:46:32 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran</title>
-      <link>https://github.com/FormerLab/fortransky</link>
-      <guid isPermaLink="true">https://github.com/FormerLab/fortransky</guid>
-      <pubDate>Fri, 20 Mar 2026 22:06:51 +0000</pubDate>
+      <title>[HN] The Impact of AI on Game Dev Jobs. Open to Work Crisis</title>
+      <link>https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922</link>
+      <guid isPermaLink="true">https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922</guid>
+      <pubDate>Sat, 21 Mar 2026 22:03:05 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster</title>
-      <link>https://www.openui.com/blog/rust-wasm-parser</link>
-      <guid isPermaLink="true">https://www.openui.com/blog/rust-wasm-parser</guid>
-      <pubDate>Fri, 20 Mar 2026 21:48:06 +0000</pubDate>
+      <title>[HN] Floci – A free, open-source local AWS emulator</title>
+      <link>https://github.com/hectorvent/floci</link>
+      <guid isPermaLink="true">https://github.com/hectorvent/floci</guid>
+      <pubDate>Sat, 21 Mar 2026 21:49:15 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Microsoft announces sweeping Windows changes</title>
-      <link>https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/</guid>
-      <pubDate>2026-03-20T19:44:15+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/&quot;&gt; &lt;img alt=&quot;Microsoft announces sweeping Windows changes&quot; src=&quot;https://external-preview.redd.it/PHFs4WikZcMOHkq-wLNm-jg3hi-vjgqz64PUbYeZgMU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2ab9b5b916f8a8101a54d6663cb0ca35214826e3&quot; title=&quot;Microsoft announces sweeping Windows changes&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tekz&quot;&gt; /u/tekz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.zdnet.com/article/windows-users-are-angry-and-microsoft-is-finally-doing-something-about-it/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water</title>
+      <link>https://www.reddit.com/r/technology/comments/1s02xm1/this_high_school_student_invented_a_filter_that/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s02xm1/this_high_school_student_invented_a_filter_that/</guid>
+      <pubDate>2026-03-21T21:12:21+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lumpkin2013&quot;&gt; /u/lumpkin2013 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s02xm1/this_high_school_student_invented_a_filter_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Amazon Prime Video is about to get worse — again</title>
-      <link>https://www.reddit.com/r/technology/comments/1rz1ku7/amazon_prime_video_is_about_to_get_worse_again/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rz1ku7/amazon_prime_video_is_about_to_get_worse_again/</guid>
-      <pubDate>2026-03-20T16:50:38+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PrixDevnovaVillain&quot;&gt; /u/PrixDevnovaVillain &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.msn.com/en-us/money/other/amazon-prime-video-is-about-to-get-worse-again/ar-AA1Z3MEr?ocid=msedgntp&amp;amp;pc=EDGEDSE&amp;amp;cvid=69bcd536cea5481cadce4e4d2dd8a6e3&amp;amp;ei=87&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rz1ku7/amazon_prime_video_is_about_to_get_worse_again/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom</title>
+      <link>https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/</guid>
+      <pubDate>2026-03-21T15:02:43+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/&quot;&gt; &lt;img alt=&quot;Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom&quot; src=&quot;https://external-preview.redd.it/NaE_f5VlB3mj6Zc2HbxZ1rbQs7dpw8TosdzkGEBCorE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e86ae34057307dde652149e134a0e922b0708970&quot; title=&quot;Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Majano57&quot;&gt; /u/Majano57 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/03/21/iran-war-helium-shortage-qatar-chip-supply-chains-ai-boom/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Thousands have swooned over this MAGA dream girl. She’s made with AI.</title>
-      <link>https://www.reddit.com/r/technology/comments/1ryyz20/thousands_have_swooned_over_this_maga_dream_girl/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ryyz20/thousands_have_swooned_over_this_maga_dream_girl/</guid>
-      <pubDate>2026-03-20T15:14:17+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/BusyHands_&quot;&gt; /u/BusyHands_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.msn.com/en-us/news/other/thousands-have-swooned-over-this-maga-dream-girl-she-s-made-with-ai/ar-AA1Z2DaI&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryyz20/thousands_have_swooned_over_this_maga_dream_girl/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Nvidia &quot;confirms&quot; DLSS 5 relies on 2D frame data as testing reveals hallucinations</title>
+      <link>https://www.reddit.com/r/technology/comments/1rzqteq/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rzqteq/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/</guid>
+      <pubDate>2026-03-21T12:57:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rzqteq/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/&quot;&gt; &lt;img alt=&quot;Nvidia &amp;quot;confirms&amp;quot; DLSS 5 relies on 2D frame data as testing reveals hallucinations&quot; src=&quot;https://external-preview.redd.it/inu9kQj4uKn3u4u8WHg_F1MjAUPc_EF4rZtnxNGUA0k.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=12a3788b0e50b4a9d66c0fc0f80d6736d4e3e270&quot; title=&quot;Nvidia &amp;quot;confirms&amp;quot; DLSS 5 relies on 2D frame data as testing reveals hallucinations&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rzqteq/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] More than half of TikTok ADHD content is misinformation, new research finds</title>
-      <link>https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/</guid>
-      <pubDate>2026-03-20T09:15:22+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/&quot;&gt; &lt;img alt=&quot;More than half of TikTok ADHD content is misinformation, new research finds&quot; src=&quot;https://external-preview.redd.it/EgaWLXkYIUVt4UFtfmZCvGTDfNtQoUEWc5DD_gKv0j0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=69dcbe5d1aabf066bb1dea3ed5768089f1e934f7&quot; title=&quot;More than half of TikTok ADHD content is misinformation, new research finds&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tylerthe-theatre&quot;&gt; /u/tylerthe-theatre &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.independent.co.uk/tech/tiktok-adhd-misinformation-autism-mental-health-neurodivergence-social-media-b2941211.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryrfxa/more_than_half_of_tiktok_adhd_content_is/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US</title>
+      <link>https://www.reddit.com/r/technology/comments/1rzn688/cyberattack_on_vehicle_breathalyzer_company/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rzn688/cyberattack_on_vehicle_breathalyzer_company/</guid>
+      <pubDate>2026-03-21T09:29:35+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rzn688/cyberattack_on_vehicle_breathalyzer_company/&quot;&gt; &lt;img alt=&quot;Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US&quot; src=&quot;https://external-preview.redd.it/8oTRC_CXO6RaUkpDp6O7qZ3n5f3lG-neJUgcA-jorFw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=63960bfd689dcf2b7af4fdaac2cf1aa15db12073&quot; title=&quot;Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rzn688/cyberattack_on_vehicle_breathalyzer_company/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China</title>
-      <link>https://www.reddit.com/r/technology/comments/1ryo79h/supermicros_cofounder_was_just_arrested_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ryo79h/supermicros_cofounder_was_just_arrested_for/</guid>
-      <pubDate>2026-03-20T05:53:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryo79h/supermicros_cofounder_was_just_arrested_for/&quot;&gt; &lt;img alt=&quot;Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China&quot; src=&quot;https://external-preview.redd.it/bauuE7-hJieiyhsbOZo32o9YG18dYyojNMWKcFr76kM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7432978d2cf01d34e08ec0273e078bf5db3ec41f&quot; title=&quot;Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Silly-avocatoe&quot;&gt; /u/Silly-avocatoe &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/03/19/supermicro-arrested-founder-smuggling-gpu-china/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ryo79h/supermicros_cofounder_was_just_arrested_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Planned 10-gigawatt Softbank data center in Ohio might be the largest in the world — will require a $33 billion natural gas plant, equivalent to nine nuclear reactors</title>
+      <link>https://www.reddit.com/r/technology/comments/1rzkzai/planned_10gigawatt_softbank_data_center_in_ohio/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1rzkzai/planned_10gigawatt_softbank_data_center_in_ohio/</guid>
+      <pubDate>2026-03-21T07:07:00+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rzkzai/planned_10gigawatt_softbank_data_center_in_ohio/&quot;&gt; &lt;img alt=&quot;Planned 10-gigawatt Softbank data center in Ohio might be the largest in the world — will require a $33 billion natural gas plant, equivalent to nine nuclear reactors&quot; src=&quot;https://external-preview.redd.it/VzN7ItgRbP5NrV3JmELHYacBtYfgJxlqiREWaFuFFQs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9852237f91169d1490e641f8191cc00d694d6adb&quot; title=&quot;Planned 10-gigawatt Softbank data center in Ohio might be the largest in the world — will require a $33 billion natural gas plant, equivalent to nine nuclear reactors&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/planned-10-gigawatt-softbank-data-center-in-ohio-might-be-the-largest-in-the-world-will-require-a-usd33-billion-natural-gas-plant-equivalent-to-nine-nuclear-reactors&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1rzkzai/planned_10gigawatt_softbank_data_center_in_ohio/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
