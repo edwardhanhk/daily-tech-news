@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 01 Apr 2026 02:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:37:02 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] We intercepted the White House app's traffic. 77% of requests go to 3rd parties</title>
-      <link>https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/</link>
-      <guid isPermaLink="true">https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/</guid>
-      <pubDate>Wed, 01 Apr 2026 01:58:45 +0000</pubDate>
+      <title>[HN] ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover</title>
+      <link>https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:45:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] U.S. exempts oil industry from protecting Gulf animals, for 'national security'</title>
-      <link>https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security</guid>
-      <pubDate>Wed, 01 Apr 2026 01:18:51 +0000</pubDate>
+      <title>[HN] Montana referendum to outlaw corporate campaign contributions [video]</title>
+      <link>https://www.youtube.com/watch?v=p1fPbGHe3xE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=p1fPbGHe3xE</guid>
+      <pubDate>Wed, 01 Apr 2026 23:42:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Neanderthals survived on a knife's edge for 350k years</title>
-      <link>https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years</link>
-      <guid isPermaLink="true">https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years</guid>
-      <pubDate>Wed, 01 Apr 2026 01:12:12 +0000</pubDate>
+      <title>[HN] A new C++ back end for ocamlc</title>
+      <link>https://github.com/ocaml/ocaml/pull/14701</link>
+      <guid isPermaLink="true">https://github.com/ocaml/ocaml/pull/14701</guid>
+      <pubDate>Wed, 01 Apr 2026 23:35:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Ordinary Lab Gloves May Have Skewed Microplastic Data</title>
-      <link>https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386</link>
-      <guid isPermaLink="true">https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386</guid>
-      <pubDate>Tue, 31 Mar 2026 21:22:48 +0000</pubDate>
+      <title>[HN] IPv6 address, as a sentence you can remember</title>
+      <link>https://sentence2ipv6.tib3rius.com/</link>
+      <guid isPermaLink="true">https://sentence2ipv6.tib3rius.com/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:22:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A dot a day keeps the clutter away</title>
-      <link>https://scottlawsonbc.com/post/dot-system</link>
-      <guid isPermaLink="true">https://scottlawsonbc.com/post/dot-system</guid>
-      <pubDate>Tue, 31 Mar 2026 21:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/technology] Judge blocks executive order to end federal funding for PBS and NPR</title>
-      <link>https://www.reddit.com/r/technology/comments/1s8w6vg/judge_blocks_executive_order_to_end_federal/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s8w6vg/judge_blocks_executive_order_to_end_federal/</guid>
-      <pubDate>2026-03-31T18:44:53+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8w6vg/judge_blocks_executive_order_to_end_federal/&quot;&gt; &lt;img alt=&quot;Judge blocks executive order to end federal funding for PBS and NPR&quot; src=&quot;https://external-preview.redd.it/ozifClIMRcdc82Zu8tDdlyjlzAkaBMQfAkJlgACoqRs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2912c15eecb271603fde3f2039b9593fa1080ff2&quot; title=&quot;Judge blocks executive order to end federal funding for PBS and NPR&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/cmaia1503&quot;&gt; /u/cmaia1503 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.pbs.org/newshour/nation/judge-blocks-trumps-executive-order-to-end-federal-funding-for-pbs-and-npr&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8w6vg/judge_blocks_executive_order_to_end_federal/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] 'Expect destruction'</title>
-      <link>https://www.reddit.com/r/technology/comments/1s8v18p/iran_says_will_target_us_firms_in_west_asia/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s8v18p/iran_says_will_target_us_firms_in_west_asia/</guid>
-      <pubDate>2026-03-31T18:03:58+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/kungfuninjaa&quot;&gt; /u/kungfuninjaa &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.hindustantimes.com/world-news/iran-says-will-target-us-firms-in-west-asia-starting-april-1-microsoft-google-apple-on-list-of-18-101774968825037.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8v18p/iran_says_will_target_us_firms_in_west_asia/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Iran Threatens to Attack U.S. Tech Companies Starting April 1 / Iran says it will target Apple, Google, and Microsoft, among others.</title>
-      <link>https://www.reddit.com/r/technology/comments/1s8ua7r/iran_threatens_to_attack_us_tech_companies/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s8ua7r/iran_threatens_to_attack_us_tech_companies/</guid>
-      <pubDate>2026-03-31T17:37:53+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8ua7r/iran_threatens_to_attack_us_tech_companies/&quot;&gt; &lt;img alt=&quot;Iran Threatens to Attack U.S. Tech Companies Starting April 1 / Iran says it will target Apple, Google, and Microsoft, among others.&quot; src=&quot;https://external-preview.redd.it/uhK2UqIjGUAqBQrb8PbvIjD3S_I-PXu8hOB1ZKuHOSQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=39e96870a57852e527d6aa1266cfcd88485a98a5&quot; title=&quot;Iran Threatens to Attack U.S. Tech Companies Starting April 1 / Iran says it will target Apple, Google, and Microsoft, among others.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/iran-threatens-to-attack-u-s-tech-companies-starting-april-1-2000740363&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8ua7r/iran_threatens_to_attack_us_tech_companies/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Gmail now lets you change your old email name without deleting account</title>
-      <link>https://www.reddit.com/r/technology/comments/1s8pxfm/gmail_now_lets_you_change_your_old_email_name/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s8pxfm/gmail_now_lets_you_change_your_old_email_name/</guid>
-      <pubDate>2026-03-31T15:02:20+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8pxfm/gmail_now_lets_you_change_your_old_email_name/&quot;&gt; &lt;img alt=&quot;Gmail now lets you change your old email name without deleting account&quot; src=&quot;https://external-preview.redd.it/KSnbMZ0kYbCkC0KnMBAIHaS9ovRIKeioz5j1R3X2zy4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=730ccfd779d82f6ed72cdfa22420884e5828dfda&quot; title=&quot;Gmail now lets you change your old email name without deleting account&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dilpickle2113&quot;&gt; /u/Dilpickle2113 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/gmail-now-lets-you-change-your-old-email-name-without-deleting-account-3343674/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8pxfm/gmail_now_lets_you_change_your_old_email_name/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] Quantum computing bombshells that are not April Fools</title>
+      <link>https://scottaaronson.blog/?p=9665</link>
+      <guid isPermaLink="true">https://scottaaronson.blog/?p=9665</guid>
+      <pubDate>Thu, 02 Apr 2026 00:24:43 +0000</pubDate>
     </item>
     <item>
       <title>[r/technology] Iran War Chokes Off Helium Supply Critical for AI</title>
-      <link>https://www.reddit.com/r/technology/comments/1s8e4m5/iran_war_chokes_off_helium_supply_critical_for_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s8e4m5/iran_war_chokes_off_helium_supply_critical_for_ai/</guid>
-      <pubDate>2026-03-31T05:02:02+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8e4m5/iran_war_chokes_off_helium_supply_critical_for_ai/&quot;&gt; &lt;img alt=&quot;Iran War Chokes Off Helium Supply Critical for AI&quot; src=&quot;https://external-preview.redd.it/-E8KSIbH8a0gE8JTYn_rXOxCX0rWZrtV5IdxBB_irFw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=953c93b7c8c27750220b1e678c24b426035347e4&quot; title=&quot;Iran War Chokes Off Helium Supply Critical for AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CommercialMassive751&quot;&gt; /u/CommercialMassive751 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&amp;amp;reflink=article_copyURL_share&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s8e4m5/iran_war_chokes_off_helium_supply_critical_for_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <link>https://www.reddit.com/r/technology/comments/1s9oz97/iran_war_chokes_off_helium_supply_critical_for_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s9oz97/iran_war_chokes_off_helium_supply_critical_for_ai/</guid>
+      <pubDate>2026-04-01T16:10:26+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9oz97/iran_war_chokes_off_helium_supply_critical_for_ai/&quot;&gt; &lt;img alt=&quot;Iran War Chokes Off Helium Supply Critical for AI&quot; src=&quot;https://external-preview.redd.it/-E8KSIbH8a0gE8JTYn_rXOxCX0rWZrtV5IdxBB_irFw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=953c93b7c8c27750220b1e678c24b426035347e4&quot; title=&quot;Iran War Chokes Off Helium Supply Critical for AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9oz97/iran_war_chokes_off_helium_supply_critical_for_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Gabe Newell &quot;stepped back&quot; from making games at Valve after Portal 2 because everyone kept agreeing with him when he wanted &quot;to be part of the team and come up with ideas&quot;</title>
+      <link>https://www.reddit.com/r/technology/comments/1s9mxz1/gabe_newell_stepped_back_from_making_games_at/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s9mxz1/gabe_newell_stepped_back_from_making_games_at/</guid>
+      <pubDate>2026-04-01T14:58:08+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9mxz1/gabe_newell_stepped_back_from_making_games_at/&quot;&gt; &lt;img alt=&quot;Gabe Newell &amp;quot;stepped back&amp;quot; from making games at Valve after Portal 2 because everyone kept agreeing with him when he wanted &amp;quot;to be part of the team and come up with ideas&amp;quot;&quot; src=&quot;https://external-preview.redd.it/7sm9PH5O-3VWVHzsndW-zocbQGAwhmFhlJ7ZlwiSGAA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=faa51caf29c916c8adc5a538d10a24a8f83b1a5e&quot; title=&quot;Gabe Newell &amp;quot;stepped back&amp;quot; from making games at Valve after Portal 2 because everyone kept agreeing with him when he wanted &amp;quot;to be part of the team and come up with ideas&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Turbostrider27&quot;&gt; /u/Turbostrider27 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamesradar.com/games/gabe-newell-stepped-back-from-making-games-at-valve-after-portal-2-because-everyone-kept-agreeing-with-him-when-he-wanted-to-be-part-of-the-team-and-come-up-with-ideas/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9mxz1/gabe_newell_stepped_back_from_making_games_at/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] US patent office revokes Nintendo’s patent on summoning characters to make them battle | VGC</title>
+      <link>https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/</guid>
+      <pubDate>2026-04-01T13:11:32+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/&quot;&gt; &lt;img alt=&quot;US patent office revokes Nintendo’s patent on summoning characters to make them battle | VGC&quot; src=&quot;https://external-preview.redd.it/nla4j3n7eCGNDLKAT6aZQBB8Q10hzyxB-PJ5AP7j8fw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c1b587915c74459f30205ae825d528f1df5231fe&quot; title=&quot;US patent office revokes Nintendo’s patent on summoning characters to make them battle | VGC&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Gorotheninja&quot;&gt; /u/Gorotheninja &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.videogameschronicle.com/news/us-patent-office-revokes-nintendos-patent-on-summoning-characters-to-make-them-battle/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Anthropic issues copyright takedown requests to remove 8,000+ copies of Claude Code source code</title>
+      <link>https://www.reddit.com/r/technology/comments/1s9jljp/anthropic_issues_copyright_takedown_requests_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s9jljp/anthropic_issues_copyright_takedown_requests_to/</guid>
+      <pubDate>2026-04-01T12:48:59+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9jljp/anthropic_issues_copyright_takedown_requests_to/&quot;&gt; &lt;img alt=&quot;Anthropic issues copyright takedown requests to remove 8,000+ copies of Claude Code source code&quot; src=&quot;https://external-preview.redd.it/Y3JyHihHBLZEbHhb4EPoBNOByGbhKxFx0xHXqoWASUA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fb47d76a0726b21c32561de4df2fa8e11f86460e&quot; title=&quot;Anthropic issues copyright takedown requests to remove 8,000+ copies of Claude Code source code&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tekz&quot;&gt; /u/tekz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?st=BQwoMN&amp;amp;reflink=desktopwebshare_permalink&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9jljp/anthropic_issues_copyright_takedown_requests_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] A million new SpaceX satellites will destroy the night sky — for everyone on Earth</title>
+      <link>https://www.reddit.com/r/technology/comments/1s9cfj4/a_million_new_spacex_satellites_will_destroy_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1s9cfj4/a_million_new_spacex_satellites_will_destroy_the/</guid>
+      <pubDate>2026-04-01T06:17:33+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9cfj4/a_million_new_spacex_satellites_will_destroy_the/&quot;&gt; &lt;img alt=&quot;A million new SpaceX satellites will destroy the night sky — for everyone on Earth&quot; src=&quot;https://external-preview.redd.it/xsPUmvdmAtNnYJo-pzCPHP3xytKk08cVoGzD9osSHtY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e40cbc6949ea5253fca368d39a281928055b26d5&quot; title=&quot;A million new SpaceX satellites will destroy the night sky — for everyone on Earth&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/LollipopChainsawZz&quot;&gt; /u/LollipopChainsawZz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://theconversation.com/a-million-new-spacex-satellites-will-destroy-the-night-sky-for-everyone-on-earth-277938&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1s9cfj4/a_million_new_spacex_satellites_will_destroy_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
