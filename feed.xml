@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 04 Apr 2026 02:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 02:47:43 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] The FAA’s flight restriction for drones is an attempt to criminalize filming ICE</title>
-      <link>https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice</guid>
-      <pubDate>Fri, 03 Apr 2026 23:56:32 +0000</pubDate>
+      <title>[HN] Introduction to Computer Music [pdf]</title>
+      <link>https://composerprogrammer.com/introductiontocomputermusic.pdf</link>
+      <guid isPermaLink="true">https://composerprogrammer.com/introductiontocomputermusic.pdf</guid>
+      <pubDate>Sun, 05 Apr 2026 01:54:29 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] How to Write Unmaintainable Code (1999)</title>
-      <link>https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html</link>
-      <guid isPermaLink="true">https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html</guid>
-      <pubDate>Fri, 03 Apr 2026 23:22:37 +0000</pubDate>
+      <title>[HN] Isseven</title>
+      <link>https://isseven.app/</link>
+      <guid isPermaLink="true">https://isseven.app/</guid>
+      <pubDate>Sun, 05 Apr 2026 01:05:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</title>
-      <link>https://news.ycombinator.com/item?id=47633396</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47633396</guid>
-      <pubDate>Fri, 03 Apr 2026 22:55:24 +0000</pubDate>
+      <title>[HN] Shooting down ideas is not a skill</title>
+      <link>https://scottlawsonbc.com/post/shooting-down-ideas</link>
+      <guid isPermaLink="true">https://scottlawsonbc.com/post/shooting-down-ideas</guid>
+      <pubDate>Sun, 05 Apr 2026 00:42:42 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Fake Fans</title>
-      <link>https://www.wordsfromeliza.com/p/fake-fans</link>
-      <guid isPermaLink="true">https://www.wordsfromeliza.com/p/fake-fans</guid>
-      <pubDate>Fri, 03 Apr 2026 22:26:38 +0000</pubDate>
+      <title>[HN] Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust</title>
+      <link>https://contrapunk.com/</link>
+      <guid isPermaLink="true">https://contrapunk.com/</guid>
+      <pubDate>Sun, 05 Apr 2026 00:40:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Run Linux containers on Android, no root required</title>
-      <link>https://github.com/ExTV/Podroid</link>
-      <guid isPermaLink="true">https://github.com/ExTV/Podroid</guid>
-      <pubDate>Fri, 03 Apr 2026 22:23:55 +0000</pubDate>
+      <title>[HN] AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy</title>
+      <link>https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop</guid>
+      <pubDate>Sun, 05 Apr 2026 00:13:55 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] White House seeks $5.6 billion cut to NASA budget in 2027</title>
-      <link>https://www.reddit.com/r/technology/comments/1sbofzo/white_house_seeks_56_billion_cut_to_nasa_budget/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sbofzo/white_house_seeks_56_billion_cut_to_nasa_budget/</guid>
-      <pubDate>2026-04-03T20:13:28+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbofzo/white_house_seeks_56_billion_cut_to_nasa_budget/&quot;&gt; &lt;img alt=&quot;White House seeks $5.6 billion cut to NASA budget in 2027&quot; src=&quot;https://external-preview.redd.it/v575GiSs9GacUYJEt31EHkaDBHDWnqMOt3jFjUMk9lM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1b80f8c9166fb9cb8b873b6904799a82332f4e86&quot; title=&quot;White House seeks $5.6 billion cut to NASA budget in 2027&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/articles/white-house-seeks-5-6-153112027.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbofzo/white_house_seeks_56_billion_cut_to_nasa_budget/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones</title>
+      <link>https://www.reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/</guid>
+      <pubDate>2026-04-04T18:32:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/&quot;&gt; &lt;img alt=&quot;Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones&quot; src=&quot;https://external-preview.redd.it/nLv1sMYd44a8S4mirnCBWmJMwqLOWjMrbGjQqtl43os.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=74cb37b5b8cf2e01536ab82a7e673381eac9d6b2&quot; title=&quot;Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs</title>
-      <link>https://www.reddit.com/r/technology/comments/1sbnpif/oracle_files_thousands_of_h1b_visa_petitions_amid/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sbnpif/oracle_files_thousands_of_h1b_visa_petitions_amid/</guid>
-      <pubDate>2026-04-03T19:45:37+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbnpif/oracle_files_thousands_of_h1b_visa_petitions_amid/&quot;&gt; &lt;img alt=&quot;Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs&quot; src=&quot;https://external-preview.redd.it/ndEqwr-2trbfFK1WrIztmbJwDDYM5Q0CHrAerMVqArM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dd8ff73fdc2e070a7ce866d55b2742c786536b5e&quot; title=&quot;Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbnpif/oracle_files_thousands_of_h1b_visa_petitions_amid/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Maine Is About to Become the First State to Ban New Data Centers</title>
+      <link>https://www.reddit.com/r/technology/comments/1scbh0f/maine_is_about_to_become_the_first_state_to_ban/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1scbh0f/maine_is_about_to_become_the_first_state_to_ban/</guid>
+      <pubDate>2026-04-04T15:01:27+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1scbh0f/maine_is_about_to_become_the_first_state_to_ban/&quot;&gt; &lt;img alt=&quot;Maine Is About to Become the First State to Ban New Data Centers&quot; src=&quot;https://external-preview.redd.it/xXrPqWk6Xjk0BXC-WQo94MFkIHj_c-CaNgFLyS89Z8c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=627b8d4e39e291283bda93fbc5293e97ac0a28e1&quot; title=&quot;Maine Is About to Become the First State to Ban New Data Centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/us-news/maine-data-center-ban-e768fb18&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1scbh0f/maine_is_about_to_become_the_first_state_to_ban/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Tesla Is Sitting On A Record 50,000 Unsold EVs</title>
-      <link>https://www.reddit.com/r/technology/comments/1sbh8c6/tesla_is_sitting_on_a_record_50000_unsold_evs/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sbh8c6/tesla_is_sitting_on_a_record_50000_unsold_evs/</guid>
-      <pubDate>2026-04-03T15:47:23+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbh8c6/tesla_is_sitting_on_a_record_50000_unsold_evs/&quot;&gt; &lt;img alt=&quot;Tesla Is Sitting On A Record 50,000 Unsold EVs&quot; src=&quot;https://external-preview.redd.it/qxXJR1j5zG9AVYM_HCOiGPoudybem2XL-TmXWgWGrN0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ed14fed68effade5e87d78ed5476bd9d4eb6053d&quot; title=&quot;Tesla Is Sitting On A Record 50,000 Unsold EVs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://insideevs.com/news/791999/tesla-unsold-inventory-record-q1-2026/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbh8c6/tesla_is_sitting_on_a_record_50000_unsold_evs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Oracle fired up to 30,000 workers via email after a 95% profit surge. Tech companies are cutting almost 1,000 jobs/day</title>
+      <link>https://www.reddit.com/r/technology/comments/1sc8smb/oracle_fired_up_to_30000_workers_via_email_after/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sc8smb/oracle_fired_up_to_30000_workers_via_email_after/</guid>
+      <pubDate>2026-04-04T13:06:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sc8smb/oracle_fired_up_to_30000_workers_via_email_after/&quot;&gt; &lt;img alt=&quot;Oracle fired up to 30,000 workers via email after a 95% profit surge. Tech companies are cutting almost 1,000 jobs/day&quot; src=&quot;https://external-preview.redd.it/1T-K5QIpUV9fLBVZVAZcXR0aY4u1amuairLetclb_8g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a27216fee717f9fe1bd76f69fc8f48a78818a6e7&quot; title=&quot;Oracle fired up to 30,000 workers via email after a 95% profit surge. Tech companies are cutting almost 1,000 jobs/day&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Domingues_tech&quot;&gt; /u/Domingues_tech &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/oracle-fired-30-000-workers-174000364.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sc8smb/oracle_fired_up_to_30000_workers_via_email_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Take-Two Interactive Fires Head of AI Weeks After CEO Says AI Can't Make Games Like GTA 6</title>
-      <link>https://www.reddit.com/r/technology/comments/1sbcfw1/taketwo_interactive_fires_head_of_ai_weeks_after/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sbcfw1/taketwo_interactive_fires_head_of_ai_weeks_after/</guid>
-      <pubDate>2026-04-03T12:38:04+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbcfw1/taketwo_interactive_fires_head_of_ai_weeks_after/&quot;&gt; &lt;img alt=&quot;Take-Two Interactive Fires Head of AI Weeks After CEO Says AI Can't Make Games Like GTA 6&quot; src=&quot;https://external-preview.redd.it/qi5mnLVuAXwGTXR-sv_EQZmSValykk2bTU5GiUblO44.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=af9f3fa0cc45dc8cadb1ad152f24d1adff41cb64&quot; title=&quot;Take-Two Interactive Fires Head of AI Weeks After CEO Says AI Can't Make Games Like GTA 6&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thegamer.com/take-two-interactive-ai-layoffs/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbcfw1/taketwo_interactive_fires_head_of_ai_weeks_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Senators Ask Tulsi Gabbard To Tell Americans That VPN Use Might Subject Them To Domestic Surveillance</title>
+      <link>https://www.reddit.com/r/technology/comments/1sc53c1/senators_ask_tulsi_gabbard_to_tell_americans_that/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sc53c1/senators_ask_tulsi_gabbard_to_tell_americans_that/</guid>
+      <pubDate>2026-04-04T09:46:45+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sc53c1/senators_ask_tulsi_gabbard_to_tell_americans_that/&quot;&gt; &lt;img alt=&quot;Senators Ask Tulsi Gabbard To Tell Americans That VPN Use Might Subject Them To Domestic Surveillance&quot; src=&quot;https://external-preview.redd.it/QdCWJLZtSx1Ly9Z2yTbDMgT5dhGTgi8syC6l1SyLf7U.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a1a6cfbe9524d8a1a6256dc8bc5c1b9956207d61&quot; title=&quot;Senators Ask Tulsi Gabbard To Tell Americans That VPN Use Might Subject Them To Domestic Surveillance&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techdirt.com/2026/04/03/senators-ask-tulsi-gabbard-to-tell-americans-that-vpn-use-might-subject-them-to-domestic-surveillance/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sc53c1/senators_ask_tulsi_gabbard_to_tell_americans_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] we will appeal</title>
-      <link>https://www.reddit.com/r/technology/comments/1sbby5s/italy_court_rules_netflix_unlawfully_increased/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sbby5s/italy_court_rules_netflix_unlawfully_increased/</guid>
-      <pubDate>2026-04-03T12:15:43+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbby5s/italy_court_rules_netflix_unlawfully_increased/&quot;&gt; &lt;img alt=&quot;Italy court rules Netflix unlawfully increased prices. Consumers: 'Refunds up to 500 euros.' The company: we will appeal&quot; src=&quot;https://external-preview.redd.it/ti_yQBMTMC-WDgWi08MBlR5sR1_c3AMHZB3iI4u99Ro.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9eb730e65eeb789fbdd948363bfe92a1d281fdb1&quot; title=&quot;Italy court rules Netflix unlawfully increased prices. Consumers: 'Refunds up to 500 euros.' The company: we will appeal&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sr_local&quot;&gt; /u/sr_local &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://en.ilsole24ore.com/art/netflix-subscription-price-increases-unlawful-refunds-up-to-eur-500-customers-AIUHzWKC&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbby5s/italy_court_rules_netflix_unlawfully_increased/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Microsoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice</title>
+      <link>https://www.reddit.com/r/technology/comments/1sbyghz/microsoft_says_copilot_is_for_entertainment/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sbyghz/microsoft_says_copilot_is_for_entertainment/</guid>
+      <pubDate>2026-04-04T03:27:20+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbyghz/microsoft_says_copilot_is_for_entertainment/&quot;&gt; &lt;img alt=&quot;Microsoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice&quot; src=&quot;https://external-preview.redd.it/_RutfTg2JcTXbFd3ZpfId1OG4s3PB3BNBQiYNS25Bm0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b2a5775ae420913dbb508f62b12955d9c7a68fb&quot; title=&quot;Microsoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/BusyHands_&quot;&gt; /u/BusyHands_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sbyghz/microsoft_says_copilot_is_for_entertainment/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
