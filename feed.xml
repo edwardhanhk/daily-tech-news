@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 06 Apr 2026 02:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 02:42:15 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] New Copilot for Windows 11 includes a full Microsoft Edge package, uses more RAM</title>
-      <link>https://www.windowslatest.com/2026/04/05/new-copilot-for-windows-11-includes-a-full-microsoft-edge-package-uses-more-ram/</link>
-      <guid isPermaLink="true">https://www.windowslatest.com/2026/04/05/new-copilot-for-windows-11-includes-a-full-microsoft-edge-package-uses-more-ram/</guid>
-      <pubDate>Mon, 06 Apr 2026 02:03:11 +0000</pubDate>
+      <title>[HN] Solod – A Subset of Go That Translates to C</title>
+      <link>https://github.com/solod-dev/solod</link>
+      <guid isPermaLink="true">https://github.com/solod-dev/solod</guid>
+      <pubDate>Tue, 07 Apr 2026 00:48:01 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Apex Protocol – An open MCP-based standard for AI agent trading</title>
-      <link>https://apexstandard.org/</link>
-      <guid isPermaLink="true">https://apexstandard.org/</guid>
-      <pubDate>Mon, 06 Apr 2026 00:50:32 +0000</pubDate>
+      <title>[HN] After 20 years I turned off Google Adsense for my websites</title>
+      <link>https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm</guid>
+      <pubDate>Mon, 06 Apr 2026 23:23:28 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Employers use your personal data to figure out the lowest salary you'll accept</title>
-      <link>https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb</link>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb</guid>
-      <pubDate>Mon, 06 Apr 2026 00:29:08 +0000</pubDate>
+      <title>[HN] Anthropic expands partnership with Google and Broadcom for next-gen compute</title>
+      <link>https://www.anthropic.com/news/google-broadcom-partnership-compute</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/google-broadcom-partnership-compute</guid>
+      <pubDate>Mon, 06 Apr 2026 21:52:08 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: I built a tiny LLM to demystify how language models work</title>
-      <link>https://github.com/arman-bd/guppylm</link>
-      <guid isPermaLink="true">https://github.com/arman-bd/guppylm</guid>
-      <pubDate>Mon, 06 Apr 2026 00:20:12 +0000</pubDate>
+      <title>[HN] Show HN: Hippo, biologically inspired memory for AI agents</title>
+      <link>https://github.com/kitfunso/hippo-memory</link>
+      <guid isPermaLink="true">https://github.com/kitfunso/hippo-memory</guid>
+      <pubDate>Mon, 06 Apr 2026 21:49:34 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: YouTube search barely works, I made a search form with advanced filters</title>
-      <link>https://playlists.at/youtube/search/</link>
-      <guid isPermaLink="true">https://playlists.at/youtube/search/</guid>
-      <pubDate>Mon, 06 Apr 2026 00:18:26 +0000</pubDate>
+      <title>[HN] Ask HN: How do you handle marketing as a solo technical founder?</title>
+      <link>https://news.ycombinator.com/item?id=47667504</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47667504</guid>
+      <pubDate>Mon, 06 Apr 2026 21:36:47 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi</title>
-      <link>https://www.reddit.com/r/technology/comments/1sdjh66/iran_threatens_complete_and_utter_annihilation_of/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sdjh66/iran_threatens_complete_and_utter_annihilation_of/</guid>
-      <pubDate>2026-04-06T00:12:06+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdjh66/iran_threatens_complete_and_utter_annihilation_of/&quot;&gt; &lt;img alt=&quot;Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi&quot; src=&quot;https://external-preview.redd.it/WfgcWR5OTgPmqtrIXAWZKeZsIL-MzMJIJgBOwM3YKn4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=40cc7bfe31028d76123d44d4c97436822cb37701&quot; title=&quot;Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdjh66/iran_threatens_complete_and_utter_annihilation_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] OpenAI Insiders don’t trust CEO</title>
+      <link>https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/</guid>
+      <pubDate>2026-04-06T21:25:20+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/&quot;&gt; &lt;img alt=&quot;“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO&quot; src=&quot;https://external-preview.redd.it/lJlLtuB45-ZSbX-jcnhmA53BFjR5w1208T0xwmKPPdk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=63c87f36e1e56f982836d84b76a45ec30b378947&quot; title=&quot;“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Dental student died in ICU overseen by remote 'tele-health' physician who pronounced him dead on a video screen, lawsuit says…</title>
-      <link>https://www.reddit.com/r/technology/comments/1sdia1v/no_onsite_doctor_dental_student_died_in_icu/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sdia1v/no_onsite_doctor_dental_student_died_in_icu/</guid>
-      <pubDate>2026-04-05T23:18:54+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdia1v/no_onsite_doctor_dental_student_died_in_icu/&quot;&gt; &lt;img alt=&quot;'No on-site doctor': Dental student died in ICU overseen by remote 'tele-health' physician who pronounced him dead on a video screen, lawsuit says…&quot; src=&quot;https://external-preview.redd.it/G3lfaU5dFQaAU101rrYFWzQ2GvCI70xqrT6d4KN92kk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=600ff4cd0b2d5d7029a14364e6cc3c76104675ae&quot; title=&quot;'No on-site doctor': Dental student died in ICU overseen by remote 'tele-health' physician who pronounced him dead on a video screen, lawsuit says…&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tasty_jams_5280&quot;&gt; /u/tasty_jams_5280 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://lawandcrime.com/lawsuit/no-on-site-doctor-dental-student-died-in-icu-overseen-by-remote-tele-health-physician-who-pronounced-him-dead-on-a-video-screen-lawsuit-says/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdia1v/no_onsite_doctor_dental_student_died_in_icu/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Six of 10 Drivers Say Headlight Glare Is a Problem</title>
+      <link>https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/</guid>
+      <pubDate>2026-04-06T19:24:24+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/&quot;&gt; &lt;img alt=&quot;It’s Not Just You: Six of 10 Drivers Say Headlight Glare Is a Problem&quot; src=&quot;https://external-preview.redd.it/Z-7qpzsOF3XJ3uAEhQyXzv9OKMBw6yuyGC02qXFC-7M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6cf2994ab9e8b15b8b0a0673844570d736922c07&quot; title=&quot;It’s Not Just You: Six of 10 Drivers Say Headlight Glare Is a Problem&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/its-not-just-you-six-of-10-drivers-say-headlight-glare-is-a-problem&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Japan Wants to Build a Solar Ring Around the Moon That Will Provide Endless Clean Energy to Earth</title>
-      <link>https://www.reddit.com/r/technology/comments/1sd9ui7/japan_wants_to_build_a_solar_ring_around_the_moon/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sd9ui7/japan_wants_to_build_a_solar_ring_around_the_moon/</guid>
-      <pubDate>2026-04-05T17:39:45+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sd9ui7/japan_wants_to_build_a_solar_ring_around_the_moon/&quot;&gt; &lt;img alt=&quot;Japan Wants to Build a Solar Ring Around the Moon That Will Provide Endless Clean Energy to Earth&quot; src=&quot;https://external-preview.redd.it/fWUiE6GOzx2Y9A65VgsmVmu5WpJTk0XmCzVda53sAbA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3186bce6181e41155478399ced00f4b47ce5b25d&quot; title=&quot;Japan Wants to Build a Solar Ring Around the Moon That Will Provide Endless Clean Energy to Earth&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/dutchapplepoptart&quot;&gt; /u/dutchapplepoptart &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://dailygalaxy.com/2026/04/japan-build-moon-solar-ring-endless-energy/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sd9ui7/japan_wants_to_build_a_solar_ring_around_the_moon/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Italian court says Netflix must refund customers up to $576 over price hikes</title>
+      <link>https://www.reddit.com/r/technology/comments/1sdyhnj/italian_court_says_netflix_must_refund_customers/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sdyhnj/italian_court_says_netflix_must_refund_customers/</guid>
+      <pubDate>2026-04-06T13:12:28+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdyhnj/italian_court_says_netflix_must_refund_customers/&quot;&gt; &lt;img alt=&quot;Italian court says Netflix must refund customers up to $576 over price hikes&quot; src=&quot;https://external-preview.redd.it/DolR9_qhJGW_aaMUDsOvg_dT9088pVNff_C1AqSTsLw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9f6c31c011e4fdd59be81ea0df996f2f15f0de47&quot; title=&quot;Italian court says Netflix must refund customers up to $576 over price hikes&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/111955-italian-court-netflix-must-refund-customers-up-576.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdyhnj/italian_court_says_netflix_must_refund_customers/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Gen Z is engineering an analog future — and it’s at least a $5 billion opportunity</title>
-      <link>https://www.reddit.com/r/technology/comments/1sd636a/gen_z_is_engineering_an_analog_future_and_its_at/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sd636a/gen_z_is_engineering_an_analog_future_and_its_at/</guid>
-      <pubDate>2026-04-05T15:11:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sd636a/gen_z_is_engineering_an_analog_future_and_its_at/&quot;&gt; &lt;img alt=&quot;Gen Z is engineering an analog future — and it’s at least a $5 billion opportunity&quot; src=&quot;https://external-preview.redd.it/ZUQgYXdeM2gUdzUfIZ3EHajPqepGC8eoekVDYGre9ls.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a4758f5e6e133943fc7983e1c3d5eaa11fe678d0&quot; title=&quot;Gen Z is engineering an analog future — and it’s at least a $5 billion opportunity&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Domingues_tech&quot;&gt; /u/Domingues_tech &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/sectors/technology/articles/gen-z-engineering-analog-future-090000793.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sd636a/gen_z_is_engineering_an_analog_future_and_its_at/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] 18-month New Yorker investigation finds OpenAI’s Sam Altman lobbied against the same AI regulations he publicly advocated for, pursued billions from Gulf autocracies, and how he tried to hide a post-firing investigation that produced no written report</title>
+      <link>https://www.reddit.com/r/technology/comments/1sdxus8/18month_new_yorker_investigation_finds_openais/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sdxus8/18month_new_yorker_investigation_finds_openais/</guid>
+      <pubDate>2026-04-06T12:45:27+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdxus8/18month_new_yorker_investigation_finds_openais/&quot;&gt; &lt;img alt=&quot;18-month New Yorker investigation finds OpenAI’s Sam Altman lobbied against the same AI regulations he publicly advocated for, pursued billions from Gulf autocracies, and how he tried to hide a post-firing investigation that produced no written report&quot; src=&quot;https://external-preview.redd.it/E7wR-1A3A9YMg6r-b9mxArjhU459IAWRIv-Dnc8WvPg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5c2c3eaaf58c6aa145d5ae72d0ba69e636689f85&quot; title=&quot;18-month New Yorker investigation finds OpenAI’s Sam Altman lobbied against the same AI regulations he publicly advocated for, pursued billions from Gulf autocracies, and how he tried to hide a post-firing investigation that produced no written report&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Altruistic-Top9919&quot;&gt; /u/Altruistic-Top9919 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdxus8/18month_new_yorker_investigation_finds_openais/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Hallucinated citations are polluting the scientific literature. What can be done? - Tens of thousands of publications from 2025 might include invalid references generated by AI, a Nature analysis suggests.</title>
-      <link>https://www.reddit.com/r/technology/comments/1sd0khs/hallucinated_citations_are_polluting_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sd0khs/hallucinated_citations_are_polluting_the/</guid>
-      <pubDate>2026-04-05T10:50:15+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sd0khs/hallucinated_citations_are_polluting_the/&quot;&gt; &lt;img alt=&quot;Hallucinated citations are polluting the scientific literature. What can be done? - Tens of thousands of publications from 2025 might include invalid references generated by AI, a Nature analysis suggests.&quot; src=&quot;https://external-preview.redd.it/JlG1VvSyoWWfDRyZ6ciRNAsLK5nrZhro6ADYf6phlp8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0ddeb8ef9e42aa0ae12d50cce7141c6e2b504549&quot; title=&quot;Hallucinated citations are polluting the scientific literature. What can be done? - Tens of thousands of publications from 2025 might include invalid references generated by AI, a Nature analysis suggests.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/polymute&quot;&gt; /u/polymute &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-026-00969-z&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sd0khs/hallucinated_citations_are_polluting_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400mph high‑speed drones, costs $13 per shot</title>
+      <link>https://www.reddit.com/r/technology/comments/1sdwqln/uk_confirms_dronekilling_dragonfire_laser_weapon/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sdwqln/uk_confirms_dronekilling_dragonfire_laser_weapon/</guid>
+      <pubDate>2026-04-06T11:55:36+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdwqln/uk_confirms_dronekilling_dragonfire_laser_weapon/&quot;&gt; &lt;img alt=&quot;UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400mph high‑speed drones, costs $13 per shot&quot; src=&quot;https://external-preview.redd.it/T1o8XGhryceWJKrjGbl1ZbAt7EVj2Hqd95D2JSDz6Wg.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=51951301f876a2bb906aa0ff3262217e730c7935&quot; title=&quot;UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400mph high‑speed drones, costs $13 per shot&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdwqln/uk_confirms_dronekilling_dragonfire_laser_weapon/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
