@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 07 Apr 2026 02:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:43:14 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Solod – A Subset of Go That Translates to C</title>
-      <link>https://github.com/solod-dev/solod</link>
-      <guid isPermaLink="true">https://github.com/solod-dev/solod</guid>
-      <pubDate>Tue, 07 Apr 2026 00:48:01 +0000</pubDate>
+      <title>[HN] JSIR: A High-Level IR for JavaScript</title>
+      <link>https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456</link>
+      <guid isPermaLink="true">https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456</guid>
+      <pubDate>Wed, 08 Apr 2026 00:59:05 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] After 20 years I turned off Google Adsense for my websites</title>
-      <link>https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm</guid>
-      <pubDate>Mon, 06 Apr 2026 23:23:28 +0000</pubDate>
+      <title>[HN] US, Iran say they have agreed to a two-week ceasefire</title>
+      <link>https://apnews.com/live/iran-war-israel-trump-04-07-2026</link>
+      <guid isPermaLink="true">https://apnews.com/live/iran-war-israel-trump-04-07-2026</guid>
+      <pubDate>Wed, 08 Apr 2026 00:16:22 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Anthropic expands partnership with Google and Broadcom for next-gen compute</title>
-      <link>https://www.anthropic.com/news/google-broadcom-partnership-compute</link>
-      <guid isPermaLink="true">https://www.anthropic.com/news/google-broadcom-partnership-compute</guid>
-      <pubDate>Mon, 06 Apr 2026 21:52:08 +0000</pubDate>
+      <title>[HN] Xilem – An experimental Rust native UI framework</title>
+      <link>https://github.com/linebender/xilem</link>
+      <guid isPermaLink="true">https://github.com/linebender/xilem</guid>
+      <pubDate>Tue, 07 Apr 2026 23:36:15 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Hippo, biologically inspired memory for AI agents</title>
-      <link>https://github.com/kitfunso/hippo-memory</link>
-      <guid isPermaLink="true">https://github.com/kitfunso/hippo-memory</guid>
-      <pubDate>Mon, 06 Apr 2026 21:49:34 +0000</pubDate>
+      <title>[HN] US and Iran agree to provisional ceasefire</title>
+      <link>https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire</guid>
+      <pubDate>Tue, 07 Apr 2026 22:41:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Ask HN: How do you handle marketing as a solo technical founder?</title>
-      <link>https://news.ycombinator.com/item?id=47667504</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47667504</guid>
-      <pubDate>Mon, 06 Apr 2026 21:36:47 +0000</pubDate>
+      <title>[HN] Move Detroit</title>
+      <link>https://www.movedetroit.com/program</link>
+      <guid isPermaLink="true">https://www.movedetroit.com/program</guid>
+      <pubDate>Tue, 07 Apr 2026 21:04:53 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] OpenAI Insiders don’t trust CEO</title>
-      <link>https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/</guid>
-      <pubDate>2026-04-06T21:25:20+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/&quot;&gt; &lt;img alt=&quot;“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO&quot; src=&quot;https://external-preview.redd.it/lJlLtuB45-ZSbX-jcnhmA53BFjR5w1208T0xwmKPPdk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=63c87f36e1e56f982836d84b76a45ec30b378947&quot; title=&quot;“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Sam Altman Says It'll Take Another Year Before ChatGPT Can Start a Timer / An $852 billion company, ladies and gentlemen.</title>
+      <link>https://www.reddit.com/r/technology/comments/1sfbius/sam_altman_says_itll_take_another_year_before/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sfbius/sam_altman_says_itll_take_another_year_before/</guid>
+      <pubDate>2026-04-07T22:56:00+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfbius/sam_altman_says_itll_take_another_year_before/&quot;&gt; &lt;img alt=&quot;Sam Altman Says It'll Take Another Year Before ChatGPT Can Start a Timer / An $852 billion company, ladies and gentlemen.&quot; src=&quot;https://external-preview.redd.it/_aiWK0hvXS56nHSufnHLoQQ4wl1z9KRBt9MwqoWSpEQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=179ec538401f8ee4defd38a637c499cf7f4ec058&quot; title=&quot;Sam Altman Says It'll Take Another Year Before ChatGPT Can Start a Timer / An $852 billion company, ladies and gentlemen.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/sam-altman-says-itll-take-another-year-before-chatgpt-can-start-a-timer-2000743487&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfbius/sam_altman_says_itll_take_another_year_before/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Six of 10 Drivers Say Headlight Glare Is a Problem</title>
-      <link>https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/</guid>
-      <pubDate>2026-04-06T19:24:24+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/&quot;&gt; &lt;img alt=&quot;It’s Not Just You: Six of 10 Drivers Say Headlight Glare Is a Problem&quot; src=&quot;https://external-preview.redd.it/Z-7qpzsOF3XJ3uAEhQyXzv9OKMBw6yuyGC02qXFC-7M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6cf2994ab9e8b15b8b0a0673844570d736922c07&quot; title=&quot;It’s Not Just You: Six of 10 Drivers Say Headlight Glare Is a Problem&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/its-not-just-you-six-of-10-drivers-say-headlight-glare-is-a-problem&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Oracle Appoints Hilary Maxson As CFO With $29.7 Million Package After Firing 30,000 Employees</title>
+      <link>https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/</guid>
+      <pubDate>2026-04-07T19:40:36+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/&quot;&gt; &lt;img alt=&quot;Oracle Appoints Hilary Maxson As CFO With $29.7 Million Package After Firing 30,000 Employees&quot; src=&quot;https://external-preview.redd.it/-1-AIDnvAiytEd3T4p8d-_oPDbcAR7HSA6SYKjUTI18.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=da8c10efd8d132ab80cd879dfedcd5a291bd4e00&quot; title=&quot;Oracle Appoints Hilary Maxson As CFO With $29.7 Million Package After Firing 30,000 Employees&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ndtv.com/feature/oracle-appoints-hilary-maxson-as-cfo-with-29-7-million-package-after-firing-30-000-employees-11323707&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Italian court says Netflix must refund customers up to $576 over price hikes</title>
-      <link>https://www.reddit.com/r/technology/comments/1sdyhnj/italian_court_says_netflix_must_refund_customers/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sdyhnj/italian_court_says_netflix_must_refund_customers/</guid>
-      <pubDate>2026-04-06T13:12:28+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdyhnj/italian_court_says_netflix_must_refund_customers/&quot;&gt; &lt;img alt=&quot;Italian court says Netflix must refund customers up to $576 over price hikes&quot; src=&quot;https://external-preview.redd.it/DolR9_qhJGW_aaMUDsOvg_dT9088pVNff_C1AqSTsLw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9f6c31c011e4fdd59be81ea0df996f2f15f0de47&quot; title=&quot;Italian court says Netflix must refund customers up to $576 over price hikes&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/111955-italian-court-netflix-must-refund-customers-up-576.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdyhnj/italian_court_says_netflix_must_refund_customers/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Data Centers Are Military Targets Now</title>
+      <link>https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/</guid>
+      <pubDate>2026-04-07T19:31:07+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/&quot;&gt; &lt;img alt=&quot;Data Centers Are Military Targets Now&quot; src=&quot;https://external-preview.redd.it/K1wn6Y1X1g5BM1ZaE60xEGSbZH1gldpFGTW0fVT36UY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4c90f60c354ae1c2d6804759d173b9bb3466be3c&quot; title=&quot;Data Centers Are Military Targets Now&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Conscious-Quarter423&quot;&gt; /u/Conscious-Quarter423 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://theintercept.com/2026/03/20/ai-data-centers-military-targets-iran-war/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] 18-month New Yorker investigation finds OpenAI’s Sam Altman lobbied against the same AI regulations he publicly advocated for, pursued billions from Gulf autocracies, and how he tried to hide a post-firing investigation that produced no written report</title>
-      <link>https://www.reddit.com/r/technology/comments/1sdxus8/18month_new_yorker_investigation_finds_openais/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sdxus8/18month_new_yorker_investigation_finds_openais/</guid>
-      <pubDate>2026-04-06T12:45:27+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdxus8/18month_new_yorker_investigation_finds_openais/&quot;&gt; &lt;img alt=&quot;18-month New Yorker investigation finds OpenAI’s Sam Altman lobbied against the same AI regulations he publicly advocated for, pursued billions from Gulf autocracies, and how he tried to hide a post-firing investigation that produced no written report&quot; src=&quot;https://external-preview.redd.it/E7wR-1A3A9YMg6r-b9mxArjhU459IAWRIv-Dnc8WvPg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5c2c3eaaf58c6aa145d5ae72d0ba69e636689f85&quot; title=&quot;18-month New Yorker investigation finds OpenAI’s Sam Altman lobbied against the same AI regulations he publicly advocated for, pursued billions from Gulf autocracies, and how he tried to hide a post-firing investigation that produced no written report&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Altruistic-Top9919&quot;&gt; /u/Altruistic-Top9919 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdxus8/18month_new_yorker_investigation_finds_openais/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] 'We Have No Chance Against This'</title>
+      <link>https://www.reddit.com/r/technology/comments/1sf23n0/honda_president_after_visiting_chinese_auto/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sf23n0/honda_president_after_visiting_chinese_auto/</guid>
+      <pubDate>2026-04-07T17:08:33+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf23n0/honda_president_after_visiting_chinese_auto/&quot;&gt; &lt;img alt=&quot;Honda President After Visiting Chinese Auto Supplier: 'We Have No Chance Against This'&quot; src=&quot;https://external-preview.redd.it/K9H_HFpOzMYhghRGi-mmItROI7_K9449pFma8Fhu6KY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ad05bac695b4e6d57248f539774119d5b156845a&quot; title=&quot;Honda President After Visiting Chinese Auto Supplier: 'We Have No Chance Against This'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.motor1.com/news/792130/honda-reacts-china-supplier-strength/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf23n0/honda_president_after_visiting_chinese_auto/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400mph high‑speed drones, costs $13 per shot</title>
-      <link>https://www.reddit.com/r/technology/comments/1sdwqln/uk_confirms_dronekilling_dragonfire_laser_weapon/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sdwqln/uk_confirms_dronekilling_dragonfire_laser_weapon/</guid>
-      <pubDate>2026-04-06T11:55:36+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdwqln/uk_confirms_dronekilling_dragonfire_laser_weapon/&quot;&gt; &lt;img alt=&quot;UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400mph high‑speed drones, costs $13 per shot&quot; src=&quot;https://external-preview.redd.it/T1o8XGhryceWJKrjGbl1ZbAt7EVj2Hqd95D2JSDz6Wg.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=51951301f876a2bb906aa0ff3262217e730c7935&quot; title=&quot;UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400mph high‑speed drones, costs $13 per shot&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sdwqln/uk_confirms_dronekilling_dragonfire_laser_weapon/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Sony Pictures Entertainment to Lay Off Hundreds in Massive Reorganization Across TV, Film and Corporate</title>
+      <link>https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/</guid>
+      <pubDate>2026-04-07T16:26:31+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/&quot;&gt; &lt;img alt=&quot;Sony Pictures Entertainment to Lay Off Hundreds in Massive Reorganization Across TV, Film and Corporate&quot; src=&quot;https://external-preview.redd.it/tBs8-bO2dwd5yDXsBUT1VZ7cPFocgc8UPyINxPlSLJU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=73103102d1f286ea872ae4f14838fe2141a6d7bd&quot; title=&quot;Sony Pictures Entertainment to Lay Off Hundreds in Massive Reorganization Across TV, Film and Corporate&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/film/news/sony-entertainment-layoffs-tv-film-1236710554/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
