@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 08 Apr 2026 02:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 02:37:37 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] JSIR: A High-Level IR for JavaScript</title>
-      <link>https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456</link>
-      <guid isPermaLink="true">https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456</guid>
-      <pubDate>Wed, 08 Apr 2026 00:59:05 +0000</pubDate>
+      <title>[HN] I built a tool to let you export your X bookmarks and categorize them</title>
+      <link>https://x-archive.netlify.app/</link>
+      <guid isPermaLink="true">https://x-archive.netlify.app/</guid>
+      <pubDate>Wed, 08 Apr 2026 23:54:33 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] US, Iran say they have agreed to a two-week ceasefire</title>
-      <link>https://apnews.com/live/iran-war-israel-trump-04-07-2026</link>
-      <guid isPermaLink="true">https://apnews.com/live/iran-war-israel-trump-04-07-2026</guid>
-      <pubDate>Wed, 08 Apr 2026 00:16:22 +0000</pubDate>
+      <title>[HN] Show HN: Tired of logic in useEffect, I built a class-based React state manager</title>
+      <link>https://thales.me/posts/why-i-built-snapstate/</link>
+      <guid isPermaLink="true">https://thales.me/posts/why-i-built-snapstate/</guid>
+      <pubDate>Wed, 08 Apr 2026 21:53:36 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Xilem – An experimental Rust native UI framework</title>
-      <link>https://github.com/linebender/xilem</link>
-      <guid isPermaLink="true">https://github.com/linebender/xilem</guid>
-      <pubDate>Tue, 07 Apr 2026 23:36:15 +0000</pubDate>
+      <title>[HN] Newly created Polymarket accounts win big on well-timed Iran ceasefire bets</title>
+      <link>https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire</link>
+      <guid isPermaLink="true">https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire</guid>
+      <pubDate>Thu, 09 Apr 2026 00:55:46 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] US and Iran agree to provisional ceasefire</title>
-      <link>https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire</guid>
-      <pubDate>Tue, 07 Apr 2026 22:41:02 +0000</pubDate>
+      <title>[HN] Little Snitch for Linux – Because Nothing Else Came Close</title>
+      <link>https://obdev.at/blog/little-snitch-for-linux/</link>
+      <guid isPermaLink="true">https://obdev.at/blog/little-snitch-for-linux/</guid>
+      <pubDate>Thu, 09 Apr 2026 00:39:31 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Move Detroit</title>
-      <link>https://www.movedetroit.com/program</link>
-      <guid isPermaLink="true">https://www.movedetroit.com/program</guid>
-      <pubDate>Tue, 07 Apr 2026 21:04:53 +0000</pubDate>
+      <title>[HN] LittleSnitch for Linux</title>
+      <link>https://obdev.at/products/littlesnitch-linux/index.html</link>
+      <guid isPermaLink="true">https://obdev.at/products/littlesnitch-linux/index.html</guid>
+      <pubDate>Thu, 09 Apr 2026 00:26:08 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Sam Altman Says It'll Take Another Year Before ChatGPT Can Start a Timer / An $852 billion company, ladies and gentlemen.</title>
-      <link>https://www.reddit.com/r/technology/comments/1sfbius/sam_altman_says_itll_take_another_year_before/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sfbius/sam_altman_says_itll_take_another_year_before/</guid>
-      <pubDate>2026-04-07T22:56:00+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfbius/sam_altman_says_itll_take_another_year_before/&quot;&gt; &lt;img alt=&quot;Sam Altman Says It'll Take Another Year Before ChatGPT Can Start a Timer / An $852 billion company, ladies and gentlemen.&quot; src=&quot;https://external-preview.redd.it/_aiWK0hvXS56nHSufnHLoQQ4wl1z9KRBt9MwqoWSpEQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=179ec538401f8ee4defd38a637c499cf7f4ec058&quot; title=&quot;Sam Altman Says It'll Take Another Year Before ChatGPT Can Start a Timer / An $852 billion company, ladies and gentlemen.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/sam-altman-says-itll-take-another-year-before-chatgpt-can-start-a-timer-2000743487&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfbius/sam_altman_says_itll_take_another_year_before/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Costco Is Starting a Standalone Gas Station Empire With a 40-Pump Discount Fuel Oasis</title>
+      <link>https://www.reddit.com/r/technology/comments/1sg4ioq/costco_is_starting_a_standalone_gas_station/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sg4ioq/costco_is_starting_a_standalone_gas_station/</guid>
+      <pubDate>2026-04-08T20:28:09+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sg4ioq/costco_is_starting_a_standalone_gas_station/&quot;&gt; &lt;img alt=&quot;Costco Is Starting a Standalone Gas Station Empire With a 40-Pump Discount Fuel Oasis&quot; src=&quot;https://external-preview.redd.it/6CC4aeI4i6l2_7d0gJGRAnWjyPnkkIWdWkIr1CWIZzA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=12f3924e728fedf6dac14e90bff14fae778afd13&quot; title=&quot;Costco Is Starting a Standalone Gas Station Empire With a 40-Pump Discount Fuel Oasis&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DonkeyFuel&quot;&gt; /u/DonkeyFuel &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/costco-is-starting-a-standalone-gas-station-empire-with-a-40-pump-discount-fuel-oasis&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sg4ioq/costco_is_starting_a_standalone_gas_station/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Oracle Appoints Hilary Maxson As CFO With $29.7 Million Package After Firing 30,000 Employees</title>
-      <link>https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/</guid>
-      <pubDate>2026-04-07T19:40:36+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/&quot;&gt; &lt;img alt=&quot;Oracle Appoints Hilary Maxson As CFO With $29.7 Million Package After Firing 30,000 Employees&quot; src=&quot;https://external-preview.redd.it/-1-AIDnvAiytEd3T4p8d-_oPDbcAR7HSA6SYKjUTI18.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=da8c10efd8d132ab80cd879dfedcd5a291bd4e00&quot; title=&quot;Oracle Appoints Hilary Maxson As CFO With $29.7 Million Package After Firing 30,000 Employees&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ndtv.com/feature/oracle-appoints-hilary-maxson-as-cfo-with-29-7-million-package-after-firing-30-000-employees-11323707&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf6fb7/oracle_appoints_hilary_maxson_as_cfo_with_297/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement</title>
+      <link>https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/</guid>
+      <pubDate>2026-04-08T18:38:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/&quot;&gt; &lt;img alt=&quot;John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement&quot; src=&quot;https://external-preview.redd.it/uWfgzymaDwS1-48-oCdZVUz6NPa8_dTR6viuf1sATuM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5653e8e6619e0de7e76e0bdb9d131f6c0a3d0feb&quot; title=&quot;John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Data Centers Are Military Targets Now</title>
-      <link>https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/</guid>
-      <pubDate>2026-04-07T19:31:07+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/&quot;&gt; &lt;img alt=&quot;Data Centers Are Military Targets Now&quot; src=&quot;https://external-preview.redd.it/K1wn6Y1X1g5BM1ZaE60xEGSbZH1gldpFGTW0fVT36UY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4c90f60c354ae1c2d6804759d173b9bb3466be3c&quot; title=&quot;Data Centers Are Military Targets Now&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Conscious-Quarter423&quot;&gt; /u/Conscious-Quarter423 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://theintercept.com/2026/03/20/ai-data-centers-military-targets-iran-war/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected positions cut due to AI</title>
+      <link>https://www.reddit.com/r/technology/comments/1sfzw39/tech_industry_lays_off_nearly_80000_employees_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sfzw39/tech_industry_lays_off_nearly_80000_employees_in/</guid>
+      <pubDate>2026-04-08T17:41:15+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfzw39/tech_industry_lays_off_nearly_80000_employees_in/&quot;&gt; &lt;img alt=&quot;Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected positions cut due to AI&quot; src=&quot;https://external-preview.redd.it/E7hAIHtCW5clUt3Dhl1-kfQUno2Y8C7XO7VpY4_VWQc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7c454281e64eede3538c811c041f63e1b50b46d0&quot; title=&quot;Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected positions cut due to AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/jupa300&quot;&gt; /u/jupa300 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfzw39/tech_industry_lays_off_nearly_80000_employees_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] 'We Have No Chance Against This'</title>
-      <link>https://www.reddit.com/r/technology/comments/1sf23n0/honda_president_after_visiting_chinese_auto/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sf23n0/honda_president_after_visiting_chinese_auto/</guid>
-      <pubDate>2026-04-07T17:08:33+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf23n0/honda_president_after_visiting_chinese_auto/&quot;&gt; &lt;img alt=&quot;Honda President After Visiting Chinese Auto Supplier: 'We Have No Chance Against This'&quot; src=&quot;https://external-preview.redd.it/K9H_HFpOzMYhghRGi-mmItROI7_K9449pFma8Fhu6KY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ad05bac695b4e6d57248f539774119d5b156845a&quot; title=&quot;Honda President After Visiting Chinese Auto Supplier: 'We Have No Chance Against This'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.motor1.com/news/792130/honda-reacts-china-supplier-strength/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf23n0/honda_president_after_visiting_chinese_auto/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Republicans fooled by AI-generated image of US airman rescued in Iran - Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X</title>
+      <link>https://www.reddit.com/r/technology/comments/1sfuk9g/republicans_fooled_by_aigenerated_image_of_us/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sfuk9g/republicans_fooled_by_aigenerated_image_of_us/</guid>
+      <pubDate>2026-04-08T14:31:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfuk9g/republicans_fooled_by_aigenerated_image_of_us/&quot;&gt; &lt;img alt=&quot;Republicans fooled by AI-generated image of US airman rescued in Iran - Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X&quot; src=&quot;https://external-preview.redd.it/-B2xtLe8EnHIjyEeiGWK_Zt4QWKMXfxkhfB9BN4kXBw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=804fc19f1ceffad0ad4f0ee5928aede6ae27eb6f&quot; title=&quot;Republicans fooled by AI-generated image of US airman rescued in Iran - Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfuk9g/republicans_fooled_by_aigenerated_image_of_us/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Sony Pictures Entertainment to Lay Off Hundreds in Massive Reorganization Across TV, Film and Corporate</title>
-      <link>https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/</guid>
-      <pubDate>2026-04-07T16:26:31+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/&quot;&gt; &lt;img alt=&quot;Sony Pictures Entertainment to Lay Off Hundreds in Massive Reorganization Across TV, Film and Corporate&quot; src=&quot;https://external-preview.redd.it/tBs8-bO2dwd5yDXsBUT1VZ7cPFocgc8UPyINxPlSLJU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=73103102d1f286ea872ae4f14838fe2141a6d7bd&quot; title=&quot;Sony Pictures Entertainment to Lay Off Hundreds in Massive Reorganization Across TV, Film and Corporate&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/film/news/sony-entertainment-layoffs-tv-film-1236710554/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sf0vyy/sony_pictures_entertainment_to_lay_off_hundreds/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Texas is giving data centers more than $1 billion in tax breaks each year</title>
+      <link>https://www.reddit.com/r/technology/comments/1sfopl9/texas_is_giving_data_centers_more_than_1_billion/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sfopl9/texas_is_giving_data_centers_more_than_1_billion/</guid>
+      <pubDate>2026-04-08T10:13:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfopl9/texas_is_giving_data_centers_more_than_1_billion/&quot;&gt; &lt;img alt=&quot;Texas is giving data centers more than $1 billion in tax breaks each year&quot; src=&quot;https://external-preview.redd.it/Z5j5RKmmxRr5jbRqeoQgGDlz_6JazEUxKFi62vzkT9E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9f2f046e6f89ea2913e5877e2d90cfac5b2ab916&quot; title=&quot;Texas is giving data centers more than $1 billion in tax breaks each year&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/zsreport&quot;&gt; /u/zsreport &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.texastribune.org/2026/04/08/texas-data-centers-sales-tax-break-billion-dollars/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sfopl9/texas_is_giving_data_centers_more_than_1_billion/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
