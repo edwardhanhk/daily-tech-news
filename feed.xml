@@ -4,72 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 13 Apr 2026 02:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 02:50:57 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Taking on CUDA with ROCm: 'One Step After Another'</title>
-      <link>https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/</link>
-      <guid isPermaLink="true">https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/</guid>
-      <pubDate>Sun, 12 Apr 2026 22:38:45 +0000</pubDate>
+      <title>[HN] Lean proved this program correct; then I found a bug</title>
+      <link>https://kirancodes.me/posts/log-who-watches-the-watchers.html</link>
+      <guid isPermaLink="true">https://kirancodes.me/posts/log-who-watches-the-watchers.html</guid>
+      <pubDate>Tue, 14 Apr 2026 00:25:08 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Tech valuations are back to pre-AI boom levels</title>
-      <link>https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels</link>
-      <guid isPermaLink="true">https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels</guid>
-      <pubDate>Sun, 12 Apr 2026 22:13:22 +0000</pubDate>
+      <title>[HN] Why it’s impossible to measure England’s coastline</title>
+      <link>https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline</link>
+      <guid isPermaLink="true">https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline</guid>
+      <pubDate>Mon, 13 Apr 2026 23:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A Perfectable Programming Language</title>
-      <link>https://alok.github.io/lean-pages/perfectable-lean/</link>
-      <guid isPermaLink="true">https://alok.github.io/lean-pages/perfectable-lean/</guid>
-      <pubDate>Sun, 12 Apr 2026 21:11:24 +0000</pubDate>
+      <title>[HN] SnapState - Persistent state for AI agent workflows</title>
+      <link>https://snapstate.dev</link>
+      <guid isPermaLink="true">https://snapstate.dev</guid>
+      <pubDate>Mon, 13 Apr 2026 23:42:32 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Uncharted island soon to appear on nautical charts</title>
-      <link>https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html</link>
-      <guid isPermaLink="true">https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html</guid>
-      <pubDate>Sun, 12 Apr 2026 20:30:11 +0000</pubDate>
+      <title>[HN] WiiFin – Jellyfin Client for Nintendo Wii</title>
+      <link>https://github.com/fabienmillet/WiiFin</link>
+      <guid isPermaLink="true">https://github.com/fabienmillet/WiiFin</guid>
+      <pubDate>Mon, 13 Apr 2026 23:33:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] All elementary functions from a single binary operator</title>
-      <link>https://arxiv.org/abs/2603.21852</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.21852</guid>
-      <pubDate>Mon, 13 Apr 2026 01:49:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/technology] Sam Altman’s home targeted in second attack</title>
-      <link>https://www.reddit.com/r/technology/comments/1sjtlic/sam_altmans_home_targeted_in_second_attack/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sjtlic/sam_altmans_home_targeted_in_second_attack/</guid>
-      <pubDate>2026-04-12T23:05:45+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sjtlic/sam_altmans_home_targeted_in_second_attack/&quot;&gt; &lt;img alt=&quot;Sam Altman’s home targeted in second attack&quot; src=&quot;https://external-preview.redd.it/fvc1iLF-T1E8Rl89NsPiFm3rTKfIZ-Ke_Oj-9MgGDbM.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8e3021f2910f136c8edbcb3f2101df4579f86472&quot; title=&quot;Sam Altman’s home targeted in second attack&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Bizzyguy&quot;&gt; /u/Bizzyguy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sjtlic/sam_altmans_home_targeted_in_second_attack/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Oracle's new CFO got $26M in stock after layoffs. Employee says an 'algorithm' targeted workers with stock options first</title>
-      <link>https://www.reddit.com/r/technology/comments/1sjqoi7/oracles_new_cfo_got_26m_in_stock_after_layoffs/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sjqoi7/oracles_new_cfo_got_26m_in_stock_after_layoffs/</guid>
-      <pubDate>2026-04-12T21:08:07+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sjqoi7/oracles_new_cfo_got_26m_in_stock_after_layoffs/&quot;&gt; &lt;img alt=&quot;Oracle's new CFO got $26M in stock after layoffs. Employee says an 'algorithm' targeted workers with stock options first&quot; src=&quot;https://external-preview.redd.it/ulvEqS0Xl0YZH2-KVxtQXmBmILP7ArsG-VTc6yNrii0.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=68f8c5fbd1706b639440e06e0ab209676d9c1b24&quot; title=&quot;Oracle's new CFO got $26M in stock after layoffs. Employee says an 'algorithm' targeted workers with stock options first&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Domingues_tech&quot;&gt; /u/Domingues_tech &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/oracles-cfo-got-26m-stock-184500098.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sjqoi7/oracles_new_cfo_got_26m_in_stock_after_layoffs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Hacker Uses Claude and ChatGPT to Breach Multiple Government Agencies</title>
-      <link>https://www.reddit.com/r/technology/comments/1sjja5u/hacker_uses_claude_and_chatgpt_to_breach_multiple/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sjja5u/hacker_uses_claude_and_chatgpt_to_breach_multiple/</guid>
-      <pubDate>2026-04-12T16:33:27+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sjja5u/hacker_uses_claude_and_chatgpt_to_breach_multiple/&quot;&gt; &lt;img alt=&quot;Hacker Uses Claude and ChatGPT to Breach Multiple Government Agencies&quot; src=&quot;https://external-preview.redd.it/V3nQ7BIik9CozZ-4iFgsUrOBSTmzJxdA0iMCRH2Dr1E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e76923878731dccb6adf7f871ec7244d6eb968e5&quot; title=&quot;Hacker Uses Claude and ChatGPT to Breach Multiple Government Agencies&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DJMagicHandz&quot;&gt; /u/DJMagicHandz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://cybersecuritynews.com/hacker-uses-claude-and-chatgpt-to-breach/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sjja5u/hacker_uses_claude_and_chatgpt_to_breach_multiple/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Politico survey finds 84% of EU people distrust US tech companies to handle their personal data responsibly, rising to 93% distrust for Chinese tech firms</title>
-      <link>https://www.reddit.com/r/technology/comments/1sje945/politico_survey_finds_84_of_eu_people_distrust_us/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sje945/politico_survey_finds_84_of_eu_people_distrust_us/</guid>
-      <pubDate>2026-04-12T13:14:50+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sje945/politico_survey_finds_84_of_eu_people_distrust_us/&quot;&gt; &lt;img alt=&quot;Politico survey finds 84% of EU people distrust US tech companies to handle their personal data responsibly, rising to 93% distrust for Chinese tech firms&quot; src=&quot;https://external-preview.redd.it/oW0pCrOEI5gYJBgb0qywmrHkBGCd0-xRHCZO3v1XwT8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cc3c1acaa3ca78b14fc3f21a0575d05f5522535a&quot; title=&quot;Politico survey finds 84% of EU people distrust US tech companies to handle their personal data responsibly, rising to 93% distrust for Chinese tech firms&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sr_local&quot;&gt; /u/sr_local &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.politico.eu/article/8-in-10-europeans-dont-trust-us-chinese-firms-with-data/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sje945/politico_survey_finds_84_of_eu_people_distrust_us/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Palantir CEO says AI 'will destroy' humanities jobs</title>
-      <link>https://www.reddit.com/r/technology/comments/1sj4l63/palantir_ceo_says_ai_will_destroy_humanities_jobs/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sj4l63/palantir_ceo_says_ai_will_destroy_humanities_jobs/</guid>
-      <pubDate>2026-04-12T04:29:45+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sj4l63/palantir_ceo_says_ai_will_destroy_humanities_jobs/&quot;&gt; &lt;img alt=&quot;Palantir CEO says AI 'will destroy' humanities jobs&quot; src=&quot;https://external-preview.redd.it/GdRROjdUwHz5yU_xpcvWGXXLyu336QNsT-x_lRPq88Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=09d7b9b5534ff2bb7c7417440836cebad50ec3a3&quot; title=&quot;Palantir CEO says AI 'will destroy' humanities jobs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/BusyHands_&quot;&gt; /u/BusyHands_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sj4l63/palantir_ceo_says_ai_will_destroy_humanities_jobs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] The AI revolution in math has arrived</title>
+      <link>https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/</link>
+      <guid isPermaLink="true">https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/</guid>
+      <pubDate>Mon, 13 Apr 2026 23:26:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
