@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 14 Apr 2026 02:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 02:48:32 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Lean proved this program correct; then I found a bug</title>
-      <link>https://kirancodes.me/posts/log-who-watches-the-watchers.html</link>
-      <guid isPermaLink="true">https://kirancodes.me/posts/log-who-watches-the-watchers.html</guid>
-      <pubDate>Tue, 14 Apr 2026 00:25:08 +0000</pubDate>
+      <title>[HN] OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports</title>
+      <link>https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/</link>
+      <guid isPermaLink="true">https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/</guid>
+      <pubDate>Wed, 15 Apr 2026 01:36:22 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Why it’s impossible to measure England’s coastline</title>
-      <link>https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline</link>
-      <guid isPermaLink="true">https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline</guid>
-      <pubDate>Mon, 13 Apr 2026 23:44:10 +0000</pubDate>
+      <title>[HN] The FCC just saved Netgear from its router ban for no obvious reason</title>
+      <link>https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval</guid>
+      <pubDate>Wed, 15 Apr 2026 01:07:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] SnapState - Persistent state for AI agent workflows</title>
-      <link>https://snapstate.dev</link>
-      <guid isPermaLink="true">https://snapstate.dev</guid>
-      <pubDate>Mon, 13 Apr 2026 23:42:32 +0000</pubDate>
+      <title>[HN] Apple App Store threatened to remove Grok over deepfakes: Letter</title>
+      <link>https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677</guid>
+      <pubDate>Tue, 14 Apr 2026 23:41:43 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] WiiFin – Jellyfin Client for Nintendo Wii</title>
-      <link>https://github.com/fabienmillet/WiiFin</link>
-      <guid isPermaLink="true">https://github.com/fabienmillet/WiiFin</guid>
-      <pubDate>Mon, 13 Apr 2026 23:33:18 +0000</pubDate>
+      <title>[HN] Fuck the cloud (2009)</title>
+      <link>https://ascii.textfiles.com/archives/1717</link>
+      <guid isPermaLink="true">https://ascii.textfiles.com/archives/1717</guid>
+      <pubDate>Tue, 14 Apr 2026 22:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The AI revolution in math has arrived</title>
-      <link>https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/</link>
-      <guid isPermaLink="true">https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/</guid>
-      <pubDate>Mon, 13 Apr 2026 23:26:04 +0000</pubDate>
+      <title>[HN] Stop Flock</title>
+      <link>https://stopflock.com</link>
+      <guid isPermaLink="true">https://stopflock.com</guid>
+      <pubDate>Tue, 14 Apr 2026 21:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
