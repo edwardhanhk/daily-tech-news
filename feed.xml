@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 15 Apr 2026 02:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:55:36 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports</title>
-      <link>https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/</guid>
-      <pubDate>Wed, 15 Apr 2026 01:36:22 +0000</pubDate>
+      <title>[HN] The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks</title>
+      <link>https://zenodo.org/records/19600206</link>
+      <guid isPermaLink="true">https://zenodo.org/records/19600206</guid>
+      <pubDate>Wed, 15 Apr 2026 23:42:06 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The FCC just saved Netgear from its router ban for no obvious reason</title>
-      <link>https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval</guid>
-      <pubDate>Wed, 15 Apr 2026 01:07:19 +0000</pubDate>
+      <title>[HN] Arguing with Agents</title>
+      <link>https://blowmage.com/2026/04/14/arguing-with-agents/</link>
+      <guid isPermaLink="true">https://blowmage.com/2026/04/14/arguing-with-agents/</guid>
+      <pubDate>Thu, 16 Apr 2026 02:13:23 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Apple App Store threatened to remove Grok over deepfakes: Letter</title>
-      <link>https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677</link>
-      <guid isPermaLink="true">https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677</guid>
-      <pubDate>Tue, 14 Apr 2026 23:41:43 +0000</pubDate>
+      <title>[HN] Keycard – inject API keys into subprocesses, never touch shell env</title>
+      <link>https://www.keycard.studio/</link>
+      <guid isPermaLink="true">https://www.keycard.studio/</guid>
+      <pubDate>Thu, 16 Apr 2026 01:37:49 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Fuck the cloud (2009)</title>
-      <link>https://ascii.textfiles.com/archives/1717</link>
-      <guid isPermaLink="true">https://ascii.textfiles.com/archives/1717</guid>
-      <pubDate>Tue, 14 Apr 2026 22:00:11 +0000</pubDate>
+      <title>[HN] A Better Ludum Dare; Or, How to Ruin a Legacy</title>
+      <link>https://ldjam.com/events/ludum-dare/59/$425291/$425292</link>
+      <guid isPermaLink="true">https://ldjam.com/events/ludum-dare/59/$425291/$425292</guid>
+      <pubDate>Thu, 16 Apr 2026 01:25:33 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Stop Flock</title>
-      <link>https://stopflock.com</link>
-      <guid isPermaLink="true">https://stopflock.com</guid>
-      <pubDate>Tue, 14 Apr 2026 21:56:05 +0000</pubDate>
+      <title>[HN] Amazon AI Cancelling Webcomics</title>
+      <link>http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html</link>
+      <guid isPermaLink="true">http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html</guid>
+      <pubDate>Thu, 16 Apr 2026 00:52:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
