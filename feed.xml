@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 18 Apr 2026 02:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 03:16:32 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Casus Belli Engineering</title>
-      <link>https://marcosmagueta.com/blog/casus-belli-engineering/</link>
-      <guid isPermaLink="true">https://marcosmagueta.com/blog/casus-belli-engineering/</guid>
-      <pubDate>Sat, 18 Apr 2026 01:14:02 +0000</pubDate>
+      <title>[HN] Surely no brand is more hated by web users that Cloudflare</title>
+      <link>https://news.ycombinator.com/item?id=47821232</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47821232</guid>
+      <pubDate>Sun, 19 Apr 2026 02:06:43 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Generating Hierarchical JSON Representations of Scientific Sentences Using LLMs</title>
-      <link>https://arxiv.org/abs/2603.23532</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.23532</guid>
-      <pubDate>Sat, 18 Apr 2026 00:17:23 +0000</pubDate>
+      <title>[HN] NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating</title>
+      <link>https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/</link>
+      <guid isPermaLink="true">https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/</guid>
+      <pubDate>Sat, 18 Apr 2026 23:47:45 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] How to Host a Blog on a Subdirectory Instead of a Subdomain</title>
-      <link>https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/</link>
-      <guid isPermaLink="true">https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/</guid>
-      <pubDate>Fri, 17 Apr 2026 22:53:18 +0000</pubDate>
+      <title>[HN] Zero-Copy GPU Inference from WebAssembly on Apple Silicon</title>
+      <link>https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/</link>
+      <guid isPermaLink="true">https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/</guid>
+      <pubDate>Sat, 18 Apr 2026 22:46:13 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Landmark ancient-genome study shows surprise acceleration of human evolution</title>
-      <link>https://www.nature.com/articles/d41586-026-01204-5</link>
-      <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01204-5</guid>
-      <pubDate>Fri, 17 Apr 2026 22:30:28 +0000</pubDate>
+      <title>[HN] Dad brains: How fatherhood rewires the male mind</title>
+      <link>https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare</link>
+      <guid isPermaLink="true">https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare</guid>
+      <pubDate>Sat, 18 Apr 2026 22:24:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A simplified model of Fil-C</title>
-      <link>https://www.corsix.org/content/simplified-model-of-fil-c</link>
-      <guid isPermaLink="true">https://www.corsix.org/content/simplified-model-of-fil-c</guid>
-      <pubDate>Fri, 17 Apr 2026 21:38:20 +0000</pubDate>
+      <title>[HN] My first impressions on ROCm and Strix Halo</title>
+      <link>https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/</link>
+      <guid isPermaLink="true">https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/</guid>
+      <pubDate>Sat, 18 Apr 2026 21:50:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
