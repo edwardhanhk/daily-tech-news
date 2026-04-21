@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 20 Apr 2026 03:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:52:34 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] The insider trading suspicions looming over Trump's presidency</title>
-      <link>https://www.bbc.com/news/articles/cge0grppe3po</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cge0grppe3po</guid>
-      <pubDate>Mon, 20 Apr 2026 01:50:35 +0000</pubDate>
+      <title>[HN] KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit</title>
+      <link>https://arxiv.org/abs/2604.15356</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.15356</guid>
+      <pubDate>Tue, 21 Apr 2026 02:11:14 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Claude Token Counter, now with model comparisons</title>
-      <link>https://simonwillison.net/2026/Apr/20/claude-token-counts/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/claude-token-counts/</guid>
-      <pubDate>Mon, 20 Apr 2026 00:56:40 +0000</pubDate>
+      <title>[HN] How to Make a Fast Dynamic Language Interpreter</title>
+      <link>https://zef-lang.dev/implementation</link>
+      <guid isPermaLink="true">https://zef-lang.dev/implementation</guid>
+      <pubDate>Tue, 21 Apr 2026 00:48:07 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Canada's PM calls economic ties with US a weakness that must be corrected</title>
-      <link>https://abcnews.com/Business/wireStory/canadas-prime-minister-economic-ties-us-weakness-corrected-132187806</link>
-      <guid isPermaLink="true">https://abcnews.com/Business/wireStory/canadas-prime-minister-economic-ties-us-weakness-corrected-132187806</guid>
-      <pubDate>Mon, 20 Apr 2026 00:27:58 +0000</pubDate>
+      <title>[HN] Even 'uncensored' models can't say what they want</title>
+      <link>https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html</link>
+      <guid isPermaLink="true">https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html</guid>
+      <pubDate>Mon, 20 Apr 2026 22:43:29 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: A lightweight way to make agents talk without paying for API usage</title>
-      <link>https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/</link>
-      <guid isPermaLink="true">https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/</guid>
-      <pubDate>Mon, 20 Apr 2026 00:21:24 +0000</pubDate>
+      <title>[HN] Monero Community Crowdfunding System</title>
+      <link>https://ccs.getmonero.org/ideas/</link>
+      <guid isPermaLink="true">https://ccs.getmonero.org/ideas/</guid>
+      <pubDate>Mon, 20 Apr 2026 21:33:15 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed</title>
-      <link>https://github.com/shivampkumar/trellis-mac</link>
-      <guid isPermaLink="true">https://github.com/shivampkumar/trellis-mac</guid>
-      <pubDate>Mon, 20 Apr 2026 00:07:16 +0000</pubDate>
+      <title>[HN] Jujutsu megamerges for fun and profit</title>
+      <link>https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit</link>
+      <guid isPermaLink="true">https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit</guid>
+      <pubDate>Mon, 20 Apr 2026 21:32:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
