@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 23 Apr 2026 02:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 02:54:52 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Approximating Hyperbolic Tangent</title>
-      <link>https://jtomschroeder.com/blog/approximating-tanh/</link>
-      <guid isPermaLink="true">https://jtomschroeder.com/blog/approximating-tanh/</guid>
-      <pubDate>Wed, 22 Apr 2026 23:46:38 +0000</pubDate>
+      <title>[HN] Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases</title>
+      <link>https://github.com/refactoringhq/tolaria</link>
+      <guid isPermaLink="true">https://github.com/refactoringhq/tolaria</guid>
+      <pubDate>Thu, 23 Apr 2026 22:01:59 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Bring your own Agent to MS Teams</title>
-      <link>https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/</link>
-      <guid isPermaLink="true">https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/</guid>
-      <pubDate>Wed, 22 Apr 2026 22:25:28 +0000</pubDate>
+      <title>[HN] TorchTPU: Running PyTorch Natively on TPUs at Google Scale</title>
+      <link>https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/</link>
+      <guid isPermaLink="true">https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/</guid>
+      <pubDate>Thu, 23 Apr 2026 20:53:27 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The Neon King of New Orleans</title>
-      <link>https://gardenandgun.com/new-orleans-neon-king</link>
-      <guid isPermaLink="true">https://gardenandgun.com/new-orleans-neon-king</guid>
-      <pubDate>Wed, 22 Apr 2026 21:26:38 +0000</pubDate>
+      <title>[HN] Using the internet like it's 1999</title>
+      <link>https://joshblais.com/blog/using-the-internet-like-its-1999/</link>
+      <guid isPermaLink="true">https://joshblais.com/blog/using-the-internet-like-its-1999/</guid>
+      <pubDate>Thu, 23 Apr 2026 20:14:29 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game</title>
-      <link>https://tempest.homemade.systems</link>
-      <guid isPermaLink="true">https://tempest.homemade.systems</guid>
-      <pubDate>Thu, 23 Apr 2026 01:02:32 +0000</pubDate>
+      <title>[HN] Girl, 10, finds rare Mexican axolotl under Welsh bridge</title>
+      <link>https://www.bbc.com/news/articles/c9d4zgnqpqeo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c9d4zgnqpqeo</guid>
+      <pubDate>Thu, 23 Apr 2026 19:09:40 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] OpenAI's response to the Axios developer tool compromise</title>
-      <link>https://openai.com/index/axios-developer-tool-compromise/</link>
-      <guid isPermaLink="true">https://openai.com/index/axios-developer-tool-compromise/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:45:01 +0000</pubDate>
+      <title>[HN] Why I Write by George Orwell</title>
+      <link>https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/</link>
+      <guid isPermaLink="true">https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/</guid>
+      <pubDate>Fri, 24 Apr 2026 02:26:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
