@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 25 Apr 2026 02:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 03:21:06 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Firefox Has Integrated Brave's Adblock Engine</title>
-      <link>https://itsfoss.com/news/firefox-ships-brave-adblock-engine/</link>
-      <guid isPermaLink="true">https://itsfoss.com/news/firefox-ships-brave-adblock-engine/</guid>
-      <pubDate>Sat, 25 Apr 2026 01:47:33 +0000</pubDate>
+      <title>[HN] Why has there been so little progress on Alzheimer's disease?</title>
+      <link>https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</link>
+      <guid isPermaLink="true">https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:12:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] &quot;Plain text has been around for decades and it's here to stay.&quot; – Unsung</title>
-      <link>https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/</guid>
-      <pubDate>Sat, 25 Apr 2026 01:03:09 +0000</pubDate>
+      <title>[HN] Her Life Savings Mysteriously Disappeared After a Systems Glitch</title>
+      <link>https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html</guid>
+      <pubDate>Sat, 25 Apr 2026 23:32:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Replace IBM Quantum back end with /dev/urandom</title>
-      <link>https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</link>
-      <guid isPermaLink="true">https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</guid>
-      <pubDate>Sat, 25 Apr 2026 00:58:38 +0000</pubDate>
+      <title>[HN] Colorado Adds Open-Source Exemption to Age-Verification Bill</title>
+      <link>https://fosstodon.org/@carlrichell/116460505717380644</link>
+      <guid isPermaLink="true">https://fosstodon.org/@carlrichell/116460505717380644</guid>
+      <pubDate>Sat, 25 Apr 2026 22:41:05 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Education must go beyond the mere production of words</title>
-      <link>https://www.ncregister.com/commentaries/schnell-repairing-the-ruins</link>
-      <guid isPermaLink="true">https://www.ncregister.com/commentaries/schnell-repairing-the-ruins</guid>
-      <pubDate>Sat, 25 Apr 2026 00:11:43 +0000</pubDate>
+      <title>[HN] USB Cheat Sheet (2022)</title>
+      <link>https://fabiensanglard.net/usbcheat/index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/usbcheat/index.html</guid>
+      <pubDate>Sat, 25 Apr 2026 21:51:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)</title>
-      <link>https://github.com/manankharwar/fusioncore</link>
-      <guid isPermaLink="true">https://github.com/manankharwar/fusioncore</guid>
-      <pubDate>Fri, 24 Apr 2026 22:36:38 +0000</pubDate>
+      <title>[HN] Can you stop beans from making you gassy?</title>
+      <link>https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862</link>
+      <guid isPermaLink="true">https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862</guid>
+      <pubDate>Sat, 25 Apr 2026 20:17:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
