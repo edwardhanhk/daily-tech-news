@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 27 Apr 2026 03:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 03:31:44 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Notepad++ for Mac</title>
-      <link>https://notepad-plus-plus-mac.org/</link>
-      <guid isPermaLink="true">https://notepad-plus-plus-mac.org/</guid>
-      <pubDate>Mon, 27 Apr 2026 02:06:33 +0000</pubDate>
+      <title>[HN] Open Weights Kill the Moat</title>
+      <link>https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/</link>
+      <guid isPermaLink="true">https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/</guid>
+      <pubDate>Tue, 28 Apr 2026 02:43:53 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] EvanFlow – A TDD driven feedback loop for Claude Code</title>
-      <link>https://github.com/evanklem/evanflow</link>
-      <guid isPermaLink="true">https://github.com/evanklem/evanflow</guid>
-      <pubDate>Mon, 27 Apr 2026 01:56:39 +0000</pubDate>
+      <title>[HN] Show HN: AgentSwift – Open-source iOS builder agent</title>
+      <link>https://github.com/hpennington/agentswift</link>
+      <guid isPermaLink="true">https://github.com/hpennington/agentswift</guid>
+      <pubDate>Tue, 28 Apr 2026 01:14:31 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] TurboQuant: A First-Principles Walkthrough</title>
-      <link>https://arkaung.github.io/interactive-turboquant/</link>
-      <guid isPermaLink="true">https://arkaung.github.io/interactive-turboquant/</guid>
-      <pubDate>Mon, 27 Apr 2026 01:54:32 +0000</pubDate>
+      <title>[HN] Ted Nyman – High Performance Git</title>
+      <link>https://gitperf.com/</link>
+      <guid isPermaLink="true">https://gitperf.com/</guid>
+      <pubDate>Tue, 28 Apr 2026 00:32:04 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: The Unix Magic poster, annotated (updated)</title>
-      <link>https://github.com/drio/unixmagic</link>
-      <guid isPermaLink="true">https://github.com/drio/unixmagic</guid>
-      <pubDate>Mon, 27 Apr 2026 01:32:44 +0000</pubDate>
+      <title>[HN] Integrated by Design</title>
+      <link>https://vivianvoss.net/blog/integrated-by-design-launch</link>
+      <guid isPermaLink="true">https://vivianvoss.net/blog/integrated-by-design-launch</guid>
+      <pubDate>Mon, 27 Apr 2026 23:14:26 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft</title>
-      <link>https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c</guid>
-      <pubDate>Mon, 27 Apr 2026 00:34:30 +0000</pubDate>
+      <title>[HN] Talkie: a 13B vintage language model from 1930</title>
+      <link>https://talkie-lm.com/introducing-talkie</link>
+      <guid isPermaLink="true">https://talkie-lm.com/introducing-talkie</guid>
+      <pubDate>Mon, 27 Apr 2026 21:55:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
