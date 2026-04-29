@@ -4,37 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 28 Apr 2026 03:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:30:10 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Open Weights Kill the Moat</title>
-      <link>https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/</link>
-      <guid isPermaLink="true">https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/</guid>
-      <pubDate>Tue, 28 Apr 2026 02:43:53 +0000</pubDate>
+      <title>[HN] We decreased our LLM costs with Opus</title>
+      <link>https://www.mendral.com/blog/frontier-model-lower-costs</link>
+      <guid isPermaLink="true">https://www.mendral.com/blog/frontier-model-lower-costs</guid>
+      <pubDate>Wed, 29 Apr 2026 00:57:12 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: AgentSwift – Open-source iOS builder agent</title>
-      <link>https://github.com/hpennington/agentswift</link>
-      <guid isPermaLink="true">https://github.com/hpennington/agentswift</guid>
-      <pubDate>Tue, 28 Apr 2026 01:14:31 +0000</pubDate>
+      <title>[HN] Claude system prompt bug wastes user money and bricks managed agents</title>
+      <link>https://github.com/anthropics/claude-code/issues/49363</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/49363</guid>
+      <pubDate>Tue, 28 Apr 2026 23:59:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Ted Nyman – High Performance Git</title>
-      <link>https://gitperf.com/</link>
-      <guid isPermaLink="true">https://gitperf.com/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:32:04 +0000</pubDate>
+      <title>[HN] How ChatGPT serves ads</title>
+      <link>https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</link>
+      <guid isPermaLink="true">https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</guid>
+      <pubDate>Tue, 28 Apr 2026 23:54:14 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Integrated by Design</title>
-      <link>https://vivianvoss.net/blog/integrated-by-design-launch</link>
-      <guid isPermaLink="true">https://vivianvoss.net/blog/integrated-by-design-launch</guid>
-      <pubDate>Mon, 27 Apr 2026 23:14:26 +0000</pubDate>
+      <title>[HN] Claude for Creative Work</title>
+      <link>https://www.anthropic.com/news/claude-for-creative-work</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-creative-work</guid>
+      <pubDate>Tue, 28 Apr 2026 23:46:56 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Talkie: a 13B vintage language model from 1930</title>
-      <link>https://talkie-lm.com/introducing-talkie</link>
-      <guid isPermaLink="true">https://talkie-lm.com/introducing-talkie</guid>
-      <pubDate>Mon, 27 Apr 2026 21:55:48 +0000</pubDate>
+      <title>[HN] Apple CMF (Color-Matching Functions) 2026</title>
+      <link>https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results</link>
+      <guid isPermaLink="true">https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results</guid>
+      <pubDate>Tue, 28 Apr 2026 23:43:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/technology] FCC orders review of ABC licenses after Kimmel joke offends U.S President and first lady | Kimmel joke calling Melania an “expectant widow” followed quickly by FCC order.</title>
+      <link>https://www.reddit.com/r/technology/comments/1sydqbp/fcc_orders_review_of_abc_licenses_after_kimmel/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sydqbp/fcc_orders_review_of_abc_licenses_after_kimmel/</guid>
+      <pubDate>2026-04-28T20:45:54+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sydqbp/fcc_orders_review_of_abc_licenses_after_kimmel/&quot;&gt; &lt;img alt=&quot;FCC orders review of ABC licenses after Kimmel joke offends U.S President and first lady | Kimmel joke calling Melania an “expectant widow” followed quickly by FCC order.&quot; src=&quot;https://external-preview.redd.it/hdpp2jVc1K-mkAB1C9HqNhN_NMb9V1JFe45lDR42dHs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f059f429ab33d4bce4cd42ee522f9f5acb738ad6&quot; title=&quot;FCC orders review of ABC licenses after Kimmel joke offends U.S President and first lady | Kimmel joke calling Melania an “expectant widow” followed quickly by FCC order.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sydqbp/fcc_orders_review_of_abc_licenses_after_kimmel/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Market slumps as OpenAI reportedly misses internal targets for active users and revenue</title>
+      <link>https://www.reddit.com/r/technology/comments/1sy9kav/market_slumps_as_openai_reportedly_misses/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sy9kav/market_slumps_as_openai_reportedly_misses/</guid>
+      <pubDate>2026-04-28T18:17:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sy9kav/market_slumps_as_openai_reportedly_misses/&quot;&gt; &lt;img alt=&quot;Market slumps as OpenAI reportedly misses internal targets for active users and revenue&quot; src=&quot;https://external-preview.redd.it/4gbLqaM2KlzQUQxiFzOXefm8kzflhlPbORU9ETa23c0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0cbc3b63b350000bdf559ecf7ea35a60d29b1852&quot; title=&quot;Market slumps as OpenAI reportedly misses internal targets for active users and revenue&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/circuitloss&quot;&gt; /u/circuitloss &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/market-slumps-as-openai-reportedly-misses-internal-targets-for-active-users-and-revenue-nvidia-oracle-amd-and-coreweave-shares-all-tremble-on-the-news&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sy9kav/market_slumps_as_openai_reportedly_misses/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Six AI data centers proposed for a small town of 7,000, equal to 51 Walmart Supercenters in 17 square mile area — four out of the seven town council members have resigned from their positions as town fights back</title>
+      <link>https://www.reddit.com/r/technology/comments/1sy190x/six_ai_data_centers_proposed_for_a_small_town_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sy190x/six_ai_data_centers_proposed_for_a_small_town_of/</guid>
+      <pubDate>2026-04-28T13:19:55+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sy190x/six_ai_data_centers_proposed_for_a_small_town_of/&quot;&gt; &lt;img alt=&quot;Six AI data centers proposed for a small town of 7,000, equal to 51 Walmart Supercenters in 17 square mile area — four out of the seven town council members have resigned from their positions as town fights back&quot; src=&quot;https://external-preview.redd.it/tZAg-6YUZtyTNQglPVxky7mQ9Lv-7gMT4DhSl7bxZE0.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5f0bf73ad3f29449c1b1ea3214732740259cb8e1&quot; title=&quot;Six AI data centers proposed for a small town of 7,000, equal to 51 Walmart Supercenters in 17 square mile area — four out of the seven town council members have resigned from their positions as town fights back&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/desktops/servers/six-ai-data-centers-proposed-for-a-small-town-of-7-000-equal-to-51-walmart-supercenters-in-17-square-mile-area-four-out-of-the-seven-town-council-members-have-resigned-from-their-positions-as-town-fights-back&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sy190x/six_ai_data_centers_proposed_for_a_small_town_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved</title>
+      <link>https://www.reddit.com/r/technology/comments/1sxud96/new_ai_data_center_in_utah_will_generate_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sxud96/new_ai_data_center_in_utah_will_generate_and/</guid>
+      <pubDate>2026-04-28T07:29:37+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sxud96/new_ai_data_center_in_utah_will_generate_and/&quot;&gt; &lt;img alt=&quot;New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved&quot; src=&quot;https://external-preview.redd.it/VePKCiQ3JIViroTlWHzw1Sp0dd984lkrDPtV2O-JWXw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=523441a638d1f50662dbab27df2d913968b93f38&quot; title=&quot;New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lkl34&quot;&gt; /u/lkl34 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/kevin-o-learys-9-gw-utah-data-center-campus-approved&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sxud96/new_ai_data_center_in_utah_will_generate_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] One Disney employee calls Claude 51,000 times a day. Internal docs reveal how the Mouse House uses AI.</title>
+      <link>https://www.reddit.com/r/technology/comments/1sxu24v/one_disney_employee_calls_claude_51000_times_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1sxu24v/one_disney_employee_calls_claude_51000_times_a/</guid>
+      <pubDate>2026-04-28T07:11:46+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sxu24v/one_disney_employee_calls_claude_51000_times_a/&quot;&gt; &lt;img alt=&quot;One Disney employee calls Claude 51,000 times a day. Internal docs reveal how the Mouse House uses AI.&quot; src=&quot;https://external-preview.redd.it/gAYbDzObitT4LKejtCfLH90nhpWtI0F5d-gKkpJ7lRE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8fb466fd5dc0876de958dd9991ff390405336f9d&quot; title=&quot;One Disney employee calls Claude 51,000 times a day. Internal docs reveal how the Mouse House uses AI.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/how-disney-tech-employees-are-using-ai-claude-cursor-tokens-2026-4&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1sxu24v/one_disney_employee_calls_claude_51000_times_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
