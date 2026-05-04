@@ -4,72 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 03 May 2026 03:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 03:32:05 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Open Source Does Not Imply Open Community</title>
-      <link>https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/</link>
-      <guid isPermaLink="true">https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/</guid>
-      <pubDate>Sun, 03 May 2026 02:36:09 +0000</pubDate>
+      <title>[HN] The text mode lie: why modern TUIs are a nightmare for accessibility</title>
+      <link>https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</link>
+      <guid isPermaLink="true">https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</guid>
+      <pubDate>Sun, 03 May 2026 23:59:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores</title>
-      <link>https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html</guid>
-      <pubDate>Sun, 03 May 2026 01:24:09 +0000</pubDate>
+      <title>[HN] Let's Buy Spirit Air</title>
+      <link>https://letsbuyspiritair.com/</link>
+      <guid isPermaLink="true">https://letsbuyspiritair.com/</guid>
+      <pubDate>Sun, 03 May 2026 23:36:11 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Clandestine network smuggling Starlink tech into Iran to beat internet blackout</title>
-      <link>https://www.bbc.com/news/articles/cvgzk91leweo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cvgzk91leweo</guid>
-      <pubDate>Sun, 03 May 2026 01:22:41 +0000</pubDate>
+      <title>[HN] The 'Hidden' Costs of Great Abstractions</title>
+      <link>https://jdgr.net/the-hidden-costs-of-great-abstractions</link>
+      <guid isPermaLink="true">https://jdgr.net/the-hidden-costs-of-great-abstractions</guid>
+      <pubDate>Sun, 03 May 2026 23:12:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Am I the only one who hates delivery robots?</title>
-      <link>https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban</link>
-      <guid isPermaLink="true">https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban</guid>
-      <pubDate>Sun, 03 May 2026 00:31:58 +0000</pubDate>
+      <title>[HN] Agentic Coding Is a Trap</title>
+      <link>https://larsfaye.com/articles/agentic-coding-is-a-trap</link>
+      <guid isPermaLink="true">https://larsfaye.com/articles/agentic-coding-is-a-trap</guid>
+      <pubDate>Sun, 03 May 2026 22:52:07 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A Couple Million Lines of Haskell: Production Engineering at Mercury</title>
-      <link>https://blog.haskell.org/a-couple-million-lines-of-haskell/</link>
-      <guid isPermaLink="true">https://blog.haskell.org/a-couple-million-lines-of-haskell/</guid>
-      <pubDate>Sun, 03 May 2026 00:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/technology] Apple Was Caught Off Guard by MacBook Neo's &quot;Off the Charts&quot; Demand</title>
-      <link>https://www.reddit.com/r/technology/comments/1t2498y/apple_was_caught_off_guard_by_macbook_neos_off/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t2498y/apple_was_caught_off_guard_by_macbook_neos_off/</guid>
-      <pubDate>2026-05-02T22:48:09+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t2498y/apple_was_caught_off_guard_by_macbook_neos_off/&quot;&gt; &lt;img alt=&quot;Apple Was Caught Off Guard by MacBook Neo's &amp;quot;Off the Charts&amp;quot; Demand&quot; src=&quot;https://external-preview.redd.it/xvy-2uv5Jh22m7c2PDQNlyd83Taxg-kjeUDR97enF8Y.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=de8a94df108f86a2f1ba7533c8099a202b577e89&quot; title=&quot;Apple Was Caught Off Guard by MacBook Neo's &amp;quot;Off the Charts&amp;quot; Demand&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t2498y/apple_was_caught_off_guard_by_macbook_neos_off/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] FCC votes to ban all Chinese labs from certifying electronics sold in the US due to national security concerns — ruling would affect 75 percent of US-bound devices</title>
-      <link>https://www.reddit.com/r/technology/comments/1t22tm2/fcc_votes_to_ban_all_chinese_labs_from_certifying/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t22tm2/fcc_votes_to_ban_all_chinese_labs_from_certifying/</guid>
-      <pubDate>2026-05-02T21:47:21+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t22tm2/fcc_votes_to_ban_all_chinese_labs_from_certifying/&quot;&gt; &lt;img alt=&quot;FCC votes to ban all Chinese labs from certifying electronics sold in the US due to national security concerns — ruling would affect 75 percent of US-bound devices&quot; src=&quot;https://external-preview.redd.it/640RbA8aBiBD6juDgJ2EWqXI3jrvDm5_UPoeXvNynfg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=75f68d0cf47ea34f500362a8aa4400fc6ad9ee35&quot; title=&quot;FCC votes to ban all Chinese labs from certifying electronics sold in the US due to national security concerns — ruling would affect 75 percent of US-bound devices&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/kthxhello&quot;&gt; /u/kthxhello &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/fcc-votes-to-ban-all-chinese-labs-from-certifying-electronics-sold-in-the-us&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t22tm2/fcc_votes_to_ban_all_chinese_labs_from_certifying/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] San Jose passenger claims a Waymo drove off with his luggage at the airport | A man says the Waymo he rode to San Jose Mineta Airport drove away with his luggage in the trunk</title>
-      <link>https://www.reddit.com/r/technology/comments/1t21rtt/san_jose_passenger_claims_a_waymo_drove_off_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t21rtt/san_jose_passenger_claims_a_waymo_drove_off_with/</guid>
-      <pubDate>2026-05-02T21:04:38+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t21rtt/san_jose_passenger_claims_a_waymo_drove_off_with/&quot;&gt; &lt;img alt=&quot;San Jose passenger claims a Waymo drove off with his luggage at the airport | A man says the Waymo he rode to San Jose Mineta Airport drove away with his luggage in the trunk&quot; src=&quot;https://external-preview.redd.it/_-2WaMwseClF9wqPRB8YtsU9_3FZHbUrCX9RMSrD1bg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b1a7748f2fa47d4c817ecaff7d42dcb1d2e11b5&quot; title=&quot;San Jose passenger claims a Waymo drove off with his luggage at the airport | A man says the Waymo he rode to San Jose Mineta Airport drove away with his luggage in the trunk&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hrmbee&quot;&gt; /u/Hrmbee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nbcbayarea.com/news/local/sj-passenger-waymo-drove-off-luggage/4078004/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t21rtt/san_jose_passenger_claims_a_waymo_drove_off_with/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Ask.com shuts down after nearly 30 years, marking the end of Ask Jeeves</title>
-      <link>https://www.reddit.com/r/technology/comments/1t1v6h1/askcom_shuts_down_after_nearly_30_years_marking/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t1v6h1/askcom_shuts_down_after_nearly_30_years_marking/</guid>
-      <pubDate>2026-05-02T16:53:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t1v6h1/askcom_shuts_down_after_nearly_30_years_marking/&quot;&gt; &lt;img alt=&quot;Ask.com shuts down after nearly 30 years, marking the end of Ask Jeeves&quot; src=&quot;https://external-preview.redd.it/FYiaoXa079xqj76HCIsRNgP6D25D2t4xjxa0UQoAcoI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6992cf86ced36655e96d329b1f08cb1b6db594cb&quot; title=&quot;Ask.com shuts down after nearly 30 years, marking the end of Ask Jeeves&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/holyfruits&quot;&gt; /u/holyfruits &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://piunikaweb.com/2026/05/02/ask-com-shuts-down-after-nearly-30-years/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t1v6h1/askcom_shuts_down_after_nearly_30_years_marking/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] MIT AI expert warns automating Gen Z entry-level jobs could backfire—and cost companies their future workforce</title>
-      <link>https://www.reddit.com/r/technology/comments/1t1flve/mit_ai_expert_warns_automating_gen_z_entrylevel/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t1flve/mit_ai_expert_warns_automating_gen_z_entrylevel/</guid>
-      <pubDate>2026-05-02T04:19:12+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t1flve/mit_ai_expert_warns_automating_gen_z_entrylevel/&quot;&gt; &lt;img alt=&quot;MIT AI expert warns automating Gen Z entry-level jobs could backfire—and cost companies their future workforce&quot; src=&quot;https://external-preview.redd.it/2X7nooeH9XmoXVK_LcD7-Fm4tkivXopPQHxNhmx6HVc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=32bca57d27a4ff5557b83549725fe420affa6af8&quot; title=&quot;MIT AI expert warns automating Gen Z entry-level jobs could backfire—and cost companies their future workforce&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/05/01/automating-gen-z-entry-level-jobs-could-backfire-mit-ai-researcher-andrew-mcafee-talent-pipelines-at-risk/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t1flve/mit_ai_expert_warns_automating_gen_z_entrylevel/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] Coffee appears to rewire the gut-brain connection</title>
+      <link>https://www.sciencedaily.com/releases/2026/05/260502233911.htm</link>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2026/05/260502233911.htm</guid>
+      <pubDate>Mon, 04 May 2026 02:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
