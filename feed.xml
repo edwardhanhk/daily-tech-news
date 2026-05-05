@@ -4,37 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 04 May 2026 03:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 03:19:47 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] The text mode lie: why modern TUIs are a nightmare for accessibility</title>
-      <link>https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</link>
-      <guid isPermaLink="true">https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</guid>
-      <pubDate>Sun, 03 May 2026 23:59:02 +0000</pubDate>
+      <title>[HN] What I'm Hearing About Cognitive Debt (So Far)</title>
+      <link>https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/</link>
+      <guid isPermaLink="true">https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/</guid>
+      <pubDate>Tue, 05 May 2026 02:08:21 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Let's Buy Spirit Air</title>
-      <link>https://letsbuyspiritair.com/</link>
-      <guid isPermaLink="true">https://letsbuyspiritair.com/</guid>
-      <pubDate>Sun, 03 May 2026 23:36:11 +0000</pubDate>
+      <title>[HN] Bun is being ported from Zig to Rust</title>
+      <link>https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</link>
+      <guid isPermaLink="true">https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</guid>
+      <pubDate>Tue, 05 May 2026 01:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The 'Hidden' Costs of Great Abstractions</title>
-      <link>https://jdgr.net/the-hidden-costs-of-great-abstractions</link>
-      <guid isPermaLink="true">https://jdgr.net/the-hidden-costs-of-great-abstractions</guid>
-      <pubDate>Sun, 03 May 2026 23:12:02 +0000</pubDate>
+      <title>[HN] Y Combinator's Stake in OpenAI (0.6%)</title>
+      <link>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/y_combinators_stake_in_openai</guid>
+      <pubDate>Tue, 05 May 2026 00:09:01 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Agentic Coding Is a Trap</title>
-      <link>https://larsfaye.com/articles/agentic-coding-is-a-trap</link>
-      <guid isPermaLink="true">https://larsfaye.com/articles/agentic-coding-is-a-trap</guid>
-      <pubDate>Sun, 03 May 2026 22:52:07 +0000</pubDate>
+      <title>[HN] SprintiQ – open-source sprint planning for Claude Code</title>
+      <link>https://github.com/SprintiQ-Incorporated/sprintiq</link>
+      <guid isPermaLink="true">https://github.com/SprintiQ-Incorporated/sprintiq</guid>
+      <pubDate>Mon, 04 May 2026 22:52:48 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Coffee appears to rewire the gut-brain connection</title>
-      <link>https://www.sciencedaily.com/releases/2026/05/260502233911.htm</link>
-      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2026/05/260502233911.htm</guid>
-      <pubDate>Mon, 04 May 2026 02:15:32 +0000</pubDate>
+      <title>[HN] Agent Skills</title>
+      <link>https://addyosmani.com/blog/agent-skills/</link>
+      <guid isPermaLink="true">https://addyosmani.com/blog/agent-skills/</guid>
+      <pubDate>Mon, 04 May 2026 21:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/technology] Peter Thiel backs $1bn ocean data centre start-up powered by waves</title>
+      <link>https://www.reddit.com/r/technology/comments/1t3ycwq/peter_thiel_backs_1bn_ocean_data_centre_startup/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t3ycwq/peter_thiel_backs_1bn_ocean_data_centre_startup/</guid>
+      <pubDate>2026-05-04T23:27:19+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t3ycwq/peter_thiel_backs_1bn_ocean_data_centre_startup/&quot;&gt; &lt;img alt=&quot;Peter Thiel backs $1bn ocean data centre start-up powered by waves&quot; src=&quot;https://external-preview.redd.it/F00B179q9nb3KQn8aWGyzSxv3wXvfpESdfgKIXvimKs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0d736e1fccc0b4a6f2aae9926ec6a64bb579c25d&quot; title=&quot;Peter Thiel backs $1bn ocean data centre start-up powered by waves&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/GeneReddit123&quot;&gt; /u/GeneReddit123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39?syn-25a6b1a6=1&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t3ycwq/peter_thiel_backs_1bn_ocean_data_centre_startup/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Some children are drawing on fake moustaches to bypass online age checks, report says</title>
+      <link>https://www.reddit.com/r/technology/comments/1t3my5g/some_children_are_drawing_on_fake_moustaches_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t3my5g/some_children_are_drawing_on_fake_moustaches_to/</guid>
+      <pubDate>2026-05-04T16:35:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t3my5g/some_children_are_drawing_on_fake_moustaches_to/&quot;&gt; &lt;img alt=&quot;Some children are drawing on fake moustaches to bypass online age checks, report says&quot; src=&quot;https://external-preview.redd.it/t2qoPCaoYMLbOrk7YdJNuIt9LT3_FLUvHZv1NMFZHAs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=661e9627cd9363d32ecec6f04e54a41b42366761&quot; title=&quot;Some children are drawing on fake moustaches to bypass online age checks, report says&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/seeebiscuit&quot;&gt; /u/seeebiscuit &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.the-independent.com/news/uk/home-news/children-bypassing-age-verification-social-media-b2968803.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t3my5g/some_children_are_drawing_on_fake_moustaches_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] A college student is suing a dating app that allegedly used her TikTok videos to target men in her dormitory</title>
+      <link>https://www.reddit.com/r/technology/comments/1t3m9a8/a_college_student_is_suing_a_dating_app_that/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t3m9a8/a_college_student_is_suing_a_dating_app_that/</guid>
+      <pubDate>2026-05-04T16:11:16+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t3m9a8/a_college_student_is_suing_a_dating_app_that/&quot;&gt; &lt;img alt=&quot;A college student is suing a dating app that allegedly used her TikTok videos to target men in her dormitory&quot; src=&quot;https://external-preview.redd.it/dhDhyARgumdp6aIo6onDLze81T3YGULdNClScfLeEnM.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2efabf1a313245c4924fbca43e6e838f286a8e03&quot; title=&quot;A college student is suing a dating app that allegedly used her TikTok videos to target men in her dormitory&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/drewchainzz&quot;&gt; /u/drewchainzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://cyberscoop.com/meete-dating-app-lawsuit-geofencing-tiktok-misappropriation/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t3m9a8/a_college_student_is_suing_a_dating_app_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] The Audio Industry Is Grappling with the Rise of ‘Podslop’ | Over the past nine days, 39% of new podcasts were likely AI-generated, according to the Podcast Index</title>
+      <link>https://www.reddit.com/r/technology/comments/1t3gv22/the_audio_industry_is_grappling_with_the_rise_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t3gv22/the_audio_industry_is_grappling_with_the_rise_of/</guid>
+      <pubDate>2026-05-04T12:54:19+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t3gv22/the_audio_industry_is_grappling_with_the_rise_of/&quot;&gt; &lt;img alt=&quot;The Audio Industry Is Grappling with the Rise of ‘Podslop’ | Over the past nine days, 39% of new podcasts were likely AI-generated, according to the Podcast Index&quot; src=&quot;https://external-preview.redd.it/Cd7AUG-bIrg-7k7_d3DHXkbeyF4YU1hmurH2fpMmUrc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8028cd7ef69e6a40c0395a3229ab66a2e3d4a884&quot; title=&quot;The Audio Industry Is Grappling with the Rise of ‘Podslop’ | Over the past nine days, 39% of new podcasts were likely AI-generated, according to the Podcast Index&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hrmbee&quot;&gt; /u/Hrmbee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.bloomberg.com/news/newsletters/2026-04-30/-podslop-proliferation-is-challenging-the-audio-industry&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t3gv22/the_audio_industry_is_grappling_with_the_rise_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] AI models are choking on junk data</title>
+      <link>https://www.reddit.com/r/technology/comments/1t39bxd/ai_models_are_choking_on_junk_data/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t39bxd/ai_models_are_choking_on_junk_data/</guid>
+      <pubDate>2026-05-04T06:11:00+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t39bxd/ai_models_are_choking_on_junk_data/&quot;&gt; &lt;img alt=&quot;AI models are choking on junk data&quot; src=&quot;https://external-preview.redd.it/hTWn-oc_-uErZIDmOk7OmxG0VQeAYnONbpULIuH-r0M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7923c4785bfd8ddfd0cdec4878e57f6291504a8d&quot; title=&quot;AI models are choking on junk data&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/05/03/ai-models-are-choking-on-junk-data/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t39bxd/ai_models_are_choking_on_junk_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
