@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 10 May 2026 03:36:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:50:38 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Show HN: Building a web server in assembly to give my life (a lack of) meaning</title>
-      <link>https://imtomt.github.io/ymawky/</link>
-      <guid isPermaLink="true">https://imtomt.github.io/ymawky/</guid>
-      <pubDate>Sun, 10 May 2026 03:01:44 +0000</pubDate>
+      <title>[HN] An AI coding agent, used to write code, needs to reduce your maintenance costs</title>
+      <link>https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs</link>
+      <guid isPermaLink="true">https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs</guid>
+      <pubDate>Sun, 10 May 2026 23:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Sparse Cholesky Elimination Tree</title>
-      <link>https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html</link>
-      <guid isPermaLink="true">https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html</guid>
-      <pubDate>Sun, 10 May 2026 01:52:55 +0000</pubDate>
+      <title>[HN] PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs</title>
+      <link>https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656</link>
+      <guid isPermaLink="true">https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656</guid>
+      <pubDate>Sun, 10 May 2026 23:36:48 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] France Moves to Break Encrypted Messaging</title>
-      <link>https://reclaimthenet.org/france-moves-to-break-encrypted-messaging</link>
-      <guid isPermaLink="true">https://reclaimthenet.org/france-moves-to-break-encrypted-messaging</guid>
-      <pubDate>Sat, 09 May 2026 22:14:35 +0000</pubDate>
+      <title>[HN] Running local models on an M4 with 24GB memory</title>
+      <link>https://jola.dev/posts/running-local-models-on-m4</link>
+      <guid isPermaLink="true">https://jola.dev/posts/running-local-models-on-m4</guid>
+      <pubDate>Sun, 10 May 2026 23:09:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Getting arrested in Japan</title>
-      <link>https://sundaicity.com/blogs/getting-arrested-in-japan</link>
-      <guid isPermaLink="true">https://sundaicity.com/blogs/getting-arrested-in-japan</guid>
-      <pubDate>Sat, 09 May 2026 21:56:19 +0000</pubDate>
+      <title>[HN] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene</title>
+      <link>https://www.openculture.com/2024/10/the-greatest-shot-in-television.html</link>
+      <guid isPermaLink="true">https://www.openculture.com/2024/10/the-greatest-shot-in-television.html</guid>
+      <pubDate>Mon, 11 May 2026 02:43:34 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Rust but Lisp</title>
-      <link>https://github.com/ThatXliner/rust-but-lisp</link>
-      <guid isPermaLink="true">https://github.com/ThatXliner/rust-but-lisp</guid>
-      <pubDate>Sat, 09 May 2026 21:46:27 +0000</pubDate>
+      <title>[HN] I'm going back to writing code by hand</title>
+      <link>https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/</link>
+      <guid isPermaLink="true">https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/</guid>
+      <pubDate>Mon, 11 May 2026 01:23:51 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Kevin O’Leary’s proposed 9GW &quot;hyperscale&quot; AI data center in Utah will consume double the state's entire electricity usage and generate the waste heat of 23 atom bombs a day.</title>
-      <link>https://www.reddit.com/r/technology/comments/1t8hndw/kevin_olearys_proposed_9gw_hyperscale_ai_data/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t8hndw/kevin_olearys_proposed_9gw_hyperscale_ai_data/</guid>
-      <pubDate>2026-05-09T19:48:29+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t8hndw/kevin_olearys_proposed_9gw_hyperscale_ai_data/&quot;&gt; &lt;img alt=&quot;Kevin O’Leary’s proposed 9GW &amp;quot;hyperscale&amp;quot; AI data center in Utah will consume double the state's entire electricity usage and generate the waste heat of 23 atom bombs a day.&quot; src=&quot;https://external-preview.redd.it/g23ve0eBI2YRrW-Yv8B9VA1n4L5fJGgSPAFdU6fdTkQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e630f76bec8478333a685642482abffb76ad24c8&quot; title=&quot;Kevin O’Leary’s proposed 9GW &amp;quot;hyperscale&amp;quot; AI data center in Utah will consume double the state's entire electricity usage and generate the waste heat of 23 atom bombs a day.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AnnualEmbarrassed176&quot;&gt; /u/AnnualEmbarrassed176 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.sltrib.com/news/environment/2026/05/07/utahs-data-center-could-create/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t8hndw/kevin_olearys_proposed_9gw_hyperscale_ai_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Louis Rossmann tells 3D printer maker Bambu Lab to &quot;Go (Bleep) yourself&quot; over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer</title>
+      <link>https://www.reddit.com/r/technology/comments/1t9mmyv/louis_rossmann_tells_3d_printer_maker_bambu_lab/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t9mmyv/louis_rossmann_tells_3d_printer_maker_bambu_lab/</guid>
+      <pubDate>2026-05-10T23:41:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9mmyv/louis_rossmann_tells_3d_printer_maker_bambu_lab/&quot;&gt; &lt;img alt=&quot;Louis Rossmann tells 3D printer maker Bambu Lab to &amp;quot;Go (Bleep) yourself&amp;quot; over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer&quot; src=&quot;https://external-preview.redd.it/ZnIrplz7wb1B2ZyWjUTcmcs-aQS65UxC4ZINQGgx5y0.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=855979b2d91f773b42ec66b555d9bda626b52942&quot; title=&quot;Louis Rossmann tells 3D printer maker Bambu Lab to &amp;quot;Go (Bleep) yourself&amp;quot; over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9mmyv/louis_rossmann_tells_3d_printer_maker_bambu_lab/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Mark Zuckerberg Just Told 8,000 Employees Their Layoffs Are a Line Item in His $145 Billion AI Bill</title>
-      <link>https://www.reddit.com/r/technology/comments/1t8cdyq/mark_zuckerberg_just_told_8000_employees_their/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t8cdyq/mark_zuckerberg_just_told_8000_employees_their/</guid>
-      <pubDate>2026-05-09T18:11:04+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t8cdyq/mark_zuckerberg_just_told_8000_employees_their/&quot;&gt; &lt;img alt=&quot;Mark Zuckerberg Just Told 8,000 Employees Their Layoffs Are a Line Item in His $145 Billion AI Bill&quot; src=&quot;https://external-preview.redd.it/B4vraUgmnRuxrUjGWBItRKt8N3XN2F8KgOrLCo6EFNo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c61fdee8d5988ef829c6d2ffd360cdabebcfdc2a&quot; title=&quot;Mark Zuckerberg Just Told 8,000 Employees Their Layoffs Are a Line Item in His $145 Billion AI Bill&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-just-told-8-130817610.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t8cdyq/mark_zuckerberg_just_told_8000_employees_their/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] AI data centers face increasing complaints about inaudible but 'felt' infrasound — citizens complain high- and low-frequency sounds do not register on decibel meters but cause adverse health effects</title>
+      <link>https://www.reddit.com/r/technology/comments/1t9la8y/ai_data_centers_face_increasing_complaints_about/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t9la8y/ai_data_centers_face_increasing_complaints_about/</guid>
+      <pubDate>2026-05-10T22:42:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9la8y/ai_data_centers_face_increasing_complaints_about/&quot;&gt; &lt;img alt=&quot;AI data centers face increasing complaints about inaudible but 'felt' infrasound — citizens complain high- and low-frequency sounds do not register on decibel meters but cause adverse health effects&quot; src=&quot;https://external-preview.redd.it/5CRY7HQMy_kJJggKPZ_OIS7hweeaiF5hnH1U4D4oPK8.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2fbce63e3947fe8bd606aeb0a68b853cd41f2c21&quot; title=&quot;AI data centers face increasing complaints about inaudible but 'felt' infrasound — citizens complain high- and low-frequency sounds do not register on decibel meters but cause adverse health effects&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/chip_thoughts&quot;&gt; /u/chip_thoughts &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/data-centers-face-increasing-infrasound-complaints-from-neighboring-communities-sounds-do-not-register-on-decibel-meters-but-irritate-local-citizens&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9la8y/ai_data_centers_face_increasing_complaints_about/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] A major watchdog says data centers are wreaking havoc on North America's power grid</title>
-      <link>https://www.reddit.com/r/technology/comments/1t87axj/a_major_watchdog_says_data_centers_are_wreaking/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t87axj/a_major_watchdog_says_data_centers_are_wreaking/</guid>
-      <pubDate>2026-05-09T15:00:11+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t87axj/a_major_watchdog_says_data_centers_are_wreaking/&quot;&gt; &lt;img alt=&quot;A major watchdog says data centers are wreaking havoc on North America's power grid&quot; src=&quot;https://external-preview.redd.it/m0q35dUnXvN_oW3WKqmVp3NmIz0dUwc9qaJ4SBu6A3k.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e7e86369703b882e4abc128ab86ab7ba82dbbdeb&quot; title=&quot;A major watchdog says data centers are wreaking havoc on North America's power grid&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/nerc-issues-alert-on-data-centers-threatening-grid-stability-2026-5&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t87axj/a_major_watchdog_says_data_centers_are_wreaking/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Sony records a $766 million impairment loss against Bungie for the 2025 financial year, a 1-2 punch of Destiny 2 and Marathon failing to meet its expectations | Sony bought Bungie for $3.6 billion in 2022.</title>
+      <link>https://www.reddit.com/r/technology/comments/1t9h75k/sony_records_a_766_million_impairment_loss/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t9h75k/sony_records_a_766_million_impairment_loss/</guid>
+      <pubDate>2026-05-10T19:58:06+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9h75k/sony_records_a_766_million_impairment_loss/&quot;&gt; &lt;img alt=&quot;Sony records a $766 million impairment loss against Bungie for the 2025 financial year, a 1-2 punch of Destiny 2 and Marathon failing to meet its expectations | Sony bought Bungie for $3.6 billion in 2022.&quot; src=&quot;https://external-preview.redd.it/55gOq95iJP3lNksUcdB8qtr-2J2gWEEqpPH_NmOoXmE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b2424702874a31701472201b261188ff726ce57d&quot; title=&quot;Sony records a $766 million impairment loss against Bungie for the 2025 financial year, a 1-2 punch of Destiny 2 and Marathon failing to meet its expectations | Sony bought Bungie for $3.6 billion in 2022.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.pcgamer.com/gaming-industry/sony-records-a-usd766-million-impairment-loss-against-bungie-for-the-2025-financial-year-a-1-2-punch-of-destiny-2-and-marathon-failing-to-meet-its-expectations/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9h75k/sony_records_a_766_million_impairment_loss/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Michigan residents voted down a $16 billion Stargate AI data center, then construction began anyway</title>
-      <link>https://www.reddit.com/r/technology/comments/1t84xv4/michigan_residents_voted_down_a_16_billion/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t84xv4/michigan_residents_voted_down_a_16_billion/</guid>
-      <pubDate>2026-05-09T13:24:08+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t84xv4/michigan_residents_voted_down_a_16_billion/&quot;&gt; &lt;img alt=&quot;Michigan residents voted down a $16 billion Stargate AI data center, then construction began anyway&quot; src=&quot;https://external-preview.redd.it/Ar7xrQfc3xetmp_8uxzZm_a2kgbJ33YT6DP_5E1v8rI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=09efa05f47d092c61f44db6a94c21b04941d04ac&quot; title=&quot;Michigan residents voted down a $16 billion Stargate AI data center, then construction began anyway&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/112344-michigan-residents-voted-down-16-billion-stargate-ai.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t84xv4/michigan_residents_voted_down_a_16_billion/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] FCC Attempts to Solve Robocall Problem by Potentially Creating Even Bigger Privacy Problem</title>
+      <link>https://www.reddit.com/r/technology/comments/1t9e0hs/fcc_attempts_to_solve_robocall_problem_by/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t9e0hs/fcc_attempts_to_solve_robocall_problem_by/</guid>
+      <pubDate>2026-05-10T18:00:09+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9e0hs/fcc_attempts_to_solve_robocall_problem_by/&quot;&gt; &lt;img alt=&quot;FCC Attempts to Solve Robocall Problem by Potentially Creating Even Bigger Privacy Problem&quot; src=&quot;https://external-preview.redd.it/wjKucZPrfQgLzJwfqZVIdsfdlMZi9Zmb7-1D17q7PNc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f1a332ec5631a34caaab474ac5066cd186b62ed3&quot; title=&quot;FCC Attempts to Solve Robocall Problem by Potentially Creating Even Bigger Privacy Problem&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/fcc-attempts-to-solve-robocall-problem-by-potentially-creating-even-bigger-privacy-problem-2000756762&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9e0hs/fcc_attempts_to_solve_robocall_problem_by/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Parent company of Truth Social reports $400M loss</title>
-      <link>https://www.reddit.com/r/technology/comments/1t82oqz/parent_company_of_truth_social_reports_400m_loss/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t82oqz/parent_company_of_truth_social_reports_400m_loss/</guid>
-      <pubDate>2026-05-09T11:42:46+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t82oqz/parent_company_of_truth_social_reports_400m_loss/&quot;&gt; &lt;img alt=&quot;Parent company of Truth Social reports $400M loss&quot; src=&quot;https://external-preview.redd.it/i9v85bWhPOiOGZT4TGUKqu0VspLpFczM32rvyDchYKk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=159ec2821dadeab491285e26ea943414e221dc85&quot; title=&quot;Parent company of Truth Social reports $400M loss&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/BreakfastTop6899&quot;&gt; /u/BreakfastTop6899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ctvnews.ca/business/article/parent-company-of-trumps-truth-social-reports-400m-loss/?taid=69fe8e3479a4a40001b2e414&amp;amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;amp;utm_medium=trueAnthem&amp;amp;utm_source=twitter&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t82oqz/parent_company_of_truth_social_reports_400m_loss/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers — state complains to federal energy regulators, says additional cost breaks ‘ratepayer protection pledge’ promises</title>
+      <link>https://www.reddit.com/r/technology/comments/1t9bwaf/maryland_citizens_slapped_with_2_billion_power/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t9bwaf/maryland_citizens_slapped_with_2_billion_power/</guid>
+      <pubDate>2026-05-10T16:41:11+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9bwaf/maryland_citizens_slapped_with_2_billion_power/&quot;&gt; &lt;img alt=&quot;Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers — state complains to federal energy regulators, says additional cost breaks ‘ratepayer protection pledge’ promises&quot; src=&quot;https://external-preview.redd.it/sbILaMF_rWN1U1a3PI6UBcCeHTR4tlvXUQP7Vha2DGI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c1c6b0363dbb3a23cca0dea83a190df10f6cde32&quot; title=&quot;Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers — state complains to federal energy regulators, says additional cost breaks ‘ratepayer protection pledge’ promises&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9bwaf/maryland_citizens_slapped_with_2_billion_power/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
