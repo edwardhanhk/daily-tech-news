@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 12 May 2026 03:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:41:37 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Software Internals Book Club</title>
-      <link>https://eatonphil.com/bookclub.html</link>
-      <guid isPermaLink="true">https://eatonphil.com/bookclub.html</guid>
-      <pubDate>Tue, 12 May 2026 02:28:11 +0000</pubDate>
+      <title>[HN] Temu is advertising filet mignon on X</title>
+      <link>https://twitter.com/shoptemu/status/2053092200632685016</link>
+      <guid isPermaLink="true">https://twitter.com/shoptemu/status/2053092200632685016</guid>
+      <pubDate>Wed, 13 May 2026 02:39:04 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Fake building: Claude wrote 3k lines instead of import pywikibot</title>
-      <link>https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/</link>
-      <guid isPermaLink="true">https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/</guid>
-      <pubDate>Tue, 12 May 2026 02:22:04 +0000</pubDate>
+      <title>[HN] Starship V3</title>
+      <link>https://www.spacex.com/updates#starship-v3</link>
+      <guid isPermaLink="true">https://www.spacex.com/updates#starship-v3</guid>
+      <pubDate>Wed, 13 May 2026 01:29:31 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Claude Platform on AWS</title>
-      <link>https://claude.com/blog/claude-platform-on-aws</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-platform-on-aws</guid>
-      <pubDate>Tue, 12 May 2026 01:24:29 +0000</pubDate>
+      <title>[HN] My graduation cap runs Rust</title>
+      <link>https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/</link>
+      <guid isPermaLink="true">https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/</guid>
+      <pubDate>Wed, 13 May 2026 00:04:21 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] They Live (1988) inspired Adblocker</title>
-      <link>https://github.com/davmlaw/they_live_adblocker</link>
-      <guid isPermaLink="true">https://github.com/davmlaw/they_live_adblocker</guid>
-      <pubDate>Tue, 12 May 2026 00:37:54 +0000</pubDate>
+      <title>[HN] When &quot;idle&quot; isn't idle: how a Linux kernel optimization became a QUIC bug</title>
+      <link>https://blog.cloudflare.com/quic-death-spiral-fix/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/quic-death-spiral-fix/</guid>
+      <pubDate>Tue, 12 May 2026 23:46:28 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Safe-install – safer NPM installs with trusted build dependencies</title>
-      <link>https://www.npmjs.com/package/@gkiely/safe-install</link>
-      <guid isPermaLink="true">https://www.npmjs.com/package/@gkiely/safe-install</guid>
-      <pubDate>Tue, 12 May 2026 00:30:10 +0000</pubDate>
+      <title>[HN] Kraftwerk's radical 1976 track</title>
+      <link>https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem</link>
+      <guid isPermaLink="true">https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem</guid>
+      <pubDate>Tue, 12 May 2026 23:13:01 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’</title>
-      <link>https://www.reddit.com/r/technology/comments/1tabgah/students_boo_commencement_speaker_after_she_calls/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tabgah/students_boo_commencement_speaker_after_she_calls/</guid>
-      <pubDate>2026-05-11T18:11:36+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tabgah/students_boo_commencement_speaker_after_she_calls/&quot;&gt; &lt;img alt=&quot;Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’&quot; src=&quot;https://external-preview.redd.it/HCBjb_JwKdDjsRMt1KQ8J1vE5m6twOyU6h47GCgpBzM.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=806e5bba32972c9d9d6fecf4e2f184a1f721ef8e&quot; title=&quot;Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/GeneReddit123&quot;&gt; /u/GeneReddit123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/ucf-ai-commencement-speaker-booed/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tabgah/students_boo_commencement_speaker_after_she_calls/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Kickstarter bans all NSFW content from the website</title>
+      <link>https://www.reddit.com/r/technology/comments/1tbffv1/kickstarter_bans_all_nsfw_content_from_the_website/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tbffv1/kickstarter_bans_all_nsfw_content_from_the_website/</guid>
+      <pubDate>2026-05-12T21:31:21+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tbffv1/kickstarter_bans_all_nsfw_content_from_the_website/&quot;&gt; &lt;img alt=&quot;Kickstarter bans all NSFW content from the website&quot; src=&quot;https://external-preview.redd.it/l_TxKHOHFys21Thd1-5iBMM2NJuo5HnLSHaHfxK2wec.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5827f880550edd0b7aa73aabb60da18a8c89b1d4&quot; title=&quot;Kickstarter bans all NSFW content from the website&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PaiDuck&quot;&gt; /u/PaiDuck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/tech/928618/kickstarter-clutches-its-pearls&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tbffv1/kickstarter_bans_all_nsfw_content_from_the_website/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] A data center used 29 million gallons of water without a bill, while residents complained about low water pressure</title>
-      <link>https://www.reddit.com/r/technology/comments/1ta3qr9/a_data_center_used_29_million_gallons_of_water/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ta3qr9/a_data_center_used_29_million_gallons_of_water/</guid>
-      <pubDate>2026-05-11T13:44:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ta3qr9/a_data_center_used_29_million_gallons_of_water/&quot;&gt; &lt;img alt=&quot;A data center used 29 million gallons of water without a bill, while residents complained about low water pressure&quot; src=&quot;https://external-preview.redd.it/mnptXvooubDf4e9o9Z_4d_oBlmbZidYIzIL2LlpyXRg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f036554f28722029a17207412c5d95d162c5151b&quot; title=&quot;A data center used 29 million gallons of water without a bill, while residents complained about low water pressure&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/112356-data-center-used-29-million-gallons-water-without.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ta3qr9/a_data_center_used_29_million_gallons_of_water/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds</title>
+      <link>https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/</guid>
+      <pubDate>2026-05-12T18:06:04+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/&quot;&gt; &lt;img alt=&quot;AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds&quot; src=&quot;https://external-preview.redd.it/9GWAUsBB4dYIFitnYkf5MbCPGw5PbjYEPY4TtUwbw2M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=84683d8c2d27cb2e11c04c6cfdf80e228e9b19f3&quot; title=&quot;AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Krankenitrate&quot;&gt; /u/Krankenitrate &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/05/11/ai-automation-layoffs-gartner-study-roi/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Reddit Starts Blocking Mobile Website, Pushing Users to App Instead</title>
-      <link>https://www.reddit.com/r/technology/comments/1ta2xrk/reddit_starts_blocking_mobile_website_pushing/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ta2xrk/reddit_starts_blocking_mobile_website_pushing/</guid>
-      <pubDate>2026-05-11T13:13:29+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ta2xrk/reddit_starts_blocking_mobile_website_pushing/&quot;&gt; &lt;img alt=&quot;Reddit Starts Blocking Mobile Website, Pushing Users to App Instead&quot; src=&quot;https://external-preview.redd.it/CH95VpDeZPAmt1fQDsl6smYwtT1maEX8uUWxj4--s-8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=370cb683b1d252b2afd786fbd111934c4e7c6bf6&quot; title=&quot;Reddit Starts Blocking Mobile Website, Pushing Users to App Instead&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spasticpat&quot;&gt; /u/spasticpat &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.macrumors.com/2026/05/11/reddit-starts-blocking-mobile-website/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ta2xrk/reddit_starts_blocking_mobile_website_pushing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir</title>
+      <link>https://www.reddit.com/r/technology/comments/1tb13zk/ice_agents_have_list_of_20_million_people_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tb13zk/ice_agents_have_list_of_20_million_people_on/</guid>
+      <pubDate>2026-05-12T13:07:05+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tb13zk/ice_agents_have_list_of_20_million_people_on/&quot;&gt; &lt;img alt=&quot;ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir&quot; src=&quot;https://external-preview.redd.it/nnTBR-xgwtC3YXdpO_U26z0sNJiC684yfDPJyQFeXhw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=608b9be652fcdb58b991487459d5ede92aa3727c&quot; title=&quot;ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/rkhunter_&quot;&gt; /u/rkhunter_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tb13zk/ice_agents_have_list_of_20_million_people_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Oregon data centers now have to pay full costs of expanding the power grid to meet their needs</title>
-      <link>https://www.reddit.com/r/technology/comments/1ta0rcr/oregon_data_centers_now_have_to_pay_full_costs_of/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ta0rcr/oregon_data_centers_now_have_to_pay_full_costs_of/</guid>
-      <pubDate>2026-05-11T11:42:01+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ta0rcr/oregon_data_centers_now_have_to_pay_full_costs_of/&quot;&gt; &lt;img alt=&quot;Oregon data centers now have to pay full costs of expanding the power grid to meet their needs&quot; src=&quot;https://external-preview.redd.it/MclfGCZ7ljvzoBWS7P8AnOILmx8wFAhaVdMq814iuOY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b737db13bc87a5763790c34e13104fdaa7f2cfa1&quot; title=&quot;Oregon data centers now have to pay full costs of expanding the power grid to meet their needs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spherocytes&quot;&gt; /u/spherocytes &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.kgw.com/article/news/local/pge-gets-approval-charge-data-centers-larger-share-future-growth-costs/283-a3ae3f39-8d9b-4590-9e6a-b92893a3ff8a&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ta0rcr/oregon_data_centers_now_have_to_pay_full_costs_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Microsoft's massive Kenya AI data center would require switching off 'half the country' to meet power requirements, government says — $1 billion project stalls over capacity disagreements and lack of infrastructure</title>
+      <link>https://www.reddit.com/r/technology/comments/1taxy0x/microsofts_massive_kenya_ai_data_center_would/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1taxy0x/microsofts_massive_kenya_ai_data_center_would/</guid>
+      <pubDate>2026-05-12T10:50:29+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1taxy0x/microsofts_massive_kenya_ai_data_center_would/&quot;&gt; &lt;img alt=&quot;Microsoft's massive Kenya AI data center would require switching off 'half the country' to meet power requirements, government says — $1 billion project stalls over capacity disagreements and lack of infrastructure&quot; src=&quot;https://external-preview.redd.it/YGzmdN4yIXzF8RwqFVbX3waABRvQmyQ2pvY55GLMSRI.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=47a1d6032302bc732b099f73efd3b09859ae5799&quot; title=&quot;Microsoft's massive Kenya AI data center would require switching off 'half the country' to meet power requirements, government says — $1 billion project stalls over capacity disagreements and lack of infrastructure&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lkl34&quot;&gt; /u/lkl34 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/microsofts-1-billion-kenya-data-center-stalls-over-disagreements-on-power-capacity&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1taxy0x/microsofts_massive_kenya_ai_data_center_would/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine</title>
-      <link>https://www.reddit.com/r/technology/comments/1t9xsaq/ai_data_center_project_secretly_sucked_29_million/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1t9xsaq/ai_data_center_project_secretly_sucked_29_million/</guid>
-      <pubDate>2026-05-11T09:07:15+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9xsaq/ai_data_center_project_secretly_sucked_29_million/&quot;&gt; &lt;img alt=&quot;AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine&quot; src=&quot;https://external-preview.redd.it/URfAmgu5eJZzPl4R3SZBIGB4h5oddfM4JrvqxkCJp4g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8c0828113a7b7d4d48ca6bf6c054318330780fbd&quot; title=&quot;AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lkl34&quot;&gt; /u/lkl34 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1t9xsaq/ai_data_center_project_secretly_sucked_29_million/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] EBay rejects GameStop's audacious $56 billion takeover bid</title>
+      <link>https://www.reddit.com/r/technology/comments/1taxa19/ebay_rejects_gamestops_audacious_56_billion/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1taxa19/ebay_rejects_gamestops_audacious_56_billion/</guid>
+      <pubDate>2026-05-12T10:16:15+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1taxa19/ebay_rejects_gamestops_audacious_56_billion/&quot;&gt; &lt;img alt=&quot;EBay rejects GameStop's audacious $56 billion takeover bid&quot; src=&quot;https://external-preview.redd.it/C-INGXsLuZgNgc8UCUAns1P8LOmDYHbVMUSVFDTe6xQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9a8f46466e3a17cf6978fd97910f9925ff4b14c6&quot; title=&quot;EBay rejects GameStop's audacious $56 billion takeover bid&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/05/12/ebay-rejects-gamestops-takeover-bid.html?taid=6a02fdd12096e10001ccd88d&amp;amp;utm_campaign=trueanthem&amp;amp;utm_content=main&amp;amp;utm_medium=social&amp;amp;utm_source=twitter&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1taxa19/ebay_rejects_gamestops_audacious_56_billion/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
