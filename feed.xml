@@ -4,72 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Fri, 15 May 2026 03:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 03:29:00 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] LLM Policy for Rust Compiler</title>
-      <link>https://github.com/rust-lang/rust-forge/pull/1040</link>
-      <guid isPermaLink="true">https://github.com/rust-lang/rust-forge/pull/1040</guid>
-      <pubDate>Thu, 14 May 2026 23:37:21 +0000</pubDate>
+      <title>[HN] 'No way to prevent this,' says only package manager where this regularly happens</title>
+      <link>https://kevinpatel.xyz/posts/no-way-to-prevent-this/</link>
+      <guid isPermaLink="true">https://kevinpatel.xyz/posts/no-way-to-prevent-this/</guid>
+      <pubDate>Sat, 16 May 2026 00:36:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Mullvad exit IPs are surprisingly identifying</title>
-      <link>https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</link>
-      <guid isPermaLink="true">https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</guid>
-      <pubDate>Fri, 15 May 2026 02:35:35 +0000</pubDate>
+      <title>[HN] I broke AppLovin's mediation cipher protocol</title>
+      <link>https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/</link>
+      <guid isPermaLink="true">https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/</guid>
+      <pubDate>Sat, 16 May 2026 00:35:01 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Find vendors used by any company</title>
-      <link>https://sub-processors.com/subprocessor/elasticsearch</link>
-      <guid isPermaLink="true">https://sub-processors.com/subprocessor/elasticsearch</guid>
-      <pubDate>Fri, 15 May 2026 01:55:57 +0000</pubDate>
+      <title>[HN] Show HN: Epiq – Distributed Git based issue tracker TUI</title>
+      <link>https://ljtn.github.io/epiq/</link>
+      <guid isPermaLink="true">https://ljtn.github.io/epiq/</guid>
+      <pubDate>Sat, 16 May 2026 00:18:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] UFerris a Versatile Learner Board for Rust Embedded Beginners</title>
-      <link>https://www.theembeddedrustacean.com/uferris</link>
-      <guid isPermaLink="true">https://www.theembeddedrustacean.com/uferris</guid>
-      <pubDate>Fri, 15 May 2026 01:04:13 +0000</pubDate>
+      <title>[HN] The main thing about P2P meth is that there's so much of it (2021)</title>
+      <link>https://dynomight.net/p2p-meth/</link>
+      <guid isPermaLink="true">https://dynomight.net/p2p-meth/</guid>
+      <pubDate>Fri, 15 May 2026 23:37:32 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Velonus – Open-source AppSec scanner that deduplicates SAST noise</title>
-      <link>https://github.com/AliAmmar15/Velonus</link>
-      <guid isPermaLink="true">https://github.com/AliAmmar15/Velonus</guid>
-      <pubDate>Fri, 15 May 2026 01:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/technology] ‘A’ Grades Are Suddenly Everywhere Since the Arrival of ChatGPT</title>
-      <link>https://www.reddit.com/r/technology/comments/1td39ld/a_grades_are_suddenly_everywhere_since_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1td39ld/a_grades_are_suddenly_everywhere_since_the/</guid>
-      <pubDate>2026-05-14T16:25:18+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/joe4942&quot;&gt; /u/joe4942 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/us-news/education/a-grades-are-suddenly-everywhere-since-the-arrival-of-chatgpt-845baae7&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1td39ld/a_grades_are_suddenly_everywhere_since_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Princeton scraps honor code and will supervise exams for first time in 133 years because of AI</title>
-      <link>https://www.reddit.com/r/technology/comments/1td1ovl/princeton_scraps_honor_code_and_will_supervise/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1td1ovl/princeton_scraps_honor_code_and_will_supervise/</guid>
-      <pubDate>2026-05-14T15:31:00+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1td1ovl/princeton_scraps_honor_code_and_will_supervise/&quot;&gt; &lt;img alt=&quot;Princeton scraps honor code and will supervise exams for first time in 133 years because of AI&quot; src=&quot;https://external-preview.redd.it/fdB81gEirlmG37SK_5UMdSSvf53uaYfPLoHYQ5KSp70.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b92f7e280ac14046f6673b69446fd5fea056a7c7&quot; title=&quot;Princeton scraps honor code and will supervise exams for first time in 133 years because of AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Disastrous_Award_789&quot;&gt; /u/Disastrous_Award_789 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.the-independent.com/news/world/americas/princeton-proctor-exams-ai-b2976111.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1td1ovl/princeton_scraps_honor_code_and_will_supervise/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] The AI Layoff Bill Is Coming Due, And CTOs Are Going To Pay It Twice</title>
-      <link>https://www.reddit.com/r/technology/comments/1tcxr3m/the_ai_layoff_bill_is_coming_due_and_ctos_are/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tcxr3m/the_ai_layoff_bill_is_coming_due_and_ctos_are/</guid>
-      <pubDate>2026-05-14T13:10:22+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tcxr3m/the_ai_layoff_bill_is_coming_due_and_ctos_are/&quot;&gt; &lt;img alt=&quot;The AI Layoff Bill Is Coming Due, And CTOs Are Going To Pay It Twice&quot; src=&quot;https://external-preview.redd.it/fF_jrVRA9usxFf6Db9hdx3W4Kp7kHfsa7CfrjlJofCU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=89bc566d0ecaec6c90097e7cea26b0c949d882f6&quot; title=&quot;The AI Layoff Bill Is Coming Due, And CTOs Are Going To Pay It Twice&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Krankenitrate&quot;&gt; /u/Krankenitrate &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.forbes.com/councils/forbestechcouncil/2026/05/14/the-ai-layoff-bill-is-coming-due-and-ctos-are-going-to-pay-it-twice/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tcxr3m/the_ai_layoff_bill_is_coming_due_and_ctos_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him — more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer</title>
-      <link>https://www.reddit.com/r/technology/comments/1tcudxy/louis_rossmann_taunts_bambu_lab_by_hosting_banned/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tcudxy/louis_rossmann_taunts_bambu_lab_by_hosting_banned/</guid>
-      <pubDate>2026-05-14T10:44:08+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tcudxy/louis_rossmann_taunts_bambu_lab_by_hosting_banned/&quot;&gt; &lt;img alt=&quot;Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him — more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer&quot; src=&quot;https://external-preview.redd.it/RugUXQRRFYFDolLtv1e3UnIc73lsizpa1BISnnUyKAY.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=14d68ec9f38b809f8fbbdc27fd23e608e139e3da&quot; title=&quot;Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him — more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/3d-printing/louis-rossmann-taunts-bambu-lab-by-hosting-banned-3d-printer-firmware-fork-dares-usd1-billion-company-to-sue-him-more-creators-pledge-support-and-boycotts-snapmaker-donates-equipment-to-embattled-developer&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tcudxy/louis_rossmann_taunts_bambu_lab_by_hosting_banned/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] People Would Rather Have Nuclear Power Plants In Their Area Than AI Data Centers</title>
-      <link>https://www.reddit.com/r/technology/comments/1tcmxdf/people_would_rather_have_nuclear_power_plants_in/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tcmxdf/people_would_rather_have_nuclear_power_plants_in/</guid>
-      <pubDate>2026-05-14T04:04:14+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tcmxdf/people_would_rather_have_nuclear_power_plants_in/&quot;&gt; &lt;img alt=&quot;People Would Rather Have Nuclear Power Plants In Their Area Than AI Data Centers&quot; src=&quot;https://external-preview.redd.it/uW1ERUKetTnJ1pohKhKNFDj6eAb3-iNFUNiJJ7dDf0E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e62b257fc81e04d23ebe8c66a5bf8e9b873d0f97&quot; title=&quot;People Would Rather Have Nuclear Power Plants In Their Area Than AI Data Centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/GeneReddit123&quot;&gt; /u/GeneReddit123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.forbes.com/sites/maryroeloffs/2026/05/13/people-would-rather-have-nuclear-power-plants-in-their-area-than-ai-data-centers/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tcmxdf/people_would_rather_have_nuclear_power_plants_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] Erlang/OTP 29.0</title>
+      <link>https://www.erlang.org/news/188</link>
+      <guid isPermaLink="true">https://www.erlang.org/news/188</guid>
+      <pubDate>Fri, 15 May 2026 23:33:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
