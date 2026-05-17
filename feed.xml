@@ -4,37 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 16 May 2026 03:29:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:44:17 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] 'No way to prevent this,' says only package manager where this regularly happens</title>
-      <link>https://kevinpatel.xyz/posts/no-way-to-prevent-this/</link>
-      <guid isPermaLink="true">https://kevinpatel.xyz/posts/no-way-to-prevent-this/</guid>
-      <pubDate>Sat, 16 May 2026 00:36:02 +0000</pubDate>
+      <title>[HN] Bear spray is exploding in the trash near Yellowstone National Park</title>
+      <link>https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php</link>
+      <guid isPermaLink="true">https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php</guid>
+      <pubDate>Sun, 17 May 2026 02:24:16 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] I broke AppLovin's mediation cipher protocol</title>
-      <link>https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/</link>
-      <guid isPermaLink="true">https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/</guid>
-      <pubDate>Sat, 16 May 2026 00:35:01 +0000</pubDate>
+      <title>[HN] Hosting a website on an 8-bit microcontroller</title>
+      <link>https://maurycyz.com/projects/mcusite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
+      <pubDate>Sun, 17 May 2026 01:25:26 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Epiq – Distributed Git based issue tracker TUI</title>
-      <link>https://ljtn.github.io/epiq/</link>
-      <guid isPermaLink="true">https://ljtn.github.io/epiq/</guid>
-      <pubDate>Sat, 16 May 2026 00:18:03 +0000</pubDate>
+      <title>[HN] Self-Distillation Enables Continual Learning [pdf]</title>
+      <link>https://arxiv.org/abs/2601.19897</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.19897</guid>
+      <pubDate>Sun, 17 May 2026 01:19:14 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The main thing about P2P meth is that there's so much of it (2021)</title>
-      <link>https://dynomight.net/p2p-meth/</link>
-      <guid isPermaLink="true">https://dynomight.net/p2p-meth/</guid>
-      <pubDate>Fri, 15 May 2026 23:37:32 +0000</pubDate>
+      <title>[HN] Fisker went bankrupt and owners built an open source car company from the ashes</title>
+      <link>https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/</guid>
+      <pubDate>Sat, 16 May 2026 23:59:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Erlang/OTP 29.0</title>
-      <link>https://www.erlang.org/news/188</link>
-      <guid isPermaLink="true">https://www.erlang.org/news/188</guid>
-      <pubDate>Fri, 15 May 2026 23:33:32 +0000</pubDate>
+      <title>[HN] A nicer voltmeter clock</title>
+      <link>https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock</link>
+      <guid isPermaLink="true">https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock</guid>
+      <pubDate>Sat, 16 May 2026 22:45:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/technology] Users turn to jailbreaking their older Kindles as Amazon ends support</title>
+      <link>https://www.reddit.com/r/technology/comments/1tf345l/users_turn_to_jailbreaking_their_older_kindles_as/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tf345l/users_turn_to_jailbreaking_their_older_kindles_as/</guid>
+      <pubDate>2026-05-16T19:27:28+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tf345l/users_turn_to_jailbreaking_their_older_kindles_as/&quot;&gt; &lt;img alt=&quot;Users turn to jailbreaking their older Kindles as Amazon ends support&quot; src=&quot;https://external-preview.redd.it/4VMb_pWrdrCM8k_Qqrp92rsEEw8MM8abNbEpbNFg6Zs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=105b14e6c1e25d186eac7b538f98652c23172dd3&quot; title=&quot;Users turn to jailbreaking their older Kindles as Amazon ends support&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/twofive7&quot;&gt; /u/twofive7 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tf345l/users_turn_to_jailbreaking_their_older_kindles_as/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] America's productivity boom started before AI, and a Stanford economist who decoded the Great Resignation says working from home is the reason why | Fortune</title>
+      <link>https://www.reddit.com/r/technology/comments/1tezwyw/americas_productivity_boom_started_before_ai_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tezwyw/americas_productivity_boom_started_before_ai_and/</guid>
+      <pubDate>2026-05-16T17:25:50+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tezwyw/americas_productivity_boom_started_before_ai_and/&quot;&gt; &lt;img alt=&quot;America's productivity boom started before AI, and a Stanford economist who decoded the Great Resignation says working from home is the reason why | Fortune&quot; src=&quot;https://external-preview.redd.it/_sWupaKkFy8Atv6N0Ns8ttMRGrzpis1eKZ_MWRuZvTk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=badb676bd0b81e3667bbaa727aa1beff4b7e4deb&quot; title=&quot;America's productivity boom started before AI, and a Stanford economist who decoded the Great Resignation says working from home is the reason why | Fortune&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/north_canadian_ice&quot;&gt; /u/north_canadian_ice &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/05/15/america-productivity-boom-stanford-economist-nicholas-bloom-remote-work-future/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tezwyw/americas_productivity_boom_started_before_ai_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] 60% of PC gamers have no plans to build a new PC in the next two years — AI pricing crunch on RAM and other components paralyze enthusiast market</title>
+      <link>https://www.reddit.com/r/technology/comments/1texgig/60_of_pc_gamers_have_no_plans_to_build_a_new_pc/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1texgig/60_of_pc_gamers_have_no_plans_to_build_a_new_pc/</guid>
+      <pubDate>2026-05-16T15:53:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1texgig/60_of_pc_gamers_have_no_plans_to_build_a_new_pc/&quot;&gt; &lt;img alt=&quot;60% of PC gamers have no plans to build a new PC in the next two years — AI pricing crunch on RAM and other components paralyze enthusiast market&quot; src=&quot;https://external-preview.redd.it/4eYDXnw_aowFXIzXwK-U_xm9a7EmfJKBI9lTtVnh9O8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=31c7a6ef1e132ae4f6d5c06849e8137e8abf3e74&quot; title=&quot;60% of PC gamers have no plans to build a new PC in the next two years — AI pricing crunch on RAM and other components paralyze enthusiast market&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/rkhunter_&quot;&gt; /u/rkhunter_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/60-percent-of-pc-gamers-have-no-plans-to-build-a-new-pc-in-the-next-two-years-ai-pricing-crunch-on-ram-and-other-components-paralyze-enthusiast-market&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1texgig/60_of_pc_gamers_have_no_plans_to_build_a_new_pc/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip</title>
+      <link>https://www.reddit.com/r/technology/comments/1teocdc/us_orders_travelers_on_air_force_one_to_throw/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1teocdc/us_orders_travelers_on_air_force_one_to_throw/</guid>
+      <pubDate>2026-05-16T09:01:54+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1teocdc/us_orders_travelers_on_air_force_one_to_throw/&quot;&gt; &lt;img alt=&quot;US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip&quot; src=&quot;https://external-preview.redd.it/zR8u44BJHcJ1zMxyJBzlbNwr-JK8EtjJYb9GhG60Nis.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=735672d93560848fbd0b80f98763de17f193c382&quot; title=&quot;US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1teocdc/us_orders_travelers_on_air_force_one_to_throw/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Game Consoles Are Pricing Themselves Out of Relevance</title>
+      <link>https://www.reddit.com/r/technology/comments/1teils5/game_consoles_are_pricing_themselves_out_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1teils5/game_consoles_are_pricing_themselves_out_of/</guid>
+      <pubDate>2026-05-16T03:57:00+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1teils5/game_consoles_are_pricing_themselves_out_of/&quot;&gt; &lt;img alt=&quot;Game Consoles Are Pricing Themselves Out of Relevance&quot; src=&quot;https://external-preview.redd.it/2KDz14DNB22afYmJGbwvn6mpWZAsByCh1w2QWGa6iE0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2fba97b0b1a9e9ef2974974f8fd887aeeb6ae523&quot; title=&quot;Game Consoles Are Pricing Themselves Out of Relevance&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Gorotheninja&quot;&gt; /u/Gorotheninja &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamespot.com/articles/game-consoles-are-pricing-themselves-out-of-relevance/1100-6539969/?utm_source=reddit.com&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1teils5/game_consoles_are_pricing_themselves_out_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
