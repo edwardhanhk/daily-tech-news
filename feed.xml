@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 19 May 2026 03:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:52:37 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Peter Salus has died</title>
-      <link>https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html</link>
-      <guid isPermaLink="true">https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html</guid>
-      <pubDate>Tue, 19 May 2026 02:56:42 +0000</pubDate>
+      <title>[HN] Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive</title>
+      <link>https://fivethirtyeightindex.com/</link>
+      <guid isPermaLink="true">https://fivethirtyeightindex.com/</guid>
+      <pubDate>Wed, 20 May 2026 01:34:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The American Rebellion Against AI Is Gaining Steam</title>
-      <link>https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529</guid>
-      <pubDate>Tue, 19 May 2026 01:51:48 +0000</pubDate>
+      <title>[HN] Railway Blocked by Google Cloud</title>
+      <link>https://status.railway.com/?date=20260519</link>
+      <guid isPermaLink="true">https://status.railway.com/?date=20260519</guid>
+      <pubDate>Wed, 20 May 2026 00:23:54 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The last six months in LLMs in five minutes</title>
-      <link>https://simonwillison.net/2026/May/19/5-minute-llms/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/5-minute-llms/</guid>
-      <pubDate>Tue, 19 May 2026 01:30:42 +0000</pubDate>
+      <title>[HN] GitHub is investigating unauthorized access to their internal repositories</title>
+      <link>https://twitter.com/github/status/2056884788179726685</link>
+      <guid isPermaLink="true">https://twitter.com/github/status/2056884788179726685</guid>
+      <pubDate>Wed, 20 May 2026 00:01:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25</title>
-      <link>https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html</link>
-      <guid isPermaLink="true">https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html</guid>
-      <pubDate>Mon, 18 May 2026 23:18:10 +0000</pubDate>
+      <title>[HN] HTML-in-Canvas Demos</title>
+      <link>https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md</link>
+      <guid isPermaLink="true">https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md</guid>
+      <pubDate>Tue, 19 May 2026 23:49:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Click (2016)</title>
-      <link>https://clickclickclick.click/</link>
-      <guid isPermaLink="true">https://clickclickclick.click/</guid>
-      <pubDate>Mon, 18 May 2026 23:03:02 +0000</pubDate>
+      <title>[HN] Remove–AI–Watermarks – CLI and library for removing AI watermarks from images</title>
+      <link>https://github.com/wiltodelta/remove-ai-watermarks</link>
+      <guid isPermaLink="true">https://github.com/wiltodelta/remove-ai-watermarks</guid>
+      <pubDate>Tue, 19 May 2026 22:30:31 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Data centers raise nearby temperatures by up to 4 degrees in Phoenix</title>
-      <link>https://www.reddit.com/r/technology/comments/1th5z6q/data_centers_raise_nearby_temperatures_by_up_to_4/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1th5z6q/data_centers_raise_nearby_temperatures_by_up_to_4/</guid>
-      <pubDate>2026-05-19T00:00:38+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1th5z6q/data_centers_raise_nearby_temperatures_by_up_to_4/&quot;&gt; &lt;img alt=&quot;Data centers raise nearby temperatures by up to 4 degrees in Phoenix&quot; src=&quot;https://external-preview.redd.it/2ZiHFNxB96XXilKd9vDJtngk-t2kAYMboMwmz7VPe3Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8bcf0070413b8d224e26e288733889c5532bd7e0&quot; title=&quot;Data centers raise nearby temperatures by up to 4 degrees in Phoenix&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/shallah&quot;&gt; /u/shallah &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techxplore.com/news/2026-05-centers-nearby-temperatures-degrees-phoenix.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1th5z6q/data_centers_raise_nearby_temperatures_by_up_to_4/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Gen Z's AI backlash is getting louder</title>
+      <link>https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/</guid>
+      <pubDate>2026-05-19T17:41:55+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/&quot;&gt; &lt;img alt=&quot;Gen Z's AI backlash is getting louder&quot; src=&quot;https://external-preview.redd.it/UMhUlxP6WpI6RJ6vedTGxOIAxx-QJi1rWlumUIE3cZo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d7d53e4ed43bd883cb829c77c75f9ae194ec238b&quot; title=&quot;Gen Z's AI backlash is getting louder&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/gen-z-graduates-ai-backlash-commencement-speeches-anxiety-job-market-2026-5&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Pizza Hut's AI system caused 'cascading' problems and $100M in damages, franchisee alleges in new suit</title>
-      <link>https://www.reddit.com/r/technology/comments/1tgzbt2/pizza_huts_ai_system_caused_cascading_problems/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tgzbt2/pizza_huts_ai_system_caused_cascading_problems/</guid>
-      <pubDate>2026-05-18T20:00:13+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tgzbt2/pizza_huts_ai_system_caused_cascading_problems/&quot;&gt; &lt;img alt=&quot;Pizza Hut's AI system caused 'cascading' problems and $100M in damages, franchisee alleges in new suit&quot; src=&quot;https://external-preview.redd.it/cgL9DzuohaZUHoSc2VMpO0SJ6olPJvGiNlqCYWJmJTI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c617f6b0bdd7c090355fbc5d0dff6a8aa2a4f56e&quot; title=&quot;Pizza Hut's AI system caused 'cascading' problems and $100M in damages, franchisee alleges in new suit&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/pizza-hut-ai-system-dragontail-lawsuit-franchisee-2026-5&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tgzbt2/pizza_huts_ai_system_caused_cascading_problems/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] X announces significant restrictions to free accounts; 50 posts and 200 replies per day</title>
+      <link>https://www.reddit.com/r/technology/comments/1thssdm/x_announces_significant_restrictions_to_free/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1thssdm/x_announces_significant_restrictions_to_free/</guid>
+      <pubDate>2026-05-19T16:50:49+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thssdm/x_announces_significant_restrictions_to_free/&quot;&gt; &lt;img alt=&quot;X announces significant restrictions to free accounts; 50 posts and 200 replies per day&quot; src=&quot;https://external-preview.redd.it/ksftb0oif17znh1I91_OYXQKkS91jn2NZTmRhsYLPX4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dc141dc02ada68ab151f8ffa30369d38c5f2571e&quot; title=&quot;X announces significant restrictions to free accounts; 50 posts and 200 replies per day&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/InvestigatorSoft5764&quot;&gt; /u/InvestigatorSoft5764 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://htxt.co.za/2026/05/x-announces-significant-restrictions-to-free-accounts/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thssdm/x_announces_significant_restrictions_to_free/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Arizona students boo former Google CEO Eric Schmidt as he talks about AI during graduation speech</title>
-      <link>https://www.reddit.com/r/technology/comments/1tgqn9u/arizona_students_boo_former_google_ceo_eric/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tgqn9u/arizona_students_boo_former_google_ceo_eric/</guid>
-      <pubDate>2026-05-18T15:49:05+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tgqn9u/arizona_students_boo_former_google_ceo_eric/&quot;&gt; &lt;img alt=&quot;Arizona students boo former Google CEO Eric Schmidt as he talks about AI during graduation speech&quot; src=&quot;https://external-preview.redd.it/2JIlRAPanBMmP7gEnm2u8P2EYImFvqnK_cZo2bb6afs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e1eaafb01b36554b760d91df94a9e2790bd64c7d&quot; title=&quot;Arizona students boo former Google CEO Eric Schmidt as he talks about AI during graduation speech&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/students-boo-eric-schmidt-google-ceo-ai-university-arizona-2026-5&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tgqn9u/arizona_students_boo_former_google_ceo_eric/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery</title>
+      <link>https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/</guid>
+      <pubDate>2026-05-19T15:52:43+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/&quot;&gt; &lt;img alt=&quot;A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery&quot; src=&quot;https://external-preview.redd.it/kGjj_NoDcICrxe0jj2AxL2CHc8Eysiptnn446JP2esI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=73cf3c9494c5bf0a365d2e6890f3e33c017e7572&quot; title=&quot;A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.autonocion.com/us/tesla-lithium-refinery-texas/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement</title>
-      <link>https://www.reddit.com/r/technology/comments/1tgn94p/exgoogle_ceo_eric_schmidt_booed_after_ai_remarks/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tgn94p/exgoogle_ceo_eric_schmidt_booed_after_ai_remarks/</guid>
-      <pubDate>2026-05-18T13:49:49+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tgn94p/exgoogle_ceo_eric_schmidt_booed_after_ai_remarks/&quot;&gt; &lt;img alt=&quot;Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement&quot; src=&quot;https://external-preview.redd.it/pavyB92JSW31oXqUU8jfLdTB-CA3wCCr5wOQECepF8E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a40bd4b85956aef29c11d421806f6250c1805fb5&quot; title=&quot;Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tgn94p/exgoogle_ceo_eric_schmidt_booed_after_ai_remarks/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub</title>
+      <link>https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/</guid>
+      <pubDate>2026-05-19T14:13:59+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/&quot;&gt; &lt;img alt=&quot;‘The Worst Leak That I’ve Witnessed’: U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub&quot; src=&quot;https://external-preview.redd.it/6cv8LteYzqvmIKVHFgo2nrJXjm9jyQUr3-rTaAxgbj8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ac27b96157e6ac6b4e6866d2ff5638ea9a4aed62&quot; title=&quot;‘The Worst Leak That I’ve Witnessed’: U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/deraser&quot;&gt; /u/deraser &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’</title>
-      <link>https://www.reddit.com/r/technology/comments/1tgewe8/linus_torvalds_says_aipowered_bug_hunters_have/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tgewe8/linus_torvalds_says_aipowered_bug_hunters_have/</guid>
-      <pubDate>2026-05-18T07:08:13+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tgewe8/linus_torvalds_says_aipowered_bug_hunters_have/&quot;&gt; &lt;img alt=&quot;Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’&quot; src=&quot;https://external-preview.redd.it/QBlIVkMGbiYBOHCXnjZgNmfaJhvkEoRyqapHEG7m5Fw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a0dde7831330484a9634ff4f42ffbedeeb29b04d&quot; title=&quot;Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tgewe8/linus_torvalds_says_aipowered_bug_hunters_have/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Congress Wants You To Pay $130 A Year Just To Drive An Electric Car</title>
+      <link>https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/</guid>
+      <pubDate>2026-05-19T11:22:54+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/&quot;&gt; &lt;img alt=&quot;Congress Wants You To Pay $130 A Year Just To Drive An Electric Car&quot; src=&quot;https://external-preview.redd.it/ZV9PYHpYiO92fWDq36BGk6DBiigJx7TVtq-k4B_nCF8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b99f198f425682bd3ca042b90c17bc35e3e23ce8&quot; title=&quot;Congress Wants You To Pay $130 A Year Just To Drive An Electric Car&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://insideevs.com/news/796222/ev-fee-gas-tax-house-bill-2026/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
