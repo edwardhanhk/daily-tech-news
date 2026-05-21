@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 20 May 2026 03:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:01:31 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive</title>
-      <link>https://fivethirtyeightindex.com/</link>
-      <guid isPermaLink="true">https://fivethirtyeightindex.com/</guid>
-      <pubDate>Wed, 20 May 2026 01:34:19 +0000</pubDate>
+      <title>[HN] The Letter S, by Donald Knuth (1980) [pdf]</title>
+      <link>https://gwern.net/doc/design/typography/1980-knuth.pdf</link>
+      <guid isPermaLink="true">https://gwern.net/doc/design/typography/1980-knuth.pdf</guid>
+      <pubDate>Wed, 20 May 2026 23:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Railway Blocked by Google Cloud</title>
-      <link>https://status.railway.com/?date=20260519</link>
-      <guid isPermaLink="true">https://status.railway.com/?date=20260519</guid>
-      <pubDate>Wed, 20 May 2026 00:23:54 +0000</pubDate>
+      <title>[HN] OpenAI to confidentially file for IPO as soon as Friday</title>
+      <link>https://www.cnbc.com/2026/05/20/openai-ipo-filing.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/05/20/openai-ipo-filing.html</guid>
+      <pubDate>Thu, 21 May 2026 02:24:35 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] GitHub is investigating unauthorized access to their internal repositories</title>
-      <link>https://twitter.com/github/status/2056884788179726685</link>
-      <guid isPermaLink="true">https://twitter.com/github/status/2056884788179726685</guid>
-      <pubDate>Wed, 20 May 2026 00:01:18 +0000</pubDate>
+      <title>[HN] Haskell Foundation 2026 Update</title>
+      <link>https://discourse.haskell.org/t/haskell-foundation-2026-update/14136</link>
+      <guid isPermaLink="true">https://discourse.haskell.org/t/haskell-foundation-2026-update/14136</guid>
+      <pubDate>Thu, 21 May 2026 02:13:23 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] HTML-in-Canvas Demos</title>
-      <link>https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md</link>
-      <guid isPermaLink="true">https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md</guid>
-      <pubDate>Tue, 19 May 2026 23:49:03 +0000</pubDate>
+      <title>[HN] What is Demand Coop and why tech workers should join one</title>
+      <link>https://cahootzcoops.com/blog/what-is-a-demand-coop</link>
+      <guid isPermaLink="true">https://cahootzcoops.com/blog/what-is-a-demand-coop</guid>
+      <pubDate>Thu, 21 May 2026 01:20:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Remove–AI–Watermarks – CLI and library for removing AI watermarks from images</title>
-      <link>https://github.com/wiltodelta/remove-ai-watermarks</link>
-      <guid isPermaLink="true">https://github.com/wiltodelta/remove-ai-watermarks</guid>
-      <pubDate>Tue, 19 May 2026 22:30:31 +0000</pubDate>
+      <title>[HN] Intuit to lay off over 3k employees to refocus on AI</title>
+      <link>https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/</guid>
+      <pubDate>Thu, 21 May 2026 00:36:01 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Gen Z's AI backlash is getting louder</title>
-      <link>https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/</guid>
-      <pubDate>2026-05-19T17:41:55+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/&quot;&gt; &lt;img alt=&quot;Gen Z's AI backlash is getting louder&quot; src=&quot;https://external-preview.redd.it/UMhUlxP6WpI6RJ6vedTGxOIAxx-QJi1rWlumUIE3cZo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d7d53e4ed43bd883cb829c77c75f9ae194ec238b&quot; title=&quot;Gen Z's AI backlash is getting louder&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/gen-z-graduates-ai-backlash-commencement-speeches-anxiety-job-market-2026-5&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] An 81-Year-Old Grandma Streaming Minecraft To Pay For Grandson’s Cancer Treatment Has Been Swatted</title>
+      <link>https://www.reddit.com/r/technology/comments/1tj02nu/an_81yearold_grandma_streaming_minecraft_to_pay/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tj02nu/an_81yearold_grandma_streaming_minecraft_to_pay/</guid>
+      <pubDate>2026-05-20T21:42:49+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tj02nu/an_81yearold_grandma_streaming_minecraft_to_pay/&quot;&gt; &lt;img alt=&quot;An 81-Year-Old Grandma Streaming Minecraft To Pay For Grandson’s Cancer Treatment Has Been Swatted&quot; src=&quot;https://external-preview.redd.it/u9aVHAdBn_WJSvKwtuZnc41i5eVyb8rCljlJoUp-sYo.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c37d89c13c10378409ef7d1ba2fbb1e29d5dfdec&quot; title=&quot;An 81-Year-Old Grandma Streaming Minecraft To Pay For Grandson’s Cancer Treatment Has Been Swatted&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Turbostrider27&quot;&gt; /u/Turbostrider27 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thegamer.com/grammacrackers-81-year-old-minecraft-youtuber-swatted/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tj02nu/an_81yearold_grandma_streaming_minecraft_to_pay/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] X announces significant restrictions to free accounts; 50 posts and 200 replies per day</title>
-      <link>https://www.reddit.com/r/technology/comments/1thssdm/x_announces_significant_restrictions_to_free/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1thssdm/x_announces_significant_restrictions_to_free/</guid>
-      <pubDate>2026-05-19T16:50:49+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thssdm/x_announces_significant_restrictions_to_free/&quot;&gt; &lt;img alt=&quot;X announces significant restrictions to free accounts; 50 posts and 200 replies per day&quot; src=&quot;https://external-preview.redd.it/ksftb0oif17znh1I91_OYXQKkS91jn2NZTmRhsYLPX4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dc141dc02ada68ab151f8ffa30369d38c5f2571e&quot; title=&quot;X announces significant restrictions to free accounts; 50 posts and 200 replies per day&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/InvestigatorSoft5764&quot;&gt; /u/InvestigatorSoft5764 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://htxt.co.za/2026/05/x-announces-significant-restrictions-to-free-accounts/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thssdm/x_announces_significant_restrictions_to_free/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] After Town Bans Flock, Councilmember Crashes Out, Proposes Internet and Phone Ban / A Texas councilmember will propose “a total ban on all cellular and GPS-capable devices for all operations within city limits&quot; and “a total termination of all internet services.&quot;</title>
+      <link>https://www.reddit.com/r/technology/comments/1tima2p/after_town_bans_flock_councilmember_crashes_out/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tima2p/after_town_bans_flock_councilmember_crashes_out/</guid>
+      <pubDate>2026-05-20T13:48:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tima2p/after_town_bans_flock_councilmember_crashes_out/&quot;&gt; &lt;img alt=&quot;After Town Bans Flock, Councilmember Crashes Out, Proposes Internet and Phone Ban / A Texas councilmember will propose “a total ban on all cellular and GPS-capable devices for all operations within city limits&amp;quot; and “a total termination of all internet services.&amp;quot;&quot; src=&quot;https://external-preview.redd.it/eDiAfIsmEBchH9tXCHJUXi9ydyMEsNmuaFkdn-Umgic.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=479b974b032c96010549f8043be424d97fe48f06&quot; title=&quot;After Town Bans Flock, Councilmember Crashes Out, Proposes Internet and Phone Ban / A Texas councilmember will propose “a total ban on all cellular and GPS-capable devices for all operations within city limits&amp;quot; and “a total termination of all internet services.&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tima2p/after_town_bans_flock_councilmember_crashes_out/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery</title>
-      <link>https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/</guid>
-      <pubDate>2026-05-19T15:52:43+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/&quot;&gt; &lt;img alt=&quot;A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery&quot; src=&quot;https://external-preview.redd.it/kGjj_NoDcICrxe0jj2AxL2CHc8Eysiptnn446JP2esI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=73cf3c9494c5bf0a365d2e6890f3e33c017e7572&quot; title=&quot;A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.autonocion.com/us/tesla-lithium-refinery-texas/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The biggest data center ever is becoming a huge problem in Utah</title>
+      <link>https://www.reddit.com/r/technology/comments/1tili1z/the_biggest_data_center_ever_is_becoming_a_huge/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tili1z/the_biggest_data_center_ever_is_becoming_a_huge/</guid>
+      <pubDate>2026-05-20T13:19:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tili1z/the_biggest_data_center_ever_is_becoming_a_huge/&quot;&gt; &lt;img alt=&quot;The biggest data center ever is becoming a huge problem in Utah&quot; src=&quot;https://external-preview.redd.it/hRwOmKgZR2A8Thtq-p5qmW9Uuu33OZzvSe-BVRJmSXM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7e0713ebad842ea6ab98c47760908cbc249111f4&quot; title=&quot;The biggest data center ever is becoming a huge problem in Utah&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AssociationNew7925&quot;&gt; /u/AssociationNew7925 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tili1z/the_biggest_data_center_ever_is_becoming_a_huge/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub</title>
-      <link>https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/</guid>
-      <pubDate>2026-05-19T14:13:59+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/&quot;&gt; &lt;img alt=&quot;‘The Worst Leak That I’ve Witnessed’: U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub&quot; src=&quot;https://external-preview.redd.it/6cv8LteYzqvmIKVHFgo2nrJXjm9jyQUr3-rTaAxgbj8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ac27b96157e6ac6b4e6866d2ff5638ea9a4aed62&quot; title=&quot;‘The Worst Leak That I’ve Witnessed’: U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/deraser&quot;&gt; /u/deraser &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Driver intentionally drove Cybertruck into lake to use vehicle’s ‘Wade Mode,’ police say</title>
+      <link>https://www.reddit.com/r/technology/comments/1tijvz1/driver_intentionally_drove_cybertruck_into_lake/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tijvz1/driver_intentionally_drove_cybertruck_into_lake/</guid>
+      <pubDate>2026-05-20T12:15:52+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tijvz1/driver_intentionally_drove_cybertruck_into_lake/&quot;&gt; &lt;img alt=&quot;Driver intentionally drove Cybertruck into lake to use vehicle’s ‘Wade Mode,’ police say&quot; src=&quot;https://external-preview.redd.it/0AzncqTePzgqPq4l0y6sTiGwf0T1io-f9GZgbnf3gDg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=89bed367bba4f027579cff3050a304a1293cc520&quot; title=&quot;Driver intentionally drove Cybertruck into lake to use vehicle’s ‘Wade Mode,’ police say&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Sufficient-Bid1279&quot;&gt; /u/Sufficient-Bid1279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ctvnews.ca/business/autos/article/driver-intentionally-drove-cybertruck-into-lake-to-use-vehicles-wade-mode-police-say/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tijvz1/driver_intentionally_drove_cybertruck_into_lake/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Congress Wants You To Pay $130 A Year Just To Drive An Electric Car</title>
-      <link>https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/</guid>
-      <pubDate>2026-05-19T11:22:54+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/&quot;&gt; &lt;img alt=&quot;Congress Wants You To Pay $130 A Year Just To Drive An Electric Car&quot; src=&quot;https://external-preview.redd.it/ZV9PYHpYiO92fWDq36BGk6DBiigJx7TVtq-k4B_nCF8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b99f198f425682bd3ca042b90c17bc35e3e23ce8&quot; title=&quot;Congress Wants You To Pay $130 A Year Just To Drive An Electric Car&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://insideevs.com/news/796222/ev-fee-gas-tax-house-bill-2026/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] AI is, as it stands, not economically viable for anybody involved other than the construction firms, NVIDIA, and the surrounding hardware companies benefitting from the irrational exuberance of a data center buildout that doesn’t appear to be happening at the speed we believed</title>
+      <link>https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/</guid>
+      <pubDate>2026-05-20T09:31:24+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/&quot;&gt; &lt;img alt=&quot;AI Is Too Expensive: AI is, as it stands, not economically viable for anybody involved other than the construction firms, NVIDIA, and the surrounding hardware companies benefitting from the irrational exuberance of a data center buildout that doesn’t appear to be happening at the speed we believed&quot; src=&quot;https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=20dccfbd265a344e5f472f62ff009aaa7e75d51c&quot; title=&quot;AI Is Too Expensive: AI is, as it stands, not economically viable for anybody involved other than the construction firms, NVIDIA, and the surrounding hardware companies benefitting from the irrational exuberance of a data center buildout that doesn’t appear to be happening at the speed we believed&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/InvestigatorSoft5764&quot;&gt; /u/InvestigatorSoft5764 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wheresyoured.at/ai-is-too-expensive/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
