@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 26 May 2026 03:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 04:06:02 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Why the Smart Home Bubble Popped</title>
-      <link>https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/</link>
-      <guid isPermaLink="true">https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/</guid>
-      <pubDate>Tue, 26 May 2026 03:35:17 +0000</pubDate>
+      <title>[HN] Gear Commit: Dev gadget box personalized from GitHub activity</title>
+      <link>https://gearcommit.nanocorp.app/</link>
+      <guid isPermaLink="true">https://gearcommit.nanocorp.app/</guid>
+      <pubDate>Wed, 27 May 2026 02:29:24 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Does Anybody Actually Like React?</title>
-      <link>https://jsx.lol</link>
-      <guid isPermaLink="true">https://jsx.lol</guid>
-      <pubDate>Tue, 26 May 2026 01:55:15 +0000</pubDate>
+      <title>[HN] Where does next-token prediction leave us?</title>
+      <link>https://pop.rdi.sh/where-does-next-token-prediction-leave-us/</link>
+      <guid isPermaLink="true">https://pop.rdi.sh/where-does-next-token-prediction-leave-us/</guid>
+      <pubDate>Wed, 27 May 2026 01:10:44 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Designing for and against the manufactured normalcy field (2012)</title>
-      <link>https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html</link>
-      <guid isPermaLink="true">https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html</guid>
-      <pubDate>Tue, 26 May 2026 00:36:17 +0000</pubDate>
+      <title>[HN] Tunecat: Simple Internet Radio</title>
+      <link>https://codeberg.org/lindenii/tunecat/</link>
+      <guid isPermaLink="true">https://codeberg.org/lindenii/tunecat/</guid>
+      <pubDate>Wed, 27 May 2026 01:08:16 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude</title>
-      <link>https://support.apple.com/en-us/127115</link>
-      <guid isPermaLink="true">https://support.apple.com/en-us/127115</guid>
-      <pubDate>Mon, 25 May 2026 23:40:40 +0000</pubDate>
+      <title>[HN] Stripe is friendly to “friendly fraud”</title>
+      <link>https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/</link>
+      <guid isPermaLink="true">https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/</guid>
+      <pubDate>Wed, 27 May 2026 00:40:05 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Performance of Rust Language [pdf]</title>
-      <link>https://github.com/yugr/rust-slides/</link>
-      <guid isPermaLink="true">https://github.com/yugr/rust-slides/</guid>
-      <pubDate>Mon, 25 May 2026 23:37:31 +0000</pubDate>
+      <title>[HN] Erin Brockovich made a map to track data centers around the country</title>
+      <link>https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/</link>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/</guid>
+      <pubDate>Wed, 27 May 2026 00:36:03 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] &quot;everyone in tech understands how much regular people dislike AI. What I think they’re missing is why&quot;</title>
-      <link>https://www.reddit.com/r/technology/comments/1tnqjf6/the_people_do_not_yearn_for_automation_everyone/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tnqjf6/the_people_do_not_yearn_for_automation_everyone/</guid>
-      <pubDate>2026-05-26T00:15:18+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tnqjf6/the_people_do_not_yearn_for_automation_everyone/&quot;&gt; &lt;img alt=&quot;The People Do Not Yearn for Automation: &amp;quot;everyone in tech understands how much regular people dislike AI. What I think they’re missing is why&amp;quot;&quot; src=&quot;https://external-preview.redd.it/KZMR5LDyYS-wAg1TF8pnIYTNNEuPTvveEBv_dvXO7H4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=eb4e75a6997d0cb44ec8b1432695a12b2a90ea9e&quot; title=&quot;The People Do Not Yearn for Automation: &amp;quot;everyone in tech understands how much regular people dislike AI. What I think they’re missing is why&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/cos&quot;&gt; /u/cos &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tnqjf6/the_people_do_not_yearn_for_automation_everyone/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search</title>
+      <link>https://www.reddit.com/r/technology/comments/1tomq83/duckduckgo_installs_are_up_30_as_users_reject/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tomq83/duckduckgo_installs_are_up_30_as_users_reject/</guid>
+      <pubDate>2026-05-26T22:37:59+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tomq83/duckduckgo_installs_are_up_30_as_users_reject/&quot;&gt; &lt;img alt=&quot;DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search&quot; src=&quot;https://external-preview.redd.it/aohOzDgz9I83OCoX43X5akH2q7-b_gqf7W84ggoR1ig.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=591a64d154424ea47a25cd830f8e5a4d29e5dd32&quot; title=&quot;DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tomq83/duckduckgo_installs_are_up_30_as_users_reject/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Tech billionaires used performance drugs in secret. Now they’re selling a revolution.</title>
-      <link>https://www.reddit.com/r/technology/comments/1tnme56/tech_billionaires_used_performance_drugs_in/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tnme56/tech_billionaires_used_performance_drugs_in/</guid>
-      <pubDate>2026-05-25T21:24:07+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tnme56/tech_billionaires_used_performance_drugs_in/&quot;&gt; &lt;img alt=&quot;Tech billionaires used performance drugs in secret. Now they’re selling a revolution.&quot; src=&quot;https://external-preview.redd.it/RdWxxlv6jSUGGogp7KwrN6uoyrBdWiCFcZE26BWiQvU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7b7d797613d8bdaea3d95418fc8eeb3400883a55&quot; title=&quot;Tech billionaires used performance drugs in secret. Now they’re selling a revolution.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Vivid-Ad5350&quot;&gt; /u/Vivid-Ad5350 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/05/24/with-enhanced-games-silicon-valley-investors-turn-doping-into-billion-dollar-business-pitch/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tnme56/tech_billionaires_used_performance_drugs_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Majority of Americans Support Ban on Surveillance Pricing and Electronic Shelf Labels</title>
+      <link>https://www.reddit.com/r/technology/comments/1tollgz/majority_of_americans_support_ban_on_surveillance/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tollgz/majority_of_americans_support_ban_on_surveillance/</guid>
+      <pubDate>2026-05-26T21:55:07+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tollgz/majority_of_americans_support_ban_on_surveillance/&quot;&gt; &lt;img alt=&quot;Majority of Americans Support Ban on Surveillance Pricing and Electronic Shelf Labels&quot; src=&quot;https://external-preview.redd.it/J9lTorhHcuAETzycKvmlxr9ljCi-m-FMP3mNrHoMjU8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a3d2ec29fc324e30e5350788c9f9bdbcd44040fb&quot; title=&quot;Majority of Americans Support Ban on Surveillance Pricing and Electronic Shelf Labels&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://gizmodo.com/majority-of-americans-support-ban-on-surveillance-pricing-and-electronic-shelf-labels-2000762717&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tollgz/majority_of_americans_support_ban_on_surveillance/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] AI promised cost savings, but Microsoft and Uber say it’s costing more than human workers | Company Business News</title>
-      <link>https://www.reddit.com/r/technology/comments/1tngegf/ai_promised_cost_savings_but_microsoft_and_uber/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tngegf/ai_promised_cost_savings_but_microsoft_and_uber/</guid>
-      <pubDate>2026-05-25T17:46:18+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tngegf/ai_promised_cost_savings_but_microsoft_and_uber/&quot;&gt; &lt;img alt=&quot;AI promised cost savings, but Microsoft and Uber say it’s costing more than human workers | Company Business News&quot; src=&quot;https://external-preview.redd.it/tn_lA2Lbl3WpOsDqaU8RZ9W9m2sI4aUY1UJ21inuM7s.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7c9812e34755e89953aa4ec362829d0f7574dcba&quot; title=&quot;AI promised cost savings, but Microsoft and Uber say it’s costing more than human workers | Company Business News&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/jackiethesage&quot;&gt; /u/jackiethesage &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.livemint.com/companies/news/ai-was-supposed-to-cut-costs-microsoft-and-uber-are-finding-it-is-more-expensive-than-paying-human-employees-11779666290918.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tngegf/ai_promised_cost_savings_but_microsoft_and_uber/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Uber burned through its entire 2026 AI budget in four months. Now its COO is questioning whether it's worth it</title>
+      <link>https://www.reddit.com/r/technology/comments/1togx1h/uber_burned_through_its_entire_2026_ai_budget_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1togx1h/uber_burned_through_its_entire_2026_ai_budget_in/</guid>
+      <pubDate>2026-05-26T19:10:02+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1togx1h/uber_burned_through_its_entire_2026_ai_budget_in/&quot;&gt; &lt;img alt=&quot;Uber burned through its entire 2026 AI budget in four months. Now its COO is questioning whether it's worth it&quot; src=&quot;https://external-preview.redd.it/TgbhI8m-La4VJQo5tG0orpO4C-978s3gbGlUpYm7hFo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0431489683cd216d47b270a1cf8e445bacb79fe&quot; title=&quot;Uber burned through its entire 2026 AI budget in four months. Now its COO is questioning whether it's worth it&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1togx1h/uber_burned_through_its_entire_2026_ai_budget_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Pope Leo calls for AI to be ‘disarmed’</title>
-      <link>https://www.reddit.com/r/technology/comments/1tnc1jb/pope_leo_calls_for_ai_to_be_disarmed/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tnc1jb/pope_leo_calls_for_ai_to_be_disarmed/</guid>
-      <pubDate>2026-05-25T15:12:03+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tnc1jb/pope_leo_calls_for_ai_to_be_disarmed/&quot;&gt; &lt;img alt=&quot;Pope Leo calls for AI to be ‘disarmed’&quot; src=&quot;https://external-preview.redd.it/RKL04Fz-ogiGnsqTdiKuVyCd66fzv8pnutQZu4ZSA8o.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3ed5d38659fd312102e4e21c981e7dfe821901ac&quot; title=&quot;Pope Leo calls for AI to be ‘disarmed’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/JeremyJJ77&quot;&gt; /u/JeremyJJ77 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnn.com/2026/05/25/world/video/pope-leo-artificial-intelligence-disarm&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tnc1jb/pope_leo_calls_for_ai_to_be_disarmed/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Erin Brockovich launches map of over 4,200 data centres in the US, appeals for local communities to report environmental impact and other costs</title>
+      <link>https://www.reddit.com/r/technology/comments/1toe7m2/erin_brockovich_launches_map_of_over_4200_data/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1toe7m2/erin_brockovich_launches_map_of_over_4200_data/</guid>
+      <pubDate>2026-05-26T17:39:43+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1toe7m2/erin_brockovich_launches_map_of_over_4200_data/&quot;&gt; &lt;img alt=&quot;Erin Brockovich launches map of over 4,200 data centres in the US, appeals for local communities to report environmental impact and other costs&quot; src=&quot;https://external-preview.redd.it/ES_VwM6bsDNAYHpIqAErpK1Euke356sTY9IGn0e8Y48.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9a16c2ee67c7940527425ca7b97dd511b50103f8&quot; title=&quot;Erin Brockovich launches map of over 4,200 data centres in the US, appeals for local communities to report environmental impact and other costs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.newsweek.com/erin-brockovich-asks-americans-for-help-as-she-launches-data-center-map-11989813&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1toe7m2/erin_brockovich_launches_map_of_over_4200_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Pope Leo Issues AI Encyclical Warning That ‘Opaque Algorithms’ Controlled by a ‘Few’ Companies Can Bring ‘New Forms of Dehumanisation’</title>
-      <link>https://www.reddit.com/r/technology/comments/1tn5g7s/pope_leo_issues_ai_encyclical_warning_that_opaque/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1tn5g7s/pope_leo_issues_ai_encyclical_warning_that_opaque/</guid>
-      <pubDate>2026-05-25T10:45:04+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tn5g7s/pope_leo_issues_ai_encyclical_warning_that_opaque/&quot;&gt; &lt;img alt=&quot;Pope Leo Issues AI Encyclical Warning That ‘Opaque Algorithms’ Controlled by a ‘Few’ Companies Can Bring ‘New Forms of Dehumanisation’&quot; src=&quot;https://external-preview.redd.it/e1jsMJEcC6kIjveAGFo9KOCKQPG1K8hi_OajBg8Agio.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bf9df9769a24bd01152d48d873d3163829834e5a&quot; title=&quot;Pope Leo Issues AI Encyclical Warning That ‘Opaque Algorithms’ Controlled by a ‘Few’ Companies Can Bring ‘New Forms of Dehumanisation’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1tn5g7s/pope_leo_issues_ai_encyclical_warning_that_opaque/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows</title>
+      <link>https://www.reddit.com/r/technology/comments/1to9xz4/us_law_enforcement_warns_of_antitech_extremism_as/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1to9xz4/us_law_enforcement_warns_of_antitech_extremism_as/</guid>
+      <pubDate>2026-05-26T15:14:26+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1to9xz4/us_law_enforcement_warns_of_antitech_extremism_as/&quot;&gt; &lt;img alt=&quot;US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows&quot; src=&quot;https://external-preview.redd.it/IQOhdQWyCvXSPnQXhiustbvcBYTPS4DA1AkPLoYTEYY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0c5d7135cecad64a2f547a88449cb6bb4a113397&quot; title=&quot;US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Helicase21&quot;&gt; /u/Helicase21 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1to9xz4/us_law_enforcement_warns_of_antitech_extremism_as/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
