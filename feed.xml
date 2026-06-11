@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 10 Jun 2026 04:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:14:32 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Rich Sutton on AI creativity and discovery</title>
-      <link>https://twitter.com/RichardSSutton/status/2061216087744946656</link>
-      <guid isPermaLink="true">https://twitter.com/RichardSSutton/status/2061216087744946656</guid>
-      <pubDate>Wed, 10 Jun 2026 02:25:24 +0000</pubDate>
+      <title>[HN] Deficient executive control in transformer attention</title>
+      <link>https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838</link>
+      <guid isPermaLink="true">https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838</guid>
+      <pubDate>Wed, 10 Jun 2026 23:35:01 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] German ruling declares Google liable for false answers in AI Overviews</title>
-      <link>https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/</link>
-      <guid isPermaLink="true">https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/</guid>
-      <pubDate>Wed, 10 Jun 2026 01:44:13 +0000</pubDate>
+      <title>[HN] Unix GC Remastered</title>
+      <link>https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/</link>
+      <guid isPermaLink="true">https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/</guid>
+      <pubDate>Wed, 10 Jun 2026 22:48:58 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] macOS Container Machines</title>
-      <link>https://github.com/apple/container/blob/main/docs/container-machine.md</link>
-      <guid isPermaLink="true">https://github.com/apple/container/blob/main/docs/container-machine.md</guid>
-      <pubDate>Wed, 10 Jun 2026 00:29:01 +0000</pubDate>
+      <title>[HN] Sequoyah’s syllabary created a written language for the Cherokee</title>
+      <link>https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/</link>
+      <guid isPermaLink="true">https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/</guid>
+      <pubDate>Wed, 10 Jun 2026 22:07:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] It's death</title>
-      <link>https://jesseduffield.com/ITS-DEATH/</link>
-      <guid isPermaLink="true">https://jesseduffield.com/ITS-DEATH/</guid>
-      <pubDate>Tue, 09 Jun 2026 23:44:16 +0000</pubDate>
+      <title>[HN] Are insecure code completions in PyCharm a vulnerability?</title>
+      <link>https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability</link>
+      <guid isPermaLink="true">https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability</guid>
+      <pubDate>Thu, 11 Jun 2026 01:26:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Nucleus – A security-hardened, Nix-native container runtime</title>
-      <link>https://github.com/sig-id/nucleus</link>
-      <guid isPermaLink="true">https://github.com/sig-id/nucleus</guid>
-      <pubDate>Tue, 09 Jun 2026 23:03:40 +0000</pubDate>
+      <title>[HN] AI agent runs amok in Fedora and elsewhere</title>
+      <link>https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</link>
+      <guid isPermaLink="true">https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</guid>
+      <pubDate>Thu, 11 Jun 2026 00:10:08 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Last Month, Salesforce Announced It Hit $1.2 Billion in AI Revenue—Now It’s Laying Off Staff Tied to the Product</title>
-      <link>https://www.reddit.com/r/technology/comments/1u1ghs0/last_month_salesforce_announced_it_hit_12_billion/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u1ghs0/last_month_salesforce_announced_it_hit_12_billion/</guid>
-      <pubDate>2026-06-09T20:16:31+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Conscious-Quarter423&quot;&gt; /u/Conscious-Quarter423 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.inc.com/georgia-fearn/salesforce-announced-billion-in-ai-revenue-now-laying-off-staff-tied-to-product/91358471&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u1ghs0/last_month_salesforce_announced_it_hit_12_billion/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers</title>
+      <link>https://www.reddit.com/r/technology/comments/1u2jt3g/landmark_german_ruling_declares_googles_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u2jt3g/landmark_german_ruling_declares_googles_ai/</guid>
+      <pubDate>2026-06-11T00:27:02+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u2jt3g/landmark_german_ruling_declares_googles_ai/&quot;&gt; &lt;img alt=&quot;Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers&quot; src=&quot;https://external-preview.redd.it/86MDMVUeSxPOPMPs2t9ot23CgKm0FtwYZ7FQVcXgo4A.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ebc4289b05e0281e512813fc7f5fed82e0ee52bc&quot; title=&quot;Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/steevo&quot;&gt; /u/steevo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u2jt3g/landmark_german_ruling_declares_googles_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Man jailed for a month despite Flock showing he was 5 miles from crime scene</title>
-      <link>https://www.reddit.com/r/technology/comments/1u1b73u/man_jailed_for_a_month_despite_flock_showing_he/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u1b73u/man_jailed_for_a_month_despite_flock_showing_he/</guid>
-      <pubDate>2026-06-09T17:08:55+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u1b73u/man_jailed_for_a_month_despite_flock_showing_he/&quot;&gt; &lt;img alt=&quot;Man jailed for a month despite Flock showing he was 5 miles from crime scene&quot; src=&quot;https://external-preview.redd.it/_3R-M9_VrrMY-hJy9PIRNcjD3Cx_MfmfUCTdOL4FOnk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4d71a5f6b95fc7a5f36aab4be862aef63d29d238&quot; title=&quot;Man jailed for a month despite Flock showing he was 5 miles from crime scene&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u1b73u/man_jailed_for_a_month_despite_flock_showing_he/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] professor</title>
+      <link>https://www.reddit.com/r/technology/comments/1u2i8zx/college_students_are_rapidly_losing_the_ability/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u2i8zx/college_students_are_rapidly_losing_the_ability/</guid>
+      <pubDate>2026-06-10T23:19:08+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u2i8zx/college_students_are_rapidly_losing_the_ability/&quot;&gt; &lt;img alt=&quot;College students are rapidly losing the ability to read — “There is a measurable, generational collapse in sustained reading and writing”: professor&quot; src=&quot;https://external-preview.redd.it/qIQSQ8A82oFPcvmq3iMqH-cGq7dSa4KuP-2mTwBMYzc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=480743b1f69a1c4c754ffed5395a98875fda5d97&quot; title=&quot;College students are rapidly losing the ability to read — “There is a measurable, generational collapse in sustained reading and writing”: professor&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/college-students-rapidly-losing-ability-124439310.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u2i8zx/college_students_are_rapidly_losing_the_ability/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case</title>
-      <link>https://www.reddit.com/r/technology/comments/1u18o6n/judge_learns_lawyers_on_both_sides_of_case_used/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u18o6n/judge_learns_lawyers_on_both_sides_of_case_used/</guid>
-      <pubDate>2026-06-09T15:41:21+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u18o6n/judge_learns_lawyers_on_both_sides_of_case_used/&quot;&gt; &lt;img alt=&quot;Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case&quot; src=&quot;https://external-preview.redd.it/cNQPSYuv2Z9wpMSe0aGv9Dj1SROXX-Woikojq2zXY2c.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d08c3b5b814be82c8f9586f4496edc6e7b5380a5&quot; title=&quot;Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u18o6n/judge_learns_lawyers_on_both_sides_of_case_used/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance</title>
+      <link>https://www.reddit.com/r/technology/comments/1u2b6z8/cheap_iranian_drone_downed_25_million_us_army/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u2b6z8/cheap_iranian_drone_downed_25_million_us_army/</guid>
+      <pubDate>2026-06-10T18:49:52+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u2b6z8/cheap_iranian_drone_downed_25_million_us_army/&quot;&gt; &lt;img alt=&quot;Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance&quot; src=&quot;https://external-preview.redd.it/f2wLBRfO-dZPmotWQgJDMTIvgvb4bx4D_3olBvw6wXM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4042ffcc388b911df45aa5533b911d805d7e0987&quot; title=&quot;Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spasticpat&quot;&gt; /u/spasticpat &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u2b6z8/cheap_iranian_drone_downed_25_million_us_army/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Reddit ads pose as news stories to promote AI investment scams</title>
-      <link>https://www.reddit.com/r/technology/comments/1u16j7f/reddit_ads_pose_as_news_stories_to_promote_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u16j7f/reddit_ads_pose_as_news_stories_to_promote_ai/</guid>
-      <pubDate>2026-06-09T14:26:20+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u16j7f/reddit_ads_pose_as_news_stories_to_promote_ai/&quot;&gt; &lt;img alt=&quot;Reddit ads pose as news stories to promote AI investment scams&quot; src=&quot;https://external-preview.redd.it/pDpnRj5dyU7s_768bVTPPzxSn7JezQ8F3lM3NJqKzRs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fe86a02cd1f9b8517845118ea9b4865b0254323d&quot; title=&quot;Reddit ads pose as news stories to promote AI investment scams&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Wagamaga&quot;&gt; /u/Wagamaga &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://mashable.com/tech/reddit-scam-ads-pose-as-outlets-to-promote-ai&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u16j7f/reddit_ads_pose_as_news_stories_to_promote_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Nobody needs AI to search the Internet, court says in ruling against Google</title>
+      <link>https://www.reddit.com/r/technology/comments/1u28nhm/nobody_needs_ai_to_search_the_internet_court_says/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u28nhm/nobody_needs_ai_to_search_the_internet_court_says/</guid>
+      <pubDate>2026-06-10T17:20:30+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u28nhm/nobody_needs_ai_to_search_the_internet_court_says/&quot;&gt; &lt;img alt=&quot;Nobody needs AI to search the Internet, court says in ruling against Google&quot; src=&quot;https://external-preview.redd.it/YxIxKcXOCXgBCtSuAJrhd6vQGn-26r9-J4JXnj9OJcY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4127113177e62fe4811fd5709d28f9d38e122b8a&quot; title=&quot;Nobody needs AI to search the Internet, court says in ruling against Google&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u28nhm/nobody_needs_ai_to_search_the_internet_court_says/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Microsoft admits Game Pass price hike drove away &quot;millions&quot; of subscribers</title>
-      <link>https://www.reddit.com/r/technology/comments/1u132wq/microsoft_admits_game_pass_price_hike_drove_away/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u132wq/microsoft_admits_game_pass_price_hike_drove_away/</guid>
-      <pubDate>2026-06-09T12:06:12+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u132wq/microsoft_admits_game_pass_price_hike_drove_away/&quot;&gt; &lt;img alt=&quot;Microsoft admits Game Pass price hike drove away &amp;quot;millions&amp;quot; of subscribers&quot; src=&quot;https://external-preview.redd.it/DjA_r-6V2hmEPOq-ji-_jpdf42Y8YSizEiQY7cbU_CQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a35dd2d4f270418b78e8bbe81747d4275540b73e&quot; title=&quot;Microsoft admits Game Pass price hike drove away &amp;quot;millions&amp;quot; of subscribers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/112699-microsoft-admits-game-pass-price-hike-drove-away.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u132wq/microsoft_admits_game_pass_price_hike_drove_away/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] One day after discovery, Meta pulls facial recognition code from its smart glasses</title>
+      <link>https://www.reddit.com/r/technology/comments/1u20s8a/one_day_after_discovery_meta_pulls_facial/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u20s8a/one_day_after_discovery_meta_pulls_facial/</guid>
+      <pubDate>2026-06-10T12:28:04+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u20s8a/one_day_after_discovery_meta_pulls_facial/&quot;&gt; &lt;img alt=&quot;One day after discovery, Meta pulls facial recognition code from its smart glasses&quot; src=&quot;https://external-preview.redd.it/6WZUCB5TkVCaOvvY32gv3qRewh3AakZBFsifyRPyg40.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=45c525327e32f8f503dcca03389b7c6ee2881812&quot; title=&quot;One day after discovery, Meta pulls facial recognition code from its smart glasses&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u20s8a/one_day_after_discovery_meta_pulls_facial/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
