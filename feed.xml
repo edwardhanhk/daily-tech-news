@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 20 Jun 2026 03:58:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 04:40:22 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] How to feed a dictator</title>
-      <link>https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film</link>
-      <guid isPermaLink="true">https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film</guid>
-      <pubDate>Sat, 20 Jun 2026 01:16:56 +0000</pubDate>
+      <title>[HN] Your brain was never designed for this much bad news</title>
+      <link>https://www.sciencedaily.com/releases/2026/06/260614012006.htm</link>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2026/06/260614012006.htm</guid>
+      <pubDate>Sun, 21 Jun 2026 04:02:08 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Hey, n00b, we didn't hire you to complete tasks</title>
-      <link>https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete</link>
-      <guid isPermaLink="true">https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete</guid>
-      <pubDate>Sat, 20 Jun 2026 00:11:07 +0000</pubDate>
+      <title>[HN] Developers don't understand CORS (2019)</title>
+      <link>https://fosterelli.co/developers-dont-understand-cors</link>
+      <guid isPermaLink="true">https://fosterelli.co/developers-dont-understand-cors</guid>
+      <pubDate>Sun, 21 Jun 2026 01:35:40 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Aikido Code Audit</title>
-      <link>https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase</link>
-      <guid isPermaLink="true">https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase</guid>
-      <pubDate>Fri, 19 Jun 2026 23:54:54 +0000</pubDate>
+      <title>[HN] White House delays US voting-machine vulnerability report</title>
+      <link>https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/</guid>
+      <pubDate>Sun, 21 Jun 2026 01:29:53 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Ask HN: Will programmers write more efficient code during the memory shortage?</title>
-      <link>https://news.ycombinator.com/item?id=48604232</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48604232</guid>
-      <pubDate>Fri, 19 Jun 2026 22:51:09 +0000</pubDate>
+      <title>[HN] When I reject AI code even if it works</title>
+      <link>https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</link>
+      <guid isPermaLink="true">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</guid>
+      <pubDate>Sun, 21 Jun 2026 00:58:13 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Zenzizenzizenzic</title>
-      <link>https://en.wikipedia.org/wiki/Zenzizenzizenzic</link>
-      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Zenzizenzizenzic</guid>
-      <pubDate>Fri, 19 Jun 2026 21:49:44 +0000</pubDate>
+      <title>[HN] Project Fetch: Phase Two</title>
+      <link>https://www.anthropic.com/research/project-fetch-phase-two</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/project-fetch-phase-two</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] This month's Windows 11 update broke the Recycle Bin, OneDrive, and possibly your PC's stability</title>
-      <link>https://www.reddit.com/r/technology/comments/1ua9hk8/this_months_windows_11_update_broke_the_recycle/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ua9hk8/this_months_windows_11_update_broke_the_recycle/</guid>
-      <pubDate>2026-06-19T18:17:10+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ua9hk8/this_months_windows_11_update_broke_the_recycle/&quot;&gt; &lt;img alt=&quot;This month's Windows 11 update broke the Recycle Bin, OneDrive, and possibly your PC's stability&quot; src=&quot;https://external-preview.redd.it/Ref6mmAIempLZDdA1Nd0ji4UzNGdPv2tw2k0WfHH2q0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d415b4f912da2efe7115c67f3d7e75a93fbcb595&quot; title=&quot;This month's Windows 11 update broke the Recycle Bin, OneDrive, and possibly your PC's stability&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/GreyXor&quot;&gt; /u/GreyXor &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ua9hk8/this_months_windows_11_update_broke_the_recycle/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Morale is so bad at Mark Zuckerberg's Meta even the company's own CTO admits it's 'probably the worst it's ever been'</title>
+      <link>https://www.reddit.com/r/technology/comments/1ub7r1y/morale_is_so_bad_at_mark_zuckerbergs_meta_even/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ub7r1y/morale_is_so_bad_at_mark_zuckerbergs_meta_even/</guid>
+      <pubDate>2026-06-20T21:15:05+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ub7r1y/morale_is_so_bad_at_mark_zuckerbergs_meta_even/&quot;&gt; &lt;img alt=&quot;Morale is so bad at Mark Zuckerberg's Meta even the company's own CTO admits it's 'probably the worst it's ever been'&quot; src=&quot;https://external-preview.redd.it/Vny4i0KYMwo5JrjYS9xrlY_tv31hDu0GsEumssApNfM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4933f96e8b88db394d10db0aec6ad85194e5084f&quot; title=&quot;Morale is so bad at Mark Zuckerberg's Meta even the company's own CTO admits it's 'probably the worst it's ever been'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/articles/morale-bad-mark-zuckerbergs-meta-130000803.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ub7r1y/morale_is_so_bad_at_mark_zuckerbergs_meta_even/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] &quot;Nobody on that list gets that job&quot;</title>
-      <link>https://www.reddit.com/r/technology/comments/1ua2vrr/anne_hathaway_says_she_was_spammed_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ua2vrr/anne_hathaway_says_she_was_spammed_with/</guid>
-      <pubDate>2026-06-19T14:03:25+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ua2vrr/anne_hathaway_says_she_was_spammed_with/&quot;&gt; &lt;img alt=&quot;Anne Hathaway says she was spammed with ChatGPT-written thank you notes after hiring for a recent role: &amp;quot;Nobody on that list gets that job&amp;quot;&quot; src=&quot;https://external-preview.redd.it/bDNYgzGkesIi76XNmuXICAVBCjMvA__LcChiFW-PDho.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=672b00c042ad2db1c50d0181c49c1aec8eaf2eb0&quot; title=&quot;Anne Hathaway says she was spammed with ChatGPT-written thank you notes after hiring for a recent role: &amp;quot;Nobody on that list gets that job&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/06/18/anne-hathaway-chatgpt-thank-you-notes-job-candidates-hiring-meryl-streep-career-advice-job-interview/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ua2vrr/anne_hathaway_says_she_was_spammed_with/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The average SpaceX buyer post-IPO is almost under water after two-day slide</title>
+      <link>https://www.reddit.com/r/technology/comments/1ub1fwj/the_average_spacex_buyer_postipo_is_almost_under/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ub1fwj/the_average_spacex_buyer_postipo_is_almost_under/</guid>
+      <pubDate>2026-06-20T16:53:04+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ub1fwj/the_average_spacex_buyer_postipo_is_almost_under/&quot;&gt; &lt;img alt=&quot;The average SpaceX buyer post-IPO is almost under water after two-day slide&quot; src=&quot;https://external-preview.redd.it/WI2gWwnIjbzTDUrlNCDym8hUn5BDmham18OtxaMuoFY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1c54522f73b30a80859dac416bbb2a85e9eace20&quot; title=&quot;The average SpaceX buyer post-IPO is almost under water after two-day slide&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ub1fwj/the_average_spacex_buyer_postipo_is_almost_under/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Americans express unease over SpaceX’s influence on retirement savings</title>
-      <link>https://www.reddit.com/r/technology/comments/1ua1nfy/its_a_scam_americans_express_unease_over_spacexs/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ua1nfy/its_a_scam_americans_express_unease_over_spacexs/</guid>
-      <pubDate>2026-06-19T13:12:07+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ua1nfy/its_a_scam_americans_express_unease_over_spacexs/&quot;&gt; &lt;img alt=&quot;‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings&quot; src=&quot;https://external-preview.redd.it/cx9yKPWkY0xe9FT7pta8gx3ItZZnMpSjBU0q9VOKg-M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=01dabc528e6ecfcdd0c8b36857e831bf44ddf3af&quot; title=&quot;‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ua1nfy/its_a_scam_americans_express_unease_over_spacexs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] College Students Consumed by “Resignation and Despair” as They’re Relentlessly Pressured to Use AI</title>
+      <link>https://www.reddit.com/r/technology/comments/1ub0p69/college_students_consumed_by_resignation_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ub0p69/college_students_consumed_by_resignation_and/</guid>
+      <pubDate>2026-06-20T16:22:07+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ub0p69/college_students_consumed_by_resignation_and/&quot;&gt; &lt;img alt=&quot;College Students Consumed by “Resignation and Despair” as They’re Relentlessly Pressured to Use AI&quot; src=&quot;https://external-preview.redd.it/Bv8lTcwp9lsgHn2BJfG65w7kA6wqVJ6knEJfO25YrK8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a2f15dfbeaea3dfa3fa4c6d0d1ce19c469bd5558&quot; title=&quot;College Students Consumed by “Resignation and Despair” as They’re Relentlessly Pressured to Use AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/college-students-consumed-resignation-despair-120000680.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ub0p69/college_students_consumed_by_resignation_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Low-skilled attacker used Claude, Codex to breach 14 companies</title>
-      <link>https://www.reddit.com/r/technology/comments/1u9w4gg/lowskilled_attacker_used_claude_codex_to_breach/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u9w4gg/lowskilled_attacker_used_claude_codex_to_breach/</guid>
-      <pubDate>2026-06-19T08:16:53+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u9w4gg/lowskilled_attacker_used_claude_codex_to_breach/&quot;&gt; &lt;img alt=&quot;Low-skilled attacker used Claude, Codex to breach 14 companies&quot; src=&quot;https://external-preview.redd.it/TFzcfiPYB2eVDDbJ_NalGmDuF48emNVkhBMkmxjVB_8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cf75ee25956d936f90af401573709fd147e9761a&quot; title=&quot;Low-skilled attacker used Claude, Codex to breach 14 companies&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u9w4gg/lowskilled_attacker_used_claude_codex_to_breach/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] White House delays release of US voting machine study as midterms near</title>
+      <link>https://www.reddit.com/r/technology/comments/1uax7b1/exclusive_white_house_delays_release_of_us_voting/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uax7b1/exclusive_white_house_delays_release_of_us_voting/</guid>
+      <pubDate>2026-06-20T13:53:19+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Presently_Naked&quot;&gt; /u/Presently_Naked &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uax7b1/exclusive_white_house_delays_release_of_us_voting/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Conservatives plan nationwide protest against AI data centers</title>
-      <link>https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/</guid>
-      <pubDate>2026-06-19T05:48:51+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/&quot;&gt; &lt;img alt=&quot;Conservatives plan nationwide protest against AI data centers&quot; src=&quot;https://external-preview.redd.it/M0OjfxgKPcBtdax-KuPanvi4OUhfmqjGj62sz3jZWMw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f4cc23f68bf4bd771c44a290e0d6d81becbf1364&quot; title=&quot;Conservatives plan nationwide protest against AI data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.axios.com/2026/06/18/conservatives-protest-ai-data-centers&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Windows 11's New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs</title>
+      <link>https://www.reddit.com/r/technology/comments/1uaqz0i/windows_11s_new_media_player_uses_35x_more_ram/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uaqz0i/windows_11s_new_media_player_uses_35x_more_ram/</guid>
+      <pubDate>2026-06-20T08:10:23+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uaqz0i/windows_11s_new_media_player_uses_35x_more_ram/&quot;&gt; &lt;img alt=&quot;Windows 11's New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs&quot; src=&quot;https://external-preview.redd.it/BqellPu8WEtqUmaUcJPolLyjngu0omHVBEpwPZ7HQBU.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e8c47365de767a70352a7057f43944c1a1ae4641&quot; title=&quot;Windows 11's New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Ephoenix6&quot;&gt; /u/Ephoenix6 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uaqz0i/windows_11s_new_media_player_uses_35x_more_ram/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
