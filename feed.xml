@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 29 Jun 2026 04:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 03:55:10 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Better Images of AI</title>
-      <link>https://betterimagesofai.org/</link>
-      <guid isPermaLink="true">https://betterimagesofai.org/</guid>
-      <pubDate>Sun, 28 Jun 2026 23:50:58 +0000</pubDate>
+      <title>[HN] Exploring PDP-1 Lisp (1960)</title>
+      <link>https://obsolescence.dev/pdp1-lisp-introduction.html</link>
+      <guid isPermaLink="true">https://obsolescence.dev/pdp1-lisp-introduction.html</guid>
+      <pubDate>Tue, 30 Jun 2026 00:56:42 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] On cigarettes</title>
-      <link>https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/</link>
-      <guid isPermaLink="true">https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/</guid>
-      <pubDate>Sun, 28 Jun 2026 23:12:17 +0000</pubDate>
+      <title>[HN] Memory Safe Context Switching (longjmp, setjmp) in Fil-C</title>
+      <link>https://fil-c.org/context_switches</link>
+      <guid isPermaLink="true">https://fil-c.org/context_switches</guid>
+      <pubDate>Tue, 30 Jun 2026 00:38:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Age verification is just a precursor to automated attribution of speech</title>
-      <link>https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</link>
-      <guid isPermaLink="true">https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</guid>
-      <pubDate>Mon, 29 Jun 2026 03:42:07 +0000</pubDate>
+      <title>[HN] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active</title>
+      <link>https://longcat.chat/blog/longcat-2.0/</link>
+      <guid isPermaLink="true">https://longcat.chat/blog/longcat-2.0/</guid>
+      <pubDate>Tue, 30 Jun 2026 00:30:11 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] AI boom risks global financial crash, warn central bankers</title>
-      <link>https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/</link>
-      <guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/</guid>
-      <pubDate>Mon, 29 Jun 2026 01:25:04 +0000</pubDate>
+      <title>[HN] Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso</title>
+      <link>https://github.com/SMJAI/open-memory-protocol</link>
+      <guid isPermaLink="true">https://github.com/SMJAI/open-memory-protocol</guid>
+      <pubDate>Tue, 30 Jun 2026 00:05:33 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] You might not need a service worker</title>
-      <link>https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/</link>
-      <guid isPermaLink="true">https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/</guid>
-      <pubDate>Mon, 29 Jun 2026 00:48:17 +0000</pubDate>
+      <title>[HN] South Korea to spend $1T on more memory chip production and humanoid robots</title>
+      <link>https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</guid>
+      <pubDate>Mon, 29 Jun 2026 22:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Ford rehires ‘gray beard’ engineers after AI falls short</title>
-      <link>https://www.reddit.com/r/technology/comments/1ui7kif/ford_rehires_gray_beard_engineers_after_ai_falls/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ui7kif/ford_rehires_gray_beard_engineers_after_ai_falls/</guid>
-      <pubDate>2026-06-28T20:17:04+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ui7kif/ford_rehires_gray_beard_engineers_after_ai_falls/&quot;&gt; &lt;img alt=&quot;Ford rehires ‘gray beard’ engineers after AI falls short&quot; src=&quot;https://external-preview.redd.it/OIWXwgt1ZhLAlL-SUi4_j4lx7zwW38vphI0VgthKfnc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=db21fea40f67cab68abe65792f7d625fe8eec0e4&quot; title=&quot;Ford rehires ‘gray beard’ engineers after AI falls short&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/idkbruh653&quot;&gt; /u/idkbruh653 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ui7kif/ford_rehires_gray_beard_engineers_after_ai_falls/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] T-Mobile Just Ripped 8 Million Customers Off Their Grandfathered Plans – and Raised Their Bills</title>
+      <link>https://www.reddit.com/r/technology/comments/1uj6dsg/tmobile_just_ripped_8_million_customers_off_their/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uj6dsg/tmobile_just_ripped_8_million_customers_off_their/</guid>
+      <pubDate>2026-06-29T22:00:44+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uj6dsg/tmobile_just_ripped_8_million_customers_off_their/&quot;&gt; &lt;img alt=&quot;T-Mobile Just Ripped 8 Million Customers Off Their Grandfathered Plans – and Raised Their Bills&quot; src=&quot;https://external-preview.redd.it/-rg8gIvtL7G25AwdONPV-uin6_OXU5E39soz7n_3ZdM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2f74758b00b004e9cf4495381ff126e600688628&quot; title=&quot;T-Mobile Just Ripped 8 Million Customers Off Their Grandfathered Plans – and Raised Their Bills&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/t-mobile-just-ripped-8-million-customers-off-their-grandfathered-plans-and-raised-their-bills&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uj6dsg/tmobile_just_ripped_8_million_customers_off_their/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] How did agents track down this critic on his vacation?</title>
-      <link>https://www.reddit.com/r/technology/comments/1ui0z4k/another_ice_threat_visit_how_did_agents_track/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ui0z4k/another_ice_threat_visit_how_did_agents_track/</guid>
-      <pubDate>2026-06-28T15:59:36+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ui0z4k/another_ice_threat_visit_how_did_agents_track/&quot;&gt; &lt;img alt=&quot;Another ICE threat visit: How did agents track down this critic on his vacation?&quot; src=&quot;https://external-preview.redd.it/0F1nE47r8_MdcbTfkvKbxmBYUzuRwBJ8LGb5mccOdGg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d173b5bba1cf02ba71fd9427fb7fd69736f6cfd5&quot; title=&quot;Another ICE threat visit: How did agents track down this critic on his vacation?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/digital-didgeridoo&quot;&gt; /u/digital-didgeridoo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.syracuse.com/news/2026/06/another-ice-threat-visit-how-did-agents-track-down-this-critic-on-his-vacation.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ui0z4k/another_ice_threat_visit_how_did_agents_track/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] TIDAL to automatically tag AI-generated music and block it from earning royalties</title>
+      <link>https://www.reddit.com/r/technology/comments/1uixhkc/tidal_to_automatically_tag_aigenerated_music_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uixhkc/tidal_to_automatically_tag_aigenerated_music_and/</guid>
+      <pubDate>2026-06-29T16:32:48+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uixhkc/tidal_to_automatically_tag_aigenerated_music_and/&quot;&gt; &lt;img alt=&quot;TIDAL to automatically tag AI-generated music and block it from earning royalties&quot; src=&quot;https://external-preview.redd.it/UM8FKsrPg4IwaCAKkedZz8n2yGniVjdFTY8s22LJNNw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e8dc0e68e42797753dfd824ea3a89a5617cc33b4&quot; title=&quot;TIDAL to automatically tag AI-generated music and block it from earning royalties&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.musicbusinessworldwide.com/tidal-to-tag-fully-ai-generated-music-and-block-it-from-earning-royalties/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uixhkc/tidal_to_automatically_tag_aigenerated_music_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Mark Zuckerberg Sure Sounds Eager to Get Young People Hooked on Online Gambling</title>
-      <link>https://www.reddit.com/r/technology/comments/1uhy0af/mark_zuckerberg_sure_sounds_eager_to_get_young/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uhy0af/mark_zuckerberg_sure_sounds_eager_to_get_young/</guid>
-      <pubDate>2026-06-28T13:58:14+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uhy0af/mark_zuckerberg_sure_sounds_eager_to_get_young/&quot;&gt; &lt;img alt=&quot;Mark Zuckerberg Sure Sounds Eager to Get Young People Hooked on Online Gambling&quot; src=&quot;https://external-preview.redd.it/U0xpUSFkXYLmZb2cBViWf75bKoDIpdx6wCS6WXOwdGk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7b77b36d6407eb6357414b4e0d8b91ed164d4812&quot; title=&quot;Mark Zuckerberg Sure Sounds Eager to Get Young People Hooked on Online Gambling&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/zsreport&quot;&gt; /u/zsreport &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.motherjones.com/politics/2026/06/meta-prediction-markets-online-gambling/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uhy0af/mark_zuckerberg_sure_sounds_eager_to_get_young/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Ford rehires more than 300 veteran human engineers after it says AI failed to deliver the same level of expertise</title>
+      <link>https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/</guid>
+      <pubDate>2026-06-29T15:06:07+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/&quot;&gt; &lt;img alt=&quot;Ford rehires more than 300 veteran human engineers after it says AI failed to deliver the same level of expertise&quot; src=&quot;https://external-preview.redd.it/ya-Ot4vWMJYfAVlD_WUoePimjK3itir_gEdFV9ut7N4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=93a16d0228b544cfe0d0271c33d363e75c2b1fe7&quot; title=&quot;Ford rehires more than 300 veteran human engineers after it says AI failed to deliver the same level of expertise&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/LegitimateCurve8525&quot;&gt; /u/LegitimateCurve8525 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.bbc.com/news/articles/cgrkd41n2v9o&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Canada just cut a hole in the roof of a working nuclear reactor, hauled out eight steam generators weighing 100 tons each, and lowered new ones into the same hole, bringing the reactor back online seven months early to run another 35 years</title>
-      <link>https://www.reddit.com/r/technology/comments/1uhtiha/canada_just_cut_a_hole_in_the_roof_of_a_working/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uhtiha/canada_just_cut_a_hole_in_the_roof_of_a_working/</guid>
-      <pubDate>2026-06-28T10:12:08+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uhtiha/canada_just_cut_a_hole_in_the_roof_of_a_working/&quot;&gt; &lt;img alt=&quot;Canada just cut a hole in the roof of a working nuclear reactor, hauled out eight steam generators weighing 100 tons each, and lowered new ones into the same hole, bringing the reactor back online seven months early to run another 35 years&quot; src=&quot;https://external-preview.redd.it/uotojJPM0AbJB9BDhGotq62t0rskpyeoPIBQSuBt1ys.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5e91e24678c0a0163149f6d4cef3382341703b39&quot; title=&quot;Canada just cut a hole in the roof of a working nuclear reactor, hauled out eight steam generators weighing 100 tons each, and lowered new ones into the same hole, bringing the reactor back online seven months early to run another 35 years&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Immediate-Link490&quot;&gt; /u/Immediate-Link490 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.autonocion.com/us/canada-hole-nuclear-reactor-eight-100-tons/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uhtiha/canada_just_cut_a_hole_in_the_roof_of_a_working/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Woman Surprised When Flock Surveillance Tower Appears in Her Yard Without Warning</title>
+      <link>https://www.reddit.com/r/technology/comments/1uita2a/woman_surprised_when_flock_surveillance_tower/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uita2a/woman_surprised_when_flock_surveillance_tower/</guid>
+      <pubDate>2026-06-29T13:58:26+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uita2a/woman_surprised_when_flock_surveillance_tower/&quot;&gt; &lt;img alt=&quot;Woman Surprised When Flock Surveillance Tower Appears in Her Yard Without Warning&quot; src=&quot;https://external-preview.redd.it/8-dd-Sso0d2DpUi4APaKWZJS0XXQPNEVSIAlsvDTVSI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b8b8aa8fd6ca451fa671c3da6cb39edbfac89b4c&quot; title=&quot;Woman Surprised When Flock Surveillance Tower Appears in Her Yard Without Warning&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IKeepItLayingAround&quot;&gt; /u/IKeepItLayingAround &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/woman-surprised-flock-surveillance-tower-185000752.html?.tsrc=daily_mail&amp;amp;segment_id=DY_VTO_50_Supernova&amp;amp;ncid=crm_19908-1475736-20260629-0--A&amp;amp;bt_ee=utFdBbF39cHCLuB4at4AI%2FUoSRgbTt8Ch%2B7Q9RImTlgL2ThvE3FuX%2BRSKiUir%2FNW&amp;amp;bt_ts=1782739085527&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uita2a/woman_surprised_when_flock_surveillance_tower/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Gemini in Chrome can now see exactly what you’re looking at on screen</title>
-      <link>https://www.reddit.com/r/technology/comments/1uhre6k/gemini_in_chrome_can_now_see_exactly_what_youre/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uhre6k/gemini_in_chrome_can_now_see_exactly_what_youre/</guid>
-      <pubDate>2026-06-28T08:04:46+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uhre6k/gemini_in_chrome_can_now_see_exactly_what_youre/&quot;&gt; &lt;img alt=&quot;Gemini in Chrome can now see exactly what you’re looking at on screen&quot; src=&quot;https://external-preview.redd.it/z0Sea4rUR4LqEub0YLKMIlTRqf12H3LLyalGpGRciuU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b3b358bcafcbba03cba81f4f6f90e2a5d0838f92&quot; title=&quot;Gemini in Chrome can now see exactly what you’re looking at on screen&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Artistic_Dj_6895&quot;&gt; /u/Artistic_Dj_6895 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://tech.yahoo.com/ai/gemini/articles/gemini-chrome-now-see-exactly-223515584.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uhre6k/gemini_in_chrome_can_now_see_exactly_what_youre/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Erin Brockovich on her battle against AI datacentres</title>
+      <link>https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/</guid>
+      <pubDate>2026-06-29T08:15:47+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/&quot;&gt; &lt;img alt=&quot;‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres&quot; src=&quot;https://external-preview.redd.it/gItjcMqNGO7PJ4Z6JJ7LrB2n8eO2Hqp0LhNlBQyPcDE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=35b1cc6388cf85cc98f7a914b18dc7b5eda50734&quot; title=&quot;‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
