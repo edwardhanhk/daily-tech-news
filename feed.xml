@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 01 Jul 2026 04:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:51:10 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Supersonic flight returning to US after half-century ban</title>
-      <link>https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/</guid>
-      <pubDate>Wed, 01 Jul 2026 02:26:22 +0000</pubDate>
+      <title>[HN] Show HN: Meow – The 4th and final JavaScript runtime and toolchain</title>
+      <link>https://meow.style</link>
+      <guid isPermaLink="true">https://meow.style</guid>
+      <pubDate>Thu, 02 Jul 2026 03:11:09 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Americans see their country's past, present and future</title>
-      <link>https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future</link>
-      <guid isPermaLink="true">https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future</guid>
-      <pubDate>Wed, 01 Jul 2026 01:24:21 +0000</pubDate>
+      <title>[HN] A new Android malware from Google</title>
+      <link>https://f-droid.org/2026/07/01/adv-malware.html</link>
+      <guid isPermaLink="true">https://f-droid.org/2026/07/01/adv-malware.html</guid>
+      <pubDate>Thu, 02 Jul 2026 03:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Forestiere Underground Gardens</title>
-      <link>https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens</link>
-      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens</guid>
-      <pubDate>Wed, 01 Jul 2026 01:23:09 +0000</pubDate>
+      <title>[HN] Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers</title>
+      <link>https://senior-swe-bench.snorkel.ai/</link>
+      <guid isPermaLink="true">https://senior-swe-bench.snorkel.ai/</guid>
+      <pubDate>Thu, 02 Jul 2026 02:55:16 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5</title>
-      <link>https://twitter.com/AnthropicAI/status/2072106151890809341</link>
-      <guid isPermaLink="true">https://twitter.com/AnthropicAI/status/2072106151890809341</guid>
-      <pubDate>Tue, 30 Jun 2026 23:55:12 +0000</pubDate>
+      <title>[HN] Bring Back Crappy Forums</title>
+      <link>https://tedium.co/2026/07/01/online-web-forums-retrospective/</link>
+      <guid isPermaLink="true">https://tedium.co/2026/07/01/online-web-forums-retrospective/</guid>
+      <pubDate>Thu, 02 Jul 2026 02:30:16 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Google copybara: moving code between repositories</title>
-      <link>https://github.com/google/copybara</link>
-      <guid isPermaLink="true">https://github.com/google/copybara</guid>
-      <pubDate>Tue, 30 Jun 2026 23:45:39 +0000</pubDate>
+      <title>[HN] Avoiding Fallback in Distributed Systems</title>
+      <link>https://builder.aws.com</link>
+      <guid isPermaLink="true">https://builder.aws.com</guid>
+      <pubDate>Thu, 02 Jul 2026 02:19:48 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] WinRAR releases new update and says it’s thanks to people finally paying</title>
-      <link>https://www.reddit.com/r/technology/comments/1ujymsp/winrar_releases_new_update_and_says_its_thanks_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ujymsp/winrar_releases_new_update_and_says_its_thanks_to/</guid>
-      <pubDate>2026-06-30T19:15:27+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujymsp/winrar_releases_new_update_and_says_its_thanks_to/&quot;&gt; &lt;img alt=&quot;WinRAR releases new update and says it’s thanks to people finally paying&quot; src=&quot;https://external-preview.redd.it/dEjo8RIgqAdOGfnnuwLAZHYogcl-6FnxdJwN2AfmjKY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=15eef1b2464d0328e7bcc5c672ffdec849d0e8a7&quot; title=&quot;WinRAR releases new update and says it’s thanks to people finally paying&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dilpickle2113&quot;&gt; /u/Dilpickle2113 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/winrar-releases-new-update-and-says-its-thanks-to-people-finally-paying-3381350/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujymsp/winrar_releases_new_update_and_says_its_thanks_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] &quot;Profoundly Disappointed:&quot; Companies Respond To Sony's Decision To End Disc Support</title>
+      <link>https://www.reddit.com/r/technology/comments/1ukzlvx/profoundly_disappointed_companies_respond_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ukzlvx/profoundly_disappointed_companies_respond_to/</guid>
+      <pubDate>2026-07-01T22:04:55+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukzlvx/profoundly_disappointed_companies_respond_to/&quot;&gt; &lt;img alt=&quot;&amp;quot;Profoundly Disappointed:&amp;quot; Companies Respond To Sony's Decision To End Disc Support&quot; src=&quot;https://external-preview.redd.it/T5jgqtG_Mw9nUrn8D8qv9m4fFRG1YwjBgriMvaDq5jY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=176639fc39ef7b854c01223cafd9007ac54a969c&quot; title=&quot;&amp;quot;Profoundly Disappointed:&amp;quot; Companies Respond To Sony's Decision To End Disc Support&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/LollipopChainsawZz&quot;&gt; /u/LollipopChainsawZz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamespot.com/articles/profoundly-disappointed-is-this-companys-response-to-sonys-decision-to-end-disc-support/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukzlvx/profoundly_disappointed_companies_respond_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Pennsylvania Just Voted to Pull the Plug on Big Tech's $517M Tax Break</title>
-      <link>https://www.reddit.com/r/technology/comments/1ujy7eg/pennsylvania_just_voted_to_pull_the_plug_on_big/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ujy7eg/pennsylvania_just_voted_to_pull_the_plug_on_big/</guid>
-      <pubDate>2026-06-30T19:00:22+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujy7eg/pennsylvania_just_voted_to_pull_the_plug_on_big/&quot;&gt; &lt;img alt=&quot;Pennsylvania Just Voted to Pull the Plug on Big Tech's $517M Tax Break&quot; src=&quot;https://external-preview.redd.it/7Qy634xWsq24UH3x3T0n6oBQb-pXbV6OSiCvFabfPkI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a0575516910d89adc3c685f0a36ac1690c9bac9a&quot; title=&quot;Pennsylvania Just Voted to Pull the Plug on Big Tech's $517M Tax Break&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/pennsylvania-just-voted-to-pull-the-plug-on-big-techs-517m-tax-break&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujy7eg/pennsylvania_just_voted_to_pull_the_plug_on_big/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Physical Disc Production to End January 2028 for New Games Releasing on PlayStation Consoles</title>
+      <link>https://www.reddit.com/r/technology/comments/1ukkntt/sony_just_killed_discs_physical_disc_production/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ukkntt/sony_just_killed_discs_physical_disc_production/</guid>
+      <pubDate>2026-07-01T12:44:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukkntt/sony_just_killed_discs_physical_disc_production/&quot;&gt; &lt;img alt=&quot;Sony Just Killed Discs: Physical Disc Production to End January 2028 for New Games Releasing on PlayStation Consoles&quot; src=&quot;https://external-preview.redd.it/9OpPRdk1dWNAm2kfXEx_jPthUFz3SpyXw12DuZOcA0g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bc385b40c9dbf475d8426b383e83e40904cb5498&quot; title=&quot;Sony Just Killed Discs: Physical Disc Production to End January 2028 for New Games Releasing on PlayStation Consoles&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lkl34&quot;&gt; /u/lkl34 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ign.com/articles/sony-just-killed-discs-physical-disc-production-to-end-january-2028-for-new-games-releasing-on-playstation-consoles&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukkntt/sony_just_killed_discs_physical_disc_production/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Bosses Are Becoming Obsessed With AI, Using It to Make Every Decision, Barraging Their Employees With Nonsensical ChatGPT Directives, and Even Asking It Who to Fire</title>
-      <link>https://www.reddit.com/r/technology/comments/1ujvahw/bosses_are_becoming_obsessed_with_ai_using_it_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ujvahw/bosses_are_becoming_obsessed_with_ai_using_it_to/</guid>
-      <pubDate>2026-06-30T17:15:06+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujvahw/bosses_are_becoming_obsessed_with_ai_using_it_to/&quot;&gt; &lt;img alt=&quot;Bosses Are Becoming Obsessed With AI, Using It to Make Every Decision, Barraging Their Employees With Nonsensical ChatGPT Directives, and Even Asking It Who to Fire&quot; src=&quot;https://external-preview.redd.it/1h50Rl80rud1IGaq_6d_19076pJ-MXj_nfCI1EBE-y4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=674d4299d076f7cb57d2499ad6dca97c13ad5ac1&quot; title=&quot;Bosses Are Becoming Obsessed With AI, Using It to Make Every Decision, Barraging Their Employees With Nonsensical ChatGPT Directives, and Even Asking It Who to Fire&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://tech.yahoo.com/ai/chatgpt/articles/bosses-becoming-obsessed-ai-using-175014710.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujvahw/bosses_are_becoming_obsessed_with_ai_using_it_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Anybody Who Thinks Orbital Data Centers are a Good Idea Is Suffering from AI Psychosis, Experts Argue</title>
+      <link>https://www.reddit.com/r/technology/comments/1ukhzb2/anybody_who_thinks_orbital_data_centers_are_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ukhzb2/anybody_who_thinks_orbital_data_centers_are_a/</guid>
+      <pubDate>2026-07-01T10:35:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukhzb2/anybody_who_thinks_orbital_data_centers_are_a/&quot;&gt; &lt;img alt=&quot;Anybody Who Thinks Orbital Data Centers are a Good Idea Is Suffering from AI Psychosis, Experts Argue&quot; src=&quot;https://external-preview.redd.it/EVbzGLzEJ3SdpwPvipSzzpgT_ECCAq25cMPf915zLq0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4fc8b25878e8d18d52a728bbefdf77b2b65fdb40&quot; title=&quot;Anybody Who Thinks Orbital Data Centers are a Good Idea Is Suffering from AI Psychosis, Experts Argue&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IKeepItLayingAround&quot;&gt; /u/IKeepItLayingAround &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://tech.yahoo.com/ai/articles/anybody-thinks-orbital-data-centers-125444236.html?.tsrc=daily_mail&amp;amp;segment_id=DY_VTO_50_Supernova&amp;amp;ncid=crm_19908-1475736-20260701-0--A&amp;amp;bt_ee=jp%2FPV4EkljsWGekq5mnFwd%2B2S%2BN7gs2xhj6S1SfdUzqzemCpSDsQ2%2Bm%2BbYpgxLby&amp;amp;bt_ts=1782900633837&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukhzb2/anybody_who_thinks_orbital_data_centers_are_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] County With 37 Data Centers Asks Schools to ‘Conserve Electricity’ / Henrico County is a major hub for data centers in Virginia. Its officials said it expects a 25% rise in electricity costs next year, and advised workers to close the blinds and turn off their computers to make up for it.</title>
-      <link>https://www.reddit.com/r/technology/comments/1ujszte/county_with_37_data_centers_asks_schools_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ujszte/county_with_37_data_centers_asks_schools_to/</guid>
-      <pubDate>2026-06-30T15:51:21+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujszte/county_with_37_data_centers_asks_schools_to/&quot;&gt; &lt;img alt=&quot;County With 37 Data Centers Asks Schools to ‘Conserve Electricity’ / Henrico County is a major hub for data centers in Virginia. Its officials said it expects a 25% rise in electricity costs next year, and advised workers to close the blinds and turn off their computers to make up for it.&quot; src=&quot;https://external-preview.redd.it/k2oAGlPQxeXhsKc6PI8yyvLaijtajDpnIUupJasxjBg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bdd1f414efd0031253609c51776ea3cebb627c16&quot; title=&quot;County With 37 Data Centers Asks Schools to ‘Conserve Electricity’ / Henrico County is a major hub for data centers in Virginia. Its officials said it expects a 25% rise in electricity costs next year, and advised workers to close the blinds and turn off their computers to make up for it.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujszte/county_with_37_data_centers_asks_schools_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] a Mass Casualty Event, or Worse, That Turns the World Against AI Forever</title>
+      <link>https://www.reddit.com/r/technology/comments/1ukhyfy/top_ai_researchers_terrified_of_a_chernobyl/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ukhyfy/top_ai_researchers_terrified_of_a_chernobyl/</guid>
+      <pubDate>2026-07-01T10:34:18+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukhyfy/top_ai_researchers_terrified_of_a_chernobyl/&quot;&gt; &lt;img alt=&quot;Top AI Researchers Terrified of a “Chernobyl Moment”: a Mass Casualty Event, or Worse, That Turns the World Against AI Forever&quot; src=&quot;https://external-preview.redd.it/MvskWgH78oLeUcAC-elr9fvQWRCFSSVwh5RuwjacxQg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=24c56b66a78566a0470d397b7b3ab4fc5ef7bf6a&quot; title=&quot;Top AI Researchers Terrified of a “Chernobyl Moment”: a Mass Casualty Event, or Worse, That Turns the World Against AI Forever&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IKeepItLayingAround&quot;&gt; /u/IKeepItLayingAround &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://tech.yahoo.com/ai/articles/top-ai-researchers-terrified-chernobyl-195006889.html?.tsrc=daily_mail&amp;amp;segment_id=DY_VTO_50_Supernova&amp;amp;ncid=crm_19908-1475736-20260701-0--A&amp;amp;bt_ee=jp%2FPV4EkljsWGekq5mnFwd%2B2S%2BN7gs2xhj6S1SfdUzqzemCpSDsQ2%2Bm%2BbYpgxLby&amp;amp;bt_ts=1782900633837&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukhyfy/top_ai_researchers_terrified_of_a_chernobyl/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Cargo thieves target AI data center supplies in $1.3 million heists</title>
-      <link>https://www.reddit.com/r/technology/comments/1ujmbj7/cargo_thieves_target_ai_data_center_supplies_in/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ujmbj7/cargo_thieves_target_ai_data_center_supplies_in/</guid>
-      <pubDate>2026-06-30T11:16:49+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujmbj7/cargo_thieves_target_ai_data_center_supplies_in/&quot;&gt; &lt;img alt=&quot;Cargo thieves target AI data center supplies in $1.3 million heists&quot; src=&quot;https://external-preview.redd.it/1GGAF9KQ8Q57v3r8-7YiVLRHSXycAFm_jHehj7eKSF8.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=edead6877a8f12e0ec55c4d0660bd1bd33f4b871&quot; title=&quot;Cargo thieves target AI data center supplies in $1.3 million heists&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/cargo-thieves-target-ai-data-center-supplies-in-usd1-3-million-heists-usd300-000-worth-of-copper-wire-and-usd1-million-worth-of-equipment-recovered-outside-chicago&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ujmbj7/cargo_thieves_target_ai_data_center_supplies_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Employers who laid off workers citing AI are already starting to regret it</title>
+      <link>https://www.reddit.com/r/technology/comments/1ukgqdw/employers_who_laid_off_workers_citing_ai_are/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ukgqdw/employers_who_laid_off_workers_citing_ai_are/</guid>
+      <pubDate>2026-07-01T09:23:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukgqdw/employers_who_laid_off_workers_citing_ai_are/&quot;&gt; &lt;img alt=&quot;Employers who laid off workers citing AI are already starting to regret it&quot; src=&quot;https://external-preview.redd.it/7gp8UvdfzuqjNqLhKJUpTO08cBYEZ_aB7NJbHAhLJ6g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2a5ebb423e7bf5e3153fdd334f5978ff63308fcb&quot; title=&quot;Employers who laid off workers citing AI are already starting to regret it&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ieight9&quot;&gt; /u/ieight9 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ukgqdw/employers_who_laid_off_workers_citing_ai_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
