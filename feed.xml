@@ -4,42 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 08 Jul 2026 02:54:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 03:33:54 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[r/technology] Thieves Are Now Targeting AI Data Center Construction Sites for Copper and Expensive Equipment</title>
-      <link>https://www.reddit.com/r/technology/comments/1uq558s/thieves_are_now_targeting_ai_data_center/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uq558s/thieves_are_now_targeting_ai_data_center/</guid>
-      <pubDate>2026-07-07T19:22:06+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uq558s/thieves_are_now_targeting_ai_data_center/&quot;&gt; &lt;img alt=&quot;Thieves Are Now Targeting AI Data Center Construction Sites for Copper and Expensive Equipment&quot; src=&quot;https://external-preview.redd.it/HFXaEvZiHAKu6Rex-UAjEqMkjvq6cD6xr9oRwNg3Uf0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0ffb90f30e9cbf6696f0db8a0eca4cd00aaeea80&quot; title=&quot;Thieves Are Now Targeting AI Data Center Construction Sites for Copper and Expensive Equipment&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/The_Lazy_Samurai&quot;&gt; /u/The_Lazy_Samurai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uq558s/thieves_are_now_targeting_ai_data_center/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] John Deere owners will get the right to repair equipment under FTC settlement</title>
+      <link>https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02</link>
+      <guid isPermaLink="true">https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02</guid>
+      <pubDate>Wed, 08 Jul 2026 23:37:43 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Switzerland bolted 5,000 solar panels onto a dam wall 8,000 feet up in the freezing Alps where everyone said solar made no sense, and the plant now makes three times more winter power than any farm down in the valleys</title>
-      <link>https://www.reddit.com/r/technology/comments/1uq42av/switzerland_bolted_5000_solar_panels_onto_a_dam/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uq42av/switzerland_bolted_5000_solar_panels_onto_a_dam/</guid>
-      <pubDate>2026-07-07T18:45:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uq42av/switzerland_bolted_5000_solar_panels_onto_a_dam/&quot;&gt; &lt;img alt=&quot;Switzerland bolted 5,000 solar panels onto a dam wall 8,000 feet up in the freezing Alps where everyone said solar made no sense, and the plant now makes three times more winter power than any farm down in the valleys&quot; src=&quot;https://external-preview.redd.it/dKR92CFRSz3vvU422IHkJuvrS5X7OmbjSLbVQsoTX2c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f6bd6d67fb5a7e8c05ff928c56a92f01a11ea01f&quot; title=&quot;Switzerland bolted 5,000 solar panels onto a dam wall 8,000 feet up in the freezing Alps where everyone said solar made no sense, and the plant now makes three times more winter power than any farm down in the valleys&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ecoportal.net/en/switzerland-5000-alpine-solar-muttsee-dam-winter-power/28487/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uq42av/switzerland_bolted_5000_solar_panels_onto_a_dam/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] We made Grok 4.5, GPT-5.5, and Claude build the same apps</title>
+      <link>https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off</link>
+      <guid isPermaLink="true">https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off</guid>
+      <pubDate>Wed, 08 Jul 2026 23:27:14 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Zuckerberg Admits That AI Is Not Working Out the Way He Imagined</title>
-      <link>https://www.reddit.com/r/technology/comments/1uq1g44/zuckerberg_admits_that_ai_is_not_working_out_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uq1g44/zuckerberg_admits_that_ai_is_not_working_out_the/</guid>
-      <pubDate>2026-07-07T17:14:23+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uq1g44/zuckerberg_admits_that_ai_is_not_working_out_the/&quot;&gt; &lt;img alt=&quot;Zuckerberg Admits That AI Is Not Working Out the Way He Imagined&quot; src=&quot;https://external-preview.redd.it/PBMtYKnX9GMEVJZirQsVW08Ji_SQiRyuF1ZxafS8018.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=03d98b78e1e315ed6367cc7cecefbbcee129e217&quot; title=&quot;Zuckerberg Admits That AI Is Not Working Out the Way He Imagined&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/zuckerberg-admits-ai-not-working-124846032.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uq1g44/zuckerberg_admits_that_ai_is_not_working_out_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] I Think I Have LLM Burnout</title>
+      <link>https://www.alecscollon.com/blog/llm-burnout/</link>
+      <guid isPermaLink="true">https://www.alecscollon.com/blog/llm-burnout/</guid>
+      <pubDate>Thu, 09 Jul 2026 01:56:28 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] The Supreme Court just ruled that police need a warrant to use phone location data</title>
-      <link>https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/</guid>
-      <pubDate>2026-07-07T13:23:18+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/&quot;&gt; &lt;img alt=&quot;The Supreme Court just ruled that police need a warrant to use phone location data&quot; src=&quot;https://external-preview.redd.it/JPntVCrF5jR2stSFLWFRNHa7gfEt5CLwe35DUVNAtiE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e604cdd2956aa0ef0724b8a20f12e801f8c9fab1&quot; title=&quot;The Supreme Court just ruled that police need a warrant to use phone location data&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113004-supreme-court-limits-police-use-geofence-warrants-phone.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] Remote Attestation</title>
+      <link>https://www.liamcvw.com/p/remote-attestation</link>
+      <guid isPermaLink="true">https://www.liamcvw.com/p/remote-attestation</guid>
+      <pubDate>Thu, 09 Jul 2026 00:32:33 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Microsoft Expected Game Pass Would Have 77 Million Subscribers by Now but It Reportedly Only Has 30 Million, as Xbox Boss Admits the Strategy Has Failed</title>
-      <link>https://www.reddit.com/r/technology/comments/1upth7d/microsoft_expected_game_pass_would_have_77/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1upth7d/microsoft_expected_game_pass_would_have_77/</guid>
-      <pubDate>2026-07-07T12:21:57+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1upth7d/microsoft_expected_game_pass_would_have_77/&quot;&gt; &lt;img alt=&quot;Microsoft Expected Game Pass Would Have 77 Million Subscribers by Now but It Reportedly Only Has 30 Million, as Xbox Boss Admits the Strategy Has Failed&quot; src=&quot;https://external-preview.redd.it/LOw3sOxfWmjf6XU2nQ5CZn2HuH44czfGAcDaWWTqr1s.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dd2961f5fd3598df9e10a4c32be6c3ff44eec52e&quot; title=&quot;Microsoft Expected Game Pass Would Have 77 Million Subscribers by Now but It Reportedly Only Has 30 Million, as Xbox Boss Admits the Strategy Has Failed&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ign.com/articles/microsoft-expected-game-pass-would-have-77-million-subscribers-by-now-but-it-reportedly-only-has-30-million-as-xbox-boss-admits-the-strategy-has-failed&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1upth7d/microsoft_expected_game_pass_would_have_77/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] MIRA: Multiplayer Interactive World Models Trained on Rocket League</title>
+      <link>https://mira-wm.com/</link>
+      <guid isPermaLink="true">https://mira-wm.com/</guid>
+      <pubDate>Thu, 09 Jul 2026 00:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/technology] 'It Never Trickles Down' — Bernie Sanders Hits Out at Microsoft Over Xbox Layoffs and Console Price Rises, Says They Prove Corporate Tax Breaks Do Not Create Jobs</title>
+      <link>https://www.reddit.com/r/technology/comments/1uqvmrc/it_never_trickles_down_bernie_sanders_hits_out_at/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uqvmrc/it_never_trickles_down_bernie_sanders_hits_out_at/</guid>
+      <pubDate>2026-07-08T15:16:34+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqvmrc/it_never_trickles_down_bernie_sanders_hits_out_at/&quot;&gt; &lt;img alt=&quot;'It Never Trickles Down' — Bernie Sanders Hits Out at Microsoft Over Xbox Layoffs and Console Price Rises, Says They Prove Corporate Tax Breaks Do Not Create Jobs&quot; src=&quot;https://external-preview.redd.it/IqQwOxzUq_6gNeOH-Pj2qKvBC48titRg14BVIMa55wc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=201681c732667ed4c5ce7ec32ee8bf1b3e4baca0&quot; title=&quot;'It Never Trickles Down' — Bernie Sanders Hits Out at Microsoft Over Xbox Layoffs and Console Price Rises, Says They Prove Corporate Tax Breaks Do Not Create Jobs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ign.com/articles/it-never-trickles-down-bernie-sanders-hits-out-at-microsoft-over-xbox-layoffs-and-console-price-rises-says-they-prove-corporate-tax-breaks-do-not-create-jobs?utm_source=twitter&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqvmrc/it_never_trickles_down_bernie_sanders_hits_out_at/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Execs confused and horrified by the huge AI bills after thinking they could replace workers for free</title>
+      <link>https://www.reddit.com/r/technology/comments/1uqvcpx/execs_confused_and_horrified_by_the_huge_ai_bills/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uqvcpx/execs_confused_and_horrified_by_the_huge_ai_bills/</guid>
+      <pubDate>2026-07-08T15:06:37+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqvcpx/execs_confused_and_horrified_by_the_huge_ai_bills/&quot;&gt; &lt;img alt=&quot;Execs confused and horrified by the huge AI bills after thinking they could replace workers for free&quot; src=&quot;https://external-preview.redd.it/wnnWZXxtlcv15naVRDGppCOrkroGjwIzaPXNh6ph00s.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=68e3d55779fec563fdd12276e2ab5476412f9d44&quot; title=&quot;Execs confused and horrified by the huge AI bills after thinking they could replace workers for free&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/execs-confused-horrified-huge-ai-135718505.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqvcpx/execs_confused_and_horrified_by_the_huge_ai_bills/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] DuckDuckGo brags its free web browser now blocks YouTube video ads just weeks after YouTube hiked Premium prices again</title>
+      <link>https://www.reddit.com/r/technology/comments/1uqttau/duckduckgo_brags_its_free_web_browser_now_blocks/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uqttau/duckduckgo_brags_its_free_web_browser_now_blocks/</guid>
+      <pubDate>2026-07-08T14:10:44+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqttau/duckduckgo_brags_its_free_web_browser_now_blocks/&quot;&gt; &lt;img alt=&quot;DuckDuckGo brags its free web browser now blocks YouTube video ads just weeks after YouTube hiked Premium prices again&quot; src=&quot;https://external-preview.redd.it/bu_tN7aUT5Cj2sP03ci8r4yPCVb0TWzc1UW9GPRIp60.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=55e6eeac095268ef129af58b29b3773a9a970499&quot; title=&quot;DuckDuckGo brags its free web browser now blocks YouTube video ads just weeks after YouTube hiked Premium prices again&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IndicaOatmeal&quot;&gt; /u/IndicaOatmeal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/youtube/duckduckgo-brags-that-its-free-web-browser-blocks-youtube-ads-3384288/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqttau/duckduckgo_brags_its_free_web_browser_now_blocks/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Bryan Johnson, the millionaire biohacker who wants to live forever, diagnosed with incurable autoimmune disease</title>
+      <link>https://www.reddit.com/r/technology/comments/1uqrowt/bryan_johnson_the_millionaire_biohacker_who_wants/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uqrowt/bryan_johnson_the_millionaire_biohacker_who_wants/</guid>
+      <pubDate>2026-07-08T12:48:05+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqrowt/bryan_johnson_the_millionaire_biohacker_who_wants/&quot;&gt; &lt;img alt=&quot;Bryan Johnson, the millionaire biohacker who wants to live forever, diagnosed with incurable autoimmune disease&quot; src=&quot;https://external-preview.redd.it/W7eRnnNrwrgWMc0LHC6DUkHPR71ZRpHVyOmOA5SV7uo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ce6c8eddc7b1cf3fe7674055de003f3ac8cf86f8&quot; title=&quot;Bryan Johnson, the millionaire biohacker who wants to live forever, diagnosed with incurable autoimmune disease&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113035-bryan-johnson-millionaire-biohacker-who-wants-live-forever.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqrowt/bryan_johnson_the_millionaire_biohacker_who_wants/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] PlayStation can delete all your digital games after 3 years of inactivity</title>
+      <link>https://www.reddit.com/r/technology/comments/1uqqbow/playstation_can_delete_all_your_digital_games/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uqqbow/playstation_can_delete_all_your_digital_games/</guid>
+      <pubDate>2026-07-08T11:47:28+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqqbow/playstation_can_delete_all_your_digital_games/&quot;&gt; &lt;img alt=&quot;PlayStation can delete all your digital games after 3 years of inactivity&quot; src=&quot;https://external-preview.redd.it/w5suOeyD8GgReJ7Bzgz0yeKX_ocO6IY6Xz-MeC9mUho.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=302c05ee0b087d3bd93079534e7b620307bb4e87&quot; title=&quot;PlayStation can delete all your digital games after 3 years of inactivity&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/xc2215x&quot;&gt; /u/xc2215x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.flatpanelshd.com/news.php?subaction=showfull&amp;amp;id=1783340582&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uqqbow/playstation_can_delete_all_your_digital_games/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
