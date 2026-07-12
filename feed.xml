@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 11 Jul 2026 02:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 03:16:40 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] I've been building this alone for months. Roast it before I lose any more time</title>
-      <link>https://peakd.io</link>
-      <guid isPermaLink="true">https://peakd.io</guid>
-      <pubDate>Sat, 11 Jul 2026 00:53:48 +0000</pubDate>
+      <title>[HN] Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)</title>
+      <link>https://github.com/PJHkorea/quantum-mesh-qec</link>
+      <guid isPermaLink="true">https://github.com/PJHkorea/quantum-mesh-qec</guid>
+      <pubDate>Sun, 12 Jul 2026 02:15:11 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] FreeCAD in the Browser</title>
-      <link>https://magik.net/freecad/</link>
-      <guid isPermaLink="true">https://magik.net/freecad/</guid>
-      <pubDate>Sat, 11 Jul 2026 00:44:00 +0000</pubDate>
+      <title>[HN] We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture</title>
+      <link>https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/</link>
+      <guid isPermaLink="true">https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/</guid>
+      <pubDate>Sun, 12 Jul 2026 02:13:46 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: We beat Cloudflare's bot detection (open-source stealth browser)</title>
-      <link>https://tilion.dev/blog/cloudflare-blocks-agents</link>
-      <guid isPermaLink="true">https://tilion.dev/blog/cloudflare-blocks-agents</guid>
-      <pubDate>Sat, 11 Jul 2026 00:26:16 +0000</pubDate>
+      <title>[HN] The Energetic Costs of Cellular Computation (2012)</title>
+      <link>https://arxiv.org/abs/1203.5426</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/1203.5426</guid>
+      <pubDate>Sun, 12 Jul 2026 01:59:35 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Einstein's relativity rules chemical bonds in heavy elements, new research shows</title>
-      <link>https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity</link>
-      <guid isPermaLink="true">https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity</guid>
-      <pubDate>Fri, 10 Jul 2026 22:30:44 +0000</pubDate>
+      <title>[HN] What xAI's Grok Build CLI Actually Sends to xAI</title>
+      <link>https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</link>
+      <guid isPermaLink="true">https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</guid>
+      <pubDate>Sun, 12 Jul 2026 01:09:50 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Moss (YC F25) Is Hiring</title>
-      <link>https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk</link>
-      <guid isPermaLink="true">https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk</guid>
-      <pubDate>Fri, 10 Jul 2026 21:11:18 +0000</pubDate>
+      <title>[HN] A Erlang style pure Scheme Webserver and further</title>
+      <link>https://igropyr.com</link>
+      <guid isPermaLink="true">https://igropyr.com</guid>
+      <pubDate>Sun, 12 Jul 2026 01:03:29 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] State Senator Pockets Massive Real Estate Fee From a $30M Data Center Land Sale, Then Introduces Bill to Fast-Track Development</title>
-      <link>https://www.reddit.com/r/technology/comments/1uswpgz/state_senator_pockets_massive_real_estate_fee/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uswpgz/state_senator_pockets_massive_real_estate_fee/</guid>
-      <pubDate>2026-07-10T18:55:14+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uswpgz/state_senator_pockets_massive_real_estate_fee/&quot;&gt; &lt;img alt=&quot;State Senator Pockets Massive Real Estate Fee From a $30M Data Center Land Sale, Then Introduces Bill to Fast-Track Development&quot; src=&quot;https://external-preview.redd.it/IGjxiJUujHTX2R1M7jkSZfCfE2m4i7Eak8a8Bdt9kuI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0163b80a9d528ea5af41659d562e2cf9cb9580a9&quot; title=&quot;State Senator Pockets Massive Real Estate Fee From a $30M Data Center Land Sale, Then Introduces Bill to Fast-Track Development&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/state-senator-pockets-massive-real-estate-fee-from-a-30m-data-center-land-sale-then-introduces-bill-to-fast-track-development&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uswpgz/state_senator_pockets_massive_real_estate_fee/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Ukrainians are using VPNs to cause havoc in Russia by changing fuel station statuses on maps in a bid to cause chaos and confusion</title>
+      <link>https://www.reddit.com/r/technology/comments/1utue6h/ukrainians_are_using_vpns_to_cause_havoc_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1utue6h/ukrainians_are_using_vpns_to_cause_havoc_in/</guid>
+      <pubDate>2026-07-11T20:13:17+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utue6h/ukrainians_are_using_vpns_to_cause_havoc_in/&quot;&gt; &lt;img alt=&quot;Ukrainians are using VPNs to cause havoc in Russia by changing fuel station statuses on maps in a bid to cause chaos and confusion&quot; src=&quot;https://external-preview.redd.it/WW5McRCNmXX4sF4j31EtuXJvgpCydeVuDsPduow44I4.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4609b5ecfbce3b0f440d38e10e0ba57164d997bb&quot; title=&quot;Ukrainians are using VPNs to cause havoc in Russia by changing fuel station statuses on maps in a bid to cause chaos and confusion&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techradar.com/pro/ukrainians-are-using-vpns-to-cause-havoc-in-russia-by-changing-fuel-station-statuses-on-maps-in-a-bid-to-cause-chaos-and-confusion&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utue6h/ukrainians_are_using_vpns_to_cause_havoc_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Mayor Mamdani Announces Landmark &quot;Click-To-Cancel&quot; Consumer Protection Rules to Ban Subscription Traps and Junk Fees</title>
-      <link>https://www.reddit.com/r/technology/comments/1usvizz/mayor_mamdani_announces_landmark_clicktocancel/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1usvizz/mayor_mamdani_announces_landmark_clicktocancel/</guid>
-      <pubDate>2026-07-10T18:13:33+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1usvizz/mayor_mamdani_announces_landmark_clicktocancel/&quot;&gt; &lt;img alt=&quot;Mayor Mamdani Announces Landmark &amp;quot;Click-To-Cancel&amp;quot; Consumer Protection Rules to Ban Subscription Traps and Junk Fees&quot; src=&quot;https://external-preview.redd.it/CJX6nbHwFnBTygacE0z4wPNlUde1q6CEpTn_KShFe2M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c3a311a77151a7fc7a111bc8394756b1e4989784&quot; title=&quot;Mayor Mamdani Announces Landmark &amp;quot;Click-To-Cancel&amp;quot; Consumer Protection Rules to Ban Subscription Traps and Junk Fees&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dry_Ant2664&quot;&gt; /u/Dry_Ant2664 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1usvizz/mayor_mamdani_announces_landmark_clicktocancel/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Traffic Camera Captures Woman Driving With Her Phone on Her Lap (Face Down), The State Mailed Her a $1251 'Public Safety' Ticket</title>
+      <link>https://www.reddit.com/r/technology/comments/1uts82m/traffic_camera_captures_woman_driving_with_her/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uts82m/traffic_camera_captures_woman_driving_with_her/</guid>
+      <pubDate>2026-07-11T18:46:52+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uts82m/traffic_camera_captures_woman_driving_with_her/&quot;&gt; &lt;img alt=&quot;Traffic Camera Captures Woman Driving With Her Phone on Her Lap (Face Down), The State Mailed Her a $1251 'Public Safety' Ticket&quot; src=&quot;https://external-preview.redd.it/eOhwEeDoSeQoJSgC-VPlLbQzdDv7WD8GGpTKOayJYU0.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4a592ad4d03169b3b7646dbc73c445c069314c34&quot; title=&quot;Traffic Camera Captures Woman Driving With Her Phone on Her Lap (Face Down), The State Mailed Her a $1251 'Public Safety' Ticket&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/traffic-camera-captures-captures-woman-driving-with-her-phone-on-her-lap-face-down-the-state-mailed-her-a-1251-public-safety-ticket&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uts82m/traffic_camera_captures_woman_driving_with_her/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Auburn California Flock Surveillance Cameras Stolen and Dumped in a Canal</title>
-      <link>https://www.reddit.com/r/technology/comments/1usu252/auburn_california_flock_surveillance_cameras/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1usu252/auburn_california_flock_surveillance_cameras/</guid>
-      <pubDate>2026-07-10T17:21:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1usu252/auburn_california_flock_surveillance_cameras/&quot;&gt; &lt;img alt=&quot;Auburn California Flock Surveillance Cameras Stolen and Dumped in a Canal&quot; src=&quot;https://external-preview.redd.it/CFytBxmpn-Z8cH6LJoDisHPbqDWeGKKRPottKTV_OnM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7beee49bcfcbba00abfc856f3388eac6e9e7c51b&quot; title=&quot;Auburn California Flock Surveillance Cameras Stolen and Dumped in a Canal&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/auburn-california-flock-surveillance-cameras-stolen-and-dumped-in-a-canal&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1usu252/auburn_california_flock_surveillance_cameras/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages</title>
+      <link>https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/</guid>
+      <pubDate>2026-07-11T14:56:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/&quot;&gt; &lt;img alt=&quot;Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages&quot; src=&quot;https://external-preview.redd.it/Stck-X3QbAJibg2YbB8VH-_otwJf-7Y4KVeUES9Y06g.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bac1506071cffe384388ef1b98b96cc0d3409137&quot; title=&quot;Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/video-games/xbox/brazilian-court-orders-microsoft-to-restore-a-gamers-account-and-digital-library-after-it-told-him-to-rebuy-his-games&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] OpenAI could reportedly run out of cash by mid-2027 — analyst paints grim picture after examining the company's finances</title>
-      <link>https://www.reddit.com/r/technology/comments/1usojo6/openai_could_reportedly_run_out_of_cash_by/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1usojo6/openai_could_reportedly_run_out_of_cash_by/</guid>
-      <pubDate>2026-07-10T14:00:44+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1usojo6/openai_could_reportedly_run_out_of_cash_by/&quot;&gt; &lt;img alt=&quot;OpenAI could reportedly run out of cash by mid-2027 — analyst paints grim picture after examining the company's finances&quot; src=&quot;https://external-preview.redd.it/v44P77PnYI5tRIZpnmaNJbBahgYNI024hkyMrYI6J24.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=147c3b3cde07c4eba8b8831f89c4a1dbc6ec6942&quot; title=&quot;OpenAI could reportedly run out of cash by mid-2027 — analyst paints grim picture after examining the company's finances&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1usojo6/openai_could_reportedly_run_out_of_cash_by/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there</title>
+      <link>https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/</guid>
+      <pubDate>2026-07-11T12:52:39+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/&quot;&gt; &lt;img alt=&quot;Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there&quot; src=&quot;https://external-preview.redd.it/Y7NWI6hpG4JZZ4qGh2kqR3w8iW49wgGoQ8UXjxrBFkA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=944241950f3a42d65345330ca70f2df797fc8157&quot; title=&quot;Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113061-steam-rise-puts-playstation-under-pressure-gamers-rethink.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] 45% of Playstation Enthusiasts 'Seriously Considering' Leaving Sony for PC</title>
-      <link>https://www.reddit.com/r/technology/comments/1usjbex/ps5_has_put_a_dampener_on_gaming_45_of/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1usjbex/ps5_has_put_a_dampener_on_gaming_45_of/</guid>
-      <pubDate>2026-07-10T10:04:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1usjbex/ps5_has_put_a_dampener_on_gaming_45_of/&quot;&gt; &lt;img alt=&quot;'PS5 Has Put a Dampener on Gaming': 45% of Playstation Enthusiasts 'Seriously Considering' Leaving Sony for PC&quot; src=&quot;https://external-preview.redd.it/T5MttRFy-yw4vkGpz11RxbetcdMuckIBwy-M2Pd6g9c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=62b8bf3a61ced1f94a13fb3edd7b905911ac5913&quot; title=&quot;'PS5 Has Put a Dampener on Gaming': 45% of Playstation Enthusiasts 'Seriously Considering' Leaving Sony for PC&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/JeremyJJ77&quot;&gt; /u/JeremyJJ77 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1usjbex/ps5_has_put_a_dampener_on_gaming_45_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] DOGE officially shuts down</title>
+      <link>https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/</guid>
+      <pubDate>2026-07-11T10:25:10+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/&quot;&gt; &lt;img alt=&quot;DOGE officially shuts down&quot; src=&quot;https://external-preview.redd.it/1dWzLsJyd3eSEnlboTyHsgrKqRWhhOUyNhl6btjLPvA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c605b64b001f3f0eaf8238233972c9cf234b5c3c&quot; title=&quot;DOGE officially shuts down&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://thehill.com/homenews/administration/5955468-doge-shuts-down-operations/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
