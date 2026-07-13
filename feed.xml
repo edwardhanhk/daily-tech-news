@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 12 Jul 2026 03:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 03:18:11 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)</title>
-      <link>https://github.com/PJHkorea/quantum-mesh-qec</link>
-      <guid isPermaLink="true">https://github.com/PJHkorea/quantum-mesh-qec</guid>
-      <pubDate>Sun, 12 Jul 2026 02:15:11 +0000</pubDate>
+      <title>[HN] Designing and assembling my first PCB</title>
+      <link>https://vilkeliskis.com/b/2026/0711.html</link>
+      <guid isPermaLink="true">https://vilkeliskis.com/b/2026/0711.html</guid>
+      <pubDate>Sun, 12 Jul 2026 22:56:56 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture</title>
-      <link>https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/</link>
-      <guid isPermaLink="true">https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/</guid>
-      <pubDate>Sun, 12 Jul 2026 02:13:46 +0000</pubDate>
+      <title>[HN] Architecture Description Languages [pdf]</title>
+      <link>https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf</link>
+      <guid isPermaLink="true">https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf</guid>
+      <pubDate>Sun, 12 Jul 2026 22:54:07 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The Energetic Costs of Cellular Computation (2012)</title>
-      <link>https://arxiv.org/abs/1203.5426</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/1203.5426</guid>
-      <pubDate>Sun, 12 Jul 2026 01:59:35 +0000</pubDate>
+      <title>[HN] Why Vanilla JavaScript</title>
+      <link>https://guseyn.com/html/posts/why-vanilla-js.html</link>
+      <guid isPermaLink="true">https://guseyn.com/html/posts/why-vanilla-js.html</guid>
+      <pubDate>Sun, 12 Jul 2026 22:53:51 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] What xAI's Grok Build CLI Actually Sends to xAI</title>
-      <link>https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</link>
-      <guid isPermaLink="true">https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</guid>
-      <pubDate>Sun, 12 Jul 2026 01:09:50 +0000</pubDate>
+      <title>[HN] Modernizing Property Tax Assessments in Allegheny County</title>
+      <link>https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county</link>
+      <guid isPermaLink="true">https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county</guid>
+      <pubDate>Mon, 13 Jul 2026 01:47:21 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A Erlang style pure Scheme Webserver and further</title>
-      <link>https://igropyr.com</link>
-      <guid isPermaLink="true">https://igropyr.com</guid>
-      <pubDate>Sun, 12 Jul 2026 01:03:29 +0000</pubDate>
+      <title>[HN] Ask HN: Add flag for AI-generated articles</title>
+      <link>https://news.ycombinator.com/item?id=48886741</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48886741</guid>
+      <pubDate>Mon, 13 Jul 2026 01:24:20 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Ukrainians are using VPNs to cause havoc in Russia by changing fuel station statuses on maps in a bid to cause chaos and confusion</title>
-      <link>https://www.reddit.com/r/technology/comments/1utue6h/ukrainians_are_using_vpns_to_cause_havoc_in/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1utue6h/ukrainians_are_using_vpns_to_cause_havoc_in/</guid>
-      <pubDate>2026-07-11T20:13:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utue6h/ukrainians_are_using_vpns_to_cause_havoc_in/&quot;&gt; &lt;img alt=&quot;Ukrainians are using VPNs to cause havoc in Russia by changing fuel station statuses on maps in a bid to cause chaos and confusion&quot; src=&quot;https://external-preview.redd.it/WW5McRCNmXX4sF4j31EtuXJvgpCydeVuDsPduow44I4.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4609b5ecfbce3b0f440d38e10e0ba57164d997bb&quot; title=&quot;Ukrainians are using VPNs to cause havoc in Russia by changing fuel station statuses on maps in a bid to cause chaos and confusion&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techradar.com/pro/ukrainians-are-using-vpns-to-cause-havoc-in-russia-by-changing-fuel-station-statuses-on-maps-in-a-bid-to-cause-chaos-and-confusion&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utue6h/ukrainians_are_using_vpns_to_cause_havoc_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich</title>
+      <link>https://www.reddit.com/r/technology/comments/1uul4qu/peter_thiel_and_other_tech_billionaires_are/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uul4qu/peter_thiel_and_other_tech_billionaires_are/</guid>
+      <pubDate>2026-07-12T17:05:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uul4qu/peter_thiel_and_other_tech_billionaires_are/&quot;&gt; &lt;img alt=&quot;Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich&quot; src=&quot;https://external-preview.redd.it/4dxVql44IENUKcBp-MVqW58kvYFXom5Z4odbjbaCrlw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fab55a068716efcd82fafd66959e2dc943926329&quot; title=&quot;Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/NicolasCageFan492&quot;&gt; /u/NicolasCageFan492 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/article/peter-thiel-tech-billionaires-limit-kids-screen-time-social-media-smartphones-short-form-video-risks/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uul4qu/peter_thiel_and_other_tech_billionaires_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Traffic Camera Captures Woman Driving With Her Phone on Her Lap (Face Down), The State Mailed Her a $1251 'Public Safety' Ticket</title>
-      <link>https://www.reddit.com/r/technology/comments/1uts82m/traffic_camera_captures_woman_driving_with_her/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uts82m/traffic_camera_captures_woman_driving_with_her/</guid>
-      <pubDate>2026-07-11T18:46:52+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uts82m/traffic_camera_captures_woman_driving_with_her/&quot;&gt; &lt;img alt=&quot;Traffic Camera Captures Woman Driving With Her Phone on Her Lap (Face Down), The State Mailed Her a $1251 'Public Safety' Ticket&quot; src=&quot;https://external-preview.redd.it/eOhwEeDoSeQoJSgC-VPlLbQzdDv7WD8GGpTKOayJYU0.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4a592ad4d03169b3b7646dbc73c445c069314c34&quot; title=&quot;Traffic Camera Captures Woman Driving With Her Phone on Her Lap (Face Down), The State Mailed Her a $1251 'Public Safety' Ticket&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/traffic-camera-captures-captures-woman-driving-with-her-phone-on-her-lap-face-down-the-state-mailed-her-a-1251-public-safety-ticket&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uts82m/traffic_camera_captures_woman_driving_with_her/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] New sodium metal battery design charges in just 4 minutes and retains its capacity for years</title>
+      <link>https://www.reddit.com/r/technology/comments/1uufxgh/new_sodium_metal_battery_design_charges_in_just_4/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uufxgh/new_sodium_metal_battery_design_charges_in_just_4/</guid>
+      <pubDate>2026-07-12T13:45:55+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uufxgh/new_sodium_metal_battery_design_charges_in_just_4/&quot;&gt; &lt;img alt=&quot;New sodium metal battery design charges in just 4 minutes and retains its capacity for years&quot; src=&quot;https://external-preview.redd.it/W-C1iTfJ9jjIkEbVbtEzFxDx2afy3Wpw8f-D2_FxSiQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=994ab99b6d9460ad0590cac6988e442f5f543708&quot; title=&quot;New sodium metal battery design charges in just 4 minutes and retains its capacity for years&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.livescience.com/technology/engineering/new-sodium-metal-battery-design-charges-in-just-4-minutes-and-retains-its-capacity-for-years&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uufxgh/new_sodium_metal_battery_design_charges_in_just_4/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages</title>
-      <link>https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/</guid>
-      <pubDate>2026-07-11T14:56:03+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/&quot;&gt; &lt;img alt=&quot;Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages&quot; src=&quot;https://external-preview.redd.it/Stck-X3QbAJibg2YbB8VH-_otwJf-7Y4KVeUES9Y06g.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bac1506071cffe384388ef1b98b96cc0d3409137&quot; title=&quot;Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/video-games/xbox/brazilian-court-orders-microsoft-to-restore-a-gamers-account-and-digital-library-after-it-told-him-to-rebuy-his-games&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] IT admins feel overwhelmingly &quot;sick of&quot; Microsoft and Windows 11 &quot;garbage&quot; apps, products</title>
+      <link>https://www.reddit.com/r/technology/comments/1uuas5j/it_admins_feel_overwhelmingly_sick_of_microsoft/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uuas5j/it_admins_feel_overwhelmingly_sick_of_microsoft/</guid>
+      <pubDate>2026-07-12T09:32:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uuas5j/it_admins_feel_overwhelmingly_sick_of_microsoft/&quot;&gt; &lt;img alt=&quot;IT admins feel overwhelmingly &amp;quot;sick of&amp;quot; Microsoft and Windows 11 &amp;quot;garbage&amp;quot; apps, products&quot; src=&quot;https://external-preview.redd.it/_RgS94vLov3pzMId_zndKrz8hjM84VaZCP759qgTBBU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ac93cb9c6478b0e51377d34fbe15c34e6b385169&quot; title=&quot;IT admins feel overwhelmingly &amp;quot;sick of&amp;quot; Microsoft and Windows 11 &amp;quot;garbage&amp;quot; apps, products&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uuas5j/it_admins_feel_overwhelmingly_sick_of_microsoft/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there</title>
-      <link>https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/</guid>
-      <pubDate>2026-07-11T12:52:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/&quot;&gt; &lt;img alt=&quot;Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there&quot; src=&quot;https://external-preview.redd.it/Y7NWI6hpG4JZZ4qGh2kqR3w8iW49wgGoQ8UXjxrBFkA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=944241950f3a42d65345330ca70f2df797fc8157&quot; title=&quot;Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113061-steam-rise-puts-playstation-under-pressure-gamers-rethink.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] LinkedIn, a mass grave of ghost jobs, is now becoming a dating app</title>
+      <link>https://www.reddit.com/r/technology/comments/1uu57w7/linkedin_a_mass_grave_of_ghost_jobs_is_now/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uu57w7/linkedin_a_mass_grave_of_ghost_jobs_is_now/</guid>
+      <pubDate>2026-07-12T04:24:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uu57w7/linkedin_a_mass_grave_of_ghost_jobs_is_now/&quot;&gt; &lt;img alt=&quot;LinkedIn, a mass grave of ghost jobs, is now becoming a dating app&quot; src=&quot;https://external-preview.redd.it/_yDWPHBQYleqMOvvnGS0f5LWRYWD_iS4UaxmVf4Y_kA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4609a8b42dbf7e8f93dedfcef0e32aa9fd627989&quot; title=&quot;LinkedIn, a mass grave of ghost jobs, is now becoming a dating app&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ubcstaffer123&quot;&gt; /u/ubcstaffer123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.sfgate.com/tech/article/linkedin-dating-app-22340622.php&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uu57w7/linkedin_a_mass_grave_of_ghost_jobs_is_now/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] DOGE officially shuts down</title>
-      <link>https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/</guid>
-      <pubDate>2026-07-11T10:25:10+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/&quot;&gt; &lt;img alt=&quot;DOGE officially shuts down&quot; src=&quot;https://external-preview.redd.it/1dWzLsJyd3eSEnlboTyHsgrKqRWhhOUyNhl6btjLPvA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c605b64b001f3f0eaf8238233972c9cf234b5c3c&quot; title=&quot;DOGE officially shuts down&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://thehill.com/homenews/administration/5955468-doge-shuts-down-operations/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Why 55% of Americans Stopped Posting on Social Media</title>
+      <link>https://www.reddit.com/r/technology/comments/1uu48xt/the_death_of_the_status_update_why_55_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uu48xt/the_death_of_the_status_update_why_55_of/</guid>
+      <pubDate>2026-07-12T03:37:01+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uu48xt/the_death_of_the_status_update_why_55_of/&quot;&gt; &lt;img alt=&quot;The Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media&quot; src=&quot;https://external-preview.redd.it/L3Ylczh9B-8OeR31TFciYGLHmAjZsjsrIda3-9tJWEY.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=09a9f31889f1f4547f364fa92db0c8f6f8431722&quot; title=&quot;The Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uu48xt/the_death_of_the_status_update_why_55_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
