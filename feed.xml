@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 13 Jul 2026 03:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 02:42:32 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Designing and assembling my first PCB</title>
-      <link>https://vilkeliskis.com/b/2026/0711.html</link>
-      <guid isPermaLink="true">https://vilkeliskis.com/b/2026/0711.html</guid>
-      <pubDate>Sun, 12 Jul 2026 22:56:56 +0000</pubDate>
+      <title>[HN] Fundamentals of Wireless Communication</title>
+      <link>https://web.stanford.edu/~dntse/wireless_book.html</link>
+      <guid isPermaLink="true">https://web.stanford.edu/~dntse/wireless_book.html</guid>
+      <pubDate>Tue, 14 Jul 2026 02:10:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Architecture Description Languages [pdf]</title>
-      <link>https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf</link>
-      <guid isPermaLink="true">https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf</guid>
-      <pubDate>Sun, 12 Jul 2026 22:54:07 +0000</pubDate>
+      <title>[HN] Building Food Metadata with LLM Juries</title>
+      <link>https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</link>
+      <guid isPermaLink="true">https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</guid>
+      <pubDate>Tue, 14 Jul 2026 01:41:49 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Why Vanilla JavaScript</title>
-      <link>https://guseyn.com/html/posts/why-vanilla-js.html</link>
-      <guid isPermaLink="true">https://guseyn.com/html/posts/why-vanilla-js.html</guid>
-      <pubDate>Sun, 12 Jul 2026 22:53:51 +0000</pubDate>
+      <title>[HN] Is x86 ready to ACE it?</title>
+      <link>https://chipsandcheese.com/p/is-x86-ready-to-ace-it</link>
+      <guid isPermaLink="true">https://chipsandcheese.com/p/is-x86-ready-to-ace-it</guid>
+      <pubDate>Tue, 14 Jul 2026 01:36:13 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Modernizing Property Tax Assessments in Allegheny County</title>
-      <link>https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county</link>
-      <guid isPermaLink="true">https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county</guid>
-      <pubDate>Mon, 13 Jul 2026 01:47:21 +0000</pubDate>
+      <title>[HN] The Economics of Recursive Self-Improvement [pdf]</title>
+      <link>https://elasticity.institute/rsi-paper.pdf</link>
+      <guid isPermaLink="true">https://elasticity.institute/rsi-paper.pdf</guid>
+      <pubDate>Tue, 14 Jul 2026 01:35:23 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Ask HN: Add flag for AI-generated articles</title>
-      <link>https://news.ycombinator.com/item?id=48886741</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48886741</guid>
-      <pubDate>Mon, 13 Jul 2026 01:24:20 +0000</pubDate>
+      <title>[HN] MorphoHDL: A minimalistic language for growing circuits</title>
+      <link>https://paradigms-of-intelligence.github.io/morpho/</link>
+      <guid isPermaLink="true">https://paradigms-of-intelligence.github.io/morpho/</guid>
+      <pubDate>Tue, 14 Jul 2026 01:17:30 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich</title>
-      <link>https://www.reddit.com/r/technology/comments/1uul4qu/peter_thiel_and_other_tech_billionaires_are/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uul4qu/peter_thiel_and_other_tech_billionaires_are/</guid>
-      <pubDate>2026-07-12T17:05:53+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uul4qu/peter_thiel_and_other_tech_billionaires_are/&quot;&gt; &lt;img alt=&quot;Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich&quot; src=&quot;https://external-preview.redd.it/4dxVql44IENUKcBp-MVqW58kvYFXom5Z4odbjbaCrlw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fab55a068716efcd82fafd66959e2dc943926329&quot; title=&quot;Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/NicolasCageFan492&quot;&gt; /u/NicolasCageFan492 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/article/peter-thiel-tech-billionaires-limit-kids-screen-time-social-media-smartphones-short-form-video-risks/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uul4qu/peter_thiel_and_other_tech_billionaires_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap</title>
+      <link>https://www.reddit.com/r/technology/comments/1uvn1ao/spacex_stock_plunges_to_alltime_low_after/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uvn1ao/spacex_stock_plunges_to_alltime_low_after/</guid>
+      <pubDate>2026-07-13T20:21:09+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvn1ao/spacex_stock_plunges_to_alltime_low_after/&quot;&gt; &lt;img alt=&quot;SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap&quot; src=&quot;https://external-preview.redd.it/rgg5fPN5hpYafzT5ksO6vF-b3YWzmylNlWzArYYYDuE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=688e0c9882ee7661f49fc0d321efc6a6620d7547&quot; title=&quot;SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fmcortez&quot;&gt; /u/fmcortez &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/finance/markets/stocks/articles/spacex-plunges-time-low-competitor-175000957.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvn1ao/spacex_stock_plunges_to_alltime_low_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] New sodium metal battery design charges in just 4 minutes and retains its capacity for years</title>
-      <link>https://www.reddit.com/r/technology/comments/1uufxgh/new_sodium_metal_battery_design_charges_in_just_4/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uufxgh/new_sodium_metal_battery_design_charges_in_just_4/</guid>
-      <pubDate>2026-07-12T13:45:55+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uufxgh/new_sodium_metal_battery_design_charges_in_just_4/&quot;&gt; &lt;img alt=&quot;New sodium metal battery design charges in just 4 minutes and retains its capacity for years&quot; src=&quot;https://external-preview.redd.it/W-C1iTfJ9jjIkEbVbtEzFxDx2afy3Wpw8f-D2_FxSiQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=994ab99b6d9460ad0590cac6988e442f5f543708&quot; title=&quot;New sodium metal battery design charges in just 4 minutes and retains its capacity for years&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.livescience.com/technology/engineering/new-sodium-metal-battery-design-charges-in-just-4-minutes-and-retains-its-capacity-for-years&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uufxgh/new_sodium_metal_battery_design_charges_in_just_4/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public</title>
+      <link>https://www.reddit.com/r/technology/comments/1uvirv6/the_backlash_is_so_strong_that_people_with/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uvirv6/the_backlash_is_so_strong_that_people_with/</guid>
+      <pubDate>2026-07-13T17:50:51+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvirv6/the_backlash_is_so_strong_that_people_with/&quot;&gt; &lt;img alt=&quot;The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public&quot; src=&quot;https://external-preview.redd.it/U6OPUk3ifsDhQFPht7aW0iSLG2Lr6g4Rfva1H2_U8ic.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=be9d8d95b16d749e52573e296556d4b6bac08da5&quot; title=&quot;The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://tech.yahoo.com/wearables/articles/backlash-strong-people-pervert-glasses-165000816.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvirv6/the_backlash_is_so_strong_that_people_with/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] IT admins feel overwhelmingly &quot;sick of&quot; Microsoft and Windows 11 &quot;garbage&quot; apps, products</title>
-      <link>https://www.reddit.com/r/technology/comments/1uuas5j/it_admins_feel_overwhelmingly_sick_of_microsoft/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uuas5j/it_admins_feel_overwhelmingly_sick_of_microsoft/</guid>
-      <pubDate>2026-07-12T09:32:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uuas5j/it_admins_feel_overwhelmingly_sick_of_microsoft/&quot;&gt; &lt;img alt=&quot;IT admins feel overwhelmingly &amp;quot;sick of&amp;quot; Microsoft and Windows 11 &amp;quot;garbage&amp;quot; apps, products&quot; src=&quot;https://external-preview.redd.it/_RgS94vLov3pzMId_zndKrz8hjM84VaZCP759qgTBBU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ac93cb9c6478b0e51377d34fbe15c34e6b385169&quot; title=&quot;IT admins feel overwhelmingly &amp;quot;sick of&amp;quot; Microsoft and Windows 11 &amp;quot;garbage&amp;quot; apps, products&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uuas5j/it_admins_feel_overwhelmingly_sick_of_microsoft/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The chaotic collapse of Peter Thiel’s secret society for the global elite</title>
+      <link>https://www.reddit.com/r/technology/comments/1uvgk74/the_chaotic_collapse_of_peter_thiels_secret/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uvgk74/the_chaotic_collapse_of_peter_thiels_secret/</guid>
+      <pubDate>2026-07-13T16:32:43+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvgk74/the_chaotic_collapse_of_peter_thiels_secret/&quot;&gt; &lt;img alt=&quot;The chaotic collapse of Peter Thiel’s secret society for the global elite&quot; src=&quot;https://external-preview.redd.it/syJyI6kmFMqDYLIeX3ua9hphOmOQTWXRUJ4P8arhows.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=28742b4a028b81e29c9c1a7bf0e806e7c2036d76&quot; title=&quot;The chaotic collapse of Peter Thiel’s secret society for the global elite&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/NicolasCageFan492&quot;&gt; /u/NicolasCageFan492 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.telegraph.co.uk/news/2026/07/13/peter-thiel-dialog-conference-guestlist-hacked/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvgk74/the_chaotic_collapse_of_peter_thiels_secret/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] LinkedIn, a mass grave of ghost jobs, is now becoming a dating app</title>
-      <link>https://www.reddit.com/r/technology/comments/1uu57w7/linkedin_a_mass_grave_of_ghost_jobs_is_now/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uu57w7/linkedin_a_mass_grave_of_ghost_jobs_is_now/</guid>
-      <pubDate>2026-07-12T04:24:57+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uu57w7/linkedin_a_mass_grave_of_ghost_jobs_is_now/&quot;&gt; &lt;img alt=&quot;LinkedIn, a mass grave of ghost jobs, is now becoming a dating app&quot; src=&quot;https://external-preview.redd.it/_yDWPHBQYleqMOvvnGS0f5LWRYWD_iS4UaxmVf4Y_kA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4609a8b42dbf7e8f93dedfcef0e32aa9fd627989&quot; title=&quot;LinkedIn, a mass grave of ghost jobs, is now becoming a dating app&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ubcstaffer123&quot;&gt; /u/ubcstaffer123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.sfgate.com/tech/article/linkedin-dating-app-22340622.php&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uu57w7/linkedin_a_mass_grave_of_ghost_jobs_is_now/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] 12 States Sue to Block Paramount-Warner Bros. Merger, Defying DOJ</title>
+      <link>https://www.reddit.com/r/technology/comments/1uvfkcy/12_states_sue_to_block_paramountwarner_bros/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uvfkcy/12_states_sue_to_block_paramountwarner_bros/</guid>
+      <pubDate>2026-07-13T15:56:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvfkcy/12_states_sue_to_block_paramountwarner_bros/&quot;&gt; &lt;img alt=&quot;12 States Sue to Block Paramount-Warner Bros. Merger, Defying DOJ&quot; src=&quot;https://external-preview.redd.it/yfcbTLfOo8m6YdOUkApWNd4IMAWi04Ih-36nmyObJhY.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a625ae3f8fe406f4f4c5573dbdb6d8fea179d261&quot; title=&quot;12 States Sue to Block Paramount-Warner Bros. Merger, Defying DOJ&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvfkcy/12_states_sue_to_block_paramountwarner_bros/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Why 55% of Americans Stopped Posting on Social Media</title>
-      <link>https://www.reddit.com/r/technology/comments/1uu48xt/the_death_of_the_status_update_why_55_of/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uu48xt/the_death_of_the_status_update_why_55_of/</guid>
-      <pubDate>2026-07-12T03:37:01+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uu48xt/the_death_of_the_status_update_why_55_of/&quot;&gt; &lt;img alt=&quot;The Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media&quot; src=&quot;https://external-preview.redd.it/L3Ylczh9B-8OeR31TFciYGLHmAjZsjsrIda3-9tJWEY.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=09a9f31889f1f4547f364fa92db0c8f6f8431722&quot; title=&quot;The Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uu48xt/the_death_of_the_status_update_why_55_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] 'You have zero privacy anyway. Get over it' — an early declaration foreshadowing the modern era</title>
+      <link>https://www.reddit.com/r/technology/comments/1uuziji/quote_of_the_day_by_sun_microsystems_ceo_scott/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uuziji/quote_of_the_day_by_sun_microsystems_ceo_scott/</guid>
+      <pubDate>2026-07-13T02:58:00+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uuziji/quote_of_the_day_by_sun_microsystems_ceo_scott/&quot;&gt; &lt;img alt=&quot;Quote of the day by Sun Microsystems CEO Scott McNealy: 'You have zero privacy anyway. Get over it' — an early declaration foreshadowing the modern era&quot; src=&quot;https://external-preview.redd.it/ibNcfDX3HczmG3Ru7VpnTkvDUqSXjXYdz5BYQitUy2o.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0d41c2605606b10e9acdb27ffbbed37a4f74b22c&quot; title=&quot;Quote of the day by Sun Microsystems CEO Scott McNealy: 'You have zero privacy anyway. Get over it' — an early declaration foreshadowing the modern era&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techradar.com/pro/quote-of-the-day-by-sun-microsystems-ceo-scott-mcnealy-you-have-zero-privacy-anyway-get-over-it-an-early-declaration-foreshadowing-the-modern-era&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uuziji/quote_of_the_day_by_sun_microsystems_ceo_scott/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
