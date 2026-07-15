@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 14 Jul 2026 02:42:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 02:40:47 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Fundamentals of Wireless Communication</title>
-      <link>https://web.stanford.edu/~dntse/wireless_book.html</link>
-      <guid isPermaLink="true">https://web.stanford.edu/~dntse/wireless_book.html</guid>
-      <pubDate>Tue, 14 Jul 2026 02:10:19 +0000</pubDate>
+      <title>[HN] TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access</title>
+      <link>https://tailscale.com/security-bulletins</link>
+      <guid isPermaLink="true">https://tailscale.com/security-bulletins</guid>
+      <pubDate>Wed, 15 Jul 2026 01:08:26 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Building Food Metadata with LLM Juries</title>
-      <link>https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</link>
-      <guid isPermaLink="true">https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</guid>
-      <pubDate>Tue, 14 Jul 2026 01:41:49 +0000</pubDate>
+      <title>[HN] Data centers have hiked electricity prices on the public by $23B</title>
+      <link>https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/</link>
+      <guid isPermaLink="true">https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:20:31 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Is x86 ready to ACE it?</title>
-      <link>https://chipsandcheese.com/p/is-x86-ready-to-ace-it</link>
-      <guid isPermaLink="true">https://chipsandcheese.com/p/is-x86-ready-to-ace-it</guid>
-      <pubDate>Tue, 14 Jul 2026 01:36:13 +0000</pubDate>
+      <title>[HN] Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel</title>
+      <link>https://www.starfleetmath.com/</link>
+      <guid isPermaLink="true">https://www.starfleetmath.com/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:15:56 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The Economics of Recursive Self-Improvement [pdf]</title>
-      <link>https://elasticity.institute/rsi-paper.pdf</link>
-      <guid isPermaLink="true">https://elasticity.institute/rsi-paper.pdf</guid>
-      <pubDate>Tue, 14 Jul 2026 01:35:23 +0000</pubDate>
+      <title>[HN] Vancouver PD website features Quick Escape button that wipes itself from history</title>
+      <link>https://vpd.ca/</link>
+      <guid isPermaLink="true">https://vpd.ca/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:15:53 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] MorphoHDL: A minimalistic language for growing circuits</title>
-      <link>https://paradigms-of-intelligence.github.io/morpho/</link>
-      <guid isPermaLink="true">https://paradigms-of-intelligence.github.io/morpho/</guid>
-      <pubDate>Tue, 14 Jul 2026 01:17:30 +0000</pubDate>
+      <title>[HN] LeMario: Training a JEPA World Model on Super Mario Bros</title>
+      <link>https://www.benjamin-bai.com/projects/lemario</link>
+      <guid isPermaLink="true">https://www.benjamin-bai.com/projects/lemario</guid>
+      <pubDate>Tue, 14 Jul 2026 22:30:47 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap</title>
-      <link>https://www.reddit.com/r/technology/comments/1uvn1ao/spacex_stock_plunges_to_alltime_low_after/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uvn1ao/spacex_stock_plunges_to_alltime_low_after/</guid>
-      <pubDate>2026-07-13T20:21:09+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvn1ao/spacex_stock_plunges_to_alltime_low_after/&quot;&gt; &lt;img alt=&quot;SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap&quot; src=&quot;https://external-preview.redd.it/rgg5fPN5hpYafzT5ksO6vF-b3YWzmylNlWzArYYYDuE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=688e0c9882ee7661f49fc0d321efc6a6620d7547&quot; title=&quot;SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fmcortez&quot;&gt; /u/fmcortez &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/finance/markets/stocks/articles/spacex-plunges-time-low-competitor-175000957.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvn1ao/spacex_stock_plunges_to_alltime_low_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] A Majority of Americans Now Support Seizing Wealth From AI Industry</title>
+      <link>https://www.reddit.com/r/technology/comments/1uwgqol/a_majority_of_americans_now_support_seizing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uwgqol/a_majority_of_americans_now_support_seizing/</guid>
+      <pubDate>2026-07-14T18:17:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uwgqol/a_majority_of_americans_now_support_seizing/&quot;&gt; &lt;img alt=&quot;A Majority of Americans Now Support Seizing Wealth From AI Industry&quot; src=&quot;https://external-preview.redd.it/rG_h9XwEl_fAeOCfE3biG64UVvcxyNz4gAcYSSIBtvE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1709760f3ae638c91c9834b7d7b3399e3e719f8b&quot; title=&quot;A Majority of Americans Now Support Seizing Wealth From AI Industry&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IKeepItLayingAround&quot;&gt; /u/IKeepItLayingAround &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/politics/articles/majority-americans-now-support-seizing-134921528.html?.tsrc=daily_mail&amp;amp;segment_id=DY_VTO_50_Supernova&amp;amp;ncid=crm_19908-1475736-20260714-0--A&amp;amp;bt_ee=%2Fr9dCsBuJJQ%2Bm%2FscDbaHtmqrS3xq6a5j4UmUhqDV1Mc6ftUCxTQ0uEdTLFOPJSlS&amp;amp;bt_ts=1784052879813&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uwgqol/a_majority_of_americans_now_support_seizing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public</title>
-      <link>https://www.reddit.com/r/technology/comments/1uvirv6/the_backlash_is_so_strong_that_people_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uvirv6/the_backlash_is_so_strong_that_people_with/</guid>
-      <pubDate>2026-07-13T17:50:51+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvirv6/the_backlash_is_so_strong_that_people_with/&quot;&gt; &lt;img alt=&quot;The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public&quot; src=&quot;https://external-preview.redd.it/U6OPUk3ifsDhQFPht7aW0iSLG2Lr6g4Rfva1H2_U8ic.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=be9d8d95b16d749e52573e296556d4b6bac08da5&quot; title=&quot;The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://tech.yahoo.com/wearables/articles/backlash-strong-people-pervert-glasses-165000816.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvirv6/the_backlash_is_so_strong_that_people_with/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Colossus 2 data center installed 59 natural gas turbines without permission, report claims thousands of tons of pollutants reportedly impact Black communities in Mississippi already suffering from elevated lung disease rates</title>
+      <link>https://www.reddit.com/r/technology/comments/1uwdjja/colossus_2_data_center_installed_59_natural_gas/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uwdjja/colossus_2_data_center_installed_59_natural_gas/</guid>
+      <pubDate>2026-07-14T16:25:54+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uwdjja/colossus_2_data_center_installed_59_natural_gas/&quot;&gt; &lt;img alt=&quot;Colossus 2 data center installed 59 natural gas turbines without permission, report claims thousands of tons of pollutants reportedly impact Black communities in Mississippi already suffering from elevated lung disease rates&quot; src=&quot;https://external-preview.redd.it/4-yydshwsjghCuuhIfpPotcPqfcY4RHV0XomI2GzTDE.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d8d526a5c913c12cc127bf53066db5fbc8b37254&quot; title=&quot;Colossus 2 data center installed 59 natural gas turbines without permission, report claims thousands of tons of pollutants reportedly impact Black communities in Mississippi already suffering from elevated lung disease rates&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/elon-musks-colossus-2-data-center-installed-59-natural-gas-turbines-without-permission-report-claims-thousands-of-tons-of-pollutants-reportedly-impact-black-communities-in-mississippi-already-suffering-from-elevated-lung-disease-rates&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uwdjja/colossus_2_data_center_installed_59_natural_gas/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] The chaotic collapse of Peter Thiel’s secret society for the global elite</title>
-      <link>https://www.reddit.com/r/technology/comments/1uvgk74/the_chaotic_collapse_of_peter_thiels_secret/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uvgk74/the_chaotic_collapse_of_peter_thiels_secret/</guid>
-      <pubDate>2026-07-13T16:32:43+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvgk74/the_chaotic_collapse_of_peter_thiels_secret/&quot;&gt; &lt;img alt=&quot;The chaotic collapse of Peter Thiel’s secret society for the global elite&quot; src=&quot;https://external-preview.redd.it/syJyI6kmFMqDYLIeX3ua9hphOmOQTWXRUJ4P8arhows.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=28742b4a028b81e29c9c1a7bf0e806e7c2036d76&quot; title=&quot;The chaotic collapse of Peter Thiel’s secret society for the global elite&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/NicolasCageFan492&quot;&gt; /u/NicolasCageFan492 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.telegraph.co.uk/news/2026/07/13/peter-thiel-dialog-conference-guestlist-hacked/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvgk74/the_chaotic_collapse_of_peter_thiels_secret/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] A majority of Americans now support seizing wealth from AI industry</title>
+      <link>https://www.reddit.com/r/technology/comments/1uwbf4d/a_majority_of_americans_now_support_seizing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uwbf4d/a_majority_of_americans_now_support_seizing/</guid>
+      <pubDate>2026-07-14T15:09:56+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uwbf4d/a_majority_of_americans_now_support_seizing/&quot;&gt; &lt;img alt=&quot;A majority of Americans now support seizing wealth from AI industry&quot; src=&quot;https://external-preview.redd.it/yW6HZoGQf9rYKifhWE65faueMO3lkcUNsJ5YjKiWXw4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=997417dc65122a06e3a009aebd9771e0fd3047f1&quot; title=&quot;A majority of Americans now support seizing wealth from AI industry&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/politics/articles/majority-americans-now-support-seizing-134921528.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uwbf4d/a_majority_of_americans_now_support_seizing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] 12 States Sue to Block Paramount-Warner Bros. Merger, Defying DOJ</title>
-      <link>https://www.reddit.com/r/technology/comments/1uvfkcy/12_states_sue_to_block_paramountwarner_bros/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uvfkcy/12_states_sue_to_block_paramountwarner_bros/</guid>
-      <pubDate>2026-07-13T15:56:53+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvfkcy/12_states_sue_to_block_paramountwarner_bros/&quot;&gt; &lt;img alt=&quot;12 States Sue to Block Paramount-Warner Bros. Merger, Defying DOJ&quot; src=&quot;https://external-preview.redd.it/yfcbTLfOo8m6YdOUkApWNd4IMAWi04Ih-36nmyObJhY.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a625ae3f8fe406f4f4c5573dbdb6d8fea179d261&quot; title=&quot;12 States Sue to Block Paramount-Warner Bros. Merger, Defying DOJ&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uvfkcy/12_states_sue_to_block_paramountwarner_bros/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] New York imposes first-in-the-nation statewide freeze on data centers</title>
+      <link>https://www.reddit.com/r/technology/comments/1uw3zm1/new_york_imposes_firstinthenation_statewide/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uw3zm1/new_york_imposes_firstinthenation_statewide/</guid>
+      <pubDate>2026-07-14T09:42:40+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uw3zm1/new_york_imposes_firstinthenation_statewide/&quot;&gt; &lt;img alt=&quot;New York imposes first-in-the-nation statewide freeze on data centers&quot; src=&quot;https://external-preview.redd.it/NRmiJeksL0AlWn-YOb6yed4yU_ecmYkTjkISJ5jAB9Y.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dd5c4861f9ea72a133797a0fa76719e19a4c7b9e&quot; title=&quot;New York imposes first-in-the-nation statewide freeze on data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://thehill.com/policy/technology/5966562-new-york-ai-data-center-moratorium/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uw3zm1/new_york_imposes_firstinthenation_statewide/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] 'You have zero privacy anyway. Get over it' — an early declaration foreshadowing the modern era</title>
-      <link>https://www.reddit.com/r/technology/comments/1uuziji/quote_of_the_day_by_sun_microsystems_ceo_scott/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uuziji/quote_of_the_day_by_sun_microsystems_ceo_scott/</guid>
-      <pubDate>2026-07-13T02:58:00+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uuziji/quote_of_the_day_by_sun_microsystems_ceo_scott/&quot;&gt; &lt;img alt=&quot;Quote of the day by Sun Microsystems CEO Scott McNealy: 'You have zero privacy anyway. Get over it' — an early declaration foreshadowing the modern era&quot; src=&quot;https://external-preview.redd.it/ibNcfDX3HczmG3Ru7VpnTkvDUqSXjXYdz5BYQitUy2o.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0d41c2605606b10e9acdb27ffbbed37a4f74b22c&quot; title=&quot;Quote of the day by Sun Microsystems CEO Scott McNealy: 'You have zero privacy anyway. Get over it' — an early declaration foreshadowing the modern era&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techradar.com/pro/quote-of-the-day-by-sun-microsystems-ceo-scott-mcnealy-you-have-zero-privacy-anyway-get-over-it-an-early-declaration-foreshadowing-the-modern-era&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uuziji/quote_of_the_day_by_sun_microsystems_ceo_scott/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The result is the first generation less cognitively capable than their parents</title>
+      <link>https://www.reddit.com/r/technology/comments/1uw2idx/the_us_spent_30_billion_to_ditch_textbooks_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uw2idx/the_us_spent_30_billion_to_ditch_textbooks_for/</guid>
+      <pubDate>2026-07-14T08:15:54+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uw2idx/the_us_spent_30_billion_to_ditch_textbooks_for/&quot;&gt; &lt;img alt=&quot;The U.S. spent $30 billion to ditch textbooks for laptops and tablets: The result is the first generation less cognitively capable than their parents&quot; src=&quot;https://external-preview.redd.it/dbswKmUMHVc8XHTFmrOop3idhul7BsNIo55yx1T1tkc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1ce9e049dcbed5a408304315dc1373e4f542f072&quot; title=&quot;The U.S. spent $30 billion to ditch textbooks for laptops and tablets: The result is the first generation less cognitively capable than their parents&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/WorldTravelerBoss&quot;&gt; /u/WorldTravelerBoss &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/article/how-did-us-spending-30-billion-dollars-on-laptops-result-in-first-generation-less-cognitively-capable-than-parents/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uw2idx/the_us_spent_30_billion_to_ditch_textbooks_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
