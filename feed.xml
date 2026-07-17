@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 16 Jul 2026 02:47:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:50:20 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Show HN: One More Letter</title>
-      <link>https://playonemoreletter.com/</link>
-      <guid isPermaLink="true">https://playonemoreletter.com/</guid>
-      <pubDate>Wed, 15 Jul 2026 23:10:10 +0000</pubDate>
+      <title>[HN] Show HN: Mojibake – A low-level Unicode library written in C</title>
+      <link>https://mojibake.zaerl.com/</link>
+      <guid isPermaLink="true">https://mojibake.zaerl.com/</guid>
+      <pubDate>Thu, 16 Jul 2026 22:29:21 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Nul Characters in Strings in SQLite</title>
-      <link>https://sqlite.org/nulinstr.html</link>
-      <guid isPermaLink="true">https://sqlite.org/nulinstr.html</guid>
-      <pubDate>Wed, 15 Jul 2026 23:03:45 +0000</pubDate>
+      <title>[HN] The Little Book of Reinforcement Learning</title>
+      <link>https://github.com/alxndrTL/little-book-rl/</link>
+      <guid isPermaLink="true">https://github.com/alxndrTL/little-book-rl/</guid>
+      <pubDate>Thu, 16 Jul 2026 22:27:22 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)</title>
-      <link>https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials</link>
-      <guid isPermaLink="true">https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials</guid>
-      <pubDate>Wed, 15 Jul 2026 23:00:31 +0000</pubDate>
+      <title>[HN] M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida</title>
+      <link>https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive</link>
+      <guid isPermaLink="true">https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive</guid>
+      <pubDate>Fri, 17 Jul 2026 00:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The Anti-Mac User Interface (1996)</title>
-      <link>https://www.nngroup.com/articles/anti-mac-interface/</link>
-      <guid isPermaLink="true">https://www.nngroup.com/articles/anti-mac-interface/</guid>
-      <pubDate>Wed, 15 Jul 2026 22:52:36 +0000</pubDate>
+      <title>[HN] The Human-in-the-Loop Is Tired</title>
+      <link>https://pydantic.dev/articles/the-human-in-the-loop-is-tired</link>
+      <guid isPermaLink="true">https://pydantic.dev/articles/the-human-in-the-loop-is-tired</guid>
+      <pubDate>Fri, 17 Jul 2026 00:21:09 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] SQLite should have (Rust-style) editions</title>
-      <link>https://mort.coffee/home/sqlite-editions/</link>
-      <guid isPermaLink="true">https://mort.coffee/home/sqlite-editions/</guid>
-      <pubDate>Wed, 15 Jul 2026 22:42:58 +0000</pubDate>
+      <title>[HN] Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data</title>
+      <link>https://github.com/Robbyant/lingbot-map</link>
+      <guid isPermaLink="true">https://github.com/Robbyant/lingbot-map</guid>
+      <pubDate>Fri, 17 Jul 2026 00:07:49 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] SpaceX Investors Are Lamenting All the Money They’ve Lost</title>
-      <link>https://www.reddit.com/r/technology/comments/1uxgyim/spacex_investors_are_lamenting_all_the_money/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uxgyim/spacex_investors_are_lamenting_all_the_money/</guid>
-      <pubDate>2026-07-15T20:10:09+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxgyim/spacex_investors_are_lamenting_all_the_money/&quot;&gt; &lt;img alt=&quot;SpaceX Investors Are Lamenting All the Money They’ve Lost&quot; src=&quot;https://external-preview.redd.it/gIxQ2y67SxmAom4mW8cu1odlaG54x7iKB5Dc-mblUqQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ab9b4b4e6719de11a62f588790af7f79476365e4&quot; title=&quot;SpaceX Investors Are Lamenting All the Money They’ve Lost&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/spacex-investors-lamenting-money-ve-155334039.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxgyim/spacex_investors_are_lamenting_all_the_money/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Mamdani is targeting deceptive AI-made apartment listings</title>
+      <link>https://www.reddit.com/r/technology/comments/1uybxvi/mamdani_is_targeting_deceptive_aimade_apartment/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uybxvi/mamdani_is_targeting_deceptive_aimade_apartment/</guid>
+      <pubDate>2026-07-16T18:59:05+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uybxvi/mamdani_is_targeting_deceptive_aimade_apartment/&quot;&gt; &lt;img alt=&quot;Mamdani is targeting deceptive AI-made apartment listings&quot; src=&quot;https://external-preview.redd.it/_CiJs51Ltjdy_sf_zf4FgEglQ8aaSsuUOx0JDfDO-f8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=638b14fa318392d0137b93bcf9f73cdfa13d54fd&quot; title=&quot;Mamdani is targeting deceptive AI-made apartment listings&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/mamdani-ai-apartment-listings-streeteasy-new-york-city-rent-reform-2026-7&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uybxvi/mamdani_is_targeting_deceptive_aimade_apartment/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] SpaceX stock sinks below $135 IPO price for the first time</title>
-      <link>https://www.reddit.com/r/technology/comments/1uxapr3/spacex_stock_sinks_below_135_ipo_price_for_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uxapr3/spacex_stock_sinks_below_135_ipo_price_for_the/</guid>
-      <pubDate>2026-07-15T16:22:45+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxapr3/spacex_stock_sinks_below_135_ipo_price_for_the/&quot;&gt; &lt;img alt=&quot;SpaceX stock sinks below $135 IPO price for the first time&quot; src=&quot;https://external-preview.redd.it/7klj9RzM3EGd4pS-L6DxAq_T5i6eLp5enYE8t4kXgDE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fe8835adb53869d99e158fa1aacc052f0518ffa0&quot; title=&quot;SpaceX stock sinks below $135 IPO price for the first time&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxapr3/spacex_stock_sinks_below_135_ipo_price_for_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The AI Backlash Has Tech Executives Fearing for Their Lives</title>
+      <link>https://www.reddit.com/r/technology/comments/1uy0v5s/the_ai_backlash_has_tech_executives_fearing_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uy0v5s/the_ai_backlash_has_tech_executives_fearing_for/</guid>
+      <pubDate>2026-07-16T12:01:53+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972?mod=hp_lead_pos1&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uy0v5s/the_ai_backlash_has_tech_executives_fearing_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] ‘It’s giving fascism, not fashion’ — Meta is testing a prototype to “continuously record audio while taking photos every few seconds” without any warning light</title>
-      <link>https://www.reddit.com/r/technology/comments/1ux8ej9/kylie_jenners_dystopian_meta_glasses_get_brutal/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ux8ej9/kylie_jenners_dystopian_meta_glasses_get_brutal/</guid>
-      <pubDate>2026-07-15T15:02:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ux8ej9/kylie_jenners_dystopian_meta_glasses_get_brutal/&quot;&gt; &lt;img alt=&quot;Kylie Jenner’s dystopian Meta glasses get brutal backlash: ‘It’s giving fascism, not fashion’ — Meta is testing a prototype to “continuously record audio while taking photos every few seconds” without any warning light&quot; src=&quot;https://external-preview.redd.it/MsZPGDXo9O-dZVcATqhTmcXWh1ukeJXdRXdWIkAghHc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=87335c651b04665e0d6b4d58cad301a2f3812caf&quot; title=&quot;Kylie Jenner’s dystopian Meta glasses get brutal backlash: ‘It’s giving fascism, not fashion’ — Meta is testing a prototype to “continuously record audio while taking photos every few seconds” without any warning light&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.huffpost.com/entry/kylie-jenner-meta-glasses-fascist_n_6a565e74e4b0540b8c7b111a&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ux8ej9/kylie_jenners_dystopian_meta_glasses_get_brutal/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms</title>
+      <link>https://www.reddit.com/r/technology/comments/1uxzpaj/tesla_driver_in_fatal_texas_crash_pressed/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uxzpaj/tesla_driver_in_fatal_texas_crash_pressed/</guid>
+      <pubDate>2026-07-16T11:06:52+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxzpaj/tesla_driver_in_fatal_texas_crash_pressed/&quot;&gt; &lt;img alt=&quot;Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms&quot; src=&quot;https://external-preview.redd.it/RO9gmUD-9D_R2EQ1XoVC4uJTxXTXaysHBvNbKJiuYfI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=47836dbdb16e95b8ad21f73aea84a2c787ff4aa0&quot; title=&quot;Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxzpaj/tesla_driver_in_fatal_texas_crash_pressed/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] &quot;They have destroyed immense amounts of value that I don't even think that they're aware of&quot;</title>
-      <link>https://www.reddit.com/r/technology/comments/1ux52t0/there_are_no_benefits_to_being_owned_by_microsoft/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ux52t0/there_are_no_benefits_to_being_owned_by_microsoft/</guid>
-      <pubDate>2026-07-15T12:55:34+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ux52t0/there_are_no_benefits_to_being_owned_by_microsoft/&quot;&gt; &lt;img alt=&quot;&amp;quot;There are no benefits to being owned by Microsoft,&amp;quot; says Doom dev: &amp;quot;They have destroyed immense amounts of value that I don't even think that they're aware of&amp;quot;&quot; src=&quot;https://external-preview.redd.it/TwhyKv0Pg02gM6MzfjQR543bGYI5JsLKjH2wo5cf4xY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=88e768631b022b5c82fe3fbb91e9440419106db0&quot; title=&quot;&amp;quot;There are no benefits to being owned by Microsoft,&amp;quot; says Doom dev: &amp;quot;They have destroyed immense amounts of value that I don't even think that they're aware of&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamesradar.com/games/fps/there-are-no-benefits-to-being-owned-by-microsoft-says-doom-dev-they-have-destroyed-immense-amounts-of-value-that-i-dont-even-think-that-theyre-aware-of/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ux52t0/there_are_no_benefits_to_being_owned_by_microsoft/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] 75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 — announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by</title>
+      <link>https://www.reddit.com/r/technology/comments/1uxxjsu/75_of_all_ps3_games_reportedly_now_run_on_pc_via/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uxxjsu/75_of_all_ps3_games_reportedly_now_run_on_pc_via/</guid>
+      <pubDate>2026-07-16T09:08:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxxjsu/75_of_all_ps3_games_reportedly_now_run_on_pc_via/&quot;&gt; &lt;img alt=&quot;75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 — announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by&quot; src=&quot;https://external-preview.redd.it/amQFSUe3HWDRicgsQ648ofQKs-kxJ15uigiHG4y1QZ8.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=df1897c0a0844594aafc2d91218e597dc426c4ac&quot; title=&quot;75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 — announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/video-games/playstation/open-source-ps3-emulator-says-its-now-compatible-with-over-75-percent-of-all-ps3-games-on-pc-rpcs3-announcement-comes-weeks-after-sony-announced-the-shuttering-of-the-playstation-store-for-ps3-and-ps-vita-by-july-2027&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxxjsu/75_of_all_ps3_games_reportedly_now_run_on_pc_via/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Layoffs might offer &quot;better short-term financial results,&quot; late Nintendo president Satoru Iwata admitted in 2013, but &quot;employees who fear that they may be laid off&quot; will never produce the same results</title>
-      <link>https://www.reddit.com/r/technology/comments/1ux0kka/layoffs_might_offer_better_shortterm_financial/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1ux0kka/layoffs_might_offer_better_shortterm_financial/</guid>
-      <pubDate>2026-07-15T09:10:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ux0kka/layoffs_might_offer_better_shortterm_financial/&quot;&gt; &lt;img alt=&quot;Layoffs might offer &amp;quot;better short-term financial results,&amp;quot; late Nintendo president Satoru Iwata admitted in 2013, but &amp;quot;employees who fear that they may be laid off&amp;quot; will never produce the same results&quot; src=&quot;https://external-preview.redd.it/wuWWWXUd3cGR-YDPSI_qVcjyDJDp37utQzlhe7EGUiA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b9e1d044e4e2fead04f23fa4dcddf95cfd68d109&quot; title=&quot;Layoffs might offer &amp;quot;better short-term financial results,&amp;quot; late Nintendo president Satoru Iwata admitted in 2013, but &amp;quot;employees who fear that they may be laid off&amp;quot; will never produce the same results&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/General_Dig_31&quot;&gt; /u/General_Dig_31 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamesradar.com/games/layoffs-might-offer-better-short-term-financial-results-late-nintendo-president-satoru-iwata-admitted-in-2013-but-employees-who-fear-that-they-may-be-laid-off-will-never-produce-the-same-results/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1ux0kka/layoffs_might_offer_better_shortterm_financial/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Truck Drivers Allegedly Ramming Flock Safety Cameras To Destroy Them</title>
+      <link>https://www.reddit.com/r/technology/comments/1uxucne/truck_drivers_allegedly_ramming_flock_safety/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uxucne/truck_drivers_allegedly_ramming_flock_safety/</guid>
+      <pubDate>2026-07-16T06:05:05+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxucne/truck_drivers_allegedly_ramming_flock_safety/&quot;&gt; &lt;img alt=&quot;Truck Drivers Allegedly Ramming Flock Safety Cameras To Destroy Them&quot; src=&quot;https://external-preview.redd.it/4LqAwuOqmSoHjkX_cL8inOESFAE6VP1OnVjaQxVb9NQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ff5c1a82deccdd2cc42a8d1d924f1302a37fde1a&quot; title=&quot;Truck Drivers Allegedly Ramming Flock Safety Cameras To Destroy Them&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/truck-drivers-allegedly-ramming-flock-safety-cameras-to-destroy-them&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uxucne/truck_drivers_allegedly_ramming_flock_safety/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
