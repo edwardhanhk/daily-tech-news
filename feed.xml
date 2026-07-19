@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 18 Jul 2026 02:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 02:56:36 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig</title>
-      <link>https://moonstone.sh/</link>
-      <guid isPermaLink="true">https://moonstone.sh/</guid>
-      <pubDate>Sat, 18 Jul 2026 01:18:15 +0000</pubDate>
+      <title>[HN] AI Mania Is Eviscerating Global Decision-Making</title>
+      <link>https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</link>
+      <guid isPermaLink="true">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</guid>
+      <pubDate>Sun, 19 Jul 2026 01:29:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] I Started a &quot;Dirt Notebook&quot;</title>
-      <link>https://pinewind.bearblog.dev/i-started-a-dirt-notebook/</link>
-      <guid isPermaLink="true">https://pinewind.bearblog.dev/i-started-a-dirt-notebook/</guid>
-      <pubDate>Sat, 18 Jul 2026 01:12:13 +0000</pubDate>
+      <title>[HN] Better and Cheaper Than IPTV</title>
+      <link>https://github.com/stupside/castor</link>
+      <guid isPermaLink="true">https://github.com/stupside/castor</guid>
+      <pubDate>Sun, 19 Jul 2026 00:59:55 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] DrDroid (YC W23) Is Hiring</title>
-      <link>https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory</link>
-      <guid isPermaLink="true">https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory</guid>
-      <pubDate>Sat, 18 Jul 2026 01:01:08 +0000</pubDate>
+      <title>[HN] Transcribe.cpp</title>
+      <link>https://workshop.cjpais.com/projects/transcribe-cpp</link>
+      <guid isPermaLink="true">https://workshop.cjpais.com/projects/transcribe-cpp</guid>
+      <pubDate>Sun, 19 Jul 2026 00:38:26 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Stenchill: 3D Printable Solder Paste Stencil Generator</title>
-      <link>https://www.stenchill.com/en/</link>
-      <guid isPermaLink="true">https://www.stenchill.com/en/</guid>
-      <pubDate>Sat, 18 Jul 2026 00:48:37 +0000</pubDate>
+      <title>[HN] Harness Engineering</title>
+      <link>https://github.com/lopopolo/harness-engineering</link>
+      <guid isPermaLink="true">https://github.com/lopopolo/harness-engineering</guid>
+      <pubDate>Sat, 18 Jul 2026 23:27:36 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A grumpy screed about AI in software engineering</title>
-      <link>https://sam.sutch.net/posts/a-grumpy-ai-screed</link>
-      <guid isPermaLink="true">https://sam.sutch.net/posts/a-grumpy-ai-screed</guid>
-      <pubDate>Sat, 18 Jul 2026 00:40:08 +0000</pubDate>
+      <title>[HN] Codex Resets</title>
+      <link>https://codex-resets.com/</link>
+      <guid isPermaLink="true">https://codex-resets.com/</guid>
+      <pubDate>Sat, 18 Jul 2026 23:24:26 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Terrified Tech Execs Are Traveling With Armed Bodyguards as AI Backlash Grows</title>
-      <link>https://www.reddit.com/r/technology/comments/1uzed27/terrified_tech_execs_are_traveling_with_armed/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uzed27/terrified_tech_execs_are_traveling_with_armed/</guid>
-      <pubDate>2026-07-17T22:33:44+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzed27/terrified_tech_execs_are_traveling_with_armed/&quot;&gt; &lt;img alt=&quot;Terrified Tech Execs Are Traveling With Armed Bodyguards as AI Backlash Grows&quot; src=&quot;https://external-preview.redd.it/7u9IK-Ey1QzYPHwYysUy2wGVg-aUSya8ZXeQd94oXrI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1c8bf2f03003048c8957a683674ba3781b9c531a&quot; title=&quot;Terrified Tech Execs Are Traveling With Armed Bodyguards as AI Backlash Grows&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IKeepItLayingAround&quot;&gt; /u/IKeepItLayingAround &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/politics/articles/terrified-tech-execs-traveling-armed-195630019.html?.tsrc=daily_mail&amp;amp;segment_id=DY_VTO_50_Supernova&amp;amp;ncid=crm_19908-1475736-20260717-0--A&amp;amp;bt_ee=xUmmf%2BSRbkmqXRNT8VIbW2KVnvvvD0kS4WgmOUrqSKhzj%2FLa4SqWmwIdDyVLL3ut&amp;amp;bt_ts=1784282324907&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzed27/terrified_tech_execs_are_traveling_with_armed/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Aging Baby Boomers are America’s real labor problem, not AI</title>
+      <link>https://www.reddit.com/r/technology/comments/1v07a95/indeed_chief_economist_aging_baby_boomers_are/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v07a95/indeed_chief_economist_aging_baby_boomers_are/</guid>
+      <pubDate>2026-07-18T21:01:39+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v07a95/indeed_chief_economist_aging_baby_boomers_are/&quot;&gt; &lt;img alt=&quot;Indeed chief economist: Aging Baby Boomers are America’s real labor problem, not AI&quot; src=&quot;https://external-preview.redd.it/dGn919UippMgD9t3a9WFD-QYBBkSOBPMyAvYUpc7zfY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4557a2f839f034cd92297736d946c82cc3453b7a&quot; title=&quot;Indeed chief economist: Aging Baby Boomers are America’s real labor problem, not AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/07/18/us-labor-shortage-ai-baby-boomers-2032/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v07a95/indeed_chief_economist_aging_baby_boomers_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Kevin O’Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation</title>
-      <link>https://www.reddit.com/r/technology/comments/1uzac76/kevin_oleary_claimed_opposition_to_his_utah_data/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uzac76/kevin_oleary_claimed_opposition_to_his_utah_data/</guid>
-      <pubDate>2026-07-17T19:55:07+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzac76/kevin_oleary_claimed_opposition_to_his_utah_data/&quot;&gt; &lt;img alt=&quot;Kevin O’Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation&quot; src=&quot;https://external-preview.redd.it/oc6zne9lBv6buMiGlYxsRIESyrlFwXIbkbrPfhcZ30g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=622264d4445be59d86b56e96a21961d487ba1b28&quot; title=&quot;Kevin O’Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/07/17/kevin-oleary-defamation-lawsuit-chinese-communist-party-utah-data-center/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzac76/kevin_oleary_claimed_opposition_to_his_utah_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Spotify Deleted 75 Million AI-Generated Tracks – and It’s Not Done Yet</title>
+      <link>https://www.reddit.com/r/technology/comments/1uzyfgn/spotify_deleted_75_million_aigenerated_tracks_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uzyfgn/spotify_deleted_75_million_aigenerated_tracks_and/</guid>
+      <pubDate>2026-07-18T15:11:12+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzyfgn/spotify_deleted_75_million_aigenerated_tracks_and/&quot;&gt; &lt;img alt=&quot;Spotify Deleted 75 Million AI-Generated Tracks – and It’s Not Done Yet&quot; src=&quot;https://external-preview.redd.it/WFArBV29X8q6jNH7ccwqAeN_X4LmqsrTgULyXzLnm4A.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a5999935ea95c14821f6fc46027c5390ae6de598&quot; title=&quot;Spotify Deleted 75 Million AI-Generated Tracks – and It’s Not Done Yet&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spherocytes&quot;&gt; /u/spherocytes &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/spotify-deleted-75-million-ai-generated-tracks-and-its-not-done-yet&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzyfgn/spotify_deleted_75_million_aigenerated_tracks_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] SpaceX stock drops to a new low and loses $1 trillion in value in a month</title>
-      <link>https://www.reddit.com/r/technology/comments/1uz6zsr/spacex_stock_drops_to_a_new_low_and_loses_1/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uz6zsr/spacex_stock_drops_to_a_new_low_and_loses_1/</guid>
-      <pubDate>2026-07-17T17:53:51+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uz6zsr/spacex_stock_drops_to_a_new_low_and_loses_1/&quot;&gt; &lt;img alt=&quot;SpaceX stock drops to a new low and loses $1 trillion in value in a month&quot; src=&quot;https://external-preview.redd.it/DMB4yPcTlSWnK2hQB_gQgDr7kyhlObOsNQZ8c1hZsRE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=260444c8a7096366dbdbb7a2f6d178c90dcd6c7e&quot; title=&quot;SpaceX stock drops to a new low and loses $1 trillion in value in a month&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uz6zsr/spacex_stock_drops_to_a_new_low_and_loses_1/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Peter Thiel just gave the public its closest look yet at his ‘Antichrist’ theory—and it’s a tech and climate regulator</title>
+      <link>https://www.reddit.com/r/technology/comments/1uzxlv1/peter_thiel_just_gave_the_public_its_closest_look/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uzxlv1/peter_thiel_just_gave_the_public_its_closest_look/</guid>
+      <pubDate>2026-07-18T14:38:11+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzxlv1/peter_thiel_just_gave_the_public_its_closest_look/&quot;&gt; &lt;img alt=&quot;Peter Thiel just gave the public its closest look yet at his ‘Antichrist’ theory—and it’s a tech and climate regulator&quot; src=&quot;https://external-preview.redd.it/zj_pZr3KC7_1aOw_XWd6qYDoslsFNado-xhpdhEXnBs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9ee8f9380748ac8b4a9787772d7e59ba1913844d&quot; title=&quot;Peter Thiel just gave the public its closest look yet at his ‘Antichrist’ theory—and it’s a tech and climate regulator&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fmcortez&quot;&gt; /u/fmcortez &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/politics/articles/peter-thiel-just-gave-public-104800353.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzxlv1/peter_thiel_just_gave_the_public_its_closest_look/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video</title>
-      <link>https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/</guid>
-      <pubDate>2026-07-17T17:16:27+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/&quot;&gt; &lt;img alt=&quot;Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video&quot; src=&quot;https://external-preview.redd.it/9TcXg7Wd_3w5I4ZszOto2gVG3XgFPD-c5PgZ7O6iZlA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1f640e6c048a8cc1e12299b6bf1e591dff62a06a&quot; title=&quot;Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/flock-said-its-cameras-dont-track-people-then-a-reporter-proved-them-wrong-on-video&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] ICE shared Medicaid data it wasn't supposed to have with Palantir</title>
+      <link>https://www.reddit.com/r/technology/comments/1uzw2qe/ice_shared_medicaid_data_it_wasnt_supposed_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uzw2qe/ice_shared_medicaid_data_it_wasnt_supposed_to/</guid>
+      <pubDate>2026-07-18T13:34:45+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzw2qe/ice_shared_medicaid_data_it_wasnt_supposed_to/&quot;&gt; &lt;img alt=&quot;ICE shared Medicaid data it wasn't supposed to have with Palantir&quot; src=&quot;https://external-preview.redd.it/2ADJpVdECks1PgtXRmu07f1PMthQ31E7ajT9d_4mAtk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0782ab9fd4d1b78eba835277be3c185af10ea2f&quot; title=&quot;ICE shared Medicaid data it wasn't supposed to have with Palantir&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No-Lifeguard-8173&quot;&gt; /u/No-Lifeguard-8173 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzw2qe/ice_shared_medicaid_data_it_wasnt_supposed_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] US president says ABC and NBC should lose broadcast licenses because they didn’t carry his primetime address on election claims</title>
-      <link>https://www.reddit.com/r/technology/comments/1uyxfmg/us_president_says_abc_and_nbc_should_lose/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uyxfmg/us_president_says_abc_and_nbc_should_lose/</guid>
-      <pubDate>2026-07-17T11:49:13+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uyxfmg/us_president_says_abc_and_nbc_should_lose/&quot;&gt; &lt;img alt=&quot;US president says ABC and NBC should lose broadcast licenses because they didn’t carry his primetime address on election claims&quot; src=&quot;https://external-preview.redd.it/kVO8OiuTVLhpAWUB8Kgm_Vls1zG8gMckwnI3Kznj4Go.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c1f02218258c7428f0e34ad25187343ae0c2c944&quot; title=&quot;US president says ABC and NBC should lose broadcast licenses because they didn’t carry his primetime address on election claims&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://deadline.com/2026/07/trump-threatens-abc-nbc-licenses-election-speech-1236988065/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uyxfmg/us_president_says_abc_and_nbc_should_lose/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format</title>
+      <link>https://www.reddit.com/r/technology/comments/1uzucdl/korean_outfit_hosting_144mb_game_development/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1uzucdl/korean_outfit_hosting_144mb_game_development/</guid>
+      <pubDate>2026-07-18T12:15:45+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzucdl/korean_outfit_hosting_144mb_game_development/&quot;&gt; &lt;img alt=&quot;Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format&quot; src=&quot;https://external-preview.redd.it/1JpBC1PTIKWkiYYdTibC050NaZX5py7XSqMcmwjSiGw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c3dcac2a6232b54eb8cab33383f1738e87bedef7&quot; title=&quot;Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1uzucdl/korean_outfit_hosting_144mb_game_development/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
