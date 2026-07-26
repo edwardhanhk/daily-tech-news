@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 25 Jul 2026 02:50:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 03:15:38 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Sperm Whales blow bubbles to achieve restful, vertical sleep</title>
-      <link>https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/</link>
-      <guid isPermaLink="true">https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:13:18 +0000</pubDate>
+      <title>[HN] Git rebase -I is not that scary</title>
+      <link>https://cachebag.sh/journal/interactive-rebasing/</link>
+      <guid isPermaLink="true">https://cachebag.sh/journal/interactive-rebasing/</guid>
+      <pubDate>Sun, 26 Jul 2026 00:37:54 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live</title>
-      <link>https://github.com/apresta/max-studio-tools</link>
-      <guid isPermaLink="true">https://github.com/apresta/max-studio-tools</guid>
-      <pubDate>Fri, 24 Jul 2026 21:03:10 +0000</pubDate>
+      <title>[HN] Systems and Delays</title>
+      <link>https://martin.janiczek.cz/2026/07/24/systems-and-delays.html</link>
+      <guid isPermaLink="true">https://martin.janiczek.cz/2026/07/24/systems-and-delays.html</guid>
+      <pubDate>Sun, 26 Jul 2026 00:37:30 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard</title>
-      <link>https://artificialanalysis.ai/models</link>
-      <guid isPermaLink="true">https://artificialanalysis.ai/models</guid>
-      <pubDate>Fri, 24 Jul 2026 19:45:10 +0000</pubDate>
+      <title>[HN] Inflect-Micro-v2: complete voice in 9.36M parameters</title>
+      <link>https://huggingface.co/owensong/Inflect-Micro-v2</link>
+      <guid isPermaLink="true">https://huggingface.co/owensong/Inflect-Micro-v2</guid>
+      <pubDate>Sun, 26 Jul 2026 00:36:30 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Postgres LISTEN/NOTIFY actually scales</title>
-      <link>https://www.dbos.dev/blog/postgres-listen-notify-scalability</link>
-      <guid isPermaLink="true">https://www.dbos.dev/blog/postgres-listen-notify-scalability</guid>
-      <pubDate>Fri, 24 Jul 2026 19:05:53 +0000</pubDate>
+      <title>[HN] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]</title>
+      <link>https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</link>
+      <guid isPermaLink="true">https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</guid>
+      <pubDate>Sat, 25 Jul 2026 23:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Gsxui – Shadcn-style components for Go</title>
-      <link>https://ui.gsxhq.dev/</link>
-      <guid isPermaLink="true">https://ui.gsxhq.dev/</guid>
-      <pubDate>Fri, 24 Jul 2026 17:59:08 +0000</pubDate>
+      <title>[HN] Clinical failure rates over the decades: yikes</title>
+      <link>https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</link>
+      <guid isPermaLink="true">https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</guid>
+      <pubDate>Sat, 25 Jul 2026 22:57:17 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] US accuses American of allegedly wiping his phone using a ‘duress’ password during border search</title>
-      <link>https://www.reddit.com/r/technology/comments/1v5mels/us_accuses_american_of_allegedly_wiping_his_phone/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v5mels/us_accuses_american_of_allegedly_wiping_his_phone/</guid>
-      <pubDate>2026-07-24T20:05:40+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5mels/us_accuses_american_of_allegedly_wiping_his_phone/&quot;&gt; &lt;img alt=&quot;US accuses American of allegedly wiping his phone using a ‘duress’ password during border search&quot; src=&quot;https://external-preview.redd.it/LpO1I7TfC7-P9GcA2BjMzgDPiSFuAomTfQkLnACY2Ew.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=042a999d83302db037153f5e5c6b744d5a1fda94&quot; title=&quot;US accuses American of allegedly wiping his phone using a ‘duress’ password during border search&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MC68328&quot;&gt; /u/MC68328 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5mels/us_accuses_american_of_allegedly_wiping_his_phone/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] RFK Jr’s team quietly updates CDC website to say science doesn’t know if vaccines cause autism</title>
+      <link>https://www.reddit.com/r/technology/comments/1v6myws/rfk_jrs_team_quietly_updates_cdc_website_to_say/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6myws/rfk_jrs_team_quietly_updates_cdc_website_to_say/</guid>
+      <pubDate>2026-07-25T23:13:32+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6myws/rfk_jrs_team_quietly_updates_cdc_website_to_say/&quot;&gt; &lt;img alt=&quot;RFK Jr’s team quietly updates CDC website to say science doesn’t know if vaccines cause autism&quot; src=&quot;https://external-preview.redd.it/ovVG_lcJZ13MoZ3vGUtAf2tP3_2PYJ858T8cBc7RdI4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bee3181e253e78bc5fadf3912c692c5d0eee6647&quot; title=&quot;RFK Jr’s team quietly updates CDC website to say science doesn’t know if vaccines cause autism&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.independent.co.uk/news/world/americas/us-politics/rfk-jr-vaccine-autism-cdc-website-b3021275.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6myws/rfk_jrs_team_quietly_updates_cdc_website_to_say/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] It’s Looking Like the Cybertruck Is the Biggest Flop in Automotive History</title>
-      <link>https://www.reddit.com/r/technology/comments/1v5hegw/its_looking_like_the_cybertruck_is_the_biggest/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v5hegw/its_looking_like_the_cybertruck_is_the_biggest/</guid>
-      <pubDate>2026-07-24T17:07:40+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5hegw/its_looking_like_the_cybertruck_is_the_biggest/&quot;&gt; &lt;img alt=&quot;It’s Looking Like the Cybertruck Is the Biggest Flop in Automotive History&quot; src=&quot;https://external-preview.redd.it/h8VcYEIsxyk3GZlzj6PqjBY36KGqfWL49qGKlAE9Rbg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ee11d7d739a4ca609139a3161243e81d5e10e71e&quot; title=&quot;It’s Looking Like the Cybertruck Is the Biggest Flop in Automotive History&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/looking-cybertruck-biggest-flop-automotive-145559135.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5hegw/its_looking_like_the_cybertruck_is_the_biggest/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Schools across America are quietly admitting that screens in classrooms made students worse off and are reversing years of tech-first policies</title>
+      <link>https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/</guid>
+      <pubDate>2026-07-25T22:26:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/&quot;&gt; &lt;img alt=&quot;Schools across America are quietly admitting that screens in classrooms made students worse off and are reversing years of tech-first policies&quot; src=&quot;https://external-preview.redd.it/5Z0zkp2Ir7TncWLaFudPKBXpj28PagHpTbifNTkuOjg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ee1147f95fb1289568801c7fd3a82ef400342661&quot; title=&quot;Schools across America are quietly admitting that screens in classrooms made students worse off and are reversing years of tech-first policies&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/article/schools-abandoning-chromebooks-laptop-programs-as-screen-time-hurts-learning-test-scores-north-carolina-michigan-kansas-tech-education/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model</title>
-      <link>https://www.reddit.com/r/technology/comments/1v5fxac/turns_out_dead_internet_theory_was_right_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v5fxac/turns_out_dead_internet_theory_was_right_ai/</guid>
-      <pubDate>2026-07-24T16:15:14+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5fxac/turns_out_dead_internet_theory_was_right_ai/&quot;&gt; &lt;img alt=&quot;Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model&quot; src=&quot;https://external-preview.redd.it/9EyKV8-TKkawmCuY3KsuWVJUHxDjzR1dtBZn3pWCQVo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6a21a19ac6ac4fb95568b1de107ccd53a2d94758&quot; title=&quot;Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5fxac/turns_out_dead_internet_theory_was_right_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] SpaceX Investors in Meltdown Over All the Money They’ve Lost</title>
+      <link>https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/</guid>
+      <pubDate>2026-07-25T19:01:36+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/&quot;&gt; &lt;img alt=&quot;SpaceX Investors in Meltdown Over All the Money They’ve Lost&quot; src=&quot;https://external-preview.redd.it/s7sIIp-Jshxs1MOYMh98iFh2SXMv0WIcrPYIjebwcjY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f270d0b8c71fab7b8909128960e291319746f97e&quot; title=&quot;SpaceX Investors in Meltdown Over All the Money They’ve Lost&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/spacex-investors-meltdown-over-money-191742182.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Flock cameras go up in flames as cops hunt suspected firebugs</title>
-      <link>https://www.reddit.com/r/technology/comments/1v5ea2h/flock_cameras_go_up_in_flames_as_cops_hunt/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v5ea2h/flock_cameras_go_up_in_flames_as_cops_hunt/</guid>
-      <pubDate>2026-07-24T15:15:59+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HimelTy&quot;&gt; /u/HimelTy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theregister.com/offbeat/2026/07/24/flock-cameras-go-up-in-flames-as-cops-hunt-suspected-firebugs/5278357&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5ea2h/flock_cameras_go_up_in_flames_as_cops_hunt/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Corporate America Has Suddenly Decided to Stop Blowing Money on AI</title>
+      <link>https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/</guid>
+      <pubDate>2026-07-25T16:56:22+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/GreatLakesNU&quot;&gt; /u/GreatLakesNU &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/business/china-us-ai-model-costs-53a12e96&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] New Jersey bans grocery stores from using shoppers' personal data to set prices</title>
-      <link>https://www.reddit.com/r/technology/comments/1v5brhk/new_jersey_bans_grocery_stores_from_using/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v5brhk/new_jersey_bans_grocery_stores_from_using/</guid>
-      <pubDate>2026-07-24T13:41:31+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5brhk/new_jersey_bans_grocery_stores_from_using/&quot;&gt; &lt;img alt=&quot;New Jersey bans grocery stores from using shoppers' personal data to set prices&quot; src=&quot;https://external-preview.redd.it/AHDxRbgS8NriizXy1oBarhBHa-kNCAZw_REJk5hl98c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f38ba5d98eadc4ee9475dadcb54b0268a967efa7&quot; title=&quot;New Jersey bans grocery stores from using shoppers' personal data to set prices&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HumbleRestaurant790&quot;&gt; /u/HumbleRestaurant790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://jerseyvindicator.org/2026/07/23/new-jersey-bans-grocery-stores-from-using-shoppers-personal-data-to-set-prices/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v5brhk/new_jersey_bans_grocery_stores_from_using/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] ChatGPT is Down Worldwide, OpenAI Confirms</title>
+      <link>https://www.reddit.com/r/technology/comments/1v63zcm/chatgpt_is_down_worldwide_openai_confirms/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v63zcm/chatgpt_is_down_worldwide_openai_confirms/</guid>
+      <pubDate>2026-07-25T09:47:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v63zcm/chatgpt_is_down_worldwide_openai_confirms/&quot;&gt; &lt;img alt=&quot;ChatGPT is Down Worldwide, OpenAI Confirms&quot; src=&quot;https://external-preview.redd.it/1tPqwOZz79tMkH7fOgLtDcdQnTI6J8Mh53raYuXHnZ4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8905b280398b8b84ead3ba698b5b1f06a158783a&quot; title=&quot;ChatGPT is Down Worldwide, OpenAI Confirms&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/batakchan&quot;&gt; /u/batakchan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.macobserver.com/news/chatgpt-is-down-worldwide-what-we-know-about-todays-outage/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v63zcm/chatgpt_is_down_worldwide_openai_confirms/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
