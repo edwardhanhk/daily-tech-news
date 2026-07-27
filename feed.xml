@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 26 Jul 2026 03:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 03:25:38 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Git rebase -I is not that scary</title>
-      <link>https://cachebag.sh/journal/interactive-rebasing/</link>
-      <guid isPermaLink="true">https://cachebag.sh/journal/interactive-rebasing/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:37:54 +0000</pubDate>
+      <title>[HN] Fonts In Use – Find out where a font is used</title>
+      <link>https://fontsinuse.com/</link>
+      <guid isPermaLink="true">https://fontsinuse.com/</guid>
+      <pubDate>Sun, 26 Jul 2026 23:45:09 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Systems and Delays</title>
-      <link>https://martin.janiczek.cz/2026/07/24/systems-and-delays.html</link>
-      <guid isPermaLink="true">https://martin.janiczek.cz/2026/07/24/systems-and-delays.html</guid>
-      <pubDate>Sun, 26 Jul 2026 00:37:30 +0000</pubDate>
+      <title>[HN] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary</title>
+      <link>https://github.com/vercel-labs/scriptc</link>
+      <guid isPermaLink="true">https://github.com/vercel-labs/scriptc</guid>
+      <pubDate>Sun, 26 Jul 2026 22:46:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Inflect-Micro-v2: complete voice in 9.36M parameters</title>
-      <link>https://huggingface.co/owensong/Inflect-Micro-v2</link>
-      <guid isPermaLink="true">https://huggingface.co/owensong/Inflect-Micro-v2</guid>
-      <pubDate>Sun, 26 Jul 2026 00:36:30 +0000</pubDate>
+      <title>[HN] US citizen charged after GrapheneOS phone wipes during airport search</title>
+      <link>https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html</link>
+      <guid isPermaLink="true">https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html</guid>
+      <pubDate>Sun, 26 Jul 2026 22:21:41 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]</title>
-      <link>https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</link>
-      <guid isPermaLink="true">https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</guid>
-      <pubDate>Sat, 25 Jul 2026 23:32:50 +0000</pubDate>
+      <title>[HN] PGSimCity - How PostgreSQL Works</title>
+      <link>https://nikolays.github.io/PGSimCity/</link>
+      <guid isPermaLink="true">https://nikolays.github.io/PGSimCity/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:19:04 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Clinical failure rates over the decades: yikes</title>
-      <link>https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</link>
-      <guid isPermaLink="true">https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</guid>
-      <pubDate>Sat, 25 Jul 2026 22:57:17 +0000</pubDate>
+      <title>[HN] Show HN: Port Zero – how I learned to stop worrying and love PORT=0</title>
+      <link>https://portzero.net/</link>
+      <guid isPermaLink="true">https://portzero.net/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:03:48 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] RFK Jr’s team quietly updates CDC website to say science doesn’t know if vaccines cause autism</title>
-      <link>https://www.reddit.com/r/technology/comments/1v6myws/rfk_jrs_team_quietly_updates_cdc_website_to_say/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6myws/rfk_jrs_team_quietly_updates_cdc_website_to_say/</guid>
-      <pubDate>2026-07-25T23:13:32+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6myws/rfk_jrs_team_quietly_updates_cdc_website_to_say/&quot;&gt; &lt;img alt=&quot;RFK Jr’s team quietly updates CDC website to say science doesn’t know if vaccines cause autism&quot; src=&quot;https://external-preview.redd.it/ovVG_lcJZ13MoZ3vGUtAf2tP3_2PYJ858T8cBc7RdI4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bee3181e253e78bc5fadf3912c692c5d0eee6647&quot; title=&quot;RFK Jr’s team quietly updates CDC website to say science doesn’t know if vaccines cause autism&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.independent.co.uk/news/world/americas/us-politics/rfk-jr-vaccine-autism-cdc-website-b3021275.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6myws/rfk_jrs_team_quietly_updates_cdc_website_to_say/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search</title>
+      <link>https://www.reddit.com/r/technology/comments/1v7emqr/us_prosecutors_charge_atlanta_man_after/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v7emqr/us_prosecutors_charge_atlanta_man_after/</guid>
+      <pubDate>2026-07-26T20:10:04+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v7emqr/us_prosecutors_charge_atlanta_man_after/&quot;&gt; &lt;img alt=&quot;US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search&quot; src=&quot;https://external-preview.redd.it/A0mZoq9q7953mQhQg0TtvCbsmW_97nrF-xAeg6JNk6A.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=41d83e7f1bda36ee5ad9c5326ec74f5440cf36ac&quot; title=&quot;US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v7emqr/us_prosecutors_charge_atlanta_man_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Schools across America are quietly admitting that screens in classrooms made students worse off and are reversing years of tech-first policies</title>
-      <link>https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/</guid>
-      <pubDate>2026-07-25T22:26:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/&quot;&gt; &lt;img alt=&quot;Schools across America are quietly admitting that screens in classrooms made students worse off and are reversing years of tech-first policies&quot; src=&quot;https://external-preview.redd.it/5Z0zkp2Ir7TncWLaFudPKBXpj28PagHpTbifNTkuOjg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ee1147f95fb1289568801c7fd3a82ef400342661&quot; title=&quot;Schools across America are quietly admitting that screens in classrooms made students worse off and are reversing years of tech-first policies&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/article/schools-abandoning-chromebooks-laptop-programs-as-screen-time-hurts-learning-test-scores-north-carolina-michigan-kansas-tech-education/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Google Discloses $94.1 Billion in SpaceX Stock, Marking 6% Stake</title>
+      <link>https://www.reddit.com/r/technology/comments/1v7e7rf/google_discloses_941_billion_in_spacex_stock/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v7e7rf/google_discloses_941_billion_in_spacex_stock/</guid>
+      <pubDate>2026-07-26T19:54:32+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HumbleRestaurant790&quot;&gt; /u/HumbleRestaurant790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://thenextweb.com/news/google-94-billion-spacex-shares-ipo-stake&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v7e7rf/google_discloses_941_billion_in_spacex_stock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] SpaceX Investors in Meltdown Over All the Money They’ve Lost</title>
-      <link>https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/</guid>
-      <pubDate>2026-07-25T19:01:36+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/&quot;&gt; &lt;img alt=&quot;SpaceX Investors in Meltdown Over All the Money They’ve Lost&quot; src=&quot;https://external-preview.redd.it/s7sIIp-Jshxs1MOYMh98iFh2SXMv0WIcrPYIjebwcjY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f270d0b8c71fab7b8909128960e291319746f97e&quot; title=&quot;SpaceX Investors in Meltdown Over All the Money They’ve Lost&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/spacex-investors-meltdown-over-money-191742182.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Neighbors say noise from Michigan data center is 24/7 and upending their lives</title>
+      <link>https://www.reddit.com/r/technology/comments/1v764nm/neighbors_say_noise_from_michigan_data_center_is/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v764nm/neighbors_say_noise_from_michigan_data_center_is/</guid>
+      <pubDate>2026-07-26T14:56:02+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v764nm/neighbors_say_noise_from_michigan_data_center_is/&quot;&gt; &lt;img alt=&quot;Neighbors say noise from Michigan data center is 24/7 and upending their lives&quot; src=&quot;https://external-preview.redd.it/88bRNIGq24J2MX5MJDuI2o8-Fdnc-wit7J1gu54-cXc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1a97e709ef82479da3fb0228def08aaa8f870732&quot; title=&quot;Neighbors say noise from Michigan data center is 24/7 and upending their lives&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Brendawg324&quot;&gt; /u/Brendawg324 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wxyz.com/news/voices/neighbors-say-noise-from-michigan-data-center-is-24-7-and-upending-their-lives&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v764nm/neighbors_say_noise_from_michigan_data_center_is/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Corporate America Has Suddenly Decided to Stop Blowing Money on AI</title>
-      <link>https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/</guid>
-      <pubDate>2026-07-25T16:56:22+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/GreatLakesNU&quot;&gt; /u/GreatLakesNU &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/business/china-us-ai-model-costs-53a12e96&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Inside the growing vigilante movement to knock out Flock surveillance cameras /// An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US</title>
+      <link>https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/</guid>
+      <pubDate>2026-07-26T10:11:12+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/&quot;&gt; &lt;img alt=&quot;Inside the growing vigilante movement to knock out Flock surveillance cameras /// An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US&quot; src=&quot;https://external-preview.redd.it/OCeDlq4SRpyN1WtA9m35MSYiWO2y2wSiNpaisK1nXSU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6703d270503af3dbf66189fae69f25ee9d81d013&quot; title=&quot;Inside the growing vigilante movement to knock out Flock surveillance cameras /// An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HumbleRestaurant790&quot;&gt; /u/HumbleRestaurant790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] ChatGPT is Down Worldwide, OpenAI Confirms</title>
-      <link>https://www.reddit.com/r/technology/comments/1v63zcm/chatgpt_is_down_worldwide_openai_confirms/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v63zcm/chatgpt_is_down_worldwide_openai_confirms/</guid>
-      <pubDate>2026-07-25T09:47:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v63zcm/chatgpt_is_down_worldwide_openai_confirms/&quot;&gt; &lt;img alt=&quot;ChatGPT is Down Worldwide, OpenAI Confirms&quot; src=&quot;https://external-preview.redd.it/1tPqwOZz79tMkH7fOgLtDcdQnTI6J8Mh53raYuXHnZ4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8905b280398b8b84ead3ba698b5b1f06a158783a&quot; title=&quot;ChatGPT is Down Worldwide, OpenAI Confirms&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/batakchan&quot;&gt; /u/batakchan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.macobserver.com/news/chatgpt-is-down-worldwide-what-we-know-about-todays-outage/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v63zcm/chatgpt_is_down_worldwide_openai_confirms/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Anoka County's Sheriff Signed a $174,999 Flock Safety Contract – Exactly $1 Under the Threshold Requiring Public Board Approval</title>
+      <link>https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/</guid>
+      <pubDate>2026-07-26T04:58:26+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/&quot;&gt; &lt;img alt=&quot;Anoka County's Sheriff Signed a $174,999 Flock Safety Contract – Exactly $1 Under the Threshold Requiring Public Board Approval&quot; src=&quot;https://external-preview.redd.it/1A3snq9I38OWuDQqu3uWws8qYQrn_06vx_bce2g3L8Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9fe5e4e9bfb40fd523a0c1ef67212b85e89c8c14&quot; title=&quot;Anoka County's Sheriff Signed a $174,999 Flock Safety Contract – Exactly $1 Under the Threshold Requiring Public Board Approval&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/anoka-countys-sheriff-signed-a-174999-flock-safety-contract-exactly-1-under-the-threshold-requiring-public-board-approval&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
