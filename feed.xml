@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 27 Jul 2026 03:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 02:43:46 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Fonts In Use – Find out where a font is used</title>
-      <link>https://fontsinuse.com/</link>
-      <guid isPermaLink="true">https://fontsinuse.com/</guid>
-      <pubDate>Sun, 26 Jul 2026 23:45:09 +0000</pubDate>
+      <title>[HN] The Burau representation of the braid group is faithful for n = 4</title>
+      <link>https://arxiv.org/abs/2607.05283</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.05283</guid>
+      <pubDate>Mon, 27 Jul 2026 23:46:15 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary</title>
-      <link>https://github.com/vercel-labs/scriptc</link>
-      <guid isPermaLink="true">https://github.com/vercel-labs/scriptc</guid>
-      <pubDate>Sun, 26 Jul 2026 22:46:10 +0000</pubDate>
+      <title>[HN] Show HN: Trylle – The Next-Gen Git Platform for Modern Teams</title>
+      <link>https://trylle.com/home</link>
+      <guid isPermaLink="true">https://trylle.com/home</guid>
+      <pubDate>Mon, 27 Jul 2026 23:26:15 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] US citizen charged after GrapheneOS phone wipes during airport search</title>
-      <link>https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html</link>
-      <guid isPermaLink="true">https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html</guid>
-      <pubDate>Sun, 26 Jul 2026 22:21:41 +0000</pubDate>
+      <title>[HN] Astronauts describe persistent 'observer' sensation after 6 month missions</title>
+      <link>https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/</link>
+      <guid isPermaLink="true">https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:19:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] PGSimCity - How PostgreSQL Works</title>
-      <link>https://nikolays.github.io/PGSimCity/</link>
-      <guid isPermaLink="true">https://nikolays.github.io/PGSimCity/</guid>
-      <pubDate>Mon, 27 Jul 2026 00:19:04 +0000</pubDate>
+      <title>[HN] DConf 2026 in London</title>
+      <link>https://dconf.org/2026/index.html</link>
+      <guid isPermaLink="true">https://dconf.org/2026/index.html</guid>
+      <pubDate>Mon, 27 Jul 2026 23:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Port Zero – how I learned to stop worrying and love PORT=0</title>
-      <link>https://portzero.net/</link>
-      <guid isPermaLink="true">https://portzero.net/</guid>
-      <pubDate>Mon, 27 Jul 2026 00:03:48 +0000</pubDate>
+      <title>[HN] C/C++ projects packaged for Zig</title>
+      <link>https://github.com/allyourcodebase</link>
+      <guid isPermaLink="true">https://github.com/allyourcodebase</guid>
+      <pubDate>Mon, 27 Jul 2026 23:09:50 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search</title>
-      <link>https://www.reddit.com/r/technology/comments/1v7emqr/us_prosecutors_charge_atlanta_man_after/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v7emqr/us_prosecutors_charge_atlanta_man_after/</guid>
-      <pubDate>2026-07-26T20:10:04+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v7emqr/us_prosecutors_charge_atlanta_man_after/&quot;&gt; &lt;img alt=&quot;US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search&quot; src=&quot;https://external-preview.redd.it/A0mZoq9q7953mQhQg0TtvCbsmW_97nrF-xAeg6JNk6A.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=41d83e7f1bda36ee5ad9c5326ec74f5440cf36ac&quot; title=&quot;US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v7emqr/us_prosecutors_charge_atlanta_man_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] High school teacher arrested for clapping in support of anti-data center activists</title>
+      <link>https://www.reddit.com/r/technology/comments/1v8dm6x/high_school_teacher_arrested_for_clapping_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v8dm6x/high_school_teacher_arrested_for_clapping_in/</guid>
+      <pubDate>2026-07-27T21:19:28+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8dm6x/high_school_teacher_arrested_for_clapping_in/&quot;&gt; &lt;img alt=&quot;High school teacher arrested for clapping in support of anti-data center activists&quot; src=&quot;https://external-preview.redd.it/idGLgC1yeeZyi7KGomMjIuEPWHyJm5k5xlB2eY2QYXs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=30c7a36e157a1b62f2e76aa6f2236230aa27d909&quot; title=&quot;High school teacher arrested for clapping in support of anti-data center activists&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/high-school-teacher-arrested-clapping-194922184.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8dm6x/high_school_teacher_arrested_for_clapping_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Google Discloses $94.1 Billion in SpaceX Stock, Marking 6% Stake</title>
-      <link>https://www.reddit.com/r/technology/comments/1v7e7rf/google_discloses_941_billion_in_spacex_stock/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v7e7rf/google_discloses_941_billion_in_spacex_stock/</guid>
-      <pubDate>2026-07-26T19:54:32+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HumbleRestaurant790&quot;&gt; /u/HumbleRestaurant790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://thenextweb.com/news/google-94-billion-spacex-shares-ipo-stake&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v7e7rf/google_discloses_941_billion_in_spacex_stock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] SpaceX Stock Hammered After Starship Booster Fails in First Launch Since IPO</title>
+      <link>https://www.reddit.com/r/technology/comments/1v8abia/spacex_stock_hammered_after_starship_booster/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v8abia/spacex_stock_hammered_after_starship_booster/</guid>
+      <pubDate>2026-07-27T19:20:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8abia/spacex_stock_hammered_after_starship_booster/&quot;&gt; &lt;img alt=&quot;SpaceX Stock Hammered After Starship Booster Fails in First Launch Since IPO&quot; src=&quot;https://external-preview.redd.it/DeCoGRTbo1N7ycn9MJaY6VmLAihAiM2AU-jkvxcqmwY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cd66d30ca66c1f30db986a4927fe2ec98ab7a4e1&quot; title=&quot;SpaceX Stock Hammered After Starship Booster Fails in First Launch Since IPO&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fmcortez&quot;&gt; /u/fmcortez &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/spacex-stock-hammered-starship-booster-181902122.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8abia/spacex_stock_hammered_after_starship_booster/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Neighbors say noise from Michigan data center is 24/7 and upending their lives</title>
-      <link>https://www.reddit.com/r/technology/comments/1v764nm/neighbors_say_noise_from_michigan_data_center_is/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v764nm/neighbors_say_noise_from_michigan_data_center_is/</guid>
-      <pubDate>2026-07-26T14:56:02+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v764nm/neighbors_say_noise_from_michigan_data_center_is/&quot;&gt; &lt;img alt=&quot;Neighbors say noise from Michigan data center is 24/7 and upending their lives&quot; src=&quot;https://external-preview.redd.it/88bRNIGq24J2MX5MJDuI2o8-Fdnc-wit7J1gu54-cXc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1a97e709ef82479da3fb0228def08aaa8f870732&quot; title=&quot;Neighbors say noise from Michigan data center is 24/7 and upending their lives&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Brendawg324&quot;&gt; /u/Brendawg324 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wxyz.com/news/voices/neighbors-say-noise-from-michigan-data-center-is-24-7-and-upending-their-lives&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v764nm/neighbors_say_noise_from_michigan_data_center_is/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Two-thirds of workers are so fed up with ‘AI slop’ that they ‘feel nostalgic for pre-AI work’</title>
+      <link>https://www.reddit.com/r/technology/comments/1v82nqk/twothirds_of_workers_are_so_fed_up_with_ai_slop/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v82nqk/twothirds_of_workers_are_so_fed_up_with_ai_slop/</guid>
+      <pubDate>2026-07-27T14:52:44+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v82nqk/twothirds_of_workers_are_so_fed_up_with_ai_slop/&quot;&gt; &lt;img alt=&quot;Two-thirds of workers are so fed up with ‘AI slop’ that they ‘feel nostalgic for pre-AI work’&quot; src=&quot;https://external-preview.redd.it/96SV9aLx_nmgsypznaQFysgRfa6ekU3ONSB3OFktj-c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=84aa8cc74164ab7315a1cb364c429aadaf55f4d7&quot; title=&quot;Two-thirds of workers are so fed up with ‘AI slop’ that they ‘feel nostalgic for pre-AI work’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Franco1875&quot;&gt; /u/Franco1875 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.itpro.com/business/business-strategy/two-thirds-of-workers-are-so-fed-up-with-ai-slop-that-they-feel-nostalgic-for-pre-ai-work&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v82nqk/twothirds_of_workers_are_so_fed_up_with_ai_slop/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Inside the growing vigilante movement to knock out Flock surveillance cameras /// An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US</title>
-      <link>https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/</guid>
-      <pubDate>2026-07-26T10:11:12+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/&quot;&gt; &lt;img alt=&quot;Inside the growing vigilante movement to knock out Flock surveillance cameras /// An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US&quot; src=&quot;https://external-preview.redd.it/OCeDlq4SRpyN1WtA9m35MSYiWO2y2wSiNpaisK1nXSU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6703d270503af3dbf66189fae69f25ee9d81d013&quot; title=&quot;Inside the growing vigilante movement to knock out Flock surveillance cameras /// An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HumbleRestaurant790&quot;&gt; /u/HumbleRestaurant790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] It sounds like someone set up a vacuum, like in your living room. Michigan residents sue AI data center emitting noise 24/7 Company fined for industrial noise ordinance violations, offers to buy homes from residents</title>
+      <link>https://www.reddit.com/r/technology/comments/1v82d66/it_sounds_like_someone_set_up_a_vacuum_like_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v82d66/it_sounds_like_someone_set_up_a_vacuum_like_in/</guid>
+      <pubDate>2026-07-27T14:42:00+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v82d66/it_sounds_like_someone_set_up_a_vacuum_like_in/&quot;&gt; &lt;img alt=&quot;It sounds like someone set up a vacuum, like in your living room. Michigan residents sue AI data center emitting noise 24/7 Company fined for industrial noise ordinance violations, offers to buy homes from residents&quot; src=&quot;https://external-preview.redd.it/slG1YX3CPnYUMIxQKUToO2pCU-d2bgSFKkpjsUPU94c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=25dba8ebfe51069b0bb54fd9d404763631294cfb&quot; title=&quot;It sounds like someone set up a vacuum, like in your living room. Michigan residents sue AI data center emitting noise 24/7 Company fined for industrial noise ordinance violations, offers to buy homes from residents&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v82d66/it_sounds_like_someone_set_up_a_vacuum_like_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Anoka County's Sheriff Signed a $174,999 Flock Safety Contract – Exactly $1 Under the Threshold Requiring Public Board Approval</title>
-      <link>https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/</guid>
-      <pubDate>2026-07-26T04:58:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/&quot;&gt; &lt;img alt=&quot;Anoka County's Sheriff Signed a $174,999 Flock Safety Contract – Exactly $1 Under the Threshold Requiring Public Board Approval&quot; src=&quot;https://external-preview.redd.it/1A3snq9I38OWuDQqu3uWws8qYQrn_06vx_bce2g3L8Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9fe5e4e9bfb40fd523a0c1ef67212b85e89c8c14&quot; title=&quot;Anoka County's Sheriff Signed a $174,999 Flock Safety Contract – Exactly $1 Under the Threshold Requiring Public Board Approval&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/anoka-countys-sheriff-signed-a-174999-flock-safety-contract-exactly-1-under-the-threshold-requiring-public-board-approval&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Professor's invisible prompt trap catches 32 students cheating on their midterm with AI</title>
+      <link>https://www.reddit.com/r/technology/comments/1v8080p/professors_invisible_prompt_trap_catches_32/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v8080p/professors_invisible_prompt_trap_catches_32/</guid>
+      <pubDate>2026-07-27T13:19:55+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8080p/professors_invisible_prompt_trap_catches_32/&quot;&gt; &lt;img alt=&quot;Professor's invisible prompt trap catches 32 students cheating on their midterm with AI&quot; src=&quot;https://external-preview.redd.it/sJPNFBlHmBwyfnYD-lXpz1md66rMLMoyD4RErMVNWKU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=adb4055cd42dc6425f1081e5ae2289b050eb3d68&quot; title=&quot;Professor's invisible prompt trap catches 32 students cheating on their midterm with AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8080p/professors_invisible_prompt_trap_catches_32/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
