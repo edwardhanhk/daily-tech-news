@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 29 Jul 2026 02:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:34:49 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences</title>
-      <link>https://learnvector.ai/</link>
-      <guid isPermaLink="true">https://learnvector.ai/</guid>
-      <pubDate>Wed, 29 Jul 2026 01:49:19 +0000</pubDate>
+      <title>[HN] The Productivity Mirage</title>
+      <link>https://frantic.im/mirage/</link>
+      <guid isPermaLink="true">https://frantic.im/mirage/</guid>
+      <pubDate>Wed, 29 Jul 2026 23:18:11 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Learning Rust by writing a Markdown to HTML compiler</title>
-      <link>https://andreadimatteo.com/md-to-html-compiler.html</link>
-      <guid isPermaLink="true">https://andreadimatteo.com/md-to-html-compiler.html</guid>
-      <pubDate>Wed, 29 Jul 2026 01:04:30 +0000</pubDate>
+      <title>[HN] Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)</title>
+      <link>https://archive.org/details/mancomputerbyjoh0000john</link>
+      <guid isPermaLink="true">https://archive.org/details/mancomputerbyjoh0000john</guid>
+      <pubDate>Wed, 29 Jul 2026 22:53:44 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Multiple Mouse Cursors in Wayland</title>
-      <link>https://blinry.org/multi-seat-wayland/</link>
-      <guid isPermaLink="true">https://blinry.org/multi-seat-wayland/</guid>
-      <pubDate>Wed, 29 Jul 2026 00:59:37 +0000</pubDate>
+      <title>[HN] A pharmacy chain in Vermont implemented AI for efficiency</title>
+      <link>https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/</link>
+      <guid isPermaLink="true">https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/</guid>
+      <pubDate>Thu, 30 Jul 2026 01:35:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]</title>
-      <link>https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf</link>
-      <guid isPermaLink="true">https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf</guid>
-      <pubDate>Wed, 29 Jul 2026 00:44:26 +0000</pubDate>
+      <title>[HN] Flume Water Monitor 915 MHz Security Is Pretty Good</title>
+      <link>https://waveformsecurity.com/blog/flume/</link>
+      <guid isPermaLink="true">https://waveformsecurity.com/blog/flume/</guid>
+      <pubDate>Thu, 30 Jul 2026 01:27:12 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Lightweight Spring Boot Monitoring Without Prometheus and Grafana</title>
-      <link>https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html</link>
-      <guid isPermaLink="true">https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html</guid>
-      <pubDate>Wed, 29 Jul 2026 00:32:08 +0000</pubDate>
+      <title>[HN] Show HN: A local merge queue for parallel Claude Code agents</title>
+      <link>https://github.com/funador/claude-code-merge-queue</link>
+      <guid isPermaLink="true">https://github.com/funador/claude-code-merge-queue</guid>
+      <pubDate>Thu, 30 Jul 2026 00:20:16 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Is it illegal to trick the US government into wiping your phone during a questionably legal search | The case of a traveler who allegedly entered a ‘duress password’ to wipe his phone raises a legal question with no easy answers</title>
-      <link>https://www.reddit.com/r/technology/comments/1v9e9b5/is_it_illegal_to_trick_the_us_government_into/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v9e9b5/is_it_illegal_to_trick_the_us_government_into/</guid>
-      <pubDate>2026-07-28T23:02:54+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9e9b5/is_it_illegal_to_trick_the_us_government_into/&quot;&gt; &lt;img alt=&quot;Is it illegal to trick the US government into wiping your phone during a questionably legal search | The case of a traveler who allegedly entered a ‘duress password’ to wipe his phone raises a legal question with no easy answers&quot; src=&quot;https://external-preview.redd.it/dmjvtZlAvN76ke0f32EYTLRWDr7KGlFLxrgEW3ySMAM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=29d834e99ba339620bd2881d0b3b9d9e7972ebff&quot; title=&quot;Is it illegal to trick the US government into wiping your phone during a questionably legal search | The case of a traveler who allegedly entered a ‘duress password’ to wipe his phone raises a legal question with no easy answers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hrmbee&quot;&gt; /u/Hrmbee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9e9b5/is_it_illegal_to_trick_the_us_government_into/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Innocent man spends 18 months in prison after Skyrim username mixup</title>
+      <link>https://www.reddit.com/r/technology/comments/1va8tup/innocent_man_spends_18_months_in_prison_after/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1va8tup/innocent_man_spends_18_months_in_prison_after/</guid>
+      <pubDate>2026-07-29T20:56:48+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1va8tup/innocent_man_spends_18_months_in_prison_after/&quot;&gt; &lt;img alt=&quot;Innocent man spends 18 months in prison after Skyrim username mixup&quot; src=&quot;https://external-preview.redd.it/Y1XCjeQLIxobgpdIqK555nePTe_Y8EhERoLXt9DM4z0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7e28f13534b1545f4e4cd42c6d525f17a523cbde&quot; title=&quot;Innocent man spends 18 months in prison after Skyrim username mixup&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IndicaOatmeal&quot;&gt; /u/IndicaOatmeal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/gaming/innocent-man-spends-18-months-in-prison-after-skyrim-username-mixup-3392280/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1va8tup/innocent_man_spends_18_months_in_prison_after/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] They ‘Only Destroy the Environment Around Them’</title>
-      <link>https://www.reddit.com/r/technology/comments/1v9d44g/willie_nelson_urges_americans_to_fight_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v9d44g/willie_nelson_urges_americans_to_fight_the/</guid>
-      <pubDate>2026-07-28T22:18:01+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9d44g/willie_nelson_urges_americans_to_fight_the/&quot;&gt; &lt;img alt=&quot;Willie Nelson Urges Americans to Fight the Construction of Data Centers: They ‘Only Destroy the Environment Around Them’&quot; src=&quot;https://external-preview.redd.it/tkmN463FznMx6G0cRJ0nMV9oXOv4tP0FqNdqZRnZrwY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=240bacd98a9e1a8eb3086e88d0e1f22d989a108c&quot; title=&quot;Willie Nelson Urges Americans to Fight the Construction of Data Centers: They ‘Only Destroy the Environment Around Them’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/music/news/willie-nelson-urges-americans-to-fight-data-centers-1236822985/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9d44g/willie_nelson_urges_americans_to_fight_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] AI labs buy, scan, shred millions of rare books.</title>
+      <link>https://www.reddit.com/r/technology/comments/1v9zv4l/claude_chatgpt_ai_labs_buy_scan_shred_millions_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v9zv4l/claude_chatgpt_ai_labs_buy_scan_shred_millions_of/</guid>
+      <pubDate>2026-07-29T15:42:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9zv4l/claude_chatgpt_ai_labs_buy_scan_shred_millions_of/&quot;&gt; &lt;img alt=&quot;Claude, ChatGPT: AI labs buy, scan, shred millions of rare books.&quot; src=&quot;https://external-preview.redd.it/ngtnHsFbC1jMNy364QInnINwWL1W6rT5VU2hZKExU3U.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a8a9f39d8a691185ed9b6ec456c82f7f6ce113a3&quot; title=&quot;Claude, ChatGPT: AI labs buy, scan, shred millions of rare books.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Smart-Combination-59&quot;&gt; /u/Smart-Combination-59 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.news.com.au/technology/online/internet/ai-labs-buy-scan-shred-millions-of-rare-books/news-story/0c3b45a67093ab462a587a0348538ce9&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9zv4l/claude_chatgpt_ai_labs_buy_scan_shred_millions_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Teacher arrested for clapping in support of speaker opposing data center</title>
-      <link>https://www.reddit.com/r/technology/comments/1v8xdi4/teacher_arrested_for_clapping_in_support_of/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v8xdi4/teacher_arrested_for_clapping_in_support_of/</guid>
-      <pubDate>2026-07-28T12:41:55+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8xdi4/teacher_arrested_for_clapping_in_support_of/&quot;&gt; &lt;img alt=&quot;Teacher arrested for clapping in support of speaker opposing data center&quot; src=&quot;https://external-preview.redd.it/nStv8r74ErhETQpme-_pDsjX-3sDStOFKIoEoz9HgPU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a9126a77c59af8be3f584e29123be14cebdfeda2&quot; title=&quot;Teacher arrested for clapping in support of speaker opposing data center&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113266-teacher-arrested-clapping-support-speaker-opposing-data-center.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8xdi4/teacher_arrested_for_clapping_in_support_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] US residents furious at plan to seize and destroy their homes for AI data centers</title>
+      <link>https://www.reddit.com/r/technology/comments/1v9xv5e/us_residents_furious_at_plan_to_seize_and_destroy/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v9xv5e/us_residents_furious_at_plan_to_seize_and_destroy/</guid>
+      <pubDate>2026-07-29T14:30:29+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9xv5e/us_residents_furious_at_plan_to_seize_and_destroy/&quot;&gt; &lt;img alt=&quot;US residents furious at plan to seize and destroy their homes for AI data centers&quot; src=&quot;https://external-preview.redd.it/0V4A2N4hfWtbdBs5FtlQbkzDhwC9f87W86v62WfRylY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=56b66a8457a050f5910ccc5493fd345a23343ba7&quot; title=&quot;US residents furious at plan to seize and destroy their homes for AI data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/residents-furious-plan-seize-destroy-125418836.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9xv5e/us_residents_furious_at_plan_to_seize_and_destroy/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Sam Altman says AI won't shorten the workweek because humans secretly enjoy being busy</title>
-      <link>https://www.reddit.com/r/technology/comments/1v8wpmw/sam_altman_says_ai_wont_shorten_the_workweek/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v8wpmw/sam_altman_says_ai_wont_shorten_the_workweek/</guid>
-      <pubDate>2026-07-28T12:13:09+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8wpmw/sam_altman_says_ai_wont_shorten_the_workweek/&quot;&gt; &lt;img alt=&quot;Sam Altman says AI won't shorten the workweek because humans secretly enjoy being busy&quot; src=&quot;https://external-preview.redd.it/1le18pft0i6NS5dJctl9xHe2OywSWiOVRKAFTawyUws.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=818f60c79131111126bca2d2cba574dd1446418a&quot; title=&quot;Sam Altman says AI won't shorten the workweek because humans secretly enjoy being busy&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/rkhunter_&quot;&gt; /u/rkhunter_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-because-humans.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8wpmw/sam_altman_says_ai_wont_shorten_the_workweek/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Apple Will &quot;Watch Everything Burn&quot; When AI Bubble Bursts - Ed Zitron</title>
+      <link>https://www.reddit.com/r/technology/comments/1v9jzsh/apple_will_watch_everything_burn_when_ai_bubble/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v9jzsh/apple_will_watch_everything_burn_when_ai_bubble/</guid>
+      <pubDate>2026-07-29T03:10:31+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9jzsh/apple_will_watch_everything_burn_when_ai_bubble/&quot;&gt; &lt;img alt=&quot;Apple Will &amp;quot;Watch Everything Burn&amp;quot; When AI Bubble Bursts - Ed Zitron&quot; src=&quot;https://external-preview.redd.it/AkpkhsqRlo9MzVJJIuh9Ex2Z0nMpiQKM_kxh5lyWVU8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=edc2f407e628dfcf718a943f7de99897b959d60e&quot; title=&quot;Apple Will &amp;quot;Watch Everything Burn&amp;quot; When AI Bubble Bursts - Ed Zitron&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9jzsh/apple_will_watch_everything_burn_when_ai_bubble/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Man charged for wiping GrapheneOS phone using &quot;duress&quot; password during airport checks</title>
-      <link>https://www.reddit.com/r/technology/comments/1v8uaqn/man_charged_for_wiping_grapheneos_phone_using/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v8uaqn/man_charged_for_wiping_grapheneos_phone_using/</guid>
-      <pubDate>2026-07-28T10:23:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8uaqn/man_charged_for_wiping_grapheneos_phone_using/&quot;&gt; &lt;img alt=&quot;Man charged for wiping GrapheneOS phone using &amp;quot;duress&amp;quot; password during airport checks&quot; src=&quot;https://external-preview.redd.it/FSHf0YCvMDQudP-_IePX4RC-9oA5q5DyjJiWv6EgJr4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e1c55a8eb5fb4b9a699ff45d0c7fae8b2972ca4e&quot; title=&quot;Man charged for wiping GrapheneOS phone using &amp;quot;duress&amp;quot; password during airport checks&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.neowin.net/news/man-charged-for-wiping-grapheneos-phone-using-duress-password-during-airport-checks/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v8uaqn/man_charged_for_wiping_grapheneos_phone_using/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] 'I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials</title>
+      <link>https://www.reddit.com/r/technology/comments/1v9jrvr/i_would_never_do_this_to_you_protesting_flock/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1v9jrvr/i_would_never_do_this_to_you_protesting_flock/</guid>
+      <pubDate>2026-07-29T03:00:23+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9jrvr/i_would_never_do_this_to_you_protesting_flock/&quot;&gt; &lt;img alt=&quot;'I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials&quot; src=&quot;https://external-preview.redd.it/eAzFV8VCM4eK_X3MfUKtbrn3ftaRS-dsWY1Z5p0kOuo.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6e77f6ae7c8a7d5c18070288ad11eb0e783ae151&quot; title=&quot;'I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/casa-grande-arizona-flock-city-council/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1v9jrvr/i_would_never_do_this_to_you_protesting_flock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
