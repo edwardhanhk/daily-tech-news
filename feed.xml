@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 01 Aug 2026 03:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 03:14:33 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] How to Exist</title>
-      <link>https://www.raptitude.com/2026/07/how-to-exist/</link>
-      <guid isPermaLink="true">https://www.raptitude.com/2026/07/how-to-exist/</guid>
-      <pubDate>Sat, 01 Aug 2026 00:25:00 +0000</pubDate>
+      <title>[HN] Four Time Scales for Technology Development and Deployment</title>
+      <link>https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/</link>
+      <guid isPermaLink="true">https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/</guid>
+      <pubDate>Sun, 02 Aug 2026 02:26:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: I worked on a new browser for 2 years, today it passed Acid 3</title>
-      <link>https://code.intellios.ai/cwbrowser/</link>
-      <guid isPermaLink="true">https://code.intellios.ai/cwbrowser/</guid>
-      <pubDate>Fri, 31 Jul 2026 21:39:52 +0000</pubDate>
+      <title>[HN] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built</title>
+      <link>https://github.com/tom-ilan/cycloidal_gearbox</link>
+      <guid isPermaLink="true">https://github.com/tom-ilan/cycloidal_gearbox</guid>
+      <pubDate>Sun, 02 Aug 2026 02:07:09 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Loops (YC W22) Is Hiring a Product Educator</title>
-      <link>https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</link>
-      <guid isPermaLink="true">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</guid>
-      <pubDate>Fri, 31 Jul 2026 21:00:40 +0000</pubDate>
+      <title>[HN] Go 1.27 Interactive Tour</title>
+      <link>https://victoriametrics.com/blog/go-1-27/index.html</link>
+      <guid isPermaLink="true">https://victoriametrics.com/blog/go-1-27/index.html</guid>
+      <pubDate>Sun, 02 Aug 2026 01:35:51 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena</title>
-      <link>https://arxiv.org/abs/2607.28233</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.28233</guid>
-      <pubDate>Fri, 31 Jul 2026 20:44:29 +0000</pubDate>
+      <title>[HN] ASRock BC-250: Building the Budget Steam Machine</title>
+      <link>https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</link>
+      <guid isPermaLink="true">https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</guid>
+      <pubDate>Sun, 02 Aug 2026 01:35:11 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Predictive Speculative KV Replication for Bursty LLM Inference</title>
-      <link>https://jwlabs.vercel.app/post/biting-the-bullet</link>
-      <guid isPermaLink="true">https://jwlabs.vercel.app/post/biting-the-bullet</guid>
-      <pubDate>Fri, 31 Jul 2026 19:55:41 +0000</pubDate>
+      <title>[HN] Persistent State Machines: LLM Attention with INT4 In-Memory Cells</title>
+      <link>https://zenodo.org/records/21753002</link>
+      <guid isPermaLink="true">https://zenodo.org/records/21753002</guid>
+      <pubDate>Sun, 02 Aug 2026 01:01:45 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] New York Has Sued Kalshi for Running Illegal Gambling Operation</title>
-      <link>https://www.reddit.com/r/technology/comments/1vbrbzg/new_york_has_sued_kalshi_for_running_illegal/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vbrbzg/new_york_has_sued_kalshi_for_running_illegal/</guid>
-      <pubDate>2026-07-31T13:42:44+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vbrbzg/new_york_has_sued_kalshi_for_running_illegal/&quot;&gt; &lt;img alt=&quot;New York Has Sued Kalshi for Running Illegal Gambling Operation&quot; src=&quot;https://external-preview.redd.it/gn3sSOY9jCOzS5bcapQ_wX2kAZUxjaYFCryiLlpZuuQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=477fe80e2aed03d8c33174f2fb68f03745fec01c&quot; title=&quot;New York Has Sued Kalshi for Running Illegal Gambling Operation&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HumbleRestaurant790&quot;&gt; /u/HumbleRestaurant790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://ag.ny.gov/press-release/2026/governor-hochul-and-attorney-general-james-announce-new-york-has-sued-kalshi&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vbrbzg/new_york_has_sued_kalshi_for_running_illegal/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] ‘Former trillionaire’ loses $750 billion amid Tesla, SpaceX crash, more than combined net worth of Larry Page, Sergey Brin, and Jeff Bezos — Why the rich laugh at losses</title>
+      <link>https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/</guid>
+      <pubDate>2026-08-01T22:15:06+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/&quot;&gt; &lt;img alt=&quot;‘Former trillionaire’ loses $750 billion amid Tesla, SpaceX crash, more than combined net worth of Larry Page, Sergey Brin, and Jeff Bezos — Why the rich laugh at losses&quot; src=&quot;https://external-preview.redd.it/tXFxflRpeBqJKD7FtsWY9-EkXQlevZcw-tFBOaR5ems.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=edf40fdd44cbaf7753cf534b2249d36b160842cc&quot; title=&quot;‘Former trillionaire’ loses $750 billion amid Tesla, SpaceX crash, more than combined net worth of Larry Page, Sergey Brin, and Jeff Bezos — Why the rich laugh at losses&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/elon-musk-calls-himself-former-105500385.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] In one California town, Flock misread license plates in 71% of the alerts it sent to police</title>
-      <link>https://www.reddit.com/r/technology/comments/1vbqtzx/in_one_california_town_flock_misread_license/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vbqtzx/in_one_california_town_flock_misread_license/</guid>
-      <pubDate>2026-07-31T13:22:32+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vbqtzx/in_one_california_town_flock_misread_license/&quot;&gt; &lt;img alt=&quot;In one California town, Flock misread license plates in 71% of the alerts it sent to police&quot; src=&quot;https://external-preview.redd.it/48O_zdVJxUja8h0v1Tbc_uFcOljNsRuH4TqRPv_c-o8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3ecd4cba5660f0643a6cf3446abd6feda468e959&quot; title=&quot;In one California town, Flock misread license plates in 71% of the alerts it sent to police&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/rstevens94&quot;&gt; /u/rstevens94 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/flock-camera-misread-license-plate-reader-california-roseville-police-2026-7&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vbqtzx/in_one_california_town_flock_misread_license/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Mark Zuckerberg’s Pivot to AI Is Blowing Up in His Face Spectacularly</title>
+      <link>https://www.reddit.com/r/technology/comments/1vcvy3h/mark_zuckerbergs_pivot_to_ai_is_blowing_up_in_his/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vcvy3h/mark_zuckerbergs_pivot_to_ai_is_blowing_up_in_his/</guid>
+      <pubDate>2026-08-01T19:13:37+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcvy3h/mark_zuckerbergs_pivot_to_ai_is_blowing_up_in_his/&quot;&gt; &lt;img alt=&quot;Mark Zuckerberg’s Pivot to AI Is Blowing Up in His Face Spectacularly&quot; src=&quot;https://external-preview.redd.it/GLzeUc2pqBzKhyl9bKQcAU5fznyUzpuniUxAPIoJujQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=64a645946979272ceb4f36aef523f121c8bc5dc4&quot; title=&quot;Mark Zuckerberg’s Pivot to AI Is Blowing Up in His Face Spectacularly&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-pivot-ai-blowing-165024397.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcvy3h/mark_zuckerbergs_pivot_to_ai_is_blowing_up_in_his/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] This Dutch bookseller thought a request for 3,000 copies was ‘spam or phishing.’ Instead, AI companies are scanning and destroying books to train AI</title>
-      <link>https://www.reddit.com/r/technology/comments/1vbmtqb/this_dutch_bookseller_thought_a_request_for_3000/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vbmtqb/this_dutch_bookseller_thought_a_request_for_3000/</guid>
-      <pubDate>2026-07-31T10:13:06+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vbmtqb/this_dutch_bookseller_thought_a_request_for_3000/&quot;&gt; &lt;img alt=&quot;This Dutch bookseller thought a request for 3,000 copies was ‘spam or phishing.’ Instead, AI companies are scanning and destroying books to train AI&quot; src=&quot;https://external-preview.redd.it/p7FhPlV8BdFzrY_zz0YNUdvBLGzykDt8MqhduSkkIbQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b8f34d9822008a84551d8dfd6486d17c84edc451&quot; title=&quot;This Dutch bookseller thought a request for 3,000 copies was ‘spam or phishing.’ Instead, AI companies are scanning and destroying books to train AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/07/31/dutch-bookseller-ai-spam-phishing-3000-book-copies-scan-destroy/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vbmtqb/this_dutch_bookseller_thought_a_request_for_3000/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] One California town found Flock's license plate cameras were wrong 71% of the time</title>
+      <link>https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/</guid>
+      <pubDate>2026-08-01T12:24:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/&quot;&gt; &lt;img alt=&quot;One California town found Flock's license plate cameras were wrong 71% of the time&quot; src=&quot;https://external-preview.redd.it/vJL2WrmiUi5mQtRnGe4nVe2ec5lJXYKl9BWAp9mM2HE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=87b3f09665a0d5a71f6200a1f909858f2227694a&quot; title=&quot;One California town found Flock's license plate cameras were wrong 71% of the time&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113320-one-california-town-found-flock-license-plate-cameras.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Sony Says It's Not Backing Down From Ending PlayStation Discs</title>
-      <link>https://www.reddit.com/r/technology/comments/1vblja5/sony_says_its_not_backing_down_from_ending/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vblja5/sony_says_its_not_backing_down_from_ending/</guid>
-      <pubDate>2026-07-31T09:00:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vblja5/sony_says_its_not_backing_down_from_ending/&quot;&gt; &lt;img alt=&quot;Sony Says It's Not Backing Down From Ending PlayStation Discs&quot; src=&quot;https://external-preview.redd.it/rQau35MJHuT_WovrA7gaQxr29xZeQINP3JeUcY1Zl5E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5cc570ea9be5205768d3f801332d2ec96ae44e8f&quot; title=&quot;Sony Says It's Not Backing Down From Ending PlayStation Discs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tylerthe-theatre&quot;&gt; /u/tylerthe-theatre &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vblja5/sony_says_its_not_backing_down_from_ending/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters</title>
+      <link>https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/</guid>
+      <pubDate>2026-08-01T07:58:32+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/&quot;&gt; &lt;img alt=&quot;Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters&quot; src=&quot;https://external-preview.redd.it/EWcmhZXJzmmveDsYzXXZFS2HngbNayqjFFtWaTYC-48.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=21b602aa5ccbc9c57c15793e23e9495de28fd8ab&quot; title=&quot;Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/google-earth-nano-banana-gemini-ai-satellite-image-generation-function-2026-7&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Zohran Mamdani hints he will continue taking on delivery apps like Uber Eats and DoorDash</title>
-      <link>https://www.reddit.com/r/technology/comments/1vbktqu/zohran_mamdani_hints_he_will_continue_taking_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vbktqu/zohran_mamdani_hints_he_will_continue_taking_on/</guid>
-      <pubDate>2026-07-31T08:19:09+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vbktqu/zohran_mamdani_hints_he_will_continue_taking_on/&quot;&gt; &lt;img alt=&quot;Zohran Mamdani hints he will continue taking on delivery apps like Uber Eats and DoorDash&quot; src=&quot;https://external-preview.redd.it/HyPkme1O-z35stb4xX6MBF6E3PLf75DcRABvBHXez48.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4cde3499a8b14cc5e7a7035148bc4a640986cc0a&quot; title=&quot;Zohran Mamdani hints he will continue taking on delivery apps like Uber Eats and DoorDash&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SnoozeDoggyDog&quot;&gt; /u/SnoozeDoggyDog &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/zohran-mamdani-targets-doordash-uber-eats-delivery-apps-2026-7&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vbktqu/zohran_mamdani_hints_he_will_continue_taking_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Reddit Stock Collapses 23% as AI Eats Away at User Growth</title>
+      <link>https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/</guid>
+      <pubDate>2026-08-01T03:38:10+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/&quot;&gt; &lt;img alt=&quot;Reddit Stock Collapses 23% as AI Eats Away at User Growth&quot; src=&quot;https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e&quot; title=&quot;Reddit Stock Collapses 23% as AI Eats Away at User Growth&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HumbleRestaurant790&quot;&gt; /u/HumbleRestaurant790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
