@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 02 Aug 2026 03:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 03:16:36 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Four Time Scales for Technology Development and Deployment</title>
-      <link>https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/</link>
-      <guid isPermaLink="true">https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/</guid>
-      <pubDate>Sun, 02 Aug 2026 02:26:52 +0000</pubDate>
+      <title>[HN] Qwen3.8-Max: A New Bar for Coding and Cowork</title>
+      <link>https://qwen.ai/blog?id=qwen3.8</link>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8</guid>
+      <pubDate>Mon, 03 Aug 2026 02:16:09 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built</title>
-      <link>https://github.com/tom-ilan/cycloidal_gearbox</link>
-      <guid isPermaLink="true">https://github.com/tom-ilan/cycloidal_gearbox</guid>
-      <pubDate>Sun, 02 Aug 2026 02:07:09 +0000</pubDate>
+      <title>[HN] RFC 9851: TLS 1.2 is in Feature Freeze</title>
+      <link>https://www.rfc-editor.org/rfc/rfc9851.html</link>
+      <guid isPermaLink="true">https://www.rfc-editor.org/rfc/rfc9851.html</guid>
+      <pubDate>Mon, 03 Aug 2026 01:23:26 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Go 1.27 Interactive Tour</title>
-      <link>https://victoriametrics.com/blog/go-1-27/index.html</link>
-      <guid isPermaLink="true">https://victoriametrics.com/blog/go-1-27/index.html</guid>
-      <pubDate>Sun, 02 Aug 2026 01:35:51 +0000</pubDate>
+      <title>[HN] Show HN: Isopolis – Isometric pixel map of SF</title>
+      <link>https://sf.isopolis.city/</link>
+      <guid isPermaLink="true">https://sf.isopolis.city/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:46:38 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] ASRock BC-250: Building the Budget Steam Machine</title>
-      <link>https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</link>
-      <guid isPermaLink="true">https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</guid>
-      <pubDate>Sun, 02 Aug 2026 01:35:11 +0000</pubDate>
+      <title>[HN] CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K</title>
+      <link>https://github.com/johnsonjh/cpm386</link>
+      <guid isPermaLink="true">https://github.com/johnsonjh/cpm386</guid>
+      <pubDate>Mon, 03 Aug 2026 00:38:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Persistent State Machines: LLM Attention with INT4 In-Memory Cells</title>
-      <link>https://zenodo.org/records/21753002</link>
-      <guid isPermaLink="true">https://zenodo.org/records/21753002</guid>
-      <pubDate>Sun, 02 Aug 2026 01:01:45 +0000</pubDate>
+      <title>[HN] Show HN: ssh ssh.place</title>
+      <link>https://ssh.place</link>
+      <guid isPermaLink="true">https://ssh.place</guid>
+      <pubDate>Mon, 03 Aug 2026 00:23:21 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] ‘Former trillionaire’ loses $750 billion amid Tesla, SpaceX crash, more than combined net worth of Larry Page, Sergey Brin, and Jeff Bezos — Why the rich laugh at losses</title>
-      <link>https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/</guid>
-      <pubDate>2026-08-01T22:15:06+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/&quot;&gt; &lt;img alt=&quot;‘Former trillionaire’ loses $750 billion amid Tesla, SpaceX crash, more than combined net worth of Larry Page, Sergey Brin, and Jeff Bezos — Why the rich laugh at losses&quot; src=&quot;https://external-preview.redd.it/tXFxflRpeBqJKD7FtsWY9-EkXQlevZcw-tFBOaR5ems.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=edf40fdd44cbaf7753cf534b2249d36b160842cc&quot; title=&quot;‘Former trillionaire’ loses $750 billion amid Tesla, SpaceX crash, more than combined net worth of Larry Page, Sergey Brin, and Jeff Bezos — Why the rich laugh at losses&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/elon-musk-calls-himself-former-105500385.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] California researchers turn to OnlyFans as their funding dries up — OnlyMarms account promises near-daily photos and videos of chubby, personable marmots</title>
+      <link>https://www.reddit.com/r/technology/comments/1vdvhhp/california_researchers_turn_to_onlyfans_as_their/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vdvhhp/california_researchers_turn_to_onlyfans_as_their/</guid>
+      <pubDate>2026-08-02T22:24:31+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vdvhhp/california_researchers_turn_to_onlyfans_as_their/&quot;&gt; &lt;img alt=&quot;California researchers turn to OnlyFans as their funding dries up — OnlyMarms account promises near-daily photos and videos of chubby, personable marmots&quot; src=&quot;https://external-preview.redd.it/367Wg88qpeeKwJ3e_AdPV4j3hNI4ZXW66w7QEhNqPsE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=81380767c9aa32c01e0e2f830d41c2fea7f80243&quot; title=&quot;California researchers turn to OnlyFans as their funding dries up — OnlyMarms account promises near-daily photos and videos of chubby, personable marmots&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.sfgate.com/national-parks/article/marmot-researchers-make-onlyfans-22357723.php&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vdvhhp/california_researchers_turn_to_onlyfans_as_their/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Mark Zuckerberg’s Pivot to AI Is Blowing Up in His Face Spectacularly</title>
-      <link>https://www.reddit.com/r/technology/comments/1vcvy3h/mark_zuckerbergs_pivot_to_ai_is_blowing_up_in_his/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vcvy3h/mark_zuckerbergs_pivot_to_ai_is_blowing_up_in_his/</guid>
-      <pubDate>2026-08-01T19:13:37+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcvy3h/mark_zuckerbergs_pivot_to_ai_is_blowing_up_in_his/&quot;&gt; &lt;img alt=&quot;Mark Zuckerberg’s Pivot to AI Is Blowing Up in His Face Spectacularly&quot; src=&quot;https://external-preview.redd.it/GLzeUc2pqBzKhyl9bKQcAU5fznyUzpuniUxAPIoJujQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=64a645946979272ceb4f36aef523f121c8bc5dc4&quot; title=&quot;Mark Zuckerberg’s Pivot to AI Is Blowing Up in His Face Spectacularly&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-pivot-ai-blowing-165024397.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcvy3h/mark_zuckerbergs_pivot_to_ai_is_blowing_up_in_his/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] New York files $36 billion lawsuit against Kalshi, alleging it's running an &quot;illegal gambling operation&quot;</title>
+      <link>https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/</guid>
+      <pubDate>2026-08-02T15:45:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/&quot;&gt; &lt;img alt=&quot;New York files $36 billion lawsuit against Kalshi, alleging it's running an &amp;quot;illegal gambling operation&amp;quot;&quot; src=&quot;https://external-preview.redd.it/MaVkeK53GwBv2wHIn2RVfSMXGHoTZ52A4xx1vlsWBM4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d3d6fa0a2c9525a8967fdbac859c720ef87349c8&quot; title=&quot;New York files $36 billion lawsuit against Kalshi, alleging it's running an &amp;quot;illegal gambling operation&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-york-files-36-billion-lawsuit-against-kalshi-alleging-its-running-an-illegal-gambling-operation&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] One California town found Flock's license plate cameras were wrong 71% of the time</title>
-      <link>https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/</guid>
-      <pubDate>2026-08-01T12:24:57+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/&quot;&gt; &lt;img alt=&quot;One California town found Flock's license plate cameras were wrong 71% of the time&quot; src=&quot;https://external-preview.redd.it/vJL2WrmiUi5mQtRnGe4nVe2ec5lJXYKl9BWAp9mM2HE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=87b3f09665a0d5a71f6200a1f909858f2227694a&quot; title=&quot;One California town found Flock's license plate cameras were wrong 71% of the time&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113320-one-california-town-found-flock-license-plate-cameras.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] YouTuber Hank Green says his AI usage is ‘not healthy’</title>
+      <link>https://www.reddit.com/r/technology/comments/1vdguq8/youtuber_hank_green_says_his_ai_usage_is_not/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vdguq8/youtuber_hank_green_says_his_ai_usage_is_not/</guid>
+      <pubDate>2026-08-02T12:29:13+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vdguq8/youtuber_hank_green_says_his_ai_usage_is_not/&quot;&gt; &lt;img alt=&quot;YouTuber Hank Green says his AI usage is ‘not healthy’&quot; src=&quot;https://external-preview.redd.it/4L17HAIIrNUf6QSk9RQUJflo8BaRTs4dhFJqpBvmH6g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d73d0d3d46652857b69dbca310d18ca4ad9cb784&quot; title=&quot;YouTuber Hank Green says his AI usage is ‘not healthy’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/kazu_qt&quot;&gt; /u/kazu_qt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vdguq8/youtuber_hank_green_says_his_ai_usage_is_not/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters</title>
-      <link>https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/</guid>
-      <pubDate>2026-08-01T07:58:32+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/&quot;&gt; &lt;img alt=&quot;Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters&quot; src=&quot;https://external-preview.redd.it/EWcmhZXJzmmveDsYzXXZFS2HngbNayqjFFtWaTYC-48.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=21b602aa5ccbc9c57c15793e23e9495de28fd8ab&quot; title=&quot;Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/google-earth-nano-banana-gemini-ai-satellite-image-generation-function-2026-7&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints</title>
+      <link>https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/</guid>
+      <pubDate>2026-08-02T09:50:40+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/&quot;&gt; &lt;img alt=&quot;Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints&quot; src=&quot;https://external-preview.redd.it/zpzBGNddqGpFutt5Q5is1Tcy_JQIVdW6azjRPh6FAlo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=754cda4a4a874dab40b38c2a533bfdeaaf80df2f&quot; title=&quot;Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/gdelacalle&quot;&gt; /u/gdelacalle &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/markets/article/reddit-stock-tumbles-the-most-on-record-as-lack-of-new-ai-deals-us-daily-users-metric-disappoints-153413759.html?guccounter=1&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Reddit Stock Collapses 23% as AI Eats Away at User Growth</title>
-      <link>https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/</guid>
-      <pubDate>2026-08-01T03:38:10+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/&quot;&gt; &lt;img alt=&quot;Reddit Stock Collapses 23% as AI Eats Away at User Growth&quot; src=&quot;https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e&quot; title=&quot;Reddit Stock Collapses 23% as AI Eats Away at User Growth&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HumbleRestaurant790&quot;&gt; /u/HumbleRestaurant790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Linux's market share in North America has breached 10% for the first time, says StatCounter</title>
+      <link>https://www.reddit.com/r/technology/comments/1vdcapg/linuxs_market_share_in_north_america_has_breached/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vdcapg/linuxs_market_share_in_north_america_has_breached/</guid>
+      <pubDate>2026-08-02T08:12:55+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vdcapg/linuxs_market_share_in_north_america_has_breached/&quot;&gt; &lt;img alt=&quot;Linux's market share in North America has breached 10% for the first time, says StatCounter&quot; src=&quot;https://external-preview.redd.it/wTkS0UCfq45RvfpjBPOy7BRF0-7FF6W6LWGwIm2XgzA.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=117bd207084ff099a585f0d6d5a3ba3195041888&quot; title=&quot;Linux's market share in North America has breached 10% for the first time, says StatCounter&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TurbulentTopic39&quot;&gt; /u/TurbulentTopic39 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.xda-developers.com/linuxs-market-share-in-north-america-has-breached-10-statcounter/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vdcapg/linuxs_market_share_in_north_america_has_breached/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
