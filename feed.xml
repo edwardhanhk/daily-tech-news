@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 05 Aug 2026 02:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 02:45:52 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted</title>
-      <link>https://www.asiae.co.kr/en/article/2026080416131786841</link>
-      <guid isPermaLink="true">https://www.asiae.co.kr/en/article/2026080416131786841</guid>
-      <pubDate>Wed, 05 Aug 2026 01:34:26 +0000</pubDate>
+      <title>[HN] The title cards in Blade Runner are amazing</title>
+      <link>https://randsinrepose.com/archives/blade-runner-title-cards/</link>
+      <guid isPermaLink="true">https://randsinrepose.com/archives/blade-runner-title-cards/</guid>
+      <pubDate>Wed, 05 Aug 2026 21:29:23 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice</title>
-      <link>https://arxiv.org/abs/2603.04221</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.04221</guid>
-      <pubDate>Wed, 05 Aug 2026 00:10:37 +0000</pubDate>
+      <title>[HN] NVIDIA’s Vera Whitepaper Has a Thread Loose</title>
+      <link>https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</link>
+      <guid isPermaLink="true">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</guid>
+      <pubDate>Wed, 05 Aug 2026 21:24:45 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Bugtraq Is Back</title>
-      <link>https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</link>
-      <guid isPermaLink="true">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</guid>
-      <pubDate>Wed, 05 Aug 2026 00:05:49 +0000</pubDate>
+      <title>[HN] I'll be stepping back from leading product for X</title>
+      <link>https://twitter.com/nikitabier/status/2085105586966827343/</link>
+      <guid isPermaLink="true">https://twitter.com/nikitabier/status/2085105586966827343/</guid>
+      <pubDate>Wed, 05 Aug 2026 21:15:40 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Flowise Is Shutting Down</title>
-      <link>https://flowiseai.com/sunset</link>
-      <guid isPermaLink="true">https://flowiseai.com/sunset</guid>
-      <pubDate>Wed, 05 Aug 2026 00:02:40 +0000</pubDate>
+      <title>[HN] Prime Agent: A self-improving RLM agent</title>
+      <link>https://www.primeintellect.ai/blog/prime-agent</link>
+      <guid isPermaLink="true">https://www.primeintellect.ai/blog/prime-agent</guid>
+      <pubDate>Wed, 05 Aug 2026 21:11:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Eight Myths on Software Engineering and GenAI</title>
-      <link>https://queue.acm.org/detail.cfm?id=3807963</link>
-      <guid isPermaLink="true">https://queue.acm.org/detail.cfm?id=3807963</guid>
-      <pubDate>Tue, 04 Aug 2026 23:50:52 +0000</pubDate>
+      <title>[HN] LLMs won't break symmetric crypto</title>
+      <link>https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</link>
+      <guid isPermaLink="true">https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</guid>
+      <pubDate>Thu, 06 Aug 2026 01:39:06 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] EA is now officially owned by Saudi Arabia's Public Investment Fund and private equity</title>
-      <link>https://www.reddit.com/r/technology/comments/1vfnz7s/ea_is_now_officially_owned_by_saudi_arabias/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vfnz7s/ea_is_now_officially_owned_by_saudi_arabias/</guid>
-      <pubDate>2026-08-04T21:42:27+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vfnz7s/ea_is_now_officially_owned_by_saudi_arabias/&quot;&gt; &lt;img alt=&quot;EA is now officially owned by Saudi Arabia's Public Investment Fund and private equity&quot; src=&quot;https://external-preview.redd.it/ADBNF46E8xXKbcMii4ysAdB_qrvOjIpkjE817z-AQTA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=aa06b3f11f6fb0d8ef7754485e371ed7ab9a8e18&quot; title=&quot;EA is now officially owned by Saudi Arabia's Public Investment Fund and private equity&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.polygon.com/ea-owned-saudi-arabia-public-investment-fund-private-equity/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vfnz7s/ea_is_now_officially_owned_by_saudi_arabias/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Flock Employee Quits In Disgust, Saying the Company Is Silencing Protestors</title>
+      <link>https://www.reddit.com/r/technology/comments/1vggl22/flock_employee_quits_in_disgust_saying_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vggl22/flock_employee_quits_in_disgust_saying_the/</guid>
+      <pubDate>2026-08-05T19:01:30+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vggl22/flock_employee_quits_in_disgust_saying_the/&quot;&gt; &lt;img alt=&quot;Flock Employee Quits In Disgust, Saying the Company Is Silencing Protestors&quot; src=&quot;https://external-preview.redd.it/zx_uvQnZ8tmZ1MmL5Uyg7JwyLAqxEU8RLcQir6jMt2U.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=58266c67f093cc0ef5e9d9e4310bc9dfe03d489e&quot; title=&quot;Flock Employee Quits In Disgust, Saying the Company Is Silencing Protestors&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/abrownn&quot;&gt; /u/abrownn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://futurism.com/future-society/flock-silence-protestors&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vggl22/flock_employee_quits_in_disgust_saying_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Texas slams on the brakes for 1,800 data centers, power grid requirements are five times higher than peak record demand — 474 gigawatts of power requests are now subject to new moratorium</title>
-      <link>https://www.reddit.com/r/technology/comments/1vfg2dp/texas_slams_on_the_brakes_for_1800_data_centers/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vfg2dp/texas_slams_on_the_brakes_for_1800_data_centers/</guid>
-      <pubDate>2026-08-04T16:56:19+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vfg2dp/texas_slams_on_the_brakes_for_1800_data_centers/&quot;&gt; &lt;img alt=&quot;Texas slams on the brakes for 1,800 data centers, power grid requirements are five times higher than peak record demand — 474 gigawatts of power requests are now subject to new moratorium&quot; src=&quot;https://external-preview.redd.it/ouRN_dtg7HYaV5vtFGdYJJbi0mSGD82VuI6Rxwm5bLs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a05a3612266d35f33b7bbf0b0b3266b4ebdcec5a&quot; title=&quot;Texas slams on the brakes for 1,800 data centers, power grid requirements are five times higher than peak record demand — 474 gigawatts of power requests are now subject to new moratorium&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/starbetrayer&quot;&gt; /u/starbetrayer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium#xenforo-comments-3898779&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vfg2dp/texas_slams_on_the_brakes_for_1800_data_centers/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Someone Cut Down Every Single Flock Camera in This Town in a Single Night</title>
+      <link>https://www.reddit.com/r/technology/comments/1vgdhq8/someone_cut_down_every_single_flock_camera_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vgdhq8/someone_cut_down_every_single_flock_camera_in/</guid>
+      <pubDate>2026-08-05T17:12:01+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vgdhq8/someone_cut_down_every_single_flock_camera_in/&quot;&gt; &lt;img alt=&quot;Someone Cut Down Every Single Flock Camera in This Town in a Single Night&quot; src=&quot;https://external-preview.redd.it/83gpufwSIZf_JhFZz2rboAd4GFj0ko1vu2I_QchtoEQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=95145102f4a98281c0412195a040b2f6082c72af&quot; title=&quot;Someone Cut Down Every Single Flock Camera in This Town in a Single Night&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plastic_Ninja_9014&quot;&gt; /u/Plastic_Ninja_9014 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/someone-cut-down-every-single-flock-camera-in-this-town-in-a-single-night&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vgdhq8/someone_cut_down_every_single_flock_camera_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] How Cops Are Trying to Hide Their Use of Flock</title>
-      <link>https://www.reddit.com/r/technology/comments/1vff9bf/do_not_mention_alpr_usage_how_cops_are_trying_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vff9bf/do_not_mention_alpr_usage_how_cops_are_trying_to/</guid>
-      <pubDate>2026-08-04T16:27:50+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vff9bf/do_not_mention_alpr_usage_how_cops_are_trying_to/&quot;&gt; &lt;img alt=&quot;‘DO NOT MENTION ALPR USAGE’: How Cops Are Trying to Hide Their Use of Flock&quot; src=&quot;https://external-preview.redd.it/RXSxlgyp_tTtfqqdU9uhosuBZefKjq-rU1It3fzjWho.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ade2e78442e3b4c0d3904a3f4e1d1a4ddce11e42&quot; title=&quot;‘DO NOT MENTION ALPR USAGE’: How Cops Are Trying to Hide Their Use of Flock&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/binding_swamp&quot;&gt; /u/binding_swamp &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vff9bf/do_not_mention_alpr_usage_how_cops_are_trying_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Cops Used Flock to Track a Man Across State Lines to Create Pretext to Search His Car for Weed / &quot;The vehicle travels to Michigan frequently which is a known source state for marijuana as it is legal there,&quot; a probable cause justification reads.</title>
+      <link>https://www.reddit.com/r/technology/comments/1vg9ml2/cops_used_flock_to_track_a_man_across_state_lines/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vg9ml2/cops_used_flock_to_track_a_man_across_state_lines/</guid>
+      <pubDate>2026-08-05T14:54:29+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vg9ml2/cops_used_flock_to_track_a_man_across_state_lines/&quot;&gt; &lt;img alt=&quot;Cops Used Flock to Track a Man Across State Lines to Create Pretext to Search His Car for Weed / &amp;quot;The vehicle travels to Michigan frequently which is a known source state for marijuana as it is legal there,&amp;quot; a probable cause justification reads.&quot; src=&quot;https://external-preview.redd.it/aqsbwC7HnUPEZpaN7fVtWZkt5ioUBwd2DszopHRRRic.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ab8059810f58e605198ce0a70b676db4fdb36037&quot; title=&quot;Cops Used Flock to Track a Man Across State Lines to Create Pretext to Search His Car for Weed / &amp;quot;The vehicle travels to Michigan frequently which is a known source state for marijuana as it is legal there,&amp;quot; a probable cause justification reads.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vg9ml2/cops_used_flock_to_track_a_man_across_state_lines/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] The House of Ellison is on the Brink Everything the world’s briefly richest man built is failing at once.</title>
-      <link>https://www.reddit.com/r/technology/comments/1vf5pmg/the_house_of_ellison_is_on_the_brink_everything/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vf5pmg/the_house_of_ellison_is_on_the_brink_everything/</guid>
-      <pubDate>2026-08-04T09:45:19+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vf5pmg/the_house_of_ellison_is_on_the_brink_everything/&quot;&gt; &lt;img alt=&quot;The House of Ellison is on the Brink Everything the world’s briefly richest man built is failing at once.&quot; src=&quot;https://external-preview.redd.it/V2Noh3EyXjxqIBfioT97bH59VNqGPPrhU0HvS9dvNkg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=73c0e7e63046b214c95eb35df46a9b722900c3c1&quot; title=&quot;The House of Ellison is on the Brink Everything the world’s briefly richest man built is failing at once.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Mo_Jack&quot;&gt; /u/Mo_Jack &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.notesfromthecircus.com/p/the-house-of-ellison-is-on-the-brink&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vf5pmg/the_house_of_ellison_is_on_the_brink_everything/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Roblox loses $70 billion in value as company blames lack of viral games, share price down 70% over the last year</title>
+      <link>https://www.reddit.com/r/technology/comments/1vg8lka/roblox_loses_70_billion_in_value_as_company/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vg8lka/roblox_loses_70_billion_in_value_as_company/</guid>
+      <pubDate>2026-08-05T14:15:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vg8lka/roblox_loses_70_billion_in_value_as_company/&quot;&gt; &lt;img alt=&quot;Roblox loses $70 billion in value as company blames lack of viral games, share price down 70% over the last year&quot; src=&quot;https://external-preview.redd.it/5qJyM4GqRD3sr47zNFuGNWNADYCzPta97n78XT3TOQA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=936c258d4aed47cfce9bd64b4cf767faba3a4465&quot; title=&quot;Roblox loses $70 billion in value as company blames lack of viral games, share price down 70% over the last year&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/roblox/roblox-loses-70-billion-in-value-as-company-blames-lack-of-viral-games-3395064/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vg8lka/roblox_loses_70_billion_in_value_as_company/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] BMW is putting Spider-Man ads on your dashboard, after promising it never would</title>
-      <link>https://www.reddit.com/r/technology/comments/1vf31yb/bmw_is_putting_spiderman_ads_on_your_dashboard/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vf31yb/bmw_is_putting_spiderman_ads_on_your_dashboard/</guid>
-      <pubDate>2026-08-04T07:09:28+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vf31yb/bmw_is_putting_spiderman_ads_on_your_dashboard/&quot;&gt; &lt;img alt=&quot;BMW is putting Spider-Man ads on your dashboard, after promising it never would&quot; src=&quot;https://external-preview.redd.it/N43L80WFpszaL13PqTP8cL-o3CPdfiSEv3CMhRX_aPM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=426871fe46326c7586773b74f0375897cca1251d&quot; title=&quot;BMW is putting Spider-Man ads on your dashboard, after promising it never would&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TurbulentTopic39&quot;&gt; /u/TurbulentTopic39 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113327-bmw-putting-spider-man-ads-dashboard-after-promising.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vf31yb/bmw_is_putting_spiderman_ads_on_your_dashboard/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Kentucky woman rejects $26M offer to turn her farm into a data center</title>
+      <link>https://www.reddit.com/r/technology/comments/1vg2r3a/kentucky_woman_rejects_26m_offer_to_turn_her_farm/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vg2r3a/kentucky_woman_rejects_26m_offer_to_turn_her_farm/</guid>
+      <pubDate>2026-08-05T09:47:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vg2r3a/kentucky_woman_rejects_26m_offer_to_turn_her_farm/&quot;&gt; &lt;img alt=&quot;Kentucky woman rejects $26M offer to turn her farm into a data center&quot; src=&quot;https://external-preview.redd.it/1tTw-oiDPnopi4GPJ-ohJV-TuZCMQiBOsWw8eA5pBEI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=14d8879bc7609ddb0b7e9b876f41ab6a0acdfa07&quot; title=&quot;Kentucky woman rejects $26M offer to turn her farm into a data center&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/utrecht1976&quot;&gt; /u/utrecht1976 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vg2r3a/kentucky_woman_rejects_26m_offer_to_turn_her_farm/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
