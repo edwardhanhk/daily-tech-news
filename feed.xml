@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 26 Aug 2026 01:25:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:12:56 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Queryable Executables</title>
-      <link>https://fzakaria.com/2026/08/24/actually-queryable-executables</link>
-      <guid isPermaLink="true">https://fzakaria.com/2026/08/24/actually-queryable-executables</guid>
-      <pubDate>Wed, 26 Aug 2026 00:20:49 +0000</pubDate>
+      <title>[HN] Kusama Yayoi has died</title>
+      <link>https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html</guid>
+      <pubDate>Thu, 27 Aug 2026 02:21:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others</title>
-      <link>https://github.com/runetes/maiao</link>
-      <guid isPermaLink="true">https://github.com/runetes/maiao</guid>
-      <pubDate>Tue, 25 Aug 2026 22:40:07 +0000</pubDate>
+      <title>[HN] Getting video models to learn better, faster</title>
+      <link>https://www.linum.ai/field-notes/data-filtering-gen-video</link>
+      <guid isPermaLink="true">https://www.linum.ai/field-notes/data-filtering-gen-video</guid>
+      <pubDate>Thu, 27 Aug 2026 01:53:34 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM</title>
-      <link>https://github.com/swimmingbrain/texbrain</link>
-      <guid isPermaLink="true">https://github.com/swimmingbrain/texbrain</guid>
-      <pubDate>Tue, 25 Aug 2026 22:08:50 +0000</pubDate>
+      <title>[HN] Laion Big Video Dataset</title>
+      <link>https://projects.laion.ai/bvd/</link>
+      <guid isPermaLink="true">https://projects.laion.ai/bvd/</guid>
+      <pubDate>Thu, 27 Aug 2026 01:50:26 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Python's pre-declared constants are kinda weird</title>
-      <link>https://sebsite.pw/w/20260801-pythonconstants.html</link>
-      <guid isPermaLink="true">https://sebsite.pw/w/20260801-pythonconstants.html</guid>
-      <pubDate>Tue, 25 Aug 2026 21:39:02 +0000</pubDate>
+      <title>[HN] CEO fired developers to make room for AI. Developers create open source AI CEO</title>
+      <link>https://github.com/SenteLabsAI/OpenExecutive</link>
+      <guid isPermaLink="true">https://github.com/SenteLabsAI/OpenExecutive</guid>
+      <pubDate>Thu, 27 Aug 2026 01:46:22 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] When str.lower() is a security vulnerability in Python – Seth Larson</title>
-      <link>https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</link>
-      <guid isPermaLink="true">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</guid>
-      <pubDate>Tue, 25 Aug 2026 20:49:03 +0000</pubDate>
+      <title>[HN] Nvidia agrees to acquire Hugging Face for $13B</title>
+      <link>https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8</guid>
+      <pubDate>Thu, 27 Aug 2026 01:12:55 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Charges Dropped Against Person Who Clapped at a City Data Center Meeting / Lux Claridge was dragged from a city meeting about data centers and charged with interfering with the police after they clapped during a presentation.</title>
-      <link>https://www.reddit.com/r/technology/comments/1vy4v79/charges_dropped_against_person_who_clapped_at_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vy4v79/charges_dropped_against_person_who_clapped_at_a/</guid>
-      <pubDate>2026-08-25T16:34:29+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vy4v79/charges_dropped_against_person_who_clapped_at_a/&quot;&gt; &lt;img alt=&quot;Charges Dropped Against Person Who Clapped at a City Data Center Meeting / Lux Claridge was dragged from a city meeting about data centers and charged with interfering with the police after they clapped during a presentation.&quot; src=&quot;https://external-preview.redd.it/e6OEc2OkohMqDKwl6Y81OIREU3UfOTz5DXZrUnCl2rU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d5846762ec9ba33ba6f9af49315b6b3f42d02aa3&quot; title=&quot;Charges Dropped Against Person Who Clapped at a City Data Center Meeting / Lux Claridge was dragged from a city meeting about data centers and charged with interfering with the police after they clapped during a presentation.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vy4v79/charges_dropped_against_person_who_clapped_at_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Report</title>
+      <link>https://www.reddit.com/r/technology/comments/1vzd3x8/flock_camera_ceo_asks_americans_to_compromise_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vzd3x8/flock_camera_ceo_asks_americans_to_compromise_on/</guid>
+      <pubDate>2026-08-26T23:17:18+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Limp_Fig6236&quot;&gt; /u/Limp_Fig6236 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://deltiasgaming.com/flock-camera-ceo-asks-americans-to-compromise-on-privacy-amidst-major-backlash-report/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzd3x8/flock_camera_ceo_asks_americans_to_compromise_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Sony reminds players they don't actually own the PlayStation games they purchased</title>
-      <link>https://www.reddit.com/r/technology/comments/1vxzt65/sony_reminds_players_they_dont_actually_own_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vxzt65/sony_reminds_players_they_dont_actually_own_the/</guid>
-      <pubDate>2026-08-25T13:25:36+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vxzt65/sony_reminds_players_they_dont_actually_own_the/&quot;&gt; &lt;img alt=&quot;Sony reminds players they don't actually own the PlayStation games they purchased&quot; src=&quot;https://external-preview.redd.it/GmMAjez2LuJV-3dkr6vivq-VlcLB5bTz6JLEnp0mDdc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a32cddcced15ff995660422829427ceeacb8ac3d&quot; title=&quot;Sony reminds players they don't actually own the PlayStation games they purchased&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Federal-Block-3275&quot;&gt; /u/Federal-Block-3275 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113603-sony-reminds-players-they-dont-actually-own-playstation.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vxzt65/sony_reminds_players_they_dont_actually_own_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] New Twitter launches, says Musk’s X gave up the name</title>
+      <link>https://www.reddit.com/r/technology/comments/1vzc8j9/new_twitter_launches_says_musks_x_gave_up_the_name/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vzc8j9/new_twitter_launches_says_musks_x_gave_up_the_name/</guid>
+      <pubDate>2026-08-26T22:40:49+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzc8j9/new_twitter_launches_says_musks_x_gave_up_the_name/&quot;&gt; &lt;img alt=&quot;New Twitter launches, says Musk’s X gave up the name &quot; src=&quot;https://external-preview.redd.it/ZywIyTbD7SRQNwmEHI4wtvephbhH0UYh5RLkQ0NUFjQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9847580594527ddb1c1c9d58f5ea8bddc8930099&quot; title=&quot;New Twitter launches, says Musk’s X gave up the name &quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/vgsa&quot;&gt; /u/vgsa &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzc8j9/new_twitter_launches_says_musks_x_gave_up_the_name/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk</title>
-      <link>https://www.reddit.com/r/technology/comments/1vxykxp/us_citizen_who_deleted_phones_data_says_his/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vxykxp/us_citizen_who_deleted_phones_data_says_his/</guid>
-      <pubDate>2026-08-25T12:34:15+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vxykxp/us_citizen_who_deleted_phones_data_says_his/&quot;&gt; &lt;img alt=&quot;U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk&quot; src=&quot;https://external-preview.redd.it/fLQS9HVaAFgBrVtvgi4QZbTl5nN4CsH2iDFp8hCTZLw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f02fd1f567d1cd8a5330a16a1a1c615965703e51&quot; title=&quot;U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Jojuj&quot;&gt; /u/Jojuj &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html?unlocked_article_code=1.8FA.T83N.rt6VsIiSCYb2&amp;amp;smid=url-share&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vxykxp/us_citizen_who_deleted_phones_data_says_his/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate, and more</title>
+      <link>https://www.reddit.com/r/technology/comments/1vz18db/us_says_chinese_hackers_broke_into_justice/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vz18db/us_says_chinese_hackers_broke_into_justice/</guid>
+      <pubDate>2026-08-26T16:02:17+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vz18db/us_says_chinese_hackers_broke_into_justice/&quot;&gt; &lt;img alt=&quot;US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate, and more&quot; src=&quot;https://external-preview.redd.it/Jsi6HV945JVIblAVOU3-mX7g6jnPFed2WwrEmezboDQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6b45cd2979792d93f811c4440dfb3c17dd338ac0&quot; title=&quot;US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate, and more&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/JustMyOpinionz&quot;&gt; /u/JustMyOpinionz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vz18db/us_says_chinese_hackers_broke_into_justice/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Australia’s music industry bans AI songs from charts</title>
-      <link>https://www.reddit.com/r/technology/comments/1vxxb3n/australias_music_industry_bans_ai_songs_from/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vxxb3n/australias_music_industry_bans_ai_songs_from/</guid>
-      <pubDate>2026-08-25T11:36:48+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vxxb3n/australias_music_industry_bans_ai_songs_from/&quot;&gt; &lt;img alt=&quot;Australia’s music industry bans AI songs from charts&quot; src=&quot;https://external-preview.redd.it/UBA5gg9UFhYVV0sUb-9R8P50EYZBIaP2n7G-QJX48AA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=132c9942f9a538c041c1f77277dbd4aca2be05e4&quot; title=&quot;Australia’s music industry bans AI songs from charts&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Saltedline&quot;&gt; /u/Saltedline &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vxxb3n/australias_music_industry_bans_ai_songs_from/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] U.S. gov't moves to suppress pushback on data centers by removing requirements for public input on pollution — EPA change would allow air pollution permits without publicizing them</title>
+      <link>https://www.reddit.com/r/technology/comments/1vyvu4q/us_govt_moves_to_suppress_pushback_on_data/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vyvu4q/us_govt_moves_to_suppress_pushback_on_data/</guid>
+      <pubDate>2026-08-26T12:35:06+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vyvu4q/us_govt_moves_to_suppress_pushback_on_data/&quot;&gt; &lt;img alt=&quot;U.S. gov't moves to suppress pushback on data centers by removing requirements for public input on pollution — EPA change would allow air pollution permits without publicizing them&quot; src=&quot;https://external-preview.redd.it/T87CG4d_-aPNowKU10tpvZRwwZ94UlbIocEzIqIky0k.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=24de8006b7ae2fc5ab85f071de282058b932caa8&quot; title=&quot;U.S. gov't moves to suppress pushback on data centers by removing requirements for public input on pollution — EPA change would allow air pollution permits without publicizing them&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Stukwan&quot;&gt; /u/Stukwan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vyvu4q/us_govt_moves_to_suppress_pushback_on_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Screen time at ages 1 and 6 may matter more than parents realize</title>
-      <link>https://www.reddit.com/r/technology/comments/1vxmg66/screen_time_at_ages_1_and_6_may_matter_more_than/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vxmg66/screen_time_at_ages_1_and_6_may_matter_more_than/</guid>
-      <pubDate>2026-08-25T01:52:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vxmg66/screen_time_at_ages_1_and_6_may_matter_more_than/&quot;&gt; &lt;img alt=&quot;Screen time at ages 1 and 6 may matter more than parents realize&quot; src=&quot;https://external-preview.redd.it/LVT15Hv3w0HBM8ium_2dFOjKDf06e64pKKeQTw2CCcM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=455ff8a82528258c106241bbc6cb2484e494d554&quot; title=&quot;Screen time at ages 1 and 6 may matter more than parents realize&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/dominiquec&quot;&gt; /u/dominiquec &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2026/08/260823094152.htm&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vxmg66/screen_time_at_ages_1_and_6_may_matter_more_than/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Data Centers Use More Water Than California Cities, Study Says</title>
+      <link>https://www.reddit.com/r/technology/comments/1vyvmr3/data_centers_use_more_water_than_california/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vyvmr3/data_centers_use_more_water_than_california/</guid>
+      <pubDate>2026-08-26T12:26:08+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vyvmr3/data_centers_use_more_water_than_california/&quot;&gt; &lt;img alt=&quot;Data Centers Use More Water Than California Cities, Study Says&quot; src=&quot;https://external-preview.redd.it/1ehRiudXnOfZamg4BKaa1HUCV2hRPGwUrPPSDOdI2Uc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ac8caa1bd62d4a742f80831c339876fa3963bbc6&quot; title=&quot;Data Centers Use More Water Than California Cities, Study Says&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://news.bgov.com/environment-and-energy/data-centers-use-more-water-than-california-cities-study-says&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vyvmr3/data_centers_use_more_water_than_california/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
