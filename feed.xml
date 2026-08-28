@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 27 Aug 2026 08:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:16:01 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Kusama Yayoi has died</title>
-      <link>https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html</guid>
-      <pubDate>Thu, 27 Aug 2026 02:21:18 +0000</pubDate>
+      <title>[HN] Hilariously Fast Volume Computation with the Divergence Theorem</title>
+      <link>https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html</link>
+      <guid isPermaLink="true">https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html</guid>
+      <pubDate>Fri, 28 Aug 2026 09:00:46 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Getting video models to learn better, faster</title>
-      <link>https://www.linum.ai/field-notes/data-filtering-gen-video</link>
-      <guid isPermaLink="true">https://www.linum.ai/field-notes/data-filtering-gen-video</guid>
-      <pubDate>Thu, 27 Aug 2026 01:53:34 +0000</pubDate>
+      <title>[HN] Climate change is strengthening El Niño, coral records suggest</title>
+      <link>https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest</link>
+      <guid isPermaLink="true">https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest</guid>
+      <pubDate>Fri, 28 Aug 2026 07:19:16 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Laion Big Video Dataset</title>
-      <link>https://projects.laion.ai/bvd/</link>
-      <guid isPermaLink="true">https://projects.laion.ai/bvd/</guid>
-      <pubDate>Thu, 27 Aug 2026 01:50:26 +0000</pubDate>
+      <title>[HN] That's a Lot of YAML</title>
+      <link>https://noyaml.com/</link>
+      <guid isPermaLink="true">https://noyaml.com/</guid>
+      <pubDate>Fri, 28 Aug 2026 07:03:53 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] CEO fired developers to make room for AI. Developers create open source AI CEO</title>
-      <link>https://github.com/SenteLabsAI/OpenExecutive</link>
-      <guid isPermaLink="true">https://github.com/SenteLabsAI/OpenExecutive</guid>
-      <pubDate>Thu, 27 Aug 2026 01:46:22 +0000</pubDate>
+      <title>[HN] Sovereign Tech Agency invests €500k in Flatpak</title>
+      <link>https://modal.cx/blog/announcing-flatpak-sta/</link>
+      <guid isPermaLink="true">https://modal.cx/blog/announcing-flatpak-sta/</guid>
+      <pubDate>Fri, 28 Aug 2026 05:42:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Nvidia agrees to acquire Hugging Face for $13B</title>
-      <link>https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8</guid>
-      <pubDate>Thu, 27 Aug 2026 01:12:55 +0000</pubDate>
+      <title>[HN] GoGoGrandparent (YC S16) is hiring back end engineers</title>
+      <link>https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</link>
+      <guid isPermaLink="true">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</guid>
+      <pubDate>Fri, 28 Aug 2026 03:35:15 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Report</title>
-      <link>https://www.reddit.com/r/technology/comments/1vzd3x8/flock_camera_ceo_asks_americans_to_compromise_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vzd3x8/flock_camera_ceo_asks_americans_to_compromise_on/</guid>
-      <pubDate>2026-08-26T23:17:18+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Limp_Fig6236&quot;&gt; /u/Limp_Fig6236 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://deltiasgaming.com/flock-camera-ceo-asks-americans-to-compromise-on-privacy-amidst-major-backlash-report/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzd3x8/flock_camera_ceo_asks_americans_to_compromise_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI</title>
+      <link>https://www.reddit.com/r/technology/comments/1w0igwy/grand_theft_auto_6_will_have_no_microtransactions/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w0igwy/grand_theft_auto_6_will_have_no_microtransactions/</guid>
+      <pubDate>2026-08-28T06:14:01+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w0igwy/grand_theft_auto_6_will_have_no_microtransactions/&quot;&gt; &lt;img alt=&quot;Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI&quot; src=&quot;https://external-preview.redd.it/aJqvi43w4SVXdCljyscV52aSU-8FEy63AwY-Im1c2tE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cb560788bbccb899df83fafb624a6173d47ea369&quot; title=&quot;Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TurbulentTopic39&quot;&gt; /u/TurbulentTopic39 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamespot.com/articles/grand-theft-auto-6-will-have-no-microtransactions-or-generative-ai/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w0igwy/grand_theft_auto_6_will_have_no_microtransactions/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] New Twitter launches, says Musk’s X gave up the name</title>
-      <link>https://www.reddit.com/r/technology/comments/1vzc8j9/new_twitter_launches_says_musks_x_gave_up_the_name/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vzc8j9/new_twitter_launches_says_musks_x_gave_up_the_name/</guid>
-      <pubDate>2026-08-26T22:40:49+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzc8j9/new_twitter_launches_says_musks_x_gave_up_the_name/&quot;&gt; &lt;img alt=&quot;New Twitter launches, says Musk’s X gave up the name &quot; src=&quot;https://external-preview.redd.it/ZywIyTbD7SRQNwmEHI4wtvephbhH0UYh5RLkQ0NUFjQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9847580594527ddb1c1c9d58f5ea8bddc8930099&quot; title=&quot;New Twitter launches, says Musk’s X gave up the name &quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/vgsa&quot;&gt; /u/vgsa &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzc8j9/new_twitter_launches_says_musks_x_gave_up_the_name/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Elon Musk’s xAI used child porn to train Grok models, lawsuit says</title>
+      <link>https://www.reddit.com/r/technology/comments/1w0b71p/elon_musks_xai_used_child_porn_to_train_grok/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w0b71p/elon_musks_xai_used_child_porn_to_train_grok/</guid>
+      <pubDate>2026-08-28T00:15:44+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w0b71p/elon_musks_xai_used_child_porn_to_train_grok/&quot;&gt; &lt;img alt=&quot;Elon Musk’s xAI used child porn to train Grok models, lawsuit says&quot; src=&quot;https://external-preview.redd.it/MeAP5ra1wfhheEtauSHjxVx7bK2kMRAoaMF3jKSVrUE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a7d6bb3015e16aac77210d85ca1b229b2f9407a3&quot; title=&quot;Elon Musk’s xAI used child porn to train Grok models, lawsuit says&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mepper&quot;&gt; /u/mepper &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w0b71p/elon_musks_xai_used_child_porn_to_train_grok/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate, and more</title>
-      <link>https://www.reddit.com/r/technology/comments/1vz18db/us_says_chinese_hackers_broke_into_justice/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vz18db/us_says_chinese_hackers_broke_into_justice/</guid>
-      <pubDate>2026-08-26T16:02:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vz18db/us_says_chinese_hackers_broke_into_justice/&quot;&gt; &lt;img alt=&quot;US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate, and more&quot; src=&quot;https://external-preview.redd.it/Jsi6HV945JVIblAVOU3-mX7g6jnPFed2WwrEmezboDQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6b45cd2979792d93f811c4440dfb3c17dd338ac0&quot; title=&quot;US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate, and more&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/JustMyOpinionz&quot;&gt; /u/JustMyOpinionz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vz18db/us_says_chinese_hackers_broke_into_justice/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Americans are cheering for vigilantes who take down Flock cameras | The surveillance cameras have become another flashpoint of growing bipartisan anger against tech industry excess.</title>
+      <link>https://www.reddit.com/r/technology/comments/1vzzfk5/americans_are_cheering_for_vigilantes_who_take/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vzzfk5/americans_are_cheering_for_vigilantes_who_take/</guid>
+      <pubDate>2026-08-27T16:51:19+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzzfk5/americans_are_cheering_for_vigilantes_who_take/&quot;&gt; &lt;img alt=&quot;Americans are cheering for vigilantes who take down Flock cameras | The surveillance cameras have become another flashpoint of growing bipartisan anger against tech industry excess.&quot; src=&quot;https://external-preview.redd.it/HmfTVbA2TRxkvG92YkstiPqZTWjCdZJQnUC4RVjfif0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=06fd68345c8eafaccee3323e0c261103dc416322&quot; title=&quot;Americans are cheering for vigilantes who take down Flock cameras | The surveillance cameras have become another flashpoint of growing bipartisan anger against tech industry excess.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/andmario_com&quot;&gt; /u/andmario_com &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzzfk5/americans_are_cheering_for_vigilantes_who_take/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] U.S. gov't moves to suppress pushback on data centers by removing requirements for public input on pollution — EPA change would allow air pollution permits without publicizing them</title>
-      <link>https://www.reddit.com/r/technology/comments/1vyvu4q/us_govt_moves_to_suppress_pushback_on_data/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vyvu4q/us_govt_moves_to_suppress_pushback_on_data/</guid>
-      <pubDate>2026-08-26T12:35:06+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vyvu4q/us_govt_moves_to_suppress_pushback_on_data/&quot;&gt; &lt;img alt=&quot;U.S. gov't moves to suppress pushback on data centers by removing requirements for public input on pollution — EPA change would allow air pollution permits without publicizing them&quot; src=&quot;https://external-preview.redd.it/T87CG4d_-aPNowKU10tpvZRwwZ94UlbIocEzIqIky0k.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=24de8006b7ae2fc5ab85f071de282058b932caa8&quot; title=&quot;U.S. gov't moves to suppress pushback on data centers by removing requirements for public input on pollution — EPA change would allow air pollution permits without publicizing them&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Stukwan&quot;&gt; /u/Stukwan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vyvu4q/us_govt_moves_to_suppress_pushback_on_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Flock contract cancellations grow among cities, other jurisdictions</title>
+      <link>https://www.reddit.com/r/technology/comments/1vzx7h2/flock_contract_cancellations_grow_among_cities/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vzx7h2/flock_contract_cancellations_grow_among_cities/</guid>
+      <pubDate>2026-08-27T15:29:30+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzx7h2/flock_contract_cancellations_grow_among_cities/&quot;&gt; &lt;img alt=&quot;Flock contract cancellations grow among cities, other jurisdictions&quot; src=&quot;https://external-preview.redd.it/5nGuA2SN4_HqeNrcgVADWy-cKHzCC30afg9ESveD5TI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a871d91292faee6a01ebd1e7765fdacc73068b72&quot; title=&quot;Flock contract cancellations grow among cities, other jurisdictions&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://thehill.com/policy/technology/6053849-flock-contract-cancellations-grow-data-concerns/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzx7h2/flock_contract_cancellations_grow_among_cities/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Data Centers Use More Water Than California Cities, Study Says</title>
-      <link>https://www.reddit.com/r/technology/comments/1vyvmr3/data_centers_use_more_water_than_california/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vyvmr3/data_centers_use_more_water_than_california/</guid>
-      <pubDate>2026-08-26T12:26:08+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vyvmr3/data_centers_use_more_water_than_california/&quot;&gt; &lt;img alt=&quot;Data Centers Use More Water Than California Cities, Study Says&quot; src=&quot;https://external-preview.redd.it/1ehRiudXnOfZamg4BKaa1HUCV2hRPGwUrPPSDOdI2Uc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ac8caa1bd62d4a742f80831c339876fa3963bbc6&quot; title=&quot;Data Centers Use More Water Than California Cities, Study Says&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://news.bgov.com/environment-and-energy/data-centers-use-more-water-than-california-cities-study-says&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vyvmr3/data_centers_use_more_water_than_california/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Push for import ban on 'pervert' smart glasses amid privacy concerns</title>
+      <link>https://www.reddit.com/r/technology/comments/1vzuv6r/push_for_import_ban_on_pervert_smart_glasses_amid/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1vzuv6r/push_for_import_ban_on_pervert_smart_glasses_amid/</guid>
+      <pubDate>2026-08-27T14:02:22+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzuv6r/push_for_import_ban_on_pervert_smart_glasses_amid/&quot;&gt; &lt;img alt=&quot;Push for import ban on 'pervert' smart glasses amid privacy concerns&quot; src=&quot;https://external-preview.redd.it/1YpFe-DdILl1L5UVvVhp4i8zoE91SrPrYboe_rRpPVY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8303f7f069a47cb3cb2a13b0296e1ba5dbd605df&quot; title=&quot;Push for import ban on 'pervert' smart glasses amid privacy concerns&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.abc.net.au/news/2026-08-27/push-for-import-ban-on-smart-glasses-amid-privacy-concerns/107074628&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1vzuv6r/push_for_import_ban_on_pervert_smart_glasses_amid/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
