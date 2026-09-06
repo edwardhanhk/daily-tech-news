@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 05 Sep 2026 03:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 03:35:53 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Artificial Analysis Intelligence Index v4.2</title>
-      <link>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</link>
-      <guid isPermaLink="true">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</guid>
-      <pubDate>Sat, 05 Sep 2026 00:04:14 +0000</pubDate>
+      <title>[HN] GPT-6 Astra on robot arms</title>
+      <link>https://openai.robocurve.org/gpt-6-astra/</link>
+      <guid isPermaLink="true">https://openai.robocurve.org/gpt-6-astra/</guid>
+      <pubDate>Sun, 06 Sep 2026 01:52:45 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Moadim.io – A scheduler for agents</title>
-      <link>https://moadim.io/</link>
-      <guid isPermaLink="true">https://moadim.io/</guid>
-      <pubDate>Fri, 04 Sep 2026 23:50:29 +0000</pubDate>
+      <title>[HN] Gateside by TSA Precheck</title>
+      <link>https://www.tsa.gov/precheck/gateside-tsa-precheck</link>
+      <guid isPermaLink="true">https://www.tsa.gov/precheck/gateside-tsa-precheck</guid>
+      <pubDate>Sun, 06 Sep 2026 01:12:43 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Portal by Spotify cut my Claude Code token usage by 90%</title>
-      <link>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</link>
-      <guid isPermaLink="true">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</guid>
-      <pubDate>Fri, 04 Sep 2026 23:38:50 +0000</pubDate>
+      <title>[HN] Cloud in a Bottle: making self-hosting accessible to everyone</title>
+      <link>https://cloudinabottle.org/blog/launch-post</link>
+      <guid isPermaLink="true">https://cloudinabottle.org/blog/launch-post</guid>
+      <pubDate>Sun, 06 Sep 2026 00:03:29 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Connecting every app to every other app</title>
-      <link>https://blog.val.town/connectors</link>
-      <guid isPermaLink="true">https://blog.val.town/connectors</guid>
-      <pubDate>Fri, 04 Sep 2026 23:09:59 +0000</pubDate>
+      <title>[HN] Chrome again exempts Google from user site data settings</title>
+      <link>https://lapcatsoftware.com/articles/2026/9/1.html</link>
+      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/9/1.html</guid>
+      <pubDate>Sat, 05 Sep 2026 23:39:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Can guitar frets perform multiplication?</title>
-      <link>https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html</link>
-      <guid isPermaLink="true">https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html</guid>
-      <pubDate>Fri, 04 Sep 2026 22:40:30 +0000</pubDate>
+      <title>[HN] OKF Agent Memory – Git-native persistent memory for AI coding agents</title>
+      <link>https://github.com/okf-memory/okf-agent-memory</link>
+      <guid isPermaLink="true">https://github.com/okf-memory/okf-agent-memory</guid>
+      <pubDate>Sat, 05 Sep 2026 22:15:52 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Tetris issues legal warning after White House releases arcade full of parody games</title>
-      <link>https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/</guid>
-      <pubDate>2026-09-04T19:08:57+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/&quot;&gt; &lt;img alt=&quot;Tetris issues legal warning after White House releases arcade full of parody games&quot; src=&quot;https://external-preview.redd.it/0F8B6ElbJucEXl6mxvIeAcb49nGLV8GFNjSr-6wwsJA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c0929ed5e2c407e2a0ff61037fc59d7741f396c4&quot; title=&quot;Tetris issues legal warning after White House releases arcade full of parody games&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IndicaOatmeal&quot;&gt; /u/IndicaOatmeal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/gaming/tetris-issues-legal-warning-after-white-house-releases-arcade-full-of-parody-games-3405931/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Discord Is Bringing Back Age Verification for Millions of Users</title>
+      <link>https://www.reddit.com/r/technology/comments/1w87few/discord_is_bringing_back_age_verification_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w87few/discord_is_bringing_back_age_verification_for/</guid>
+      <pubDate>2026-09-05T17:49:29+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w87few/discord_is_bringing_back_age_verification_for/&quot;&gt; &lt;img alt=&quot;Discord Is Bringing Back Age Verification for Millions of Users&quot; src=&quot;https://external-preview.redd.it/bt3yW8AKETyaDSd2ulSemxynuHyeyUc6MOWHPa33ZSs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=554352f11844100afe448b05c237a3c3a06f88a9&quot; title=&quot;Discord Is Bringing Back Age Verification for Millions of Users&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/vriska1&quot;&gt; /u/vriska1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/discord-is-bringing-back-age-verification-for-millions-of-users&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w87few/discord_is_bringing_back_age_verification_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] YouTube faces second class action lawsuit over ‘ad-free’ Premium claims &amp; sponsored content</title>
-      <link>https://www.reddit.com/r/technology/comments/1w7ba5q/youtube_faces_second_class_action_lawsuit_over/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w7ba5q/youtube_faces_second_class_action_lawsuit_over/</guid>
-      <pubDate>2026-09-04T17:41:45+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w7ba5q/youtube_faces_second_class_action_lawsuit_over/&quot;&gt; &lt;img alt=&quot;YouTube faces second class action lawsuit over ‘ad-free’ Premium claims &amp;amp; sponsored content&quot; src=&quot;https://external-preview.redd.it/Ic58mrOh4kjIrW-aTQ2dbReDeQeAcymnN7I70YqKjRI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bf7201f7c52ca4c0175c632f07a38dc9b439ea2f&quot; title=&quot;YouTube faces second class action lawsuit over ‘ad-free’ Premium claims &amp;amp; sponsored content&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dilpickle2113&quot;&gt; /u/Dilpickle2113 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/youtube/youtube-faces-second-class-action-lawsuit-over-ad-free-premium-claims-sponsored-content-3405920/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w7ba5q/youtube_faces_second_class_action_lawsuit_over/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Flock is canceled—and its competitors are profiting</title>
+      <link>https://www.reddit.com/r/technology/comments/1w83mu8/flock_is_canceledand_its_competitors_are_profiting/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w83mu8/flock_is_canceledand_its_competitors_are_profiting/</guid>
+      <pubDate>2026-09-05T15:23:45+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w83mu8/flock_is_canceledand_its_competitors_are_profiting/&quot;&gt; &lt;img alt=&quot;Flock is canceled—and its competitors are profiting&quot; src=&quot;https://external-preview.redd.it/b2dbQKCSK1YONP3Dx5iUcop30s_Vgw-6vJ-YLGaMrR4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=98d2c505517b4df689347816de969437b5f87c7d&quot; title=&quot;Flock is canceled—and its competitors are profiting&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.motherjones.com/politics/2026/09/flock-contracts-cancelled-cameras-alpr-rekor-axon-florida-texas/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w83mu8/flock_is_canceledand_its_competitors_are_profiting/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] White House Launches Racist Video Games to Promote Migrant Deportations</title>
-      <link>https://www.reddit.com/r/technology/comments/1w79sh3/white_house_launches_racist_video_games_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w79sh3/white_house_launches_racist_video_games_to/</guid>
-      <pubDate>2026-09-04T16:48:28+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w79sh3/white_house_launches_racist_video_games_to/&quot;&gt; &lt;img alt=&quot;White House Launches Racist Video Games to Promote Migrant Deportations&quot; src=&quot;https://external-preview.redd.it/tNmZ7RDGBfjSwHwKQSu6xR8YLrxITBWUQZL_oeCFErY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0f7319f1e1c58e62c71f1b3a3d85ba4dfbd97f6e&quot; title=&quot;White House Launches Racist Video Games to Promote Migrant Deportations&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cartoonbrew.com/politics/white-house-racist-video-games-266259.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w79sh3/white_house_launches_racist_video_games_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] In a Warrenton, Virginia garage an 18-year-old Kettle Run High School student named Mia Heller built a membrane-free water filter the size of a bag of flour, three modules, one litre a pass, and her turbidity sensor logged 95.52% of microplastics pulled out by magnetic oil.</title>
+      <link>https://www.reddit.com/r/technology/comments/1w80di4/in_a_warrenton_virginia_garage_an_18yearold/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w80di4/in_a_warrenton_virginia_garage_an_18yearold/</guid>
+      <pubDate>2026-09-05T13:10:18+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w80di4/in_a_warrenton_virginia_garage_an_18yearold/&quot;&gt; &lt;img alt=&quot;In a Warrenton, Virginia garage an 18-year-old Kettle Run High School student named Mia Heller built a membrane-free water filter the size of a bag of flour, three modules, one litre a pass, and her turbidity sensor logged 95.52% of microplastics pulled out by magnetic oil.&quot; src=&quot;https://external-preview.redd.it/QNL26BWTPtTIFvSqY9-twMNsZVCaCo3r1oS4QexGJ2Y.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6bacedf98afe0e6bef9188937a713e7f39f3ea74&quot; title=&quot;In a Warrenton, Virginia garage an 18-year-old Kettle Run High School student named Mia Heller built a membrane-free water filter the size of a bag of flour, three modules, one litre a pass, and her turbidity sensor logged 95.52% of microplastics pulled out by magnetic oil.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://scienceblog.com/j-in-a-warrenton-virginia-garage-an-18-year-old-kettle-run-high-school-student-named-mia-heller-built-a-membrane-free-water-filter-the-size-of-a-bag-of-flour-three-modules-one-litre-a-pass-and-her-tur/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w80di4/in_a_warrenton_virginia_garage_an_18yearold/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Turns out Brits would quite like their private messages to stay private</title>
-      <link>https://www.reddit.com/r/technology/comments/1w72tjc/turns_out_brits_would_quite_like_their_private/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w72tjc/turns_out_brits_would_quite_like_their_private/</guid>
-      <pubDate>2026-09-04T12:19:59+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Well_Socialized&quot;&gt; /u/Well_Socialized &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w72tjc/turns_out_brits_would_quite_like_their_private/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Ex-Old School RuneScape dev sentenced for stealing over $400k in virtual gold from players</title>
+      <link>https://www.reddit.com/r/technology/comments/1w7yc5g/exold_school_runescape_dev_sentenced_for_stealing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w7yc5g/exold_school_runescape_dev_sentenced_for_stealing/</guid>
+      <pubDate>2026-09-05T11:34:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w7yc5g/exold_school_runescape_dev_sentenced_for_stealing/&quot;&gt; &lt;img alt=&quot;Ex-Old School RuneScape dev sentenced for stealing over $400k in virtual gold from players&quot; src=&quot;https://external-preview.redd.it/SY6zU65t6kGIlwzIoKzg65AMU9R08Ytrl1PQYCe7NXg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ee9a54506b5095abae79dff47de589dc9ace8d67&quot; title=&quot;Ex-Old School RuneScape dev sentenced for stealing over $400k in virtual gold from players&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/ex-old-school-runescape-dev-sentenced-for-stealing-over-400k-in-virtual-gold-from-players-3406017/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w7yc5g/exold_school_runescape_dev_sentenced_for_stealing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] It’s time for Mark Zuckerberg to resign from Meta | Joan Donovan</title>
-      <link>https://www.reddit.com/r/technology/comments/1w708pn/its_time_for_mark_zuckerberg_to_resign_from_meta/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w708pn/its_time_for_mark_zuckerberg_to_resign_from_meta/</guid>
-      <pubDate>2026-09-04T10:11:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w708pn/its_time_for_mark_zuckerberg_to_resign_from_meta/&quot;&gt; &lt;img alt=&quot;It’s time for Mark Zuckerberg to resign from Meta | Joan Donovan&quot; src=&quot;https://external-preview.redd.it/zhEE2NMVy4KrwmznGUoZjcIYHep9Re9Xo40WKmS_UwY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3cce67a6fb840af199dfdf7091d9a35833a18f7b&quot; title=&quot;It’s time for Mark Zuckerberg to resign from Meta | Joan Donovan&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tw1st3d_m3nt4t&quot;&gt; /u/tw1st3d_m3nt4t &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w708pn/its_time_for_mark_zuckerberg_to_resign_from_meta/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] At least 49 opinion pieces by major Dutch newspapers fully AI-generated; 57 partly</title>
+      <link>https://www.reddit.com/r/technology/comments/1w7trru/at_least_49_opinion_pieces_by_major_dutch/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w7trru/at_least_49_opinion_pieces_by_major_dutch/</guid>
+      <pubDate>2026-09-05T07:18:04+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w7trru/at_least_49_opinion_pieces_by_major_dutch/&quot;&gt; &lt;img alt=&quot;At least 49 opinion pieces by major Dutch newspapers fully AI-generated; 57 partly&quot; src=&quot;https://external-preview.redd.it/9xnGHeNe1Qmi_ddWfKPQcggUqCFfchEdDaWJxSMc3M0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=628cbe9b26f16a9439a5e4e6f3a78fdfed2a3f13&quot; title=&quot;At least 49 opinion pieces by major Dutch newspapers fully AI-generated; 57 partly&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/boppinmule&quot;&gt; /u/boppinmule &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://nltimes.nl/2026/09/05/least-49-opinion-pieces-major-dutch-newspapers-fully-ai-generated-57-partly&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w7trru/at_least_49_opinion_pieces_by_major_dutch/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
