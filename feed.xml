@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 07 Sep 2026 03:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 03:40:24 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Making a Python interpreter in 1024 bytes</title>
-      <link>https://austinhenley.com/blog/python1024.html</link>
-      <guid isPermaLink="true">https://austinhenley.com/blog/python1024.html</guid>
-      <pubDate>Sun, 06 Sep 2026 23:14:08 +0000</pubDate>
+      <title>[HN] Jellyfin 12.0</title>
+      <link>https://jellyfin.org/posts/jellyfin-release-12.0/</link>
+      <guid isPermaLink="true">https://jellyfin.org/posts/jellyfin-release-12.0/</guid>
+      <pubDate>Tue, 08 Sep 2026 01:56:35 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet</title>
-      <link>https://twitter.com/Liquid_BTC/status/2096696272447218108</link>
-      <guid isPermaLink="true">https://twitter.com/Liquid_BTC/status/2096696272447218108</guid>
-      <pubDate>Sun, 06 Sep 2026 22:43:25 +0000</pubDate>
+      <title>[HN] I've factored the RSA keys of a Certificate Authority from the 90s</title>
+      <link>https://mcpherrin.ca/2026/09/07/rsa.html</link>
+      <guid isPermaLink="true">https://mcpherrin.ca/2026/09/07/rsa.html</guid>
+      <pubDate>Tue, 08 Sep 2026 01:16:59 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Signing TLS handshakes inside a TPM</title>
-      <link>https://bschaatsbergen.com/posts/go-tpm-tls/</link>
-      <guid isPermaLink="true">https://bschaatsbergen.com/posts/go-tpm-tls/</guid>
-      <pubDate>Sun, 06 Sep 2026 21:05:21 +0000</pubDate>
+      <title>[HN] TALA Is Open-Source</title>
+      <link>https://d2lang.com/blog/tala-is-open-source/</link>
+      <guid isPermaLink="true">https://d2lang.com/blog/tala-is-open-source/</guid>
+      <pubDate>Mon, 07 Sep 2026 23:37:42 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: GET Together – A social network where you don't need POST to Post</title>
-      <link>https://gettogether.dev</link>
-      <guid isPermaLink="true">https://gettogether.dev</guid>
-      <pubDate>Mon, 07 Sep 2026 01:41:11 +0000</pubDate>
+      <title>[HN] Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon</title>
+      <link>https://github.com/Sadpainy/Stuxnet</link>
+      <guid isPermaLink="true">https://github.com/Sadpainy/Stuxnet</guid>
+      <pubDate>Mon, 07 Sep 2026 22:12:38 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server</title>
-      <link>https://github.com/Staatsgeheim/MathKernel</link>
-      <guid isPermaLink="true">https://github.com/Staatsgeheim/MathKernel</guid>
-      <pubDate>Mon, 07 Sep 2026 00:21:01 +0000</pubDate>
+      <title>[HN] Macbeth and His Problems</title>
+      <link>https://porticoquarterly.com/essay/macbeth-and-his-problems/</link>
+      <guid isPermaLink="true">https://porticoquarterly.com/essay/macbeth-and-his-problems/</guid>
+      <pubDate>Mon, 07 Sep 2026 20:34:32 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] GPT-6 Astra beat Portal, and it only cost $571.18</title>
-      <link>https://www.reddit.com/r/technology/comments/1w92153/gpt6_astra_beat_portal_and_it_only_cost_57118/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w92153/gpt6_astra_beat_portal_and_it_only_cost_57118/</guid>
-      <pubDate>2026-09-06T17:16:14+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w92153/gpt6_astra_beat_portal_and_it_only_cost_57118/&quot;&gt; &lt;img alt=&quot;GPT-6 Astra beat Portal, and it only cost $571.18&quot; src=&quot;https://external-preview.redd.it/2dmoUGaAuFYbNxp0Ty_5WQ1bi2MDWcDp9_D87f_ZOS8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=837b11e31332ee913bd65ac1d19a30612ea44ba3&quot; title=&quot;GPT-6 Astra beat Portal, and it only cost $571.18&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ResultBackground2450&quot;&gt; /u/ResultBackground2450 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/990897/gpt-6-astra-beat-portal-and-it-only-cost-571-18&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w92153/gpt6_astra_beat_portal_and_it_only_cost_57118/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] A secret new Elizabeth Holmes documentary stuns Telluride</title>
+      <link>https://www.reddit.com/r/technology/comments/1wa7qky/a_secret_new_elizabeth_holmes_documentary_stuns/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wa7qky/a_secret_new_elizabeth_holmes_documentary_stuns/</guid>
+      <pubDate>2026-09-07T23:19:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wa7qky/a_secret_new_elizabeth_holmes_documentary_stuns/&quot;&gt; &lt;img alt=&quot;A secret new Elizabeth Holmes documentary stuns Telluride&quot; src=&quot;https://external-preview.redd.it/-0mCrzpKzNUBYN0aqYNnEVyI6Tviaj65iltE2TdAkmQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=556a8cf239238925d7dd1d73d6cc3c922f748593&quot; title=&quot;A secret new Elizabeth Holmes documentary stuns Telluride&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wa7qky/a_secret_new_elizabeth_holmes_documentary_stuns/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work &quot;at this resolution&quot; / GTA 6 needs better &quot;behavioral sophistication&quot; from its NPCs</title>
-      <link>https://www.reddit.com/r/technology/comments/1w9150z/rockstar_boss_says_gta_6_doesnt_just_let_you/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w9150z/rockstar_boss_says_gta_6_doesnt_just_let_you/</guid>
-      <pubDate>2026-09-06T16:42:44+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9150z/rockstar_boss_says_gta_6_doesnt_just_let_you/&quot;&gt; &lt;img alt=&quot;Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work &amp;quot;at this resolution&amp;quot; / GTA 6 needs better &amp;quot;behavioral sophistication&amp;quot; from its NPCs&quot; src=&quot;https://external-preview.redd.it/32-i3zDdrynHC0uwBsv3ezXsaik8i5B48xb0hiHDxic.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bb89afbd0c9e34314ae5edd1c3a80dad1aec5b00&quot; title=&quot;Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work &amp;quot;at this resolution&amp;quot; / GTA 6 needs better &amp;quot;behavioral sophistication&amp;quot; from its NPCs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puzzleheaded_irl&quot;&gt; /u/Puzzleheaded_irl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6-doesnt-just-let-you-easily-walk-around-with-guns-because-gta-5s-approach-doesnt-work-at-this-resolution/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9150z/rockstar_boss_says_gta_6_doesnt_just_let_you/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Adobe ends an 18-year era as AI pressure mounts</title>
+      <link>https://www.reddit.com/r/technology/comments/1w9v1jz/adobe_ends_an_18year_era_as_ai_pressure_mounts/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w9v1jz/adobe_ends_an_18year_era_as_ai_pressure_mounts/</guid>
+      <pubDate>2026-09-07T15:19:50+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9v1jz/adobe_ends_an_18year_era_as_ai_pressure_mounts/&quot;&gt; &lt;img alt=&quot;Adobe ends an 18-year era as AI pressure mounts&quot; src=&quot;https://external-preview.redd.it/d3DYzK48U1Rs9-4wGBa23hZm6_OkVKgKUHKENgg7Ryw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4ebdb05ab900a31b73a6ff21bd19cdb7c7eaca48&quot; title=&quot;Adobe ends an 18-year era as AI pressure mounts&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://sg.finance.yahoo.com/news/adobe-ends-18-era-ai-191300355.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9v1jz/adobe_ends_an_18year_era_as_ai_pressure_mounts/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Dolly Parton’s Sister Stella Calls Out ‘Fake AI Garbage’ &amp; ‘Snarky Tweets’ About Singer’s Death</title>
-      <link>https://www.reddit.com/r/technology/comments/1w8vk27/dolly_partons_sister_stella_calls_out_fake_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w8vk27/dolly_partons_sister_stella_calls_out_fake_ai/</guid>
-      <pubDate>2026-09-06T12:59:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w8vk27/dolly_partons_sister_stella_calls_out_fake_ai/&quot;&gt; &lt;img alt=&quot;Dolly Parton’s Sister Stella Calls Out ‘Fake AI Garbage’ &amp;amp; ‘Snarky Tweets’ About Singer’s Death&quot; src=&quot;https://external-preview.redd.it/qvKEMpCEYtrjZVXHdbHfMG6PX6mTAis2-3AcmQxDZ0I.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5a6317e8ab5ed2d3eb026398581e282a51733084&quot; title=&quot;Dolly Parton’s Sister Stella Calls Out ‘Fake AI Garbage’ &amp;amp; ‘Snarky Tweets’ About Singer’s Death&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.billboard.com/music/music-news/dolly-parton-death-sister-stella-fake-ai-garbage-1236334801/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w8vk27/dolly_partons_sister_stella_calls_out_fake_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Tesla Kills the Solar Roof</title>
+      <link>https://www.reddit.com/r/technology/comments/1w9tsjj/a_decade_of_hype_3000_roofs_and_one_redirect_url/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w9tsjj/a_decade_of_hype_3000_roofs_and_one_redirect_url/</guid>
+      <pubDate>2026-09-07T14:31:39+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9tsjj/a_decade_of_hype_3000_roofs_and_one_redirect_url/&quot;&gt; &lt;img alt=&quot;A Decade of Hype, 3,000 Roofs, and One Redirect URL: Tesla Kills the Solar Roof&quot; src=&quot;https://external-preview.redd.it/6fJ8Zozxa9JC_dr_zROcBna9hcjL3czdFAwzr0M263Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=22e3fd11b29d15e5f3bdcbf44230c9cb9634d627&quot; title=&quot;A Decade of Hype, 3,000 Roofs, and One Redirect URL: Tesla Kills the Solar Roof&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/a-decade-of-hype-3000-roofs-and-one-redirect-url-tesla-kills-the-solar-roof&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9tsjj/a_decade_of_hype_3000_roofs_and_one_redirect_url/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] US to announce sharply lower vehicle fuel economy requirements</title>
-      <link>https://www.reddit.com/r/technology/comments/1w8mz2u/us_to_announce_sharply_lower_vehicle_fuel_economy/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w8mz2u/us_to_announce_sharply_lower_vehicle_fuel_economy/</guid>
-      <pubDate>2026-09-06T05:14:08+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/world/us-announce-sharply-lower-vehicle-fuel-economy-requirements-2026-08-31/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w8mz2u/us_to_announce_sharply_lower_vehicle_fuel_economy/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] CD and vinyl sales are surging as frustration with digital media keeps growing</title>
+      <link>https://www.reddit.com/r/technology/comments/1w9r1kr/cd_and_vinyl_sales_are_surging_as_frustration/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w9r1kr/cd_and_vinyl_sales_are_surging_as_frustration/</guid>
+      <pubDate>2026-09-07T12:39:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9r1kr/cd_and_vinyl_sales_are_surging_as_frustration/&quot;&gt; &lt;img alt=&quot;CD and vinyl sales are surging as frustration with digital media keeps growing&quot; src=&quot;https://external-preview.redd.it/5Skkg5yDy8ekbiKFYMlgMEx4OZhwkUeSuufUr8WmttU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2bf9f682c32c0bf83191f672d273f879b626827e&quot; title=&quot;CD and vinyl sales are surging as frustration with digital media keeps growing&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113756-sales-cd-vinyl-music-sees-strong-resurgence-amid.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9r1kr/cd_and_vinyl_sales_are_surging_as_frustration/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] YouTube updates gaming violence monetization rules ahead of GTA 6 launch</title>
-      <link>https://www.reddit.com/r/technology/comments/1w8lidx/youtube_updates_gaming_violence_monetization/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w8lidx/youtube_updates_gaming_violence_monetization/</guid>
-      <pubDate>2026-09-06T03:57:52+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w8lidx/youtube_updates_gaming_violence_monetization/&quot;&gt; &lt;img alt=&quot;YouTube updates gaming violence monetization rules ahead of GTA 6 launch&quot; src=&quot;https://external-preview.redd.it/W-IjaR40xYM7BuqflA2GWNPj5hDSExEmKUT1L7ROJQw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=16ea8c68f4f85afc4db9758855299ce6234e9828&quot; title=&quot;YouTube updates gaming violence monetization rules ahead of GTA 6 launch&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Gorotheninja&quot;&gt; /u/Gorotheninja &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/gta/youtube-updates-gaming-violence-monetization-rules-ahead-of-gta-6-launch-3405945/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w8lidx/youtube_updates_gaming_violence_monetization/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] LG smart TVs caught logging audio with screen off and snooping on local devices</title>
+      <link>https://www.reddit.com/r/technology/comments/1w9jmjn/lg_smart_tvs_caught_logging_audio_with_screen_off/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1w9jmjn/lg_smart_tvs_caught_logging_audio_with_screen_off/</guid>
+      <pubDate>2026-09-07T05:56:11+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9jmjn/lg_smart_tvs_caught_logging_audio_with_screen_off/&quot;&gt; &lt;img alt=&quot;LG smart TVs caught logging audio with screen off and snooping on local devices&quot; src=&quot;https://external-preview.redd.it/R4Xp6Zpb9_WgwdmZ-cwGvinD5FtplOWoBRgxd8QdbrQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ce5f143e4ce9678cbee8a42f08b884fb9f60a97a&quot; title=&quot;LG smart TVs caught logging audio with screen off and snooping on local devices&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/autobauss&quot;&gt; /u/autobauss &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1w9jmjn/lg_smart_tvs_caught_logging_audio_with_screen_off/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
