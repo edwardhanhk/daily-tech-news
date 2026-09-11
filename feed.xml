@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 10 Sep 2026 03:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:41:19 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Automattic's board forces CEO Matt Mullenweg into leave of absence</title>
-      <link>https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/</guid>
-      <pubDate>Wed, 09 Sep 2026 23:49:29 +0000</pubDate>
+      <title>[HN] LLM Visualizer – Build a Transformer from Scratch</title>
+      <link>https://jayvisaria.github.io/LLM-Visualizer/#/dashboard</link>
+      <guid isPermaLink="true">https://jayvisaria.github.io/LLM-Visualizer/#/dashboard</guid>
+      <pubDate>Fri, 11 Sep 2026 02:51:51 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Blizzard Workers Win Historic Union Contract</title>
-      <link>https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers</link>
-      <guid isPermaLink="true">https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers</guid>
-      <pubDate>Wed, 09 Sep 2026 22:22:53 +0000</pubDate>
+      <title>[HN] Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure</title>
+      <link>https://github.com/HimanshuJ16/Algo-Trading-Skills</link>
+      <guid isPermaLink="true">https://github.com/HimanshuJ16/Algo-Trading-Skills</guid>
+      <pubDate>Fri, 11 Sep 2026 02:37:28 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes</title>
-      <link>https://hugovergnes.github.io/little-lm-3-8b/</link>
-      <guid isPermaLink="true">https://hugovergnes.github.io/little-lm-3-8b/</guid>
-      <pubDate>Thu, 10 Sep 2026 02:04:11 +0000</pubDate>
+      <title>[HN] Mexican student creates an acoustic fire extinguisher to put out fire in seconds</title>
+      <link>https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</link>
+      <guid isPermaLink="true">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:00:56 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming</title>
-      <link>https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/</link>
-      <guid isPermaLink="true">https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/</guid>
-      <pubDate>Thu, 10 Sep 2026 01:59:51 +0000</pubDate>
+      <title>[HN] Herdr Studio</title>
+      <link>https://powerfooI.github.io/herdr-studio/</link>
+      <guid isPermaLink="true">https://powerfooI.github.io/herdr-studio/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:54:36 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: What if the speed of light was 5 km/h?</title>
-      <link>https://rivendell.dmitrybrant.com/relativity/</link>
-      <guid isPermaLink="true">https://rivendell.dmitrybrant.com/relativity/</guid>
-      <pubDate>Thu, 10 Sep 2026 01:58:00 +0000</pubDate>
+      <title>[HN] Setting up OpenCode with Ollama and sbx on Mac</title>
+      <link>https://tensorsandtokens.com/posts/opencode-ollama/</link>
+      <guid isPermaLink="true">https://tensorsandtokens.com/posts/opencode-ollama/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:45:26 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Doctor Doom Thanked Seattle for All the Surveillance Cameras / ‘We must work to crush any dissent to Doom’s vision of public safety,’ the Marvel supervillain told the city as it considered multiple surveillance proposals.</title>
-      <link>https://www.reddit.com/r/technology/comments/1wbvjfs/doctor_doom_thanked_seattle_for_all_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wbvjfs/doctor_doom_thanked_seattle_for_all_the/</guid>
-      <pubDate>2026-09-09T19:26:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbvjfs/doctor_doom_thanked_seattle_for_all_the/&quot;&gt; &lt;img alt=&quot;Doctor Doom Thanked Seattle for All the Surveillance Cameras / ‘We must work to crush any dissent to Doom’s vision of public safety,’ the Marvel supervillain told the city as it considered multiple surveillance proposals.&quot; src=&quot;https://external-preview.redd.it/_NuCjNitUwo6u-8G9Kzyy1txAj8I8RQcaEj60ZJpsAQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2578592740d9dd15a0cf3db3c9097c0c56440dbd&quot; title=&quot;Doctor Doom Thanked Seattle for All the Surveillance Cameras / ‘We must work to crush any dissent to Doom’s vision of public safety,’ the Marvel supervillain told the city as it considered multiple surveillance proposals.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbvjfs/doctor_doom_thanked_seattle_for_all_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Former Obama Admin Official Says It's Time To Consider Military Strikes on Chinese Data Centers to Prevent Them From Reaching AGI</title>
+      <link>https://www.reddit.com/r/technology/comments/1wcsj2v/former_obama_admin_official_says_its_time_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wcsj2v/former_obama_admin_official_says_its_time_to/</guid>
+      <pubDate>2026-09-10T19:04:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wcsj2v/former_obama_admin_official_says_its_time_to/&quot;&gt; &lt;img alt=&quot;Former Obama Admin Official Says It's Time To Consider Military Strikes on Chinese Data Centers to Prevent Them From Reaching AGI&quot; src=&quot;https://external-preview.redd.it/5hxUQTVOyYVHf_cru2akmw5LE93lmEXasCF8TcGoOHk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=aa67b9c33092edca01e35e02e21d0edec00cef39&quot; title=&quot;Former Obama Admin Official Says It's Time To Consider Military Strikes on Chinese Data Centers to Prevent Them From Reaching AGI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/defenestrate_urself&quot;&gt; /u/defenestrate_urself &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/politics/articles/former-obama-admin-official-says-180208350.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wcsj2v/former_obama_admin_official_says_its_time_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Cops Are Using Flock to Spy on People for the Crime of Standing Around | Police scanned Flock cameras in a single town in Illinois more than 1,200 times to investigate cases of loitering</title>
-      <link>https://www.reddit.com/r/technology/comments/1wbo3sm/cops_are_using_flock_to_spy_on_people_for_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wbo3sm/cops_are_using_flock_to_spy_on_people_for_the/</guid>
-      <pubDate>2026-09-09T15:03:25+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbo3sm/cops_are_using_flock_to_spy_on_people_for_the/&quot;&gt; &lt;img alt=&quot;Cops Are Using Flock to Spy on People for the Crime of Standing Around | Police scanned Flock cameras in a single town in Illinois more than 1,200 times to investigate cases of loitering&quot; src=&quot;https://external-preview.redd.it/QljVB6qjIoZFAKliWC7FICQRRGQVQMnln6pTpMRx4ww.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c9d2691beefba77b6b9b011cd1fbf7c28740c58e&quot; title=&quot;Cops Are Using Flock to Spy on People for the Crime of Standing Around | Police scanned Flock cameras in a single town in Illinois more than 1,200 times to investigate cases of loitering&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hrmbee&quot;&gt; /u/Hrmbee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://theintercept.com/2026/09/09/flock-cameras-police-loitering-curfew-surveillance/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbo3sm/cops_are_using_flock_to_spy_on_people_for_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Florida woman sues over wrongful arrest tied to Flock camera data</title>
+      <link>https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/</guid>
+      <pubDate>2026-09-10T18:21:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/&quot;&gt; &lt;img alt=&quot;Florida woman sues over wrongful arrest tied to Flock camera data&quot; src=&quot;https://external-preview.redd.it/LoG7GM1JR_n4AgnUDfE9ZEeE7MXKN5KsDcmReM_JSwg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2de0712bb11b4cfebef13f205442fa1aa179837f&quot; title=&quot;Florida woman sues over wrongful arrest tied to Flock camera data&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/consultinglove&quot;&gt; /u/consultinglove &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.foxnews.com/tech/innocent-woman-says-police-use-flock-camera-led-13-days-jail?msockid=302df82831bf6695193aed763014675d&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Flock worker calls police on reporter filming public camera installation</title>
-      <link>https://www.reddit.com/r/technology/comments/1wbjnji/flock_worker_calls_police_on_reporter_filming/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wbjnji/flock_worker_calls_police_on_reporter_filming/</guid>
-      <pubDate>2026-09-09T12:03:37+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbjnji/flock_worker_calls_police_on_reporter_filming/&quot;&gt; &lt;img alt=&quot;Flock worker calls police on reporter filming public camera installation&quot; src=&quot;https://external-preview.redd.it/WlYA2m2hX7onKtx9YhJY-xLCCqojDhXWav3_89pgL4Y.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5dc822d6cff98182eac55f3f61dce3e72a3ffc82&quot; title=&quot;Flock worker calls police on reporter filming public camera installation&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No-Lifeguard-8173&quot;&gt; /u/No-Lifeguard-8173 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbjnji/flock_worker_calls_police_on_reporter_filming/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] After $300 million in tariff refunds, Nintendo won't give players cash back but you will get &quot;30% off&quot; in a &quot;Customer Appreciation Sale&quot;</title>
+      <link>https://www.reddit.com/r/technology/comments/1wcnz3y/after_300_million_in_tariff_refunds_nintendo_wont/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wcnz3y/after_300_million_in_tariff_refunds_nintendo_wont/</guid>
+      <pubDate>2026-09-10T16:24:46+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wcnz3y/after_300_million_in_tariff_refunds_nintendo_wont/&quot;&gt; &lt;img alt=&quot;After $300 million in tariff refunds, Nintendo won't give players cash back but you will get &amp;quot;30% off&amp;quot; in a &amp;quot;Customer Appreciation Sale&amp;quot;&quot; src=&quot;https://external-preview.redd.it/7zcgr7YCFBs24amJVQvwVTkZ_PlxhK2UdrDOwkZMrfI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e7683b5b404857b6d06883cab8595b2df5cf6a3d&quot; title=&quot;After $300 million in tariff refunds, Nintendo won't give players cash back but you will get &amp;quot;30% off&amp;quot; in a &amp;quot;Customer Appreciation Sale&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamesradar.com/games/after-usd300-million-in-tariff-refunds-nintendo-wont-give-players-cash-back-but-you-will-get-30-percent-off-in-a-customer-appreciation-sale/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wcnz3y/after_300_million_in_tariff_refunds_nintendo_wont/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. | Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.</title>
-      <link>https://www.reddit.com/r/technology/comments/1wbjeys/man_told_chatgpt_he_was_feeling_delusional/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wbjeys/man_told_chatgpt_he_was_feeling_delusional/</guid>
-      <pubDate>2026-09-09T11:53:13+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbjeys/man_told_chatgpt_he_was_feeling_delusional/&quot;&gt; &lt;img alt=&quot;Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. | Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.&quot; src=&quot;https://external-preview.redd.it/OYqWNB27JFVN3E0y2uSpbxfFrrctAUoD-1l5zDTnW3Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6845d79216979627eda20c0cce94dd0b57a2263a&quot; title=&quot;Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. | Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/andmario_com&quot;&gt; /u/andmario_com &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbjeys/man_told_chatgpt_he_was_feeling_delusional/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Another big James Talarico interview is punted to YouTube due to FCC threats﻿ / Jimmy Kimmel is the latest talk show host to move an interview with Talarico online after the FCC “threatened” him.</title>
+      <link>https://www.reddit.com/r/technology/comments/1wcl077/another_big_james_talarico_interview_is_punted_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wcl077/another_big_james_talarico_interview_is_punted_to/</guid>
+      <pubDate>2026-09-10T14:36:07+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wcl077/another_big_james_talarico_interview_is_punted_to/&quot;&gt; &lt;img alt=&quot;Another big James Talarico interview is punted to YouTube due to FCC threats﻿ / Jimmy Kimmel is the latest talk show host to move an interview with Talarico online after the FCC “threatened” him.&quot; src=&quot;https://external-preview.redd.it/6IMCLptS2dKentxNSdu0_9cRG32-H8NXL4gtSP13G4c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8b9ecd2bd1afaf8ccb71c296637c4ac447351f75&quot; title=&quot;Another big James Talarico interview is punted to YouTube due to FCC threats﻿ / Jimmy Kimmel is the latest talk show host to move an interview with Talarico online after the FCC “threatened” him.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wcl077/another_big_james_talarico_interview_is_punted_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our lives'</title>
-      <link>https://www.reddit.com/r/technology/comments/1wbgwa6/an_anthropic_researcher_just_quit_saying_openai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wbgwa6/an_anthropic_researcher_just_quit_saying_openai/</guid>
-      <pubDate>2026-09-09T09:39:51+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbgwa6/an_anthropic_researcher_just_quit_saying_openai/&quot;&gt; &lt;img alt=&quot;An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our lives'&quot; src=&quot;https://external-preview.redd.it/7sN3U1-OyWLOqbQPCyPtkkQCus__PUt-ZBtytsXojPo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=66305985040589cf3ee784aeb1578d2b0f7346f8&quot; title=&quot;An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our lives'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/anthropic-researcher-quits-over-ai-safety-concerns-2026-9&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wbgwa6/an_anthropic_researcher_just_quit_saying_openai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] LG strongly denies TV spying claims, says tracking and snooping concerns 'not true' — online investigation claims 216,000,000 TVs spy and record audio</title>
+      <link>https://www.reddit.com/r/technology/comments/1wce0ca/lg_strongly_denies_tv_spying_claims_says_tracking/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wce0ca/lg_strongly_denies_tv_spying_claims_says_tracking/</guid>
+      <pubDate>2026-09-10T09:18:20+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wce0ca/lg_strongly_denies_tv_spying_claims_says_tracking/&quot;&gt; &lt;img alt=&quot;LG strongly denies TV spying claims, says tracking and snooping concerns 'not true' — online investigation claims 216,000,000 TVs spy and record audio&quot; src=&quot;https://external-preview.redd.it/5NFERdPhwIjV8U1TJzsCtwwYyKvoPGxxzAvRP2_oH0Y.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b81a9f66f042a715486c78ed8826e03cf036e35f&quot; title=&quot;LG strongly denies TV spying claims, says tracking and snooping concerns 'not true' — online investigation claims 216,000,000 TVs spy and record audio&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Ornery_Speech3323&quot;&gt; /u/Ornery_Speech3323 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wce0ca/lg_strongly_denies_tv_spying_claims_says_tracking/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
