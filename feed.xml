@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 12 Sep 2026 03:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 03:53:09 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Google no longer provides direct URLs in search results</title>
-      <link>https://www.autom.dev/blog/google-search-goto-links</link>
-      <guid isPermaLink="true">https://www.autom.dev/blog/google-search-goto-links</guid>
-      <pubDate>Sat, 12 Sep 2026 03:14:20 +0000</pubDate>
+      <title>[HN] The Interim Computer Museum</title>
+      <link>https://icm.museum/</link>
+      <guid isPermaLink="true">https://icm.museum/</guid>
+      <pubDate>Sun, 13 Sep 2026 02:43:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Pandas Should Go Extinct</title>
-      <link>https://eddie.codes/posts/pandas-should-go-extinct/</link>
-      <guid isPermaLink="true">https://eddie.codes/posts/pandas-should-go-extinct/</guid>
-      <pubDate>Sat, 12 Sep 2026 02:42:08 +0000</pubDate>
+      <title>[HN] Don't call yourself an artisanal programmer</title>
+      <link>https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/</link>
+      <guid isPermaLink="true">https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/</guid>
+      <pubDate>Sun, 13 Sep 2026 02:29:39 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Google stole open source code without crediting the authors (Artemis/Minitap)</title>
-      <link>https://www.minitap.ai/blog/i-expected-better-from-google</link>
-      <guid isPermaLink="true">https://www.minitap.ai/blog/i-expected-better-from-google</guid>
-      <pubDate>Sat, 12 Sep 2026 02:39:39 +0000</pubDate>
+      <title>[HN] Why are AI agents lying, cheating and coordinating?</title>
+      <link>https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</link>
+      <guid isPermaLink="true">https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</guid>
+      <pubDate>Sun, 13 Sep 2026 01:22:31 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies</title>
-      <link>https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</link>
-      <guid isPermaLink="true">https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</guid>
-      <pubDate>Sat, 12 Sep 2026 00:40:32 +0000</pubDate>
+      <title>[HN] Align AI and Mathematics–To Something Else</title>
+      <link>https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/</link>
+      <guid isPermaLink="true">https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:47:48 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents</title>
-      <link>https://github.com/zachsaw/graphify-csharp</link>
-      <guid isPermaLink="true">https://github.com/zachsaw/graphify-csharp</guid>
-      <pubDate>Sat, 12 Sep 2026 00:16:10 +0000</pubDate>
+      <title>[HN] Everyone should slow down AI development except for me</title>
+      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:30:44 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Fed up with Sony, PlayStation fans compile a list of all the times the company said &quot;you own&quot; your games and archive every last receipt</title>
-      <link>https://www.reddit.com/r/technology/comments/1wdxz8c/fed_up_with_sony_playstation_fans_compile_a_list/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wdxz8c/fed_up_with_sony_playstation_fans_compile_a_list/</guid>
-      <pubDate>2026-09-12T00:44:50+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wdxz8c/fed_up_with_sony_playstation_fans_compile_a_list/&quot;&gt; &lt;img alt=&quot;Fed up with Sony, PlayStation fans compile a list of all the times the company said &amp;quot;you own&amp;quot; your games and archive every last receipt&quot; src=&quot;https://external-preview.redd.it/nbQU9chc1qdQoOhfpDEpG8TMLxPcqG9tZ8rn6ge75II.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ae69102576cb311edf62e87e9f4ada3d6e9197be&quot; title=&quot;Fed up with Sony, PlayStation fans compile a list of all the times the company said &amp;quot;you own&amp;quot; your games and archive every last receipt&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kymmieuwu&quot;&gt; /u/Kymmieuwu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamesradar.com/games/fed-up-with-sony-playstation-fans-compile-a-list-of-all-the-times-the-company-said-you-own-your-games-and-archive-every-last-receipt/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wdxz8c/fed_up_with_sony_playstation_fans_compile_a_list/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Texts Reveal Kash Patel Ordering Staff to Fight “Ifindretards” Account</title>
+      <link>https://www.reddit.com/r/technology/comments/1wemxdo/texts_reveal_kash_patel_ordering_staff_to_fight/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wemxdo/texts_reveal_kash_patel_ordering_staff_to_fight/</guid>
+      <pubDate>2026-09-12T20:12:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wemxdo/texts_reveal_kash_patel_ordering_staff_to_fight/&quot;&gt; &lt;img alt=&quot;Texts Reveal Kash Patel Ordering Staff to Fight “Ifindretards” Account&quot; src=&quot;https://external-preview.redd.it/8B9iMu3tnkz76nm0w1N4FUwKX--0C_dB9dkLh_KpRcg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fef8a10e218cb39ce9e8fe04e4b610c0b2bccce0&quot; title=&quot;Texts Reveal Kash Patel Ordering Staff to Fight “Ifindretards” Account&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Majano57&quot;&gt; /u/Majano57 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://newrepublic.com/post/215320/texts-kash-patel-order-staff-mean-social-media-posts-ifindretards&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wemxdo/texts_reveal_kash_patel_ordering_staff_to_fight/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] SpaceX sues to block Texas from releasing Terafab tax-break records</title>
-      <link>https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/</guid>
-      <pubDate>2026-09-11T15:20:22+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/&quot;&gt; &lt;img alt=&quot;SpaceX sues to block Texas from releasing Terafab tax-break records&quot; src=&quot;https://external-preview.redd.it/e8sJ1-2x8Lgc0QIzaS_UhdXODHE-twZpY2jJhYHpzDk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e48ec9516246fadff368616426157031de456d6f&quot; title=&quot;SpaceX sues to block Texas from releasing Terafab tax-break records&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/spacex-terafab-tax-break-records-ai-transparency-texas-2026-9&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Streaming prices have surged nearly 70% in four years, and they're still going up</title>
+      <link>https://www.reddit.com/r/technology/comments/1weir8x/streaming_prices_have_surged_nearly_70_in_four/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1weir8x/streaming_prices_have_surged_nearly_70_in_four/</guid>
+      <pubDate>2026-09-12T17:33:52+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1weir8x/streaming_prices_have_surged_nearly_70_in_four/&quot;&gt; &lt;img alt=&quot;Streaming prices have surged nearly 70% in four years, and they're still going up&quot; src=&quot;https://external-preview.redd.it/YSWBLESUiPJtty0PZ4WQn0YwqjwDvP-j2omdqq_jDjg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=73b8fb7167a83e5fcb1a6a85f1a70efe6c4971ae&quot; title=&quot;Streaming prices have surged nearly 70% in four years, and they're still going up&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113821-streaming-prices-have-surged-nearly-70-four-years.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1weir8x/streaming_prices_have_surged_nearly_70_in_four/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Poll</title>
-      <link>https://www.reddit.com/r/technology/comments/1wdcagx/68_of_us_voters_back_sanderscasar_bill_for_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wdcagx/68_of_us_voters_back_sanderscasar_bill_for_ai/</guid>
-      <pubDate>2026-09-11T10:23:32+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wdcagx/68_of_us_voters_back_sanderscasar_bill_for_ai/&quot;&gt; &lt;img alt=&quot;68% of US Voters Back Sanders/Casar Bill for AI Pause, Ban on Superintelligence: Poll&quot; src=&quot;https://external-preview.redd.it/KA3XleJJTk12ewoYNv8124kzVbDWrNitJ6iyu9qeu4M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b5a7dde8fefd8564a427a4bcf00bc07b4b0fa59c&quot; title=&quot;68% of US Voters Back Sanders/Casar Bill for AI Pause, Ban on Superintelligence: Poll&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.commondreams.org/news/sanders-casar-ai-bill-poll&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wdcagx/68_of_us_voters_back_sanderscasar_bill_for_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] PlayStation’s Future Has Never Looked Bleaker</title>
+      <link>https://www.reddit.com/r/technology/comments/1wehu46/playstations_future_has_never_looked_bleaker/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wehu46/playstations_future_has_never_looked_bleaker/</guid>
+      <pubDate>2026-09-12T16:59:29+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wehu46/playstations_future_has_never_looked_bleaker/&quot;&gt; &lt;img alt=&quot;PlayStation’s Future Has Never Looked Bleaker&quot; src=&quot;https://external-preview.redd.it/IQFyQXdkc_rWAXur9Z02oC6u2YrHb1oK36LT0JHjhzQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ad917f710860a84a8669f74deecd302a8496eb0d&quot; title=&quot;PlayStation’s Future Has Never Looked Bleaker&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kymmieuwu&quot;&gt; /u/Kymmieuwu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ign.com/articles/playstations-future-has-never-looked-bleaker&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wehu46/playstations_future_has_never_looked_bleaker/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Polish developer builds app, called Zuckoff, that detects nearby Meta smart glasses.</title>
-      <link>https://www.reddit.com/r/technology/comments/1wdaeuk/polish_developer_builds_app_called_zuckoff_that/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wdaeuk/polish_developer_builds_app_called_zuckoff_that/</guid>
-      <pubDate>2026-09-11T08:37:16+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wdaeuk/polish_developer_builds_app_called_zuckoff_that/&quot;&gt; &lt;img alt=&quot;Polish developer builds app, called Zuckoff, that detects nearby Meta smart glasses.&quot; src=&quot;https://external-preview.redd.it/zDKmxJpAwBiEOw1AW8fefK3RxMLvbsGaGD3667vTO4o.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ecbdb2186b94ac8d401c6976e6859668fa454f9a&quot; title=&quot;Polish developer builds app, called Zuckoff, that detects nearby Meta smart glasses.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TVP_World_News&quot;&gt; /u/TVP_World_News &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wdaeuk/polish_developer_builds_app_called_zuckoff_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Wardogs Surpasses 1 Million Copies Sold on Day One, Blows Past 300k Peak Concurrent Players on Steam</title>
+      <link>https://www.reddit.com/r/technology/comments/1wegqzi/wardogs_surpasses_1_million_copies_sold_on_day/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wegqzi/wardogs_surpasses_1_million_copies_sold_on_day/</guid>
+      <pubDate>2026-09-12T16:16:43+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wegqzi/wardogs_surpasses_1_million_copies_sold_on_day/&quot;&gt; &lt;img alt=&quot;Wardogs Surpasses 1 Million Copies Sold on Day One, Blows Past 300k Peak Concurrent Players on Steam&quot; src=&quot;https://external-preview.redd.it/5_7aX7kwy0jtpPArBoSYQ6VJ0WO1vKM71S0LZr2lP1I.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=46c27ad157fed3a2cb98b7512c0fefbd3deab919&quot; title=&quot;Wardogs Surpasses 1 Million Copies Sold on Day One, Blows Past 300k Peak Concurrent Players on Steam&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wegqzi/wardogs_surpasses_1_million_copies_sold_on_day/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Dating Apps Are Dying</title>
-      <link>https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/</guid>
-      <pubDate>2026-09-11T06:37:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/&quot;&gt; &lt;img alt=&quot;Dating Apps Are Dying&quot; src=&quot;https://external-preview.redd.it/fTKT--9lw1U2iFdfgADHL-bsyBI0bT3ZzLhNyzqHTYw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=41e0615e8f03fae7134a9948c3db09497c383f53&quot; title=&quot;Dating Apps Are Dying&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/thinkB4WeSpeak&quot;&gt; /u/thinkB4WeSpeak &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://time.com/article/2026/09/09/dating-apps-are-dying/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Wiki documents at least 44 instances in which Sony says you own your games as digital games ownership lawsuit progresses — project is direct assault on Sony's claim in recent ownership lawsuit</title>
+      <link>https://www.reddit.com/r/technology/comments/1wee4t5/wiki_documents_at_least_44_instances_in_which/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wee4t5/wiki_documents_at_least_44_instances_in_which/</guid>
+      <pubDate>2026-09-12T14:30:35+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wee4t5/wiki_documents_at_least_44_instances_in_which/&quot;&gt; &lt;img alt=&quot;Wiki documents at least 44 instances in which Sony says you own your games as digital games ownership lawsuit progresses — project is direct assault on Sony's claim in recent ownership lawsuit&quot; src=&quot;https://external-preview.redd.it/Chsvom9Kc_4EtXetJI41LTF2vSqjxAMhuGKMWAUbCBU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6f40ce658875b6dfb0354d406c6ae1132e81e9a2&quot; title=&quot;Wiki documents at least 44 instances in which Sony says you own your games as digital games ownership lawsuit progresses — project is direct assault on Sony's claim in recent ownership lawsuit&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yourfavchoom&quot;&gt; /u/yourfavchoom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/video-games/playstation/consumer-rights-wiki-documents-at-least-44-instances-in-which-sony-says-you-own-your-games-project-is-direct-assault-on-sonys-claim-in-recent-ownership-lawsuit&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wee4t5/wiki_documents_at_least_44_instances_in_which/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
