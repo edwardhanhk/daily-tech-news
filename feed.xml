@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 15 Sep 2026 03:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:57:17 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</link>
-      <guid isPermaLink="true">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</guid>
-      <pubDate>Tue, 15 Sep 2026 00:40:14 +0000</pubDate>
+      <title>[HN] Negativland, Culture Jamming, and the Art of Making Something New</title>
+      <link>https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</link>
+      <guid isPermaLink="true">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</guid>
+      <pubDate>Wed, 16 Sep 2026 02:46:06 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS</title>
-      <link>https://github.com/JamesRyanATX/fcbnerd</link>
-      <guid isPermaLink="true">https://github.com/JamesRyanATX/fcbnerd</guid>
-      <pubDate>Mon, 14 Sep 2026 23:01:36 +0000</pubDate>
+      <title>[HN] Stay discoverable in search while disallowing AI training</title>
+      <link>https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</guid>
+      <pubDate>Wed, 16 Sep 2026 02:25:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Charts built for Chat</title>
-      <link>https://dbtcharts.com/blog/charts-built-for-chat/</link>
-      <guid isPermaLink="true">https://dbtcharts.com/blog/charts-built-for-chat/</guid>
-      <pubDate>Mon, 14 Sep 2026 21:22:54 +0000</pubDate>
+      <title>[HN] Apple Reference Image: A New Approach for Verified Photography</title>
+      <link>https://security.apple.com/blog/apple-reference-image/</link>
+      <guid isPermaLink="true">https://security.apple.com/blog/apple-reference-image/</guid>
+      <pubDate>Wed, 16 Sep 2026 02:07:31 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit</title>
-      <link>https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</link>
-      <guid isPermaLink="true">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</guid>
-      <pubDate>Mon, 14 Sep 2026 21:05:22 +0000</pubDate>
+      <title>[HN] Saving Jet Fuel</title>
+      <link>https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</link>
+      <guid isPermaLink="true">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</guid>
+      <pubDate>Tue, 15 Sep 2026 23:17:20 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?</title>
-      <link>https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</link>
-      <guid isPermaLink="true">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</guid>
-      <pubDate>Mon, 14 Sep 2026 19:56:20 +0000</pubDate>
+      <title>[HN] Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA</title>
+      <link>https://nand2mario.github.io/posts/2026/zsst-voodoo/</link>
+      <guid isPermaLink="true">https://nand2mario.github.io/posts/2026/zsst-voodoo/</guid>
+      <pubDate>Tue, 15 Sep 2026 22:50:55 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Cops Search Thousands of Flock Cameras for Reasons of ‘LMAO,’ ‘IDK,’ ‘Hehe,’ and ‘asdfg’</title>
-      <link>https://www.reddit.com/r/technology/comments/1wgf8yf/cops_search_thousands_of_flock_cameras_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wgf8yf/cops_search_thousands_of_flock_cameras_for/</guid>
-      <pubDate>2026-09-14T20:33:11+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wgf8yf/cops_search_thousands_of_flock_cameras_for/&quot;&gt; &lt;img alt=&quot;Cops Search Thousands of Flock Cameras for Reasons of ‘LMAO,’ ‘IDK,’ ‘Hehe,’ and ‘asdfg’&quot; src=&quot;https://external-preview.redd.it/upVbbbbGEJBmH95S7vGfmF9oYwl26nC8lqlQ97_5WRI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2a0e8e46e24d8d84de18fff0e51ca659c7824d30&quot; title=&quot;Cops Search Thousands of Flock Cameras for Reasons of ‘LMAO,’ ‘IDK,’ ‘Hehe,’ and ‘asdfg’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/cops-search-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wgf8yf/cops_search_thousands_of_flock_cameras_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Bernie Sanders says if AI is coming for workers, it should bring a four-day workweek with it</title>
+      <link>https://www.reddit.com/r/technology/comments/1whb5py/bernie_sanders_says_if_ai_is_coming_for_workers/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1whb5py/bernie_sanders_says_if_ai_is_coming_for_workers/</guid>
+      <pubDate>2026-09-15T20:00:52+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1whb5py/bernie_sanders_says_if_ai_is_coming_for_workers/&quot;&gt; &lt;img alt=&quot;Bernie Sanders says if AI is coming for workers, it should bring a four-day workweek with it&quot; src=&quot;https://external-preview.redd.it/1P2QmG13RJaHvhYrK4WMOQRqX6Ph09EUTOSjrSPhdW0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba809e7e1386beec39ab41df86f6dc2ece55e6e0&quot; title=&quot;Bernie Sanders says if AI is coming for workers, it should bring a four-day workweek with it&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1whb5py/bernie_sanders_says_if_ai_is_coming_for_workers/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Sony says gamers don't own their digital purchases, but 44 examples of its own wording suggest otherwise</title>
-      <link>https://www.reddit.com/r/technology/comments/1wgdlsy/sony_says_gamers_dont_own_their_digital_purchases/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wgdlsy/sony_says_gamers_dont_own_their_digital_purchases/</guid>
-      <pubDate>2026-09-14T19:34:37+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wgdlsy/sony_says_gamers_dont_own_their_digital_purchases/&quot;&gt; &lt;img alt=&quot;Sony says gamers don't own their digital purchases, but 44 examples of its own wording suggest otherwise&quot; src=&quot;https://external-preview.redd.it/ZMpLv2Ijebm2rkD_6jg9SBEVPnnGBwZ09KZ6WhRDmWQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a8089ff96146436c1fc667d7a238c68c4c94a91d&quot; title=&quot;Sony says gamers don't own their digital purchases, but 44 examples of its own wording suggest otherwise&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113834-sony-gamers-dont-own-their-digital-purchases-but.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wgdlsy/sony_says_gamers_dont_own_their_digital_purchases/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet — 'In 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet'</title>
+      <link>https://www.reddit.com/r/technology/comments/1wh7x4a/anthropic_ceo_warns_of_aidriven_botnet_swarm/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wh7x4a/anthropic_ceo_warns_of_aidriven_botnet_swarm/</guid>
+      <pubDate>2026-09-15T18:05:47+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wh7x4a/anthropic_ceo_warns_of_aidriven_botnet_swarm/&quot;&gt; &lt;img alt=&quot;Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet — 'In 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet'&quot; src=&quot;https://external-preview.redd.it/ldOgDUo56DD7EbqriOrCA-KDOWZbzZtM8KdR7sDPsOE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b0f6c56909cce0ba0c8ebf97f69875e8dfb2edb&quot; title=&quot;Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet — 'In 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wh7x4a/anthropic_ceo_warns_of_aidriven_botnet_swarm/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work | Maddie Kowalski is one of countless young women who’ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she’s fighting back</title>
-      <link>https://www.reddit.com/r/technology/comments/1wg8c4z/a_college_girl_was_exploited_on_camera_a_network/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wg8c4z/a_college_girl_was_exploited_on_camera_a_network/</guid>
-      <pubDate>2026-09-14T16:31:33+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wg8c4z/a_college_girl_was_exploited_on_camera_a_network/&quot;&gt; &lt;img alt=&quot;A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work | Maddie Kowalski is one of countless young women who’ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she’s fighting back&quot; src=&quot;https://external-preview.redd.it/X3o9jug1T9IsfUgwy-paZJh6gH5p6VDVn8gAbOLbBsE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=776e5131a75ff9ec156457c7d2a48ebead2fe9b4&quot; title=&quot;A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work | Maddie Kowalski is one of countless young women who’ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she’s fighting back&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hrmbee&quot;&gt; /u/Hrmbee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wired.com/story/burnerverse-maddie-kowalski/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wg8c4z/a_college_girl_was_exploited_on_camera_a_network/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Charges Against Man Who Destroyed 3D-Printed ‘Decoy’ Flock Camera Drastically Reduced After State Admits It Was Not Very Valuable</title>
+      <link>https://www.reddit.com/r/technology/comments/1wh3zzu/charges_against_man_who_destroyed_3dprinted_decoy/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wh3zzu/charges_against_man_who_destroyed_3dprinted_decoy/</guid>
+      <pubDate>2026-09-15T15:44:59+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wh3zzu/charges_against_man_who_destroyed_3dprinted_decoy/&quot;&gt; &lt;img alt=&quot;Charges Against Man Who Destroyed 3D-Printed ‘Decoy’ Flock Camera Drastically Reduced After State Admits It Was Not Very Valuable&quot; src=&quot;https://external-preview.redd.it/xooaJCm23rBmr2mRuoucSq2BBEZdQp_PnXhpSL5nCY8.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1c1fa1496c722207e933999f86cce4a015bba875&quot; title=&quot;Charges Against Man Who Destroyed 3D-Printed ‘Decoy’ Flock Camera Drastically Reduced After State Admits It Was Not Very Valuable&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/charges-against-man-who-destroyed-3d-printed-decoy-flock-camera-drastically-reduced-after-state-admits-it-was-not-very-valuable/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wh3zzu/charges_against_man_who_destroyed_3dprinted_decoy/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] ‘I Thought My Life Was Over’</title>
-      <link>https://www.reddit.com/r/technology/comments/1wg62y5/police_used_flock_camera_footage_to_jail_innocent/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wg62y5/police_used_flock_camera_footage_to_jail_innocent/</guid>
-      <pubDate>2026-09-14T15:09:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wg62y5/police_used_flock_camera_footage_to_jail_innocent/&quot;&gt; &lt;img alt=&quot;Police Used Flock Camera Footage to Jail Innocent Woman for 13 Days: ‘I Thought My Life Was Over’&quot; src=&quot;https://external-preview.redd.it/gmjyUJlZO16KeRXzOGz97dpujzjRMT9TY1Gcb9rlc64.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ab49df858f40c393f95dc5306b4c6ac5941828fa&quot; title=&quot;Police Used Flock Camera Footage to Jail Innocent Woman for 13 Days: ‘I Thought My Life Was Over’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techtimes.co.uk/florida-woman-flock-camera-misidentification-charges-dropped-1808662&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wg62y5/police_used_flock_camera_footage_to_jail_innocent/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Tech billionaire Peter Thiel bringing Antichrist lectures to Nashville</title>
+      <link>https://www.reddit.com/r/technology/comments/1wgzk6w/tech_billionaire_peter_thiel_bringing_antichrist/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wgzk6w/tech_billionaire_peter_thiel_bringing_antichrist/</guid>
+      <pubDate>2026-09-15T12:53:13+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wgzk6w/tech_billionaire_peter_thiel_bringing_antichrist/&quot;&gt; &lt;img alt=&quot;Tech billionaire Peter Thiel bringing Antichrist lectures to Nashville&quot; src=&quot;https://external-preview.redd.it/sOGuvmHD3MKr40_kTgk7v5yPfai_iZWQlQtFLDIoUqA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cbc542204786e84908839d4a5db7b5899be29e63&quot; title=&quot;Tech billionaire Peter Thiel bringing Antichrist lectures to Nashville&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/tech-billionaire-peter-thiel-bringing-202027251.html?guccounter=1&amp;amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;amp;guce_referrer_sig=AQAAAMvW0WF7ztq0H2V4M1e_6A_OME4RgK3V8I_0pM_aNt8DHqj0rEzY6IoRUB8VBBjbemATFAqAr9c2Rcc9XszsnVLrrojZ346mew6nB1yYzebBcLgfwevAP6KgccSuiW9vFkhnd1WaxefNuGGiAaK8QnIEOJyNU4JwXIi3mkI-cDwx&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wgzk6w/tech_billionaire_peter_thiel_bringing_antichrist/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] New Bernie Sanders bill would ban superintelligent AI and threaten developers with 20 years in prison</title>
-      <link>https://www.reddit.com/r/technology/comments/1wg1uq3/new_bernie_sanders_bill_would_ban/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wg1uq3/new_bernie_sanders_bill_would_ban/</guid>
-      <pubDate>2026-09-14T12:19:47+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wg1uq3/new_bernie_sanders_bill_would_ban/&quot;&gt; &lt;img alt=&quot;New Bernie Sanders bill would ban superintelligent AI and threaten developers with 20 years in prison&quot; src=&quot;https://external-preview.redd.it/bdkQnx6h0iF0EZKHbcbmgdbmwnCTDTGRYzwXfMhCyLA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=72e070f802931007f87e197f2d23837edf135484&quot; title=&quot;New Bernie Sanders bill would ban superintelligent AI and threaten developers with 20 years in prison&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113831-new-bernie-sanders-bill-would-ban-superintelligent-ai.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wg1uq3/new_bernie_sanders_bill_would_ban/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Boston drops Flock after outside agencies gained access to vehicle data</title>
+      <link>https://www.reddit.com/r/technology/comments/1wgyj0f/boston_drops_flock_after_outside_agencies_gained/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wgyj0f/boston_drops_flock_after_outside_agencies_gained/</guid>
+      <pubDate>2026-09-15T12:06:31+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wgyj0f/boston_drops_flock_after_outside_agencies_gained/&quot;&gt; &lt;img alt=&quot;Boston drops Flock after outside agencies gained access to vehicle data&quot; src=&quot;https://external-preview.redd.it/LwA7gkMZ3Pvr99nxM0aKv6MVHMu5igcNrmOM3h0mNfs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=054a1d8c5d8122b9c1b4cf501975a72cc76932d0&quot; title=&quot;Boston drops Flock after outside agencies gained access to vehicle data&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.masslive.com/boston/2026/09/boston-drops-flock-after-outside-agencies-gained-access-to-vehicle-data.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wgyj0f/boston_drops_flock_after_outside_agencies_gained/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
