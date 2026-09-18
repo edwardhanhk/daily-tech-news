@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 17 Sep 2026 04:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:49:27 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Keys Not Included: recovering the signing keys for US driver's license barcodes</title>
-      <link>https://ryan.science/blog/keys-not-included</link>
-      <guid isPermaLink="true">https://ryan.science/blog/keys-not-included</guid>
-      <pubDate>Thu, 17 Sep 2026 03:03:23 +0000</pubDate>
+      <title>[HN] Alibaba releases Qwen 3.8 Omni Flash</title>
+      <link>https://qwen.ai/blog?id=qwen3.8-omni-flash</link>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-omni-flash</guid>
+      <pubDate>Thu, 17 Sep 2026 23:05:48 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)</title>
-      <link>https://www.vanityfair.com/news/2008/05/monsanto200805</link>
-      <guid isPermaLink="true">https://www.vanityfair.com/news/2008/05/monsanto200805</guid>
-      <pubDate>Thu, 17 Sep 2026 02:19:49 +0000</pubDate>
+      <title>[HN] How Uber Protects Against Retry Storms</title>
+      <link>https://www.uber.com/us/en/blog/protecting-against-retry-storms/</link>
+      <guid isPermaLink="true">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</guid>
+      <pubDate>Thu, 17 Sep 2026 21:14:32 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression</title>
-      <link>https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html</link>
-      <guid isPermaLink="true">https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html</guid>
-      <pubDate>Thu, 17 Sep 2026 01:39:47 +0000</pubDate>
+      <title>[HN] Hacking OpenAI</title>
+      <link>https://www.hacktron.ai/blog/hacking-openai</link>
+      <guid isPermaLink="true">https://www.hacktron.ai/blog/hacking-openai</guid>
+      <pubDate>Fri, 18 Sep 2026 02:47:24 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Part-human part-mouse brain developed in science breakthrough</title>
-      <link>https://www.bbc.com/news/articles/c60m3k28j81mo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c60m3k28j81mo</guid>
-      <pubDate>Thu, 17 Sep 2026 01:33:10 +0000</pubDate>
+      <title>[HN] Ask A Monk – A digital wilderness for thoughts with no immediate answer</title>
+      <link>https://askamonk.online</link>
+      <guid isPermaLink="true">https://askamonk.online</guid>
+      <pubDate>Fri, 18 Sep 2026 01:34:08 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Pangram – AI detector for text and images</title>
-      <link>https://www.pangram.com</link>
-      <guid isPermaLink="true">https://www.pangram.com</guid>
-      <pubDate>Thu, 17 Sep 2026 01:13:10 +0000</pubDate>
+      <title>[HN] Telstra outage: The night a network decided the year was 2006</title>
+      <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
+      <guid isPermaLink="true">https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</guid>
+      <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Iran strikes on Amazon data centers caused permanent loss of customer data</title>
-      <link>https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/</guid>
-      <pubDate>2026-09-16T22:45:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/&quot;&gt; &lt;img alt=&quot;Iran strikes on Amazon data centers caused permanent loss of customer data&quot; src=&quot;https://external-preview.redd.it/Ktq4mxpN4xu8pKKXhWJyPnCh6TdUk-wXAqcq6v18DZk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6c3acb7bfc30f8bd1bc641f127dc088c6da83d68&quot; title=&quot;Iran strikes on Amazon data centers caused permanent loss of customer data&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] We Regret to Inform You Chipotle Is Now Working With Palantir</title>
+      <link>https://www.reddit.com/r/technology/comments/1wiww7d/we_regret_to_inform_you_chipotle_is_now_working/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wiww7d/we_regret_to_inform_you_chipotle_is_now_working/</guid>
+      <pubDate>2026-09-17T15:18:49+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiww7d/we_regret_to_inform_you_chipotle_is_now_working/&quot;&gt; &lt;img alt=&quot;We Regret to Inform You Chipotle Is Now Working With Palantir&quot; src=&quot;https://external-preview.redd.it/AYXpmseEcJaseH4bgTPnwVbZbFrEjoXEzUcg-1nlHiw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4b54ba36dc42cd7049e205d3893e8ccf16799bb3&quot; title=&quot;We Regret to Inform You Chipotle Is Now Working With Palantir&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/harsh2k5&quot;&gt; /u/harsh2k5 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://newrepublic.com/post/215501/chipotle-palantir&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiww7d/we_regret_to_inform_you_chipotle_is_now_working/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] PS5 Linux lead quits as open-source projects have become “a bunch of noobs using LLMs” that “they don’t even understand”</title>
-      <link>https://www.reddit.com/r/technology/comments/1wi0g93/ps5_linux_lead_quits_as_opensource_projects_have/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wi0g93/ps5_linux_lead_quits_as_opensource_projects_have/</guid>
-      <pubDate>2026-09-16T15:28:53+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wi0g93/ps5_linux_lead_quits_as_opensource_projects_have/&quot;&gt; &lt;img alt=&quot;PS5 Linux lead quits as open-source projects have become “a bunch of noobs using LLMs” that “they don’t even understand”&quot; src=&quot;https://external-preview.redd.it/Qtx1i0Ag4GxU9iHb0ppDKlTTl7Y8gxs5ICrMrvwdfLU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9b074357c52566a66814ae0789672d1dc3d352b2&quot; title=&quot;PS5 Linux lead quits as open-source projects have become “a bunch of noobs using LLMs” that “they don’t even understand”&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kymmieuwu&quot;&gt; /u/Kymmieuwu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techpowerup.com/352739/ps5-linux-dev-drops-project-after-slop-kiddies-cash-in-on-crucial-exploit&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wi0g93/ps5_linux_lead_quits_as_opensource_projects_have/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Shopify CEO says employees' 'slop grenades' are making more work for everyone else</title>
+      <link>https://www.reddit.com/r/technology/comments/1wiw7m7/shopify_ceo_says_employees_slop_grenades_are/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wiw7m7/shopify_ceo_says_employees_slop_grenades_are/</guid>
+      <pubDate>2026-09-17T14:53:16+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiw7m7/shopify_ceo_says_employees_slop_grenades_are/&quot;&gt; &lt;img alt=&quot;Shopify CEO says employees' 'slop grenades' are making more work for everyone else&quot; src=&quot;https://external-preview.redd.it/1qSDI7ZL_211XhhVf5_Y8RpQQyC7017Dfk8UAUZ8BVk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bf713109a64fecd3bbed2b91285f7ede5ac22b91&quot; title=&quot;Shopify CEO says employees' 'slop grenades' are making more work for everyone else&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/zedguy&quot;&gt; /u/zedguy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/shopify-ceo-ai-slop-grenades-can-make-work-harder-2026-9&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiw7m7/shopify_ceo_says_employees_slop_grenades_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card - bill racked up in just three weeks was supposed to be one $20 promotion</title>
-      <link>https://www.reddit.com/r/technology/comments/1whzsye/devastated_father_says_his_9yearold_son_spent/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1whzsye/devastated_father_says_his_9yearold_son_spent/</guid>
-      <pubDate>2026-09-16T15:04:56+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1whzsye/devastated_father_says_his_9yearold_son_spent/&quot;&gt; &lt;img alt=&quot;Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card - bill racked up in just three weeks was supposed to be one $20 promotion&quot; src=&quot;https://external-preview.redd.it/paQY7ZnBAY-NEbCW8LE44fY5h1Q4xeYXMJUflZHAYzA.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b05323d56891a0046df800333e25c6336553134d&quot; title=&quot;Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card - bill racked up in just three weeks was supposed to be one $20 promotion&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1whzsye/devastated_father_says_his_9yearold_son_spent/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Hackers find encryption keys stored on stolen Flock camera despite company's denials-- group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device</title>
+      <link>https://www.reddit.com/r/technology/comments/1wiv3uy/hackers_find_encryption_keys_stored_on_stolen/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wiv3uy/hackers_find_encryption_keys_stored_on_stolen/</guid>
+      <pubDate>2026-09-17T14:10:55+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiv3uy/hackers_find_encryption_keys_stored_on_stolen/&quot;&gt; &lt;img alt=&quot;Hackers find encryption keys stored on stolen Flock camera despite company's denials-- group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device&quot; src=&quot;https://external-preview.redd.it/CQKWLxieuWDwyWsHykk5s2xBtHsSubElO-Q0iQ88IZk.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ec83e90672340c29ae9cd4d0a5be923e500105d6&quot; title=&quot;Hackers find encryption keys stored on stolen Flock camera despite company's denials-- group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-more-than-27-000-clips-1-6-million-images-captured-in-a-span-of-21-days-from-device&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiv3uy/hackers_find_encryption_keys_stored_on_stolen/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Solar panel costs have plummeted from $6 per watt in 2000 to just 12 cents today</title>
-      <link>https://www.reddit.com/r/technology/comments/1whuktt/solar_panel_costs_have_plummeted_from_6_per_watt/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1whuktt/solar_panel_costs_have_plummeted_from_6_per_watt/</guid>
-      <pubDate>2026-09-16T11:29:56+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1whuktt/solar_panel_costs_have_plummeted_from_6_per_watt/&quot;&gt; &lt;img alt=&quot;Solar panel costs have plummeted from $6 per watt in 2000 to just 12 cents today&quot; src=&quot;https://external-preview.redd.it/-igdHAsVZcCuuP2UA-u3q1mga1r1GK0K97IRElohiOs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=67c41f242acecc231c0413ca97037c7697f6b212&quot; title=&quot;Solar panel costs have plummeted from $6 per watt in 2000 to just 12 cents today&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113860-solar-panel-costs-have-plummeted-6-watt-2000.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1whuktt/solar_panel_costs_have_plummeted_from_6_per_watt/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Marvel's Wolverine motorcycle section and quicktime events are getting the wrong kind of attention because &quot;the game plays itself&quot; and &quot;you don't have to press anything&quot;</title>
+      <link>https://www.reddit.com/r/technology/comments/1wiu5wq/marvels_wolverine_motorcycle_section_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wiu5wq/marvels_wolverine_motorcycle_section_and/</guid>
+      <pubDate>2026-09-17T13:34:18+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiu5wq/marvels_wolverine_motorcycle_section_and/&quot;&gt; &lt;img alt=&quot;Marvel's Wolverine motorcycle section and quicktime events are getting the wrong kind of attention because &amp;quot;the game plays itself&amp;quot; and &amp;quot;you don't have to press anything&amp;quot;&quot; src=&quot;https://external-preview.redd.it/pcSm8CQYaEcxu9C_tueBWcL5bn4_dJalVLJRO-k91aw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=baf07d04697355a23a482c79afa8d58c6dae041e&quot; title=&quot;Marvel's Wolverine motorcycle section and quicktime events are getting the wrong kind of attention because &amp;quot;the game plays itself&amp;quot; and &amp;quot;you don't have to press anything&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kymmieuwu&quot;&gt; /u/Kymmieuwu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamesradar.com/games/action/marvels-wolverine-motorcycle-section-and-quicktime-events-are-getting-the-wrong-kind-of-attention-because-the-game-plays-itself-and-you-dont-have-to-press-anything/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiu5wq/marvels_wolverine_motorcycle_section_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People</title>
-      <link>https://www.reddit.com/r/technology/comments/1whthe5/hackers_stole_flocks_camera_software_revealing/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1whthe5/hackers_stole_flocks_camera_software_revealing/</guid>
-      <pubDate>2026-09-16T10:32:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1whthe5/hackers_stole_flocks_camera_software_revealing/&quot;&gt; &lt;img alt=&quot;Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People&quot; src=&quot;https://external-preview.redd.it/aqsbwC7HnUPEZpaN7fVtWZkt5ioUBwd2DszopHRRRic.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ab8059810f58e605198ce0a70b676db4fdb36037&quot; title=&quot;Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1whthe5/hackers_stole_flocks_camera_software_revealing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Grandmother jailed for six months after facial recognition mistake launches $10 million lawsuit against Fargo and detective</title>
+      <link>https://www.reddit.com/r/technology/comments/1wiu59k/grandmother_jailed_for_six_months_after_facial/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wiu59k/grandmother_jailed_for_six_months_after_facial/</guid>
+      <pubDate>2026-09-17T13:33:32+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiu59k/grandmother_jailed_for_six_months_after_facial/&quot;&gt; &lt;img alt=&quot;Grandmother jailed for six months after facial recognition mistake launches $10 million lawsuit against Fargo and detective&quot; src=&quot;https://external-preview.redd.it/dHGfUCpiLcoOcpc24VcOXjAjO4iOxxbA29TTxK2-yf0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=59190acb0e4795805e6ad4d82dc761df5f0229fd&quot; title=&quot;Grandmother jailed for six months after facial recognition mistake launches $10 million lawsuit against Fargo and detective&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113883-grandmother-jailed-after-facial-recognition-mistake-launches-10.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wiu59k/grandmother_jailed_for_six_months_after_facial/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
