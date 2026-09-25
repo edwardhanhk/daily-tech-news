@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 24 Sep 2026 03:47:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:02:55 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Australia says OpenAI agent hacked into government website</title>
-      <link>https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</link>
-      <guid isPermaLink="true">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</guid>
-      <pubDate>Thu, 24 Sep 2026 01:24:00 +0000</pubDate>
+      <title>[HN] Show HN: Koi.rest – watch some fish and regain your balance</title>
+      <link>https://koi.rest</link>
+      <guid isPermaLink="true">https://koi.rest</guid>
+      <pubDate>Thu, 24 Sep 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] FLAWED's Flaws and What This Means for Industry Research</title>
-      <link>https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</link>
-      <guid isPermaLink="true">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</guid>
-      <pubDate>Thu, 24 Sep 2026 01:16:33 +0000</pubDate>
+      <title>[HN] The Board Game of the Alpha Nerds (2014)</title>
+      <link>https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</link>
+      <guid isPermaLink="true">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</guid>
+      <pubDate>Thu, 24 Sep 2026 20:53:39 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest</title>
-      <link>https://github.com/nestrilabs/virtio-nvgpu</link>
-      <guid isPermaLink="true">https://github.com/nestrilabs/virtio-nvgpu</guid>
-      <pubDate>Thu, 24 Sep 2026 01:02:23 +0000</pubDate>
+      <title>[HN] California is chasing wealth that has feet</title>
+      <link>https://blog.landeconomics.org/p/california-is-chasing-wealth-that</link>
+      <guid isPermaLink="true">https://blog.landeconomics.org/p/california-is-chasing-wealth-that</guid>
+      <pubDate>Thu, 24 Sep 2026 20:34:32 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: An open-source manufacturing ERP/MES/QMS</title>
-      <link>https://carbon.ms/self-hosted</link>
-      <guid isPermaLink="true">https://carbon.ms/self-hosted</guid>
-      <pubDate>Thu, 24 Sep 2026 00:45:17 +0000</pubDate>
+      <title>[HN] Opus 5.5 is good at explainer videos</title>
+      <link>https://launchvideo.io</link>
+      <guid isPermaLink="true">https://launchvideo.io</guid>
+      <pubDate>Thu, 24 Sep 2026 20:28:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Feds Target AI Critics as &quot;Foreign Agents&quot;</title>
-      <link>https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign</link>
-      <guid isPermaLink="true">https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign</guid>
-      <pubDate>Thu, 24 Sep 2026 00:41:31 +0000</pubDate>
+      <title>[HN] Sourcehut account takeover via build logs (XSS in ansi2html)</title>
+      <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
+      <guid isPermaLink="true">https://blog.arusekk.pl/posts/srht-account-takeover/</guid>
+      <pubDate>Thu, 24 Sep 2026 19:54:21 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] This guy has spent two years hunting fake job listings on LinkedIn, and found 60,000 of them</title>
-      <link>https://www.reddit.com/r/technology/comments/1woemry/this_guy_has_spent_two_years_hunting_fake_job/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1woemry/this_guy_has_spent_two_years_hunting_fake_job/</guid>
-      <pubDate>2026-09-23T18:49:29+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1woemry/this_guy_has_spent_two_years_hunting_fake_job/&quot;&gt; &lt;img alt=&quot;This guy has spent two years hunting fake job listings on LinkedIn, and found 60,000 of them&quot; src=&quot;https://external-preview.redd.it/3vC8XQ7J89FRYFQVA1Lb6rADUOo3iRGxrOwL97eMdfU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=557cbd5aba205ac52c0963340b3412962e2f7daa&quot; title=&quot;This guy has spent two years hunting fake job listings on LinkedIn, and found 60,000 of them&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113958-guy-has-spent-two-years-hunting-fake-job.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1woemry/this_guy_has_spent_two_years_hunting_fake_job/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Flock is finally requiring police to have a real reason before searching its camera database</title>
+      <link>https://www.reddit.com/r/technology/comments/1wp8q5f/flock_is_finally_requiring_police_to_have_a_real/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wp8q5f/flock_is_finally_requiring_police_to_have_a_real/</guid>
+      <pubDate>2026-09-24T17:57:46+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wp8q5f/flock_is_finally_requiring_police_to_have_a_real/&quot;&gt; &lt;img alt=&quot;Flock is finally requiring police to have a real reason before searching its camera database&quot; src=&quot;https://external-preview.redd.it/TzD2Eb87XJEL8m2ZXYYw3DujtxfZcionkzVMbOxRYTE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6c4f91d101a54411b51d72e8b53c69d1d45c0d6d&quot; title=&quot;Flock is finally requiring police to have a real reason before searching its camera database&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/113975-flock-finally-requiring-police-have-real-reason-before.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wp8q5f/flock_is_finally_requiring_police_to_have_a_real/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why.</title>
-      <link>https://www.reddit.com/r/technology/comments/1wod97k/doordash_spent_14_million_trying_to_stop_mamdani/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wod97k/doordash_spent_14_million_trying_to_stop_mamdani/</guid>
-      <pubDate>2026-09-23T17:58:36+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wod97k/doordash_spent_14_million_trying_to_stop_mamdani/&quot;&gt; &lt;img alt=&quot;DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why.&quot; src=&quot;https://external-preview.redd.it/Vm2vO05RJN-HMZSWUh1mmQZ04wZIhA7k-1iLx0UEkXU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4e713c48aa96d0886883a35b9d5471b968d7edf8&quot; title=&quot;DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SnoozeDoggyDog&quot;&gt; /u/SnoozeDoggyDog &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wod97k/doordash_spent_14_million_trying_to_stop_mamdani/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] New York sues prediction market Polymarket, calling it an unlicensed gambling operation</title>
+      <link>https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/</guid>
+      <pubDate>2026-09-24T17:17:13+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/&quot;&gt; &lt;img alt=&quot;New York sues prediction market Polymarket, calling it an unlicensed gambling operation&quot; src=&quot;https://external-preview.redd.it/B-EsRAjWhcyep-cUfwUNStSuWH-CWUsE70tI50DIp9E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3b01381d912029d0ffb78c7a5d1c539191d2da13&quot; title=&quot;New York sues prediction market Polymarket, calling it an unlicensed gambling operation&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Immediate-Link490&quot;&gt; /u/Immediate-Link490 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cp24.com/news/world/2026/09/24/new-york-sues-prediction-market-polymarket-calling-it-an-unlicensed-gambling-operation/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting</title>
-      <link>https://www.reddit.com/r/technology/comments/1wo98cp/woman_arrested_dragged_away_after_quietly/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wo98cp/woman_arrested_dragged_away_after_quietly/</guid>
-      <pubDate>2026-09-23T15:31:22+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wo98cp/woman_arrested_dragged_away_after_quietly/&quot;&gt; &lt;img alt=&quot;Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting&quot; src=&quot;https://external-preview.redd.it/MIt1IS5EoesvgiONnvzvxw33Ue7vjRv_r117MTHQXE0.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=059cffaf28ff146abe0f916c82d0d5127b45deb9&quot; title=&quot;Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wo98cp/woman_arrested_dragged_away_after_quietly/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction — multitude of suspicious bulk buys thought to end up in foreign AI scan and shred facilities</title>
+      <link>https://www.reddit.com/r/technology/comments/1wp3sd8/japanese_used_bookstores_see_5x_sales_surge_as/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wp3sd8/japanese_used_bookstores_see_5x_sales_surge_as/</guid>
+      <pubDate>2026-09-24T14:52:35+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wp3sd8/japanese_used_bookstores_see_5x_sales_surge_as/&quot;&gt; &lt;img alt=&quot;Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction — multitude of suspicious bulk buys thought to end up in foreign AI scan and shred facilities&quot; src=&quot;https://external-preview.redd.it/kXlZhKm3jsFOro-MK36yEnJUD_4f15Tbxb9MlXax6F0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=08bf97272b576013ec4fe843260fc310b6730108&quot; title=&quot;Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction — multitude of suspicious bulk buys thought to end up in foreign AI scan and shred facilities&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wp3sd8/japanese_used_bookstores_see_5x_sales_surge_as/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Samsung's AI fridges shut down after update, causes outrage</title>
-      <link>https://www.reddit.com/r/technology/comments/1wo5ky9/the_refrigerator_is_dead_samsungs_ai_fridges_shut/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wo5ky9/the_refrigerator_is_dead_samsungs_ai_fridges_shut/</guid>
-      <pubDate>2026-09-23T13:10:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wo5ky9/the_refrigerator_is_dead_samsungs_ai_fridges_shut/&quot;&gt; &lt;img alt=&quot;&amp;quot;The refrigerator is dead&amp;quot;: Samsung's AI fridges shut down after update, causes outrage&quot; src=&quot;https://external-preview.redd.it/JW6u6CSGsgY7LBh_9h2b8N34oU-X4WvrnqlhWXinKiI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b47bb04db7f8ea0a62251260e94c8aacfbb8cae1&quot; title=&quot;&amp;quot;The refrigerator is dead&amp;quot;: Samsung's AI fridges shut down after update, causes outrage&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Ornery_Speech3323&quot;&gt; /u/Ornery_Speech3323 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-sparking-outrage.1406447.0.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wo5ky9/the_refrigerator_is_dead_samsungs_ai_fridges_shut/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Rural Americans are getting more and more fed up with data centers</title>
+      <link>https://www.reddit.com/r/technology/comments/1wp0not/rural_americans_are_getting_more_and_more_fed_up/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wp0not/rural_americans_are_getting_more_and_more_fed_up/</guid>
+      <pubDate>2026-09-24T12:44:54+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wp0not/rural_americans_are_getting_more_and_more_fed_up/&quot;&gt; &lt;img alt=&quot;Rural Americans are getting more and more fed up with data centers&quot; src=&quot;https://external-preview.redd.it/7cdxccEeDd1rIN31Ykeqg0RGeowjba_P9FirfJ7xl4E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f30827ae1b8c520c0557f116c586e4007b8395b0&quot; title=&quot;Rural Americans are getting more and more fed up with data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Wagamaga&quot;&gt; /u/Wagamaga &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/rural-americans-fed-up-with-data-centers-survey-2026-9&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wp0not/rural_americans_are_getting_more_and_more_fed_up/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Amazon is trying to rehire workers it laid off, emails show</title>
-      <link>https://www.reddit.com/r/technology/comments/1wo49k1/amazon_is_trying_to_rehire_workers_it_laid_off/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wo49k1/amazon_is_trying_to_rehire_workers_it_laid_off/</guid>
-      <pubDate>2026-09-23T12:11:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wo49k1/amazon_is_trying_to_rehire_workers_it_laid_off/&quot;&gt; &lt;img alt=&quot;Amazon is trying to rehire workers it laid off, emails show&quot; src=&quot;https://external-preview.redd.it/JyFb5rvPmPMKQn9JM0jrrABTXAjNkALD_fVCPRlfFKE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c9a304a651f591f27b7532b531217ae26149a28f&quot; title=&quot;Amazon is trying to rehire workers it laid off, emails show&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/amazon-boomerang-hiring-recruiting-former-employees-laid-off-2026-9&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wo49k1/amazon_is_trying_to_rehire_workers_it_laid_off/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] McDonald's unveils $8.5 billion tech plan to fend off Burger King</title>
+      <link>https://www.reddit.com/r/technology/comments/1woybnx/mcdonalds_unveils_85_billion_tech_plan_to_fend/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1woybnx/mcdonalds_unveils_85_billion_tech_plan_to_fend/</guid>
+      <pubDate>2026-09-24T10:47:04+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1woybnx/mcdonalds_unveils_85_billion_tech_plan_to_fend/&quot;&gt; &lt;img alt=&quot;McDonald's unveils $8.5 billion tech plan to fend off Burger King&quot; src=&quot;https://external-preview.redd.it/T3BqK8u-YBBFYqHbFYfezPT7e_1iY7RFMyN7qx0SnuQ.jpeg?width=216&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8231f9b4f6e5b8d594ec8a492f617cde79dbc668&quot; title=&quot;McDonald's unveils $8.5 billion tech plan to fend off Burger King&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/zsreport&quot;&gt; /u/zsreport &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://qz.com/mcdonalds-investor-day-next-strategy-restaurant-overhaul-092326&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1woybnx/mcdonalds_unveils_85_billion_tech_plan_to_fend/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
