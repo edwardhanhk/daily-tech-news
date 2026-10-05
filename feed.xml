@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:43:32 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Why don't more developers &quot;use the platform&quot;?</title>
-      <link>https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</link>
-      <guid isPermaLink="true">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</guid>
-      <pubDate>Sun, 04 Oct 2026 04:10:47 +0000</pubDate>
+      <title>[HN] Self-hosted HTTP tunnels with SSH and Nginx</title>
+      <link>https://vincent.bernat.ch/en/blog/2026-http-over-ssh</link>
+      <guid isPermaLink="true">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</guid>
+      <pubDate>Sun, 04 Oct 2026 22:25:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Religious scholars met with Anthropic</title>
-      <link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</guid>
-      <pubDate>Sun, 04 Oct 2026 02:34:22 +0000</pubDate>
+      <title>[HN] In the wake of closure, a digital archive of animated materials appears online</title>
+      <link>https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/</link>
+      <guid isPermaLink="true">https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/</guid>
+      <pubDate>Sun, 04 Oct 2026 21:01:28 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Tell HN: Bob Cringely has died</title>
-      <link>https://news.ycombinator.com/item?id=49949438</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49949438</guid>
-      <pubDate>Sun, 04 Oct 2026 00:50:52 +0000</pubDate>
+      <title>[HN] Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague</title>
+      <link>https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</link>
+      <guid isPermaLink="true">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</guid>
+      <pubDate>Mon, 05 Oct 2026 02:31:45 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] We're going to need default hard budget caps on pretty much everything</title>
-      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:20:16 +0000</pubDate>
+      <title>[HN] Powerless F1 drivers frustrated by Bahrain F1 software glitch</title>
+      <link>https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</link>
+      <guid isPermaLink="true">https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</guid>
+      <pubDate>Mon, 05 Oct 2026 01:54:08 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] OpenAI safety leader quits, warning AI company's culture is 'broken'</title>
-      <link>https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</guid>
-      <pubDate>Sat, 03 Oct 2026 22:18:13 +0000</pubDate>
+      <title>[HN] A 40ms Go garbage collector pause caused by swap</title>
+      <link>https://frn.sh/go-gc/</link>
+      <guid isPermaLink="true">https://frn.sh/go-gc/</guid>
+      <pubDate>Mon, 05 Oct 2026 01:11:56 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Google cofounder Sergey Brin has spent $102 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses</title>
-      <link>https://www.reddit.com/r/technology/comments/1wx2mo8/google_cofounder_sergey_brin_has_spent_102/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wx2mo8/google_cofounder_sergey_brin_has_spent_102/</guid>
-      <pubDate>2026-10-04T00:50:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wx2mo8/google_cofounder_sergey_brin_has_spent_102/&quot;&gt; &lt;img alt=&quot;Google cofounder Sergey Brin has spent $102 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses&quot; src=&quot;https://external-preview.redd.it/kbZKnRnNi_IssrfegX_zgVg8VRuu3m8uTiS6ny1_ZEo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=13408a51758df12b40b99c4837a3e37b5cb3520b&quot; title=&quot;Google cofounder Sergey Brin has spent $102 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/article/how-much-has-google-cofounder-sergey-brin-spent-to-oppose-california-billionaire-tax-102-million-owe-13-billion-if-loses/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wx2mo8/google_cofounder_sergey_brin_has_spent_102/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Google Is Accused of Destroying Nearly 500 Football Fields of Forest for New Data Center Project</title>
+      <link>https://www.reddit.com/r/technology/comments/1wxn3gg/google_is_accused_of_destroying_nearly_500/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wxn3gg/google_is_accused_of_destroying_nearly_500/</guid>
+      <pubDate>2026-10-04T18:41:17+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxn3gg/google_is_accused_of_destroying_nearly_500/&quot;&gt; &lt;img alt=&quot;Google Is Accused of Destroying Nearly 500 Football Fields of Forest for New Data Center Project&quot; src=&quot;https://external-preview.redd.it/34nsa4C1D8FeQbJi8_nooUZHFsLzht0pRhoVxNCrR6E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cd17320fc73767c97a26747790b70094a7aaabea&quot; title=&quot;Google Is Accused of Destroying Nearly 500 Football Fields of Forest for New Data Center Project&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/google-is-accused-of-destroying-nearly-500-football-fields-of-forest-for-new-data-center-project&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxn3gg/google_is_accused_of_destroying_nearly_500/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] ICE Put Protester Photos Into Palantir’s Surveillance Database</title>
-      <link>https://www.reddit.com/r/technology/comments/1wws0rf/ice_put_protester_photos_into_palantirs/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wws0rf/ice_put_protester_photos_into_palantirs/</guid>
-      <pubDate>2026-10-03T16:54:23+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wws0rf/ice_put_protester_photos_into_palantirs/&quot;&gt; &lt;img alt=&quot;ICE Put Protester Photos Into Palantir’s Surveillance Database&quot; src=&quot;https://external-preview.redd.it/oWiIW7W89iJSJ-8NWnvNHxrOJsEhJ1BD-eEzMuEhh_g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=17ae618e009e6812db2a86df8c9193c3b523020a&quot; title=&quot;ICE Put Protester Photos Into Palantir’s Surveillance Database&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/efap1701&quot;&gt; /u/efap1701 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/ice-put-protester-photos-into-palantirs-surveillance-database&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wws0rf/ice_put_protester_photos_into_palantirs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Florida woman used Claude as a diary, then Anthropic reported an entry to police</title>
+      <link>https://www.reddit.com/r/technology/comments/1wxgn8c/florida_woman_used_claude_as_a_diary_then/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wxgn8c/florida_woman_used_claude_as_a_diary_then/</guid>
+      <pubDate>2026-10-04T14:10:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxgn8c/florida_woman_used_claude_as_a_diary_then/&quot;&gt; &lt;img alt=&quot;Florida woman used Claude as a diary, then Anthropic reported an entry to police&quot; src=&quot;https://external-preview.redd.it/n1I4cu3kWLe6cqIAc_uNAWItCBtaDn6a894rKfYkVJ8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8939c094f43188f2397d21a82ae705cfcc2a6ca6&quot; title=&quot;Florida woman used Claude as a diary, then Anthropic reported an entry to police&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxgn8c/florida_woman_used_claude_as_a_diary_then/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Federal judge calls Flock search unconstitutional, as AOC and Bernie Sanders introduce bill to ban license plate readers</title>
-      <link>https://www.reddit.com/r/technology/comments/1wwpqg7/federal_judge_calls_flock_search_unconstitutional/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wwpqg7/federal_judge_calls_flock_search_unconstitutional/</guid>
-      <pubDate>2026-10-03T15:16:24+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wwpqg7/federal_judge_calls_flock_search_unconstitutional/&quot;&gt; &lt;img alt=&quot;Federal judge calls Flock search unconstitutional, as AOC and Bernie Sanders introduce bill to ban license plate readers&quot; src=&quot;https://external-preview.redd.it/O_jxeY835eQ60hQTTFFW6s10bw75t-zvVY2sbxZ4YNQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2d318f90896b4ee4041cbec9c3c76cfb48c6fc0b&quot; title=&quot;Federal judge calls Flock search unconstitutional, as AOC and Bernie Sanders introduce bill to ban license plate readers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114082-federal-judge-calls-flock-search-unconstitutional-aoc-bernie.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wwpqg7/federal_judge_calls_flock_search_unconstitutional/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Employees are 'loud working' in an effort to secure their jobs</title>
+      <link>https://www.reddit.com/r/technology/comments/1wxelm5/it_felt_like_the_hunger_games_had_started/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wxelm5/it_felt_like_the_hunger_games_had_started/</guid>
+      <pubDate>2026-10-04T12:32:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxelm5/it_felt_like_the_hunger_games_had_started/&quot;&gt; &lt;img alt=&quot;'It felt like the Hunger Games had started': Employees are 'loud working' in an effort to secure their jobs&quot; src=&quot;https://external-preview.redd.it/F6ki4PypvporIew05BF7O-zSb5ukWKZNK7VIGOUth3o.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=50ffe0a7943378f29f48761f474c2ad16070db0b&quot; title=&quot;'It felt like the Hunger Games had started': Employees are 'loud working' in an effort to secure their jobs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/loud-working-job-security-layoffs-linkedin-promotions-2026-10&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxelm5/it_felt_like_the_hunger_games_had_started/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] US road rage killer's sentence quashed because AI video of victim was shown in court</title>
-      <link>https://www.reddit.com/r/technology/comments/1wwnhq6/us_road_rage_killers_sentence_quashed_because_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wwnhq6/us_road_rage_killers_sentence_quashed_because_ai/</guid>
-      <pubDate>2026-10-03T13:38:11+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wwnhq6/us_road_rage_killers_sentence_quashed_because_ai/&quot;&gt; &lt;img alt=&quot;US road rage killer's sentence quashed because AI video of victim was shown in court&quot; src=&quot;https://external-preview.redd.it/CPhUTL6l4m7ItZHJAfRiJrzoA2gsjZl6a_OgnpoG0J8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=79073798238042309fa210a8cf66c781901820a0&quot; title=&quot;US road rage killer's sentence quashed because AI video of victim was shown in court&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tylerthe-theatre&quot;&gt; /u/tylerthe-theatre &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&amp;amp;at_link_origin=BBCWorld&amp;amp;at_campaign=Social_Flow&amp;amp;at_campaign_type=owned&amp;amp;at_medium=social&amp;amp;at_link_type=web_link&amp;amp;at_ptr_name=twitter&amp;amp;at_link_id=39C16F28-BEB6-11F1-B820-F7F667A3DD17&amp;amp;at_bbc_team=editorial&amp;amp;at_format=link&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wwnhq6/us_road_rage_killers_sentence_quashed_because_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Federal judge calls Flock ‘indiscriminate mass surveillance’</title>
+      <link>https://www.reddit.com/r/technology/comments/1wxb5sh/federal_judge_calls_flock_indiscriminate_mass/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wxb5sh/federal_judge_calls_flock_indiscriminate_mass/</guid>
+      <pubDate>2026-10-04T09:07:34+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxb5sh/federal_judge_calls_flock_indiscriminate_mass/&quot;&gt; &lt;img alt=&quot;Federal judge calls Flock ‘indiscriminate mass surveillance’&quot; src=&quot;https://external-preview.redd.it/9B6m0kAdKnYw18mM9KmgWQtD-VyczEgGVnCYRM3gkms.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cffb210375394069e6bf74da6986ac20e4feea8f&quot; title=&quot;Federal judge calls Flock ‘indiscriminate mass surveillance’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IKeepItLayingAround&quot;&gt; /u/IKeepItLayingAround &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/federal-judge-calls-flock-indiscriminate-193315901.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxb5sh/federal_judge_calls_flock_indiscriminate_mass/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] The Netherlands is building its own Linux OS to break free from Microsoft</title>
-      <link>https://www.reddit.com/r/technology/comments/1wwjq2t/the_netherlands_is_building_its_own_linux_os_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wwjq2t/the_netherlands_is_building_its_own_linux_os_to/</guid>
-      <pubDate>2026-10-03T10:14:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wwjq2t/the_netherlands_is_building_its_own_linux_os_to/&quot;&gt; &lt;img alt=&quot;The Netherlands is building its own Linux OS to break free from Microsoft&quot; src=&quot;https://external-preview.redd.it/jn0RIQ_UVdieFdTk1BVCDM8PSG61eJWJV0cu9rHmDc8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b52ea01de02f81c6319fb542df534e1386a8ad10&quot; title=&quot;The Netherlands is building its own Linux OS to break free from Microsoft&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/waozen&quot;&gt; /u/waozen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wwjq2t/the_netherlands_is_building_its_own_linux_os_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Improper redaction reveals Lincoln’s Google Data Center water and electricity usage</title>
+      <link>https://www.reddit.com/r/technology/comments/1wx79f9/improper_redaction_reveals_lincolns_google_data/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wx79f9/improper_redaction_reveals_lincolns_google_data/</guid>
+      <pubDate>2026-10-04T05:05:28+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wx79f9/improper_redaction_reveals_lincolns_google_data/&quot;&gt; &lt;img alt=&quot;Improper redaction reveals Lincoln’s Google Data Center water and electricity usage&quot; src=&quot;https://external-preview.redd.it/Vewixcgh8_Sz6vdl5gxspyn7vfknKv5SpHDFxK9cHIs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=50a3cf5c69e610ab9af99a7c57765a5a582471ed&quot; title=&quot;Improper redaction reveals Lincoln’s Google Data Center water and electricity usage&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/l0st1nP4r4d1ce&quot;&gt; /u/l0st1nP4r4d1ce &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wx79f9/improper_redaction_reveals_lincolns_google_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
