@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 05 Oct 2026 04:43:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:30:00 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Self-hosted HTTP tunnels with SSH and Nginx</title>
-      <link>https://vincent.bernat.ch/en/blog/2026-http-over-ssh</link>
-      <guid isPermaLink="true">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</guid>
-      <pubDate>Sun, 04 Oct 2026 22:25:10 +0000</pubDate>
+      <title>[HN] Resurrecting iChat Audio and Video Conferencing</title>
+      <link>https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</link>
+      <guid isPermaLink="true">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</guid>
+      <pubDate>Tue, 06 Oct 2026 03:39:01 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] In the wake of closure, a digital archive of animated materials appears online</title>
-      <link>https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/</link>
-      <guid isPermaLink="true">https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/</guid>
-      <pubDate>Sun, 04 Oct 2026 21:01:28 +0000</pubDate>
+      <title>[HN] Why Common Lisp is now the best programming language</title>
+      <link>https://www.vivienhenz.com/common-lisp</link>
+      <guid isPermaLink="true">https://www.vivienhenz.com/common-lisp</guid>
+      <pubDate>Tue, 06 Oct 2026 02:51:51 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague</title>
-      <link>https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</link>
-      <guid isPermaLink="true">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</guid>
-      <pubDate>Mon, 05 Oct 2026 02:31:45 +0000</pubDate>
+      <title>[HN] Photopea creator weighs in on Photosuite project</title>
+      <link>https://github.com/eolix/photosuite/issues/77</link>
+      <guid isPermaLink="true">https://github.com/eolix/photosuite/issues/77</guid>
+      <pubDate>Tue, 06 Oct 2026 00:41:44 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Powerless F1 drivers frustrated by Bahrain F1 software glitch</title>
-      <link>https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</link>
-      <guid isPermaLink="true">https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</guid>
-      <pubDate>Mon, 05 Oct 2026 01:54:08 +0000</pubDate>
+      <title>[HN] High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days</title>
+      <link>https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</link>
+      <guid isPermaLink="true">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</guid>
+      <pubDate>Tue, 06 Oct 2026 00:24:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A 40ms Go garbage collector pause caused by swap</title>
-      <link>https://frn.sh/go-gc/</link>
-      <guid isPermaLink="true">https://frn.sh/go-gc/</guid>
-      <pubDate>Mon, 05 Oct 2026 01:11:56 +0000</pubDate>
+      <title>[HN] AI tutoring with Khanmigo in a two-year school experiment</title>
+      <link>https://edworkingpapers.com/ai26-1551</link>
+      <guid isPermaLink="true">https://edworkingpapers.com/ai26-1551</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:45 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Google Is Accused of Destroying Nearly 500 Football Fields of Forest for New Data Center Project</title>
-      <link>https://www.reddit.com/r/technology/comments/1wxn3gg/google_is_accused_of_destroying_nearly_500/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wxn3gg/google_is_accused_of_destroying_nearly_500/</guid>
-      <pubDate>2026-10-04T18:41:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxn3gg/google_is_accused_of_destroying_nearly_500/&quot;&gt; &lt;img alt=&quot;Google Is Accused of Destroying Nearly 500 Football Fields of Forest for New Data Center Project&quot; src=&quot;https://external-preview.redd.it/34nsa4C1D8FeQbJi8_nooUZHFsLzht0pRhoVxNCrR6E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cd17320fc73767c97a26747790b70094a7aaabea&quot; title=&quot;Google Is Accused of Destroying Nearly 500 Football Fields of Forest for New Data Center Project&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/google-is-accused-of-destroying-nearly-500-football-fields-of-forest-for-new-data-center-project&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxn3gg/google_is_accused_of_destroying_nearly_500/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] McDonald’s Hit With Antitrust Suit Over AI-Assisted Menu Pricing</title>
+      <link>https://www.reddit.com/r/technology/comments/1wyny61/mcdonalds_hit_with_antitrust_suit_over_aiassisted/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wyny61/mcdonalds_hit_with_antitrust_suit_over_aiassisted/</guid>
+      <pubDate>2026-10-05T23:46:46+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wyny61/mcdonalds_hit_with_antitrust_suit_over_aiassisted/&quot;&gt; &lt;img alt=&quot;McDonald’s Hit With Antitrust Suit Over AI-Assisted Menu Pricing&quot; src=&quot;https://external-preview.redd.it/kDKJuRTIkbOkW2Xnv4-JXCjw90QJqMKV0SO_FTPaYjE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c01ae5adaf56944c247aea0e039fb5926f981a0f&quot; title=&quot;McDonald’s Hit With Antitrust Suit Over AI-Assisted Menu Pricing&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.pymnts.com/cpi-posts/mcdonalds-hit-with-antitrust-suit-over-ai-assisted-menu-pricing/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wyny61/mcdonalds_hit_with_antitrust_suit_over_aiassisted/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Florida woman used Claude as a diary, then Anthropic reported an entry to police</title>
-      <link>https://www.reddit.com/r/technology/comments/1wxgn8c/florida_woman_used_claude_as_a_diary_then/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wxgn8c/florida_woman_used_claude_as_a_diary_then/</guid>
-      <pubDate>2026-10-04T14:10:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxgn8c/florida_woman_used_claude_as_a_diary_then/&quot;&gt; &lt;img alt=&quot;Florida woman used Claude as a diary, then Anthropic reported an entry to police&quot; src=&quot;https://external-preview.redd.it/n1I4cu3kWLe6cqIAc_uNAWItCBtaDn6a894rKfYkVJ8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8939c094f43188f2397d21a82ae705cfcc2a6ca6&quot; title=&quot;Florida woman used Claude as a diary, then Anthropic reported an entry to police&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxgn8c/florida_woman_used_claude_as_a_diary_then/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days</title>
+      <link>https://www.reddit.com/r/technology/comments/1wyhz2j/high_diesel_prices_bankrupted_16_trucking/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wyhz2j/high_diesel_prices_bankrupted_16_trucking/</guid>
+      <pubDate>2026-10-05T19:34:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wyhz2j/high_diesel_prices_bankrupted_16_trucking/&quot;&gt; &lt;img alt=&quot;High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days&quot; src=&quot;https://external-preview.redd.it/H5Z8x97B7oHjzznPlq8Yy3JsF-4bkVjyu-oLRCRdNRo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=731925cad67f277b5cd16ed63ee73ee2f80d9c4f&quot; title=&quot;High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wyhz2j/high_diesel_prices_bankrupted_16_trucking/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Employees are 'loud working' in an effort to secure their jobs</title>
-      <link>https://www.reddit.com/r/technology/comments/1wxelm5/it_felt_like_the_hunger_games_had_started/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wxelm5/it_felt_like_the_hunger_games_had_started/</guid>
-      <pubDate>2026-10-04T12:32:53+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxelm5/it_felt_like_the_hunger_games_had_started/&quot;&gt; &lt;img alt=&quot;'It felt like the Hunger Games had started': Employees are 'loud working' in an effort to secure their jobs&quot; src=&quot;https://external-preview.redd.it/F6ki4PypvporIew05BF7O-zSb5ukWKZNK7VIGOUth3o.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=50ffe0a7943378f29f48761f474c2ad16070db0b&quot; title=&quot;'It felt like the Hunger Games had started': Employees are 'loud working' in an effort to secure their jobs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/loud-working-job-security-layoffs-linkedin-promotions-2026-10&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxelm5/it_felt_like_the_hunger_games_had_started/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Judge calls warrantless Flock search unconstitutional mass surveillance, throws out drug evidence</title>
+      <link>https://www.reddit.com/r/technology/comments/1wy8uo3/judge_calls_warrantless_flock_search/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wy8uo3/judge_calls_warrantless_flock_search/</guid>
+      <pubDate>2026-10-05T13:40:44+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wy8uo3/judge_calls_warrantless_flock_search/&quot;&gt; &lt;img alt=&quot;Judge calls warrantless Flock search unconstitutional mass surveillance, throws out drug evidence&quot; src=&quot;https://external-preview.redd.it/boBOs9TR609V7lvd4F0NPvfwMTIKJBR-uAfAJirf7jA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fefe7c1fb76431cc9b6442620404f56827eb183e&quot; title=&quot;Judge calls warrantless Flock search unconstitutional mass surveillance, throws out drug evidence&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114097-judge-calls-warrantless-flock-search-unconstitutional-mass-surveillance.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wy8uo3/judge_calls_warrantless_flock_search/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Federal judge calls Flock ‘indiscriminate mass surveillance’</title>
-      <link>https://www.reddit.com/r/technology/comments/1wxb5sh/federal_judge_calls_flock_indiscriminate_mass/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wxb5sh/federal_judge_calls_flock_indiscriminate_mass/</guid>
-      <pubDate>2026-10-04T09:07:34+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxb5sh/federal_judge_calls_flock_indiscriminate_mass/&quot;&gt; &lt;img alt=&quot;Federal judge calls Flock ‘indiscriminate mass surveillance’&quot; src=&quot;https://external-preview.redd.it/9B6m0kAdKnYw18mM9KmgWQtD-VyczEgGVnCYRM3gkms.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cffb210375394069e6bf74da6986ac20e4feea8f&quot; title=&quot;Federal judge calls Flock ‘indiscriminate mass surveillance’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IKeepItLayingAround&quot;&gt; /u/IKeepItLayingAround &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/federal-judge-calls-flock-indiscriminate-193315901.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wxb5sh/federal_judge_calls_flock_indiscriminate_mass/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] People are asking ChatGPT to help them decide how to vote in the midterms</title>
+      <link>https://www.reddit.com/r/technology/comments/1wy7wq6/people_are_asking_chatgpt_to_help_them_decide_how/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wy7wq6/people_are_asking_chatgpt_to_help_them_decide_how/</guid>
+      <pubDate>2026-10-05T12:59:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wy7wq6/people_are_asking_chatgpt_to_help_them_decide_how/&quot;&gt; &lt;img alt=&quot;People are asking ChatGPT to help them decide how to vote in the midterms&quot; src=&quot;https://external-preview.redd.it/oZwQQEOC5gTVjrIMbJ6dru3JACPUBqj-26zeO4yTLc0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=651bb93e3ff0ef2fdc54bda3197c59883af3a593&quot; title=&quot;People are asking ChatGPT to help them decide how to vote in the midterms&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No-Lifeguard-8173&quot;&gt; /u/No-Lifeguard-8173 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wy7wq6/people_are_asking_chatgpt_to_help_them_decide_how/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Improper redaction reveals Lincoln’s Google Data Center water and electricity usage</title>
-      <link>https://www.reddit.com/r/technology/comments/1wx79f9/improper_redaction_reveals_lincolns_google_data/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wx79f9/improper_redaction_reveals_lincolns_google_data/</guid>
-      <pubDate>2026-10-04T05:05:28+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wx79f9/improper_redaction_reveals_lincolns_google_data/&quot;&gt; &lt;img alt=&quot;Improper redaction reveals Lincoln’s Google Data Center water and electricity usage&quot; src=&quot;https://external-preview.redd.it/Vewixcgh8_Sz6vdl5gxspyn7vfknKv5SpHDFxK9cHIs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=50a3cf5c69e610ab9af99a7c57765a5a582471ed&quot; title=&quot;Improper redaction reveals Lincoln’s Google Data Center water and electricity usage&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/l0st1nP4r4d1ce&quot;&gt; /u/l0st1nP4r4d1ce &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wx79f9/improper_redaction_reveals_lincolns_google_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] US Senate kills bill that could potentially shield Americans from skyrocketing power bills due to AI data centers — opponents say bill is 'toothless' and doesn't do enough to protect citizens</title>
+      <link>https://www.reddit.com/r/technology/comments/1wy574e/us_senate_kills_bill_that_could_potentially/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1wy574e/us_senate_kills_bill_that_could_potentially/</guid>
+      <pubDate>2026-10-05T10:35:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wy574e/us_senate_kills_bill_that_could_potentially/&quot;&gt; &lt;img alt=&quot;US Senate kills bill that could potentially shield Americans from skyrocketing power bills due to AI data centers — opponents say bill is 'toothless' and doesn't do enough to protect citizens&quot; src=&quot;https://external-preview.redd.it/FpqQPqIBGmuemu4nQ4iEYNOzSZTjrSertKkPq2vE7Xo.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b74959c045a27fff16dac5cc99476f9f65b6f12e&quot; title=&quot;US Senate kills bill that could potentially shield Americans from skyrocketing power bills due to AI data centers — opponents say bill is 'toothless' and doesn't do enough to protect citizens&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/us-senate-kills-bill-that-could-potentially-shield-americans-from-skyrocketing-power-bills-due-to-ai-data-centers-opponents-say-bill-is-toothless-and-doesnt-do-enough-to-protect-citizens&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1wy574e/us_senate_kills_bill_that_could_potentially/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
