@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Fri, 09 Oct 2026 05:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 04:57:56 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Bevy 0.20</title>
-      <link>https://bevy.org/news/bevy-0-20/</link>
-      <guid isPermaLink="true">https://bevy.org/news/bevy-0-20/</guid>
-      <pubDate>Thu, 08 Oct 2026 22:57:50 +0000</pubDate>
+      <title>[HN] Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website</title>
+      <link>https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html</guid>
+      <pubDate>Sat, 10 Oct 2026 03:42:11 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] AI-ready biological data: $1.8B global commitment</title>
-      <link>https://biohub.org/news/virtual-biology-initiative-expansion/</link>
-      <guid isPermaLink="true">https://biohub.org/news/virtual-biology-initiative-expansion/</guid>
-      <pubDate>Thu, 08 Oct 2026 20:46:25 +0000</pubDate>
+      <title>[HN] Telegram Desktop vulnerability allowed any user's file to be stolen</title>
+      <link>https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</link>
+      <guid isPermaLink="true">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</guid>
+      <pubDate>Sat, 10 Oct 2026 03:02:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Keyboard differences between Windows and Macs</title>
-      <link>https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</guid>
-      <pubDate>Fri, 09 Oct 2026 03:08:05 +0000</pubDate>
+      <title>[HN] Put a price on breakthroughs</title>
+      <link>https://alexwang.ai/posts/put-a-price-on-breakthroughs/</link>
+      <guid isPermaLink="true">https://alexwang.ai/posts/put-a-price-on-breakthroughs/</guid>
+      <pubDate>Sat, 10 Oct 2026 02:37:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Anger as man sentenced to death for Facebook comment</title>
-      <link>https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304</link>
-      <guid isPermaLink="true">https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304</guid>
-      <pubDate>Fri, 09 Oct 2026 03:03:54 +0000</pubDate>
+      <title>[HN] REA Reverse – Engineer Anything</title>
+      <link>https://rea.tools/</link>
+      <guid isPermaLink="true">https://rea.tools/</guid>
+      <pubDate>Sat, 10 Oct 2026 00:37:07 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Reducing undefined behavior in the C language</title>
-      <link>https://lwn.net/Articles/1095811/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1095811/</guid>
-      <pubDate>Fri, 09 Oct 2026 02:02:53 +0000</pubDate>
+      <title>[HN] Has the Autonomous Trucking Revolution Arrived?</title>
+      <link>https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/</link>
+      <guid isPermaLink="true">https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/</guid>
+      <pubDate>Fri, 09 Oct 2026 23:57:12 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Amazon warns local communities to stop defying its massive AI data centers</title>
-      <link>https://www.reddit.com/r/technology/comments/1x13tdg/amazon_warns_local_communities_to_stop_defying/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x13tdg/amazon_warns_local_communities_to_stop_defying/</guid>
-      <pubDate>2026-10-08T21:47:08+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x13tdg/amazon_warns_local_communities_to_stop_defying/&quot;&gt; &lt;img alt=&quot;Amazon warns local communities to stop defying its massive AI data centers&quot; src=&quot;https://external-preview.redd.it/4VDy9FD5JgHjVaRwI3bXNRdueihhXbLE-RPzDFwMTFo.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fa716a997036147e297cf4e4078bce9295dfe8fb&quot; title=&quot;Amazon warns local communities to stop defying its massive AI data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/marketrent&quot;&gt; /u/marketrent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/us/articles/amazon-warns-local-communities-stop-000300771.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x13tdg/amazon_warns_local_communities_to_stop_defying/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] My personal AI agent posted my bank details on company Slack. It's made me rethink how I use it.</title>
+      <link>https://www.reddit.com/r/technology/comments/1x1ysae/my_personal_ai_agent_posted_my_bank_details_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x1ysae/my_personal_ai_agent_posted_my_bank_details_on/</guid>
+      <pubDate>2026-10-09T22:22:11+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1ysae/my_personal_ai_agent_posted_my_bank_details_on/&quot;&gt; &lt;img alt=&quot;My personal AI agent posted my bank details on company Slack. It's made me rethink how I use it.&quot; src=&quot;https://external-preview.redd.it/Qp28moGurVw4c34SKmsLoMoJMpC4-3smLw6vRc8EEwg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=585e09df2dd15245461be8627d163725ec7f9675&quot; title=&quot;My personal AI agent posted my bank details on company Slack. It's made me rethink how I use it.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/stenspect&quot;&gt; /u/stenspect &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1ysae/my_personal_ai_agent_posted_my_bank_details_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] YouTuber Builds System That Mimics Flock to Spy on Cops; Then the Cops Came Knocking</title>
-      <link>https://www.reddit.com/r/technology/comments/1x0zs4d/youtuber_builds_system_that_mimics_flock_to_spy/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x0zs4d/youtuber_builds_system_that_mimics_flock_to_spy/</guid>
-      <pubDate>2026-10-08T19:09:50+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x0zs4d/youtuber_builds_system_that_mimics_flock_to_spy/&quot;&gt; &lt;img alt=&quot;YouTuber Builds System That Mimics Flock to Spy on Cops; Then the Cops Came Knocking&quot; src=&quot;https://external-preview.redd.it/DsqpRhlZjUSwbo1ygc2i7GmMj6Eqfv0XXISlFrBs-qg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=36f2f159082daf53052dab567687bfa5e1805dee&quot; title=&quot;YouTuber Builds System That Mimics Flock to Spy on Cops; Then the Cops Came Knocking&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/efap1701&quot;&gt; /u/efap1701 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/youtuber-builds-system-that-mimics-flock-to-spy-on-cops-then-the-cops-came-knocking&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x0zs4d/youtuber_builds_system_that_mimics_flock_to_spy/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Virginia Data Center Ran Diesel Generators for 24 Hours. Residents Fled Their Homes</title>
+      <link>https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/</guid>
+      <pubDate>2026-10-09T20:17:12+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/&quot;&gt; &lt;img alt=&quot;Virginia Data Center Ran Diesel Generators for 24 Hours. Residents Fled Their Homes&quot; src=&quot;https://external-preview.redd.it/rL44J68mYY-oYx4dAKYF_rZeT4jH7cjmbzFY6hKUv0o.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6baf51760015244b78525ab8505c99a3b41e9e74&quot; title=&quot;Virginia Data Center Ran Diesel Generators for 24 Hours. Residents Fled Their Homes&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/stenspect&quot;&gt; /u/stenspect &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/virginia-data-center-ran-diesel-generators-for-24-hours-residents-fled-their-homes&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Trump says anyone who does not call AI ‘super intelligence’ is ‘the enemy’</title>
-      <link>https://www.reddit.com/r/technology/comments/1x0wdoe/trump_says_anyone_who_does_not_call_ai_super/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x0wdoe/trump_says_anyone_who_does_not_call_ai_super/</guid>
-      <pubDate>2026-10-08T17:01:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x0wdoe/trump_says_anyone_who_does_not_call_ai_super/&quot;&gt; &lt;img alt=&quot;Trump says anyone who does not call AI ‘super intelligence’ is ‘the enemy’&quot; src=&quot;https://external-preview.redd.it/HXF_L7Mo9xhOpggFNCJH_czvBsJqkFNMzWsk3hMQXy0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=210713773c8b85c0ee2356e5d2b83683abd312a8&quot; title=&quot;Trump says anyone who does not call AI ‘super intelligence’ is ‘the enemy’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ConsciousBug5001&quot;&gt; /u/ConsciousBug5001 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.arabnews.com/world/trump-says-anyone-who-does-not-call-ai-super-intelligence-is-the-enemy-3005339&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x0wdoe/trump_says_anyone_who_does_not_call_ai_super/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Trump purchased up to $5 million of SpaceX bonds days before major space order</title>
+      <link>https://www.reddit.com/r/technology/comments/1x1svmz/trump_purchased_up_to_5_million_of_spacex_bonds/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x1svmz/trump_purchased_up_to_5_million_of_spacex_bonds/</guid>
+      <pubDate>2026-10-09T18:23:06+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1svmz/trump_purchased_up_to_5_million_of_spacex_bonds/&quot;&gt; &lt;img alt=&quot;Trump purchased up to $5 million of SpaceX bonds days before major space order&quot; src=&quot;https://external-preview.redd.it/EZWc7vdI2UuDUHjmK-SqzQFXbt-HmHdiHf3Oolmfp7Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a0ac102ba7d1b89170fb0b2b9e614fce1e057926&quot; title=&quot;Trump purchased up to $5 million of SpaceX bonds days before major space order&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnn.com/2026/10/08/investing/trump-5-million-dollars-spacex-bonds&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1svmz/trump_purchased_up_to_5_million_of_spacex_bonds/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Microsoft is being suspended from program to apply for green cards for H-1B visa workers, Vance says</title>
-      <link>https://www.reddit.com/r/technology/comments/1x0t54i/microsoft_is_being_suspended_from_program_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x0t54i/microsoft_is_being_suspended_from_program_to/</guid>
-      <pubDate>2026-10-08T14:58:37+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Immediate-Link490&quot;&gt; /u/Immediate-Link490 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x0t54i/microsoft_is_being_suspended_from_program_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] School district makes dramatic U-turn on AI, banning it across all grades weeks after Google Gemini rollout</title>
+      <link>https://www.reddit.com/r/technology/comments/1x1jt0p/school_district_makes_dramatic_uturn_on_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x1jt0p/school_district_makes_dramatic_uturn_on_ai/</guid>
+      <pubDate>2026-10-09T12:15:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1jt0p/school_district_makes_dramatic_uturn_on_ai/&quot;&gt; &lt;img alt=&quot;School district makes dramatic U-turn on AI, banning it across all grades weeks after Google Gemini rollout&quot; src=&quot;https://external-preview.redd.it/NIz576YFYNAqUqJ1hOQm2JvW--DTsQgnIgqRWa2BNac.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5132075f5f333b4be57a56afa2abbab73f01de2f&quot; title=&quot;School district makes dramatic U-turn on AI, banning it across all grades weeks after Google Gemini rollout&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114151-school-district-makes-dramatic-u-turn-ai-banning.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1jt0p/school_district_makes_dramatic_uturn_on_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Developer uses AI to build free Adobe clones after frustration with cancellation fees</title>
-      <link>https://www.reddit.com/r/technology/comments/1x0ow0f/software_is_over_developer_uses_ai_to_build_free/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x0ow0f/software_is_over_developer_uses_ai_to_build_free/</guid>
-      <pubDate>2026-10-08T11:51:43+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x0ow0f/software_is_over_developer_uses_ai_to_build_free/&quot;&gt; &lt;img alt=&quot;&amp;quot;Software is over&amp;quot;: Developer uses AI to build free Adobe clones after frustration with cancellation fees&quot; src=&quot;https://external-preview.redd.it/fn1wQtGYoFKZ-QD8CNZAS-sxfoVAhjVOdcVjDI6AkS0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8f95a2f871a7b7ade91f9666897fa90ffcf0162d&quot; title=&quot;&amp;quot;Software is over&amp;quot;: Developer uses AI to build free Adobe clones after frustration with cancellation fees&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Federal-Block-3275&quot;&gt; /u/Federal-Block-3275 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x0ow0f/software_is_over_developer_uses_ai_to_build_free/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event.</title>
+      <link>https://www.reddit.com/r/technology/comments/1x1i81q/top_executives_at_anthropic_openai_and_other_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x1i81q/top_executives_at_anthropic_openai_and_other_ai/</guid>
+      <pubDate>2026-10-09T10:51:46+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1i81q/top_executives_at_anthropic_openai_and_other_ai/&quot;&gt; &lt;img alt=&quot;Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event.&quot; src=&quot;https://external-preview.redd.it/dUbZgx4f5kYxlJvdyZpR6cj51Ezo7bnfzH50yqLDHy4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1db6a36cd74240c8548fcbb5f31bb25b378b441b&quot; title=&quot;Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/socoolandawesome&quot;&gt; /u/socoolandawesome &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x1i81q/top_executives_at_anthropic_openai_and_other_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
