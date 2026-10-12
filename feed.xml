@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 11 Oct 2026 04:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:01:19 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Vegetables half as nutritious as they were in the 1960s</title>
-      <link>https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/</link>
-      <guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/</guid>
-      <pubDate>Sun, 11 Oct 2026 04:07:32 +0000</pubDate>
+      <title>[HN] Whatever became of holography? (2011)</title>
+      <link>https://www.americanscientist.org/article/whatever-became-of-holography</link>
+      <guid isPermaLink="true">https://www.americanscientist.org/article/whatever-became-of-holography</guid>
+      <pubDate>Sun, 11 Oct 2026 23:50:34 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list</title>
-      <link>https://github.com/vscarpenter/gsd-task-manager</link>
-      <guid isPermaLink="true">https://github.com/vscarpenter/gsd-task-manager</guid>
-      <pubDate>Sun, 11 Oct 2026 03:42:56 +0000</pubDate>
+      <title>[HN] X Is Bad, Though</title>
+      <link>https://lexontech.org/x-is-bad-though</link>
+      <guid isPermaLink="true">https://lexontech.org/x-is-bad-though</guid>
+      <pubDate>Mon, 12 Oct 2026 03:50:58 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Satya Nadella says we should assume all AI models are 'compromised'</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</guid>
-      <pubDate>Sun, 11 Oct 2026 03:41:53 +0000</pubDate>
+      <title>[HN] Doory – Open-Source Canva</title>
+      <link>https://github.com/shaongitbd/doory</link>
+      <guid isPermaLink="true">https://github.com/shaongitbd/doory</guid>
+      <pubDate>Mon, 12 Oct 2026 00:48:27 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] GameBoy on E-Paper ESP32 at 30FPS [video]</title>
-      <link>https://www.youtube.com/watch?v=XiZmM6hwwAU</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=XiZmM6hwwAU</guid>
-      <pubDate>Sun, 11 Oct 2026 03:21:07 +0000</pubDate>
+      <title>[HN] Local Indexing to reduce tool calling and token usage</title>
+      <link>https://tedhaley.ca/pensieve/</link>
+      <guid isPermaLink="true">https://tedhaley.ca/pensieve/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:03:53 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] CIA World Facebook Is Dead – Here Is an Attempt at Recreation</title>
-      <link>https://worldfacts.app</link>
-      <guid isPermaLink="true">https://worldfacts.app</guid>
-      <pubDate>Sun, 11 Oct 2026 03:13:46 +0000</pubDate>
+      <title>[HN] HashiCorp archives the Boundary open source repo</title>
+      <link>https://github.com/hashicorp/boundary</link>
+      <guid isPermaLink="true">https://github.com/hashicorp/boundary</guid>
+      <pubDate>Mon, 12 Oct 2026 00:02:45 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] ‘I’m Not an AI-Friendly Actor’</title>
-      <link>https://www.reddit.com/r/technology/comments/1x2k752/nicolas_cage_says_hes_probably_not_working_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x2k752/nicolas_cage_says_hes_probably_not_working_with/</guid>
-      <pubDate>2026-10-10T16:57:46+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2k752/nicolas_cage_says_hes_probably_not_working_with/&quot;&gt; &lt;img alt=&quot;Nicolas Cage Says He’s ‘Probably Not’ Working With Amazon Again After Refusing to Sign AI Waiver for ‘Spider-Noir’: ‘I’m Not an AI-Friendly Actor’&quot; src=&quot;https://external-preview.redd.it/oci0WbU6ckPNJwkQ3ev1xFeP2kGrH0d96OCAwloJaas.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba8a702deb04737f3ff6e0010b394770a74b96b1&quot; title=&quot;Nicolas Cage Says He’s ‘Probably Not’ Working With Amazon Again After Refusing to Sign AI Waiver for ‘Spider-Noir’: ‘I’m Not an AI-Friendly Actor’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2k752/nicolas_cage_says_hes_probably_not_working_with/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] A massive Cartoon Network leak exposes decades of behind-the-scenes animation files</title>
+      <link>https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/</guid>
+      <pubDate>2026-10-11T20:43:49+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/&quot;&gt; &lt;img alt=&quot;A massive Cartoon Network leak exposes decades of behind-the-scenes animation files&quot; src=&quot;https://external-preview.redd.it/9xS_7i7Rl28SRTqh_b8MQJrmG8QCzHxs18F9A1jX5pw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=292ff0e0ab2fa0eb691ba8b639914446fe760f54&quot; title=&quot;A massive Cartoon Network leak exposes decades of behind-the-scenes animation files&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/BigBlackTaco1&quot;&gt; /u/BigBlackTaco1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://mashable.com/entertainment/massive-cartoon-network-leaks-exposes-hundreds-of-animation-files&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] FDA may allow some toxic chemicals to be added to food without safety review. Experts are alarmed</title>
-      <link>https://www.reddit.com/r/technology/comments/1x2f6ly/fda_may_allow_some_toxic_chemicals_to_be_added_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x2f6ly/fda_may_allow_some_toxic_chemicals_to_be_added_to/</guid>
-      <pubDate>2026-10-10T13:21:40+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2f6ly/fda_may_allow_some_toxic_chemicals_to_be_added_to/&quot;&gt; &lt;img alt=&quot;FDA may allow some toxic chemicals to be added to food without safety review. Experts are alarmed&quot; src=&quot;https://external-preview.redd.it/bHQmq1EqLpcijyk_8DPlY6iISmuft5NtA2UjpNdc9Es.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2de7f2f36b7bc31ba5f88216de47aba3eaa417f8&quot; title=&quot;FDA may allow some toxic chemicals to be added to food without safety review. Experts are alarmed&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/polymute&quot;&gt; /u/polymute &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2f6ly/fda_may_allow_some_toxic_chemicals_to_be_added_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.</title>
+      <link>https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/</guid>
+      <pubDate>2026-10-11T20:08:25+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/&quot;&gt; &lt;img alt=&quot;A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.&quot; src=&quot;https://external-preview.redd.it/GZBfij7x2iq9GHTW-hQwDGDvsiLlgEiik_ls9KRI1DM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d33ff1ac067d85948c986103da8d012489a8c4e0&quot; title=&quot;A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship</title>
-      <link>https://www.reddit.com/r/technology/comments/1x2e3ar/nvidia_reportedly_halts_geforce_rtx_5090/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x2e3ar/nvidia_reportedly_halts_geforce_rtx_5090/</guid>
-      <pubDate>2026-10-10T12:27:30+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2e3ar/nvidia_reportedly_halts_geforce_rtx_5090/&quot;&gt; &lt;img alt=&quot;Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship&quot; src=&quot;https://external-preview.redd.it/qifOgKcRQ4f6aRW8Pnb9TKxH7xI9C3WeHjNZ_SV1tYI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=27200ce3c044c332c0543caed56449fab848b6b3&quot; title=&quot;Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2e3ar/nvidia_reportedly_halts_geforce_rtx_5090/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles — officers visit his home to express privacy concerns</title>
+      <link>https://www.reddit.com/r/technology/comments/1x3b0mi/canadian_youtuber_builds_flocklike_camera_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x3b0mi/canadian_youtuber_builds_flocklike_camera_to/</guid>
+      <pubDate>2026-10-11T15:26:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3b0mi/canadian_youtuber_builds_flocklike_camera_to/&quot;&gt; &lt;img alt=&quot;Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles — officers visit his home to express privacy concerns&quot; src=&quot;https://external-preview.redd.it/BtGF16C642uUkSW6xXWBiTWA147nmLqI9yuz9yN_dfk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=70883e7e4834dd1de6aec3944c27be98b5418cbf&quot; title=&quot;Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles — officers visit his home to express privacy concerns&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3b0mi/canadian_youtuber_builds_flocklike_camera_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Ukrainian drones strike Russia's largest data center, multiple parts of 1.4 million square foot campus knocked offline</title>
-      <link>https://www.reddit.com/r/technology/comments/1x2c1gn/ukrainian_drones_strike_russias_largest_data/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x2c1gn/ukrainian_drones_strike_russias_largest_data/</guid>
-      <pubDate>2026-10-10T10:34:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2c1gn/ukrainian_drones_strike_russias_largest_data/&quot;&gt; &lt;img alt=&quot;Ukrainian drones strike Russia's largest data center, multiple parts of 1.4 million square foot campus knocked offline&quot; src=&quot;https://external-preview.redd.it/Hoom1SzsqMZSrmK7wZhuzt-La22aVJ9oehvNfhsMWWY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cec9aace8a5f1956b7b9e31bc481ee33876ce4aa&quot; title=&quot;Ukrainian drones strike Russia's largest data center, multiple parts of 1.4 million square foot campus knocked offline&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2c1gn/ukrainian_drones_strike_russias_largest_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers</title>
+      <link>https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/</guid>
+      <pubDate>2026-10-11T13:17:51+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/&quot;&gt; &lt;img alt=&quot;Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers&quot; src=&quot;https://external-preview.redd.it/gMOX0WOoOnHcDlpdMpMyK0FPeHNWnF28BgDjicXFsoQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=450aa8409259940fb1567573b6124b82cfe3e92f&quot; title=&quot;Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] ICE is reportedly using a Palantir database to compile dossiers on protestors</title>
-      <link>https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/</guid>
-      <pubDate>2026-10-10T06:38:09+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/&quot;&gt; &lt;img alt=&quot;ICE is reportedly using a Palantir database to compile dossiers on protestors&quot; src=&quot;https://external-preview.redd.it/tgzap0SlNQMnTOl06SFdzT6TJZRTTFIJTMP-PTRaXfM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d364ea0046909ad43382839be09399b25bf19047&quot; title=&quot;ICE is reportedly using a Palantir database to compile dossiers on protestors&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Vucea&quot;&gt; /u/Vucea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next</title>
+      <link>https://www.reddit.com/r/technology/comments/1x35i3s/creator_of_free_adobe_clones_unveils_opensource/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x35i3s/creator_of_free_adobe_clones_unveils_opensource/</guid>
+      <pubDate>2026-10-11T11:08:28+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x35i3s/creator_of_free_adobe_clones_unveils_opensource/&quot;&gt; &lt;img alt=&quot;Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next&quot; src=&quot;https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885&quot; title=&quot;Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x35i3s/creator_of_free_adobe_clones_unveils_opensource/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
