@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 12 Oct 2026 05:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:01:14 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Whatever became of holography? (2011)</title>
-      <link>https://www.americanscientist.org/article/whatever-became-of-holography</link>
-      <guid isPermaLink="true">https://www.americanscientist.org/article/whatever-became-of-holography</guid>
-      <pubDate>Sun, 11 Oct 2026 23:50:34 +0000</pubDate>
+      <title>[HN] Vi Hart's Big Navier-Stokes Post</title>
+      <link>https://www.patreon.com/vihart/posts/vi-harts-big-171939430</link>
+      <guid isPermaLink="true">https://www.patreon.com/vihart/posts/vi-harts-big-171939430</guid>
+      <pubDate>Tue, 13 Oct 2026 05:22:28 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] X Is Bad, Though</title>
-      <link>https://lexontech.org/x-is-bad-though</link>
-      <guid isPermaLink="true">https://lexontech.org/x-is-bad-though</guid>
-      <pubDate>Mon, 12 Oct 2026 03:50:58 +0000</pubDate>
+      <title>[HN] A look at OpenAI’s math that’s claimed computes faster Fourier transforms</title>
+      <link>https://www.argmin.net/p/faster-fourier-transforms</link>
+      <guid isPermaLink="true">https://www.argmin.net/p/faster-fourier-transforms</guid>
+      <pubDate>Tue, 13 Oct 2026 02:46:43 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Doory – Open-Source Canva</title>
-      <link>https://github.com/shaongitbd/doory</link>
-      <guid isPermaLink="true">https://github.com/shaongitbd/doory</guid>
-      <pubDate>Mon, 12 Oct 2026 00:48:27 +0000</pubDate>
+      <title>[HN] China Overtakes U.S. For First Time as Top Spender on R&amp;D in 2024</title>
+      <link>https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/</link>
+      <guid isPermaLink="true">https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/</guid>
+      <pubDate>Tue, 13 Oct 2026 02:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Local Indexing to reduce tool calling and token usage</title>
-      <link>https://tedhaley.ca/pensieve/</link>
-      <guid isPermaLink="true">https://tedhaley.ca/pensieve/</guid>
-      <pubDate>Mon, 12 Oct 2026 00:03:53 +0000</pubDate>
+      <title>[HN] The Dock on Mac, from OS 10 to macOS 27</title>
+      <link>https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</guid>
+      <pubDate>Tue, 13 Oct 2026 02:09:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] HashiCorp archives the Boundary open source repo</title>
-      <link>https://github.com/hashicorp/boundary</link>
-      <guid isPermaLink="true">https://github.com/hashicorp/boundary</guid>
-      <pubDate>Mon, 12 Oct 2026 00:02:45 +0000</pubDate>
+      <title>[HN] AI Models Can Provably Hide Arbitrary Capabilities</title>
+      <link>https://arxiv.org/abs/2610.13928</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.13928</guid>
+      <pubDate>Tue, 13 Oct 2026 02:07:08 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] A massive Cartoon Network leak exposes decades of behind-the-scenes animation files</title>
-      <link>https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/</guid>
-      <pubDate>2026-10-11T20:43:49+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/&quot;&gt; &lt;img alt=&quot;A massive Cartoon Network leak exposes decades of behind-the-scenes animation files&quot; src=&quot;https://external-preview.redd.it/9xS_7i7Rl28SRTqh_b8MQJrmG8QCzHxs18F9A1jX5pw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=292ff0e0ab2fa0eb691ba8b639914446fe760f54&quot; title=&quot;A massive Cartoon Network leak exposes decades of behind-the-scenes animation files&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/BigBlackTaco1&quot;&gt; /u/BigBlackTaco1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://mashable.com/entertainment/massive-cartoon-network-leaks-exposes-hundreds-of-animation-files&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Mark Zuckerberg's new toy is a parasite. Please don't fall into his latest trap.</title>
+      <link>https://www.reddit.com/r/technology/comments/1x4fhrc/mark_zuckerbergs_new_toy_is_a_parasite_please/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x4fhrc/mark_zuckerbergs_new_toy_is_a_parasite_please/</guid>
+      <pubDate>2026-10-12T22:09:00+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x4fhrc/mark_zuckerbergs_new_toy_is_a_parasite_please/&quot;&gt; &lt;img alt=&quot;Mark Zuckerberg's new toy is a parasite. Please don't fall into his latest trap.&quot; src=&quot;https://external-preview.redd.it/BFgmD0cLyqFRY7fsLZXirsOVWIWYG_xVcdw5X8K2xXs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d3d0587204ff4a55507cc26d3e853964575cadce&quot; title=&quot;Mark Zuckerberg's new toy is a parasite. Please don't fall into his latest trap.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/abrownn&quot;&gt; /u/abrownn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.sfgate.com/bayarea/article/mark-zuckerberg-muse-parasite-22468893.php&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x4fhrc/mark_zuckerbergs_new_toy_is_a_parasite_please/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.</title>
-      <link>https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/</guid>
-      <pubDate>2026-10-11T20:08:25+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/&quot;&gt; &lt;img alt=&quot;A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.&quot; src=&quot;https://external-preview.redd.it/GZBfij7x2iq9GHTW-hQwDGDvsiLlgEiik_ls9KRI1DM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d33ff1ac067d85948c986103da8d012489a8c4e0&quot; title=&quot;A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Hackers turn supermarket fridges up to 122 degrees forcing stores to throw away food</title>
+      <link>https://www.reddit.com/r/technology/comments/1x47k5w/hackers_turn_supermarket_fridges_up_to_122/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x47k5w/hackers_turn_supermarket_fridges_up_to_122/</guid>
+      <pubDate>2026-10-12T17:07:12+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x47k5w/hackers_turn_supermarket_fridges_up_to_122/&quot;&gt; &lt;img alt=&quot;Hackers turn supermarket fridges up to 122 degrees forcing stores to throw away food&quot; src=&quot;https://external-preview.redd.it/nZJF3RqCaoaiWEW0j4Kb7RtM4UFHBKh7tpEcX7KLRkY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=702b244f62c43dfa2821d42ea2175374f3690ae3&quot; title=&quot;Hackers turn supermarket fridges up to 122 degrees forcing stores to throw away food&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IndicaOatmeal&quot;&gt; /u/IndicaOatmeal &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/food/hackers-turn-supermarket-fridges-up-to-122-degrees-forcing-stores-to-throw-away-food-3418321/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x47k5w/hackers_turn_supermarket_fridges_up_to_122/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles — officers visit his home to express privacy concerns</title>
-      <link>https://www.reddit.com/r/technology/comments/1x3b0mi/canadian_youtuber_builds_flocklike_camera_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x3b0mi/canadian_youtuber_builds_flocklike_camera_to/</guid>
-      <pubDate>2026-10-11T15:26:57+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3b0mi/canadian_youtuber_builds_flocklike_camera_to/&quot;&gt; &lt;img alt=&quot;Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles — officers visit his home to express privacy concerns&quot; src=&quot;https://external-preview.redd.it/BtGF16C642uUkSW6xXWBiTWA147nmLqI9yuz9yN_dfk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=70883e7e4834dd1de6aec3944c27be98b5418cbf&quot; title=&quot;Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles — officers visit his home to express privacy concerns&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3b0mi/canadian_youtuber_builds_flocklike_camera_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] NYC's &quot;Click to Cancel&quot; rule is now in effect</title>
+      <link>https://www.reddit.com/r/technology/comments/1x44wi5/nycs_click_to_cancel_rule_is_now_in_effect/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x44wi5/nycs_click_to_cancel_rule_is_now_in_effect/</guid>
+      <pubDate>2026-10-12T15:29:03+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fattyfoods&quot;&gt; /u/fattyfoods &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nyc.gov/main/click-to-cancel&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x44wi5/nycs_click_to_cancel_rule_is_now_in_effect/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers</title>
-      <link>https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/</guid>
-      <pubDate>2026-10-11T13:17:51+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/&quot;&gt; &lt;img alt=&quot;Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers&quot; src=&quot;https://external-preview.redd.it/gMOX0WOoOnHcDlpdMpMyK0FPeHNWnF28BgDjicXFsoQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=450aa8409259940fb1567573b6124b82cfe3e92f&quot; title=&quot;Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x38098/russian_disinformation_bot_traffic_nearly/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] People are rejoicing about the removal of Russian bots from social media – but the truth is far more complicated</title>
+      <link>https://www.reddit.com/r/technology/comments/1x41voo/people_are_rejoicing_about_the_removal_of_russian/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x41voo/people_are_rejoicing_about_the_removal_of_russian/</guid>
+      <pubDate>2026-10-12T13:28:21+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x41voo/people_are_rejoicing_about_the_removal_of_russian/&quot;&gt; &lt;img alt=&quot;People are rejoicing about the removal of Russian bots from social media – but the truth is far more complicated&quot; src=&quot;https://external-preview.redd.it/G18UcdyrUooGzKkkJbZn38Ad6PQ4-lBfGUe7UJnU3m4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e9a6ee82378f44562ffc8031ded10262abcd1356&quot; title=&quot;People are rejoicing about the removal of Russian bots from social media – but the truth is far more complicated&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Adventurous_Row3305&quot;&gt; /u/Adventurous_Row3305 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.the-independent.com/tech/bots-russia-x-facebook-meta-bluesky-twitter-b3065172.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x41voo/people_are_rejoicing_about_the_removal_of_russian/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next</title>
-      <link>https://www.reddit.com/r/technology/comments/1x35i3s/creator_of_free_adobe_clones_unveils_opensource/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x35i3s/creator_of_free_adobe_clones_unveils_opensource/</guid>
-      <pubDate>2026-10-11T11:08:28+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x35i3s/creator_of_free_adobe_clones_unveils_opensource/&quot;&gt; &lt;img alt=&quot;Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next&quot; src=&quot;https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885&quot; title=&quot;Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x35i3s/creator_of_free_adobe_clones_unveils_opensource/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Ukraine Struck Yandex Data Centers, Russian Bots Went Silent—Now Questions Are Mounting</title>
+      <link>https://www.reddit.com/r/technology/comments/1x3ys2p/ukraine_struck_yandex_data_centers_russian_bots/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1x3ys2p/ukraine_struck_yandex_data_centers_russian_bots/</guid>
+      <pubDate>2026-10-12T10:55:40+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3ys2p/ukraine_struck_yandex_data_centers_russian_bots/&quot;&gt; &lt;img alt=&quot;Ukraine Struck Yandex Data Centers, Russian Bots Went Silent—Now Questions Are Mounting&quot; src=&quot;https://external-preview.redd.it/MVravVOBbnm0K5f1lS-yxvsxBmZIWhPbFauFhxGPd5s.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=574405eed546d98a3add03e6ed955d5b5ba07fe2&quot; title=&quot;Ukraine Struck Yandex Data Centers, Russian Bots Went Silent—Now Questions Are Mounting&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://united24media.com/war-in-ukraine/ukraine-struck-yandex-data-centers-russian-bots-went-silent-now-questions-are-mounting-23339&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1x3ys2p/ukraine_struck_yandex_data_centers_russian_bots/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
