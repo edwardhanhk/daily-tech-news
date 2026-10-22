@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 21 Oct 2026 03:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:49:54 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] In Hilbert space, all things are quantumly possible</title>
-      <link>https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/</link>
-      <guid isPermaLink="true">https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/</guid>
-      <pubDate>Wed, 21 Oct 2026 02:04:15 +0000</pubDate>
+      <title>[HN] mitmproxy adds --emudhra option</title>
+      <link>https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b</link>
+      <guid isPermaLink="true">https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b</guid>
+      <pubDate>Wed, 21 Oct 2026 23:51:37 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The Future of CSS</title>
-      <link>https://www.joshwcomeau.com/css/interop-2027/</link>
-      <guid isPermaLink="true">https://www.joshwcomeau.com/css/interop-2027/</guid>
-      <pubDate>Wed, 21 Oct 2026 01:47:28 +0000</pubDate>
+      <title>[HN] There isn't an easy exploit for this PHP vulnerability</title>
+      <link>https://eliastaylor.com/noexploit/</link>
+      <guid isPermaLink="true">https://eliastaylor.com/noexploit/</guid>
+      <pubDate>Wed, 21 Oct 2026 23:13:27 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Good type against all odds</title>
-      <link>https://unsung.aresluna.org/good-type-against-all-odds/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/good-type-against-all-odds/</guid>
-      <pubDate>Wed, 21 Oct 2026 01:45:07 +0000</pubDate>
+      <title>[HN] The recently proposed o(n log n) integer multiplication algorithm [pdf]</title>
+      <link>https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</link>
+      <guid isPermaLink="true">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</guid>
+      <pubDate>Thu, 22 Oct 2026 02:30:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Learning to live with Waymos</title>
-      <link>https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird</link>
-      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird</guid>
-      <pubDate>Wed, 21 Oct 2026 01:44:34 +0000</pubDate>
+      <title>[HN] LLM Agents Play Pokemon Showdown</title>
+      <link>https://olivergrabner.com/research/pokemon/</link>
+      <guid isPermaLink="true">https://olivergrabner.com/research/pokemon/</guid>
+      <pubDate>Thu, 22 Oct 2026 02:13:48 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The Other Epidemic: Trying to get off benzodiazepines</title>
-      <link>https://www.thebeliever.net/the-other-epidemic/</link>
-      <guid isPermaLink="true">https://www.thebeliever.net/the-other-epidemic/</guid>
-      <pubDate>Tue, 20 Oct 2026 23:04:09 +0000</pubDate>
+      <title>[HN] Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments</title>
+      <link>https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552</link>
+      <guid isPermaLink="true">https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552</guid>
+      <pubDate>Thu, 22 Oct 2026 01:52:03 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Anthropic logged net loss of over $80 billion in first half of 2026</title>
-      <link>https://www.reddit.com/r/technology/comments/1xb7op7/anthropic_logged_net_loss_of_over_80_billion_in/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xb7op7/anthropic_logged_net_loss_of_over_80_billion_in/</guid>
-      <pubDate>2026-10-20T23:36:46+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CarciaNerissa&quot;&gt; /u/CarciaNerissa &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xb7op7/anthropic_logged_net_loss_of_over_80_billion_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case</title>
+      <link>https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/</guid>
+      <pubDate>2026-10-21T17:24:10+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/&quot;&gt; &lt;img alt=&quot;Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case&quot; src=&quot;https://external-preview.redd.it/8-fbP0eYLMBfu6NAokKuL4rMd5jd-wbhNISYL7IDQ_c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0a0e7e8c83b4607e6855173c37eab7af2e8b3bd8&quot; title=&quot;Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puginator&quot;&gt; /u/Puginator &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] The Internet goes on high alert after discovery of 8 compromised TLS certs</title>
-      <link>https://www.reddit.com/r/technology/comments/1xb6re5/the_internet_goes_on_high_alert_after_discovery/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xb6re5/the_internet_goes_on_high_alert_after_discovery/</guid>
-      <pubDate>2026-10-20T22:54:15+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xb6re5/the_internet_goes_on_high_alert_after_discovery/&quot;&gt; &lt;img alt=&quot;The Internet goes on high alert after discovery of 8 compromised TLS certs&quot; src=&quot;https://external-preview.redd.it/22n7mVl0iLh_nQizczvdw6uHj2j4VLREcqXh08r_Bvw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=aa5c8a8ed4b051e546271c1beb231ae9ae1117e2&quot; title=&quot;The Internet goes on high alert after discovery of 8 compromised TLS certs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/deraser&quot;&gt; /u/deraser &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xb6re5/the_internet_goes_on_high_alert_after_discovery/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] New Airbnb rules ban hosts from making guests wash dishes, do laundry &amp; other checkout chores</title>
+      <link>https://www.reddit.com/r/technology/comments/1xbt833/new_airbnb_rules_ban_hosts_from_making_guests/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xbt833/new_airbnb_rules_ban_hosts_from_making_guests/</guid>
+      <pubDate>2026-10-21T17:16:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbt833/new_airbnb_rules_ban_hosts_from_making_guests/&quot;&gt; &lt;img alt=&quot;New Airbnb rules ban hosts from making guests wash dishes, do laundry &amp;amp; other checkout chores&quot; src=&quot;https://external-preview.redd.it/iG4DQyrHGxTy2LRE2VubxlYmgRAnybJEOboepBlhvDs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=df240b5e006f27da5f60de0133180a2ae12a9897&quot; title=&quot;New Airbnb rules ban hosts from making guests wash dishes, do laundry &amp;amp; other checkout chores&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/new-airbnb-rules-ban-hosts-from-making-guests-wash-dishes-do-laundry-other-checkout-chores-3420832/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbt833/new_airbnb_rules_ban_hosts_from_making_guests/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies</title>
-      <link>https://www.reddit.com/r/technology/comments/1xb56fx/cops_raid_office_of_rfk_jr_allies_planning/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xb56fx/cops_raid_office_of_rfk_jr_allies_planning/</guid>
-      <pubDate>2026-10-20T21:45:50+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xb56fx/cops_raid_office_of_rfk_jr_allies_planning/&quot;&gt; &lt;img alt=&quot;Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies&quot; src=&quot;https://external-preview.redd.it/OKxaiLZ0YKyZtx3TJNoFirJA9yU8N9NO9R0YuyzDABY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7ef42c18c6e13f746dc164ef3656cea4091f1bca&quot; title=&quot;Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xb56fx/cops_raid_office_of_rfk_jr_allies_planning/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] YouTube is testing hiding the dislike button entirely and users aren’t happy</title>
+      <link>https://www.reddit.com/r/technology/comments/1xbq8vy/youtube_is_testing_hiding_the_dislike_button/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xbq8vy/youtube_is_testing_hiding_the_dislike_button/</guid>
+      <pubDate>2026-10-21T15:28:02+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbq8vy/youtube_is_testing_hiding_the_dislike_button/&quot;&gt; &lt;img alt=&quot;YouTube is testing hiding the dislike button entirely and users aren’t happy&quot; src=&quot;https://external-preview.redd.it/EOldfz1xZIVYJW65K041nh3rw3gq_oD26ajIC8r3Nic.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ffa5c7eaac9bd5e05edec6e27ec8aa4463d26e19&quot; title=&quot;YouTube is testing hiding the dislike button entirely and users aren’t happy&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dilpickle2113&quot;&gt; /u/Dilpickle2113 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/youtube/youtube-is-testing-hiding-the-dislike-button-entirely-and-users-arent-happy-3420822/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbq8vy/youtube_is_testing_hiding_the_dislike_button/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Accident Or Not, The No Kings Takedown Is Why You Shouldn’t Rent Your Megaphone From Zuck</title>
-      <link>https://www.reddit.com/r/technology/comments/1xb1cg5/accident_or_not_the_no_kings_takedown_is_why_you/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xb1cg5/accident_or_not_the_no_kings_takedown_is_why_you/</guid>
-      <pubDate>2026-10-20T19:16:19+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xb1cg5/accident_or_not_the_no_kings_takedown_is_why_you/&quot;&gt; &lt;img alt=&quot;Accident Or Not, The No Kings Takedown Is Why You Shouldn’t Rent Your Megaphone From Zuck&quot; src=&quot;https://external-preview.redd.it/QdCWJLZtSx1Ly9Z2yTbDMgT5dhGTgi8syC6l1SyLf7U.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a1a6cfbe9524d8a1a6256dc8bc5c1b9956207d61&quot; title=&quot;Accident Or Not, The No Kings Takedown Is Why You Shouldn’t Rent Your Megaphone From Zuck&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Well_Socialized&quot;&gt; /u/Well_Socialized &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xb1cg5/accident_or_not_the_no_kings_takedown_is_why_you/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Anthropic posts staggering $80.7 billion net loss in first half of 2026 as IPO approaches</title>
+      <link>https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/</guid>
+      <pubDate>2026-10-21T10:42:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/&quot;&gt; &lt;img alt=&quot;Anthropic posts staggering $80.7 billion net loss in first half of 2026 as IPO approaches&quot; src=&quot;https://external-preview.redd.it/mWN3Qnqqdx1IN11hzhnGQHrIXmzzm4Ji05ppusaNOOA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=235bcf856c6c09a8b115c47d6b78afbc910655fe&quot; title=&quot;Anthropic posts staggering $80.7 billion net loss in first half of 2026 as IPO approaches&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/boppinmule&quot;&gt; /u/boppinmule &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techstartups.com/2026/10/20/anthropic-posts-staggering-80-7-billion-net-loss-in-first-half-of-2026-as-ipo-approaches/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] What 421,179 Hacked Emails Show about the German Far Right</title>
-      <link>https://www.reddit.com/r/technology/comments/1xar7jl/afd_leak_what_421179_hacked_emails_show_about_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xar7jl/afd_leak_what_421179_hacked_emails_show_about_the/</guid>
-      <pubDate>2026-10-20T12:47:03+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xar7jl/afd_leak_what_421179_hacked_emails_show_about_the/&quot;&gt; &lt;img alt=&quot;AfD Leak: What 421,179 Hacked Emails Show about the German Far Right&quot; src=&quot;https://external-preview.redd.it/agyidO-xjGgdZwvZScN4iPCOlfjEmjJWnV52f_PI7_A.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=611ee1ddff54ad84d5a9201a81c21a547cd9fd52&quot; title=&quot;AfD Leak: What 421,179 Hacked Emails Show about the German Far Right&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puzzleheaded_irl&quot;&gt; /u/Puzzleheaded_irl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xar7jl/afd_leak_what_421179_hacked_emails_show_about_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] DOGE Unlawfully Accessed Government Personnel Data, Judge Rules</title>
+      <link>https://www.reddit.com/r/technology/comments/1xbdtkx/doge_unlawfully_accessed_government_personnel/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xbdtkx/doge_unlawfully_accessed_government_personnel/</guid>
+      <pubDate>2026-10-21T04:41:05+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbdtkx/doge_unlawfully_accessed_government_personnel/&quot;&gt; &lt;img alt=&quot;DOGE Unlawfully Accessed Government Personnel Data, Judge Rules&quot; src=&quot;https://external-preview.redd.it/s6jrTNynw5qQFLb9tC8swoQ4YbRKQBSZjps7UBFsyDs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7c494a016c0c8fae49b7d1916c0c6357586695c9&quot; title=&quot;DOGE Unlawfully Accessed Government Personnel Data, Judge Rules&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puzzleheaded_irl&quot;&gt; /u/Puzzleheaded_irl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://news.bloomberglaw.com/daily-labor-report/doge-unlawfully-accessed-government-personnel-data-judge-rules&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xbdtkx/doge_unlawfully_accessed_government_personnel/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
