@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Fri, 23 Oct 2026 03:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:48:36 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Mapping the Northern Sky</title>
-      <link>https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</link>
-      <guid isPermaLink="true">https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</guid>
-      <pubDate>Thu, 22 Oct 2026 23:56:39 +0000</pubDate>
+      <title>[HN] Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261018084421.htm</link>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</guid>
+      <pubDate>Sat, 24 Oct 2026 01:53:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Jank – The native Clojure dialect with seamless C++ interop</title>
-      <link>https://jank-lang.org/</link>
-      <guid isPermaLink="true">https://jank-lang.org/</guid>
-      <pubDate>Thu, 22 Oct 2026 23:56:36 +0000</pubDate>
+      <title>[HN] Twelve Years of Distributed SQLite</title>
+      <link>https://philipotoole.com/twelve-years-of-distributed-sqlite/</link>
+      <guid isPermaLink="true">https://philipotoole.com/twelve-years-of-distributed-sqlite/</guid>
+      <pubDate>Sat, 24 Oct 2026 01:16:58 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Docker is weird</title>
-      <link>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</link>
-      <guid isPermaLink="true">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</guid>
-      <pubDate>Thu, 22 Oct 2026 23:45:56 +0000</pubDate>
+      <title>[HN] Evolving Threat: http2shell is an RCE in node, Python, and more</title>
+      <link>https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</link>
+      <guid isPermaLink="true">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</guid>
+      <pubDate>Fri, 23 Oct 2026 23:30:17 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] AI compute is the new oil–and needs a new market</title>
-      <link>https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market</link>
-      <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market</guid>
-      <pubDate>Thu, 22 Oct 2026 23:45:16 +0000</pubDate>
+      <title>[HN] CVE Tracker</title>
+      <link>https://cve.0xosprey.com/</link>
+      <guid isPermaLink="true">https://cve.0xosprey.com/</guid>
+      <pubDate>Fri, 23 Oct 2026 21:21:47 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] The foolishness of &quot;natural language programming&quot; (1978)</title>
-      <link>https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</link>
-      <guid isPermaLink="true">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</guid>
-      <pubDate>Fri, 23 Oct 2026 00:52:01 +0000</pubDate>
+      <title>[HN] No Source Code? No Problem</title>
+      <link>https://queue.acm.org/doi/10.1145/945131.945155</link>
+      <guid isPermaLink="true">https://queue.acm.org/doi/10.1145/945131.945155</guid>
+      <pubDate>Fri, 23 Oct 2026 20:38:06 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Jared Kushner’s Hacked Phone Revealed His Secret Negotiations—Including More Than $700 Million in Transfers</title>
-      <link>https://www.reddit.com/r/technology/comments/1xcw366/the_art_of_the_deal_jared_kushners_hacked_phone/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xcw366/the_art_of_the_deal_jared_kushners_hacked_phone/</guid>
-      <pubDate>2026-10-22T21:57:39+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcw366/the_art_of_the_deal_jared_kushners_hacked_phone/&quot;&gt; &lt;img alt=&quot;The Art of the Deal: Jared Kushner’s Hacked Phone Revealed His Secret Negotiations—Including More Than $700 Million in Transfers&quot; src=&quot;https://external-preview.redd.it/oKEcU2PutC-Pw8d0GV7hahXcynkSOA2cli96bCLyx0M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e1241be23d879d338c3250b4e31958a7ac110e10&quot; title=&quot;The Art of the Deal: Jared Kushner’s Hacked Phone Revealed His Secret Negotiations—Including More Than $700 Million in Transfers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/kronicno_tele&quot;&gt; /u/kronicno_tele &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=dhtwitter&amp;amp;utm_content=null&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcw366/the_art_of_the_deal_jared_kushners_hacked_phone/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads</title>
+      <link>https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/</guid>
+      <pubDate>2026-10-23T20:37:44+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/&quot;&gt; &lt;img alt=&quot;Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads&quot; src=&quot;https://external-preview.redd.it/KSnbMZ0kYbCkC0KnMBAIHaS9ovRIKeioz5j1R3X2zy4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=730ccfd779d82f6ed72cdfa22420884e5828dfda&quot; title=&quot;Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Emilia-Rose&quot;&gt; /u/Emilia-Rose &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/google-quietly-changes-privacy-policy-so-your-gmail-and-photos-could-be-used-in-targeted-ads-3421462/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Ukraine is wiping out data centers across the border</title>
-      <link>https://www.reddit.com/r/technology/comments/1xcvqwy/this_effectively_sets_russia_far_behind_in_the_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xcvqwy/this_effectively_sets_russia_far_behind_in_the_ai/</guid>
-      <pubDate>2026-10-22T21:43:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcvqwy/this_effectively_sets_russia_far_behind_in_the_ai/&quot;&gt; &lt;img alt=&quot;‘This effectively sets Russia far behind in the AI race’: Ukraine is wiping out data centers across the border&quot; src=&quot;https://external-preview.redd.it/wMoz9W2WHlSQ7nvBvN6JmqdquxHANKUAPQ1PkDWecsg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cee3f34fa27c1187734b3fd839803bb80f9a2af5&quot; title=&quot;‘This effectively sets Russia far behind in the AI race’: Ukraine is wiping out data centers across the border&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcvqwy/this_effectively_sets_russia_far_behind_in_the_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras</title>
+      <link>https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/</guid>
+      <pubDate>2026-10-23T15:39:46+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/&quot;&gt; &lt;img alt=&quot;My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras&quot; src=&quot;https://external-preview.redd.it/7B6txMascrngi6NbesrOO_xJBOK6PFjSUryidf-jsyQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=39d8a046de954092f0c5e7a6bf6b2bb9a28aa183&quot; title=&quot;My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Meta shocked by $25B fine after N.M. refused to join multistate settlement</title>
-      <link>https://www.reddit.com/r/technology/comments/1xcpqjl/meta_shocked_by_25b_fine_after_nm_refused_to_join/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xcpqjl/meta_shocked_by_25b_fine_after_nm_refused_to_join/</guid>
-      <pubDate>2026-10-22T17:56:08+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcpqjl/meta_shocked_by_25b_fine_after_nm_refused_to_join/&quot;&gt; &lt;img alt=&quot;Meta shocked by $25B fine after N.M. refused to join multistate settlement&quot; src=&quot;https://external-preview.redd.it/kO7hEVScLrR4PWlBgdmkpqG07IGNr0rYXp508dibg1Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ae02087f0d3da196dea782f482fe27a8d6abaf80&quot; title=&quot;Meta shocked by $25B fine after N.M. refused to join multistate settlement&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mepper&quot;&gt; /u/mepper &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcpqjl/meta_shocked_by_25b_fine_after_nm_refused_to_join/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware</title>
+      <link>https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/</guid>
+      <pubDate>2026-10-23T12:50:35+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/&quot;&gt; &lt;img alt=&quot;Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware&quot; src=&quot;https://external-preview.redd.it/SM1J1RAIiD-gpqZ-08YcSc6ctpjTdSuYUZmpWBzruCY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=692fc534eb22ff3d32c33f589848d46d7f337b6e&quot; title=&quot;Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://respawnfirst.com/multiple-reports-say-nvidia-manufactured-the-gaming-gpu-crisis-by-forcing-big-tech-to-stockpile-unused-ai-hardware/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] New Bill Would Force Data Centers to Pay Their Own Power Costs</title>
-      <link>https://www.reddit.com/r/technology/comments/1xcgsdb/new_bill_would_force_data_centers_to_pay_their/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xcgsdb/new_bill_would_force_data_centers_to_pay_their/</guid>
-      <pubDate>2026-10-22T12:08:16+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcgsdb/new_bill_would_force_data_centers_to_pay_their/&quot;&gt; &lt;img alt=&quot;New Bill Would Force Data Centers to Pay Their Own Power Costs&quot; src=&quot;https://external-preview.redd.it/107bAnA7MGUklHBjA6YJMS5J8pZtPkncAgeyXT4WH1I.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b5f50ecb78e004fe20ab5390a19c5c43561e7855&quot; title=&quot;New Bill Would Force Data Centers to Pay Their Own Power Costs&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spherocytes&quot;&gt; /u/spherocytes &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.newsweek.com/new-bill-would-force-data-centers-to-pay-their-own-power-costs-12580096&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcgsdb/new_bill_would_force_data_centers_to_pay_their/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Social Media Giants Are &quot;Silent Allies&quot; of Russian Bots and Kremlin Intelligence, Poland Warns</title>
+      <link>https://www.reddit.com/r/technology/comments/1xdch9h/social_media_giants_are_silent_allies_of_russian/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdch9h/social_media_giants_are_silent_allies_of_russian/</guid>
+      <pubDate>2026-10-23T12:20:19+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdch9h/social_media_giants_are_silent_allies_of_russian/&quot;&gt; &lt;img alt=&quot;Social Media Giants Are &amp;quot;Silent Allies&amp;quot; of Russian Bots and Kremlin Intelligence, Poland Warns&quot; src=&quot;https://external-preview.redd.it/ITAfaYOzdPbLHfIu8rNxUxzpPP9kffvJvJxYvrirBXE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bca1769ad66a6fcb5904e5831dcf9024adef4835&quot; title=&quot;Social Media Giants Are &amp;quot;Silent Allies&amp;quot; of Russian Bots and Kremlin Intelligence, Poland Warns&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://united24media.com/world/social-media-giants-are-silent-allies-of-russian-bots-and-kremlin-intelligence-poland-warns-23749&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdch9h/social_media_giants_are_silent_allies_of_russian/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] anger in Finland as Google illegally fells 250,000 trees for datacentre</title>
-      <link>https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/</guid>
-      <pubDate>2026-10-22T11:41:24+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/&quot;&gt; &lt;img alt=&quot;‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre&quot; src=&quot;https://external-preview.redd.it/lFXQEMQFV6biLNRdb5GCAM5QH6hE_uoy07Oh_R_8gGY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=63a777f52d7ebe5e8805ffb926e4bca2f7c560c6&quot; title=&quot;‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/WombatusMighty&quot;&gt; /u/WombatusMighty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers</title>
+      <link>https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/</guid>
+      <pubDate>2026-10-23T11:00:24+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/&quot;&gt; &lt;img alt=&quot;Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers&quot; src=&quot;https://external-preview.redd.it/uIm8pRm1Ro4viPHbrizplw3S8dJwvvukgeWRGgbSzVs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d6523dc28889cdd61e1fc16c8a2324a9862f6c6d&quot; title=&quot;Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
