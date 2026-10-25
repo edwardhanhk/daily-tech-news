@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sat, 24 Oct 2026 03:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:47:22 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261018084421.htm</link>
-      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</guid>
-      <pubDate>Sat, 24 Oct 2026 01:53:10 +0000</pubDate>
+      <title>[HN] Xbox Turns Down Netflix $500M Offer</title>
+      <link>https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/</link>
+      <guid isPermaLink="true">https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/</guid>
+      <pubDate>Sun, 25 Oct 2026 03:05:53 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Twelve Years of Distributed SQLite</title>
-      <link>https://philipotoole.com/twelve-years-of-distributed-sqlite/</link>
-      <guid isPermaLink="true">https://philipotoole.com/twelve-years-of-distributed-sqlite/</guid>
-      <pubDate>Sat, 24 Oct 2026 01:16:58 +0000</pubDate>
+      <title>[HN] Meta employees say Lula’s accounts restricted in Brazil election: Report</title>
+      <link>https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report</guid>
+      <pubDate>Sun, 25 Oct 2026 02:18:35 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Evolving Threat: http2shell is an RCE in node, Python, and more</title>
-      <link>https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</link>
-      <guid isPermaLink="true">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</guid>
-      <pubDate>Fri, 23 Oct 2026 23:30:17 +0000</pubDate>
+      <title>[HN] Cerebras Deploys Trillion-Parameter AI Models</title>
+      <link>https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</link>
+      <guid isPermaLink="true">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</guid>
+      <pubDate>Sun, 25 Oct 2026 01:33:49 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] CVE Tracker</title>
-      <link>https://cve.0xosprey.com/</link>
-      <guid isPermaLink="true">https://cve.0xosprey.com/</guid>
-      <pubDate>Fri, 23 Oct 2026 21:21:47 +0000</pubDate>
+      <title>[HN] FindMyWeb: Apple Find My, reverse enginiered</title>
+      <link>https://codeberg.org/Misom/FindMyWeb</link>
+      <guid isPermaLink="true">https://codeberg.org/Misom/FindMyWeb</guid>
+      <pubDate>Sat, 24 Oct 2026 23:42:52 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] No Source Code? No Problem</title>
-      <link>https://queue.acm.org/doi/10.1145/945131.945155</link>
-      <guid isPermaLink="true">https://queue.acm.org/doi/10.1145/945131.945155</guid>
-      <pubDate>Fri, 23 Oct 2026 20:38:06 +0000</pubDate>
+      <title>[HN] Why Gopher in 2026?</title>
+      <link>https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt</link>
+      <guid isPermaLink="true">https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt</guid>
+      <pubDate>Sat, 24 Oct 2026 23:33:19 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads</title>
-      <link>https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/</guid>
-      <pubDate>2026-10-23T20:37:44+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/&quot;&gt; &lt;img alt=&quot;Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads&quot; src=&quot;https://external-preview.redd.it/KSnbMZ0kYbCkC0KnMBAIHaS9ovRIKeioz5j1R3X2zy4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=730ccfd779d82f6ed72cdfa22420884e5828dfda&quot; title=&quot;Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Emilia-Rose&quot;&gt; /u/Emilia-Rose &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/google-quietly-changes-privacy-policy-so-your-gmail-and-photos-could-be-used-in-targeted-ads-3421462/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] ‘That Loophole Was Closed’</title>
+      <link>https://www.reddit.com/r/technology/comments/1xeoqd6/elon_musk_admits_spacex_purposely_restricted/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xeoqd6/elon_musk_admits_spacex_purposely_restricted/</guid>
+      <pubDate>2026-10-25T00:51:26+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xeoqd6/elon_musk_admits_spacex_purposely_restricted/&quot;&gt; &lt;img alt=&quot;Elon Musk Admits SpaceX Purposely Restricted Ukraine’s Starlink Access in War With Russia: ‘That Loophole Was Closed’&quot; src=&quot;https://external-preview.redd.it/jp-7N8O3AQOeyUyrMn7bmkeuGVRRvmDDpLHHjXyozvA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8f42456f1d0f3d3e0bb5c0d9e2657ac495784085&quot; title=&quot;Elon Musk Admits SpaceX Purposely Restricted Ukraine’s Starlink Access in War With Russia: ‘That Loophole Was Closed’&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/abrownn&quot;&gt; /u/abrownn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.mediaite.com/media/news/elon-musk-admits-spacex-purposely-restricted-ukraines-starlink-access-in-war-with-russia-that-loophole-was-closed/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xeoqd6/elon_musk_admits_spacex_purposely_restricted/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras</title>
-      <link>https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/</guid>
-      <pubDate>2026-10-23T15:39:46+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/&quot;&gt; &lt;img alt=&quot;My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras&quot; src=&quot;https://external-preview.redd.it/7B6txMascrngi6NbesrOO_xJBOK6PFjSUryidf-jsyQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=39d8a046de954092f0c5e7a6bf6b2bb9a28aa183&quot; title=&quot;My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TripleShotPls&quot;&gt; /u/TripleShotPls &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] iPhone Duo Fails JerryRigEverything's Dusty Durability Test</title>
+      <link>https://www.reddit.com/r/technology/comments/1xeg5wb/iphone_duo_fails_jerryrigeverythings_dusty/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xeg5wb/iphone_duo_fails_jerryrigeverythings_dusty/</guid>
+      <pubDate>2026-10-24T18:33:19+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xeg5wb/iphone_duo_fails_jerryrigeverythings_dusty/&quot;&gt; &lt;img alt=&quot;iPhone Duo Fails JerryRigEverything's Dusty Durability Test&quot; src=&quot;https://external-preview.redd.it/fqUwMQNwfAp-ORe1HCSfQ-ouZ4dLowy_i9miFu80Evw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=46270cd73272c7b9385324d212450cf7cadfce58&quot; title=&quot;iPhone Duo Fails JerryRigEverything's Dusty Durability Test&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/N2929&quot;&gt; /u/N2929 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xeg5wb/iphone_duo_fails_jerryrigeverythings_dusty/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware</title>
-      <link>https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/</guid>
-      <pubDate>2026-10-23T12:50:35+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/&quot;&gt; &lt;img alt=&quot;Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware&quot; src=&quot;https://external-preview.redd.it/SM1J1RAIiD-gpqZ-08YcSc6ctpjTdSuYUZmpWBzruCY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=692fc534eb22ff3d32c33f589848d46d7f337b6e&quot; title=&quot;Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/esporx&quot;&gt; /u/esporx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://respawnfirst.com/multiple-reports-say-nvidia-manufactured-the-gaming-gpu-crisis-by-forcing-big-tech-to-stockpile-unused-ai-hardware/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] 79% of companies say their GPUs sit idle at least half the time, yet most plan new AI platforms</title>
+      <link>https://www.reddit.com/r/technology/comments/1xecuyj/ai_bubble_update_79_of_companies_say_their_gpus/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xecuyj/ai_bubble_update_79_of_companies_say_their_gpus/</guid>
+      <pubDate>2026-10-24T16:21:08+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/joe4942&quot;&gt; /u/joe4942 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://venturebeat.com/infrastructure/ai-bubble-update-79-of-companies-say-their-gpus-sit-idle-at-least-half-the-time-yet-most-plan-new-ai-platforms&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xecuyj/ai_bubble_update_79_of_companies_say_their_gpus/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Social Media Giants Are &quot;Silent Allies&quot; of Russian Bots and Kremlin Intelligence, Poland Warns</title>
-      <link>https://www.reddit.com/r/technology/comments/1xdch9h/social_media_giants_are_silent_allies_of_russian/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdch9h/social_media_giants_are_silent_allies_of_russian/</guid>
-      <pubDate>2026-10-23T12:20:19+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdch9h/social_media_giants_are_silent_allies_of_russian/&quot;&gt; &lt;img alt=&quot;Social Media Giants Are &amp;quot;Silent Allies&amp;quot; of Russian Bots and Kremlin Intelligence, Poland Warns&quot; src=&quot;https://external-preview.redd.it/ITAfaYOzdPbLHfIu8rNxUxzpPP9kffvJvJxYvrirBXE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bca1769ad66a6fcb5904e5831dcf9024adef4835&quot; title=&quot;Social Media Giants Are &amp;quot;Silent Allies&amp;quot; of Russian Bots and Kremlin Intelligence, Poland Warns&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://united24media.com/world/social-media-giants-are-silent-allies-of-russian-bots-and-kremlin-intelligence-poland-warns-23749&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdch9h/social_media_giants_are_silent_allies_of_russian/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator — privacy-focused company hosts site on Swiss servers, says users have the right to know who’s recording them</title>
+      <link>https://www.reddit.com/r/technology/comments/1xebubm/proton_hosts_flock_map_revealing_over_300000/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xebubm/proton_hosts_flock_map_revealing_over_300000/</guid>
+      <pubDate>2026-10-24T15:40:11+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xebubm/proton_hosts_flock_map_revealing_over_300000/&quot;&gt; &lt;img alt=&quot;Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator — privacy-focused company hosts site on Swiss servers, says users have the right to know who’s recording them&quot; src=&quot;https://external-preview.redd.it/3eXGeABYjdtEkKCxXViEWlD39HMt5SRvmS_8BpDWE6A.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=56bbdc7826161d5c9acdc3b3e6d13932d3db564e&quot; title=&quot;Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator — privacy-focused company hosts site on Swiss servers, says users have the right to know who’s recording them&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Add55xx&quot;&gt; /u/Add55xx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xebubm/proton_hosts_flock_map_revealing_over_300000/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers</title>
-      <link>https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/</guid>
-      <pubDate>2026-10-23T11:00:24+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/&quot;&gt; &lt;img alt=&quot;Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers&quot; src=&quot;https://external-preview.redd.it/uIm8pRm1Ro4viPHbrizplw3S8dJwvvukgeWRGgbSzVs.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d6523dc28889cdd61e1fc16c8a2324a9862f6c6d&quot; title=&quot;Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Apple’s iPhone Duo fails JerryRigEverything’s durability test</title>
+      <link>https://www.reddit.com/r/technology/comments/1xe95m4/apples_iphone_duo_fails_jerryrigeverythings/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xe95m4/apples_iphone_duo_fails_jerryrigeverythings/</guid>
+      <pubDate>2026-10-24T13:49:08+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xe95m4/apples_iphone_duo_fails_jerryrigeverythings/&quot;&gt; &lt;img alt=&quot;Apple’s iPhone Duo fails JerryRigEverything’s durability test&quot; src=&quot;https://external-preview.redd.it/3htAfxsOYSYLXlz1YsQSRp7NL5Jr01se9gH4-kKTZW0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dadd8f6e382522f0e99e8f51236f17dc297c29fa&quot; title=&quot;Apple’s iPhone Duo fails JerryRigEverything’s durability test&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Away_Theme1330&quot;&gt; /u/Away_Theme1330 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/entertainment/apples-iphone-duo-fails-jerryrigeverythings-durability-test-3421515/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xe95m4/apples_iphone_duo_fails_jerryrigeverythings/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
