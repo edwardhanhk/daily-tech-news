@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 27 Oct 2026 04:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:42:25 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Incremental rust builds up to 92x faster than cargo/rustc</title>
-      <link>https://github.com/indexable-inc/blaze</link>
-      <guid isPermaLink="true">https://github.com/indexable-inc/blaze</guid>
-      <pubDate>Tue, 27 Oct 2026 03:09:07 +0000</pubDate>
+      <title>[HN] Git for US Legislation</title>
+      <link>https://lexifina.com/blog/git-for-the-us-code</link>
+      <guid isPermaLink="true">https://lexifina.com/blog/git-for-the-us-code</guid>
+      <pubDate>Wed, 28 Oct 2026 01:47:50 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] I still teach OpenGL ES 3.0</title>
-      <link>https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</link>
-      <guid isPermaLink="true">https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</guid>
-      <pubDate>Tue, 27 Oct 2026 02:15:10 +0000</pubDate>
+      <title>[HN] Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs</title>
+      <link>https://github.com/maharmstone/moxnox</link>
+      <guid isPermaLink="true">https://github.com/maharmstone/moxnox</guid>
+      <pubDate>Tue, 27 Oct 2026 23:53:41 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows</title>
-      <link>https://github.com/otya128/winevdm</link>
-      <guid isPermaLink="true">https://github.com/otya128/winevdm</guid>
-      <pubDate>Tue, 27 Oct 2026 01:15:04 +0000</pubDate>
+      <title>[HN] Reviewers rarely talk about reliability. Owners bring it up twice as often</title>
+      <link>https://www.bettascore.ai/research/reliability-reviewers-vs-owners</link>
+      <guid isPermaLink="true">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</guid>
+      <pubDate>Tue, 27 Oct 2026 22:31:15 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)</title>
-      <link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link>
-      <guid isPermaLink="true">https://blog.cloudflare.com/kv-cache-exposure-remediation/</guid>
-      <pubDate>Mon, 26 Oct 2026 22:41:48 +0000</pubDate>
+      <title>[HN] Expanding our partnership with GSA to bring Claude to all levels of government</title>
+      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
+      <pubDate>Tue, 27 Oct 2026 22:23:37 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Is PHP Running on Your ColdFusion Server? How to Check, and Remove It</title>
-      <link>https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</link>
-      <guid isPermaLink="true">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</guid>
-      <pubDate>Mon, 26 Oct 2026 22:27:17 +0000</pubDate>
+      <title>[HN] Early progress on accelerating drug development with Claude</title>
+      <link>https://www.anthropic.com/research/early-progress-drug-development</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
+      <pubDate>Tue, 27 Oct 2026 20:50:42 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Police Are Increasingly Pulling People Over Because AI Deems Their Driving Patterns “Suspicious”</title>
-      <link>https://www.reddit.com/r/technology/comments/1xg8gp4/police_are_increasingly_pulling_people_over/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xg8gp4/police_are_increasingly_pulling_people_over/</guid>
-      <pubDate>2026-10-26T20:37:10+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xg8gp4/police_are_increasingly_pulling_people_over/&quot;&gt; &lt;img alt=&quot;Police Are Increasingly Pulling People Over Because AI Deems Their Driving Patterns “Suspicious”&quot; src=&quot;https://external-preview.redd.it/sPKy2td-cu0TkJeEzD7z6GnMaViQ6UlH_DldWTSboyw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=49636202ba59d319289c77a57e9ebdf908c49ebf&quot; title=&quot;Police Are Increasingly Pulling People Over Because AI Deems Their Driving Patterns “Suspicious”&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/LogicalDirect&quot;&gt; /u/LogicalDirect &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.aclu.org/news/privacy-technology/ai-driven-police-stops&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xg8gp4/police_are_increasingly_pulling_people_over/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages</title>
+      <link>https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/</guid>
+      <pubDate>2026-10-27T19:00:08+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/&quot;&gt; &lt;img alt=&quot;AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages&quot; src=&quot;https://external-preview.redd.it/vHx3xzZAPw6E8Ldw144k1JwdyIQQp7v-0VZXaO7szdA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a6ab8fec8cdfd171c9d392a5922f9183231ca622&quot; title=&quot;AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Malor777&quot;&gt; /u/Malor777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees</title>
-      <link>https://www.reddit.com/r/technology/comments/1xg8g4r/ice_plan_to_buy_robot_dogs_spurs_protest_from/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xg8g4r/ice_plan_to_buy_robot_dogs_spurs_protest_from/</guid>
-      <pubDate>2026-10-26T20:36:34+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xg8g4r/ice_plan_to_buy_robot_dogs_spurs_protest_from/&quot;&gt; &lt;img alt=&quot;ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees&quot; src=&quot;https://external-preview.redd.it/GmRFjxuYss7RFxs5Nz0svQ4WiCPRUTpE03qeKtLwPrU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ace1df0e26f2e31b8f41500d836328d7b3fa5f76&quot; title=&quot;ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xg8g4r/ice_plan_to_buy_robot_dogs_spurs_protest_from/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Grand Theft Auto 6 Download Size Revealed To Be 210 GB</title>
+      <link>https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/</guid>
+      <pubDate>2026-10-27T18:49:26+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/&quot;&gt; &lt;img alt=&quot;Grand Theft Auto 6 Download Size Revealed To Be 210 GB&quot; src=&quot;https://external-preview.redd.it/1RgDfX9txu7O_i1JEsS5Y-Mc17jgDUn6ga9fWan8Q-c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=de25af7f15a39a31eeb74c0bd4dc5c383c8f57c4&quot; title=&quot;Grand Theft Auto 6 Download Size Revealed To Be 210 GB&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puzzleheaded_irl&quot;&gt; /u/Puzzleheaded_irl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://insider-gaming.com/gta-6-install-size-revealed-210-gb/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Meta stock sinks nearly 7% as AI spend pushes free cash flow negative</title>
-      <link>https://www.reddit.com/r/technology/comments/1xfy6mm/meta_stock_sinks_nearly_7_as_ai_spend_pushes_free/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xfy6mm/meta_stock_sinks_nearly_7_as_ai_spend_pushes_free/</guid>
-      <pubDate>2026-10-26T14:21:10+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xfy6mm/meta_stock_sinks_nearly_7_as_ai_spend_pushes_free/&quot;&gt; &lt;img alt=&quot;Meta stock sinks nearly 7% as AI spend pushes free cash flow negative&quot; src=&quot;https://external-preview.redd.it/fY-Ckdwpwfn1E-aYNgyNW7LWHKnyAlSaqSWSiImVp6c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b03c74115b319133f5b2c9e72fa8f9ba39554b01&quot; title=&quot;Meta stock sinks nearly 7% as AI spend pushes free cash flow negative&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xfy6mm/meta_stock_sinks_nearly_7_as_ai_spend_pushes_free/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'</title>
+      <link>https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/</guid>
+      <pubDate>2026-10-27T18:46:38+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/&quot;&gt; &lt;img alt=&quot;Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'&quot; src=&quot;https://external-preview.redd.it/gSlFfsLM1d-pVABsW2lnq90zwTwltG9fLpYYm9VKro0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=28c7fd6f16a0ad65b66933a9cc673a211885040f&quot; title=&quot;Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MoneyLibrarian9032&quot;&gt; /u/MoneyLibrarian9032 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/digital/news/trump-artificial-intelligence-officially-ban-term-ai-1236932249/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] In China, the AI bubble has already burst</title>
-      <link>https://www.reddit.com/r/technology/comments/1xfxo3a/in_china_the_ai_bubble_has_already_burst/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xfxo3a/in_china_the_ai_bubble_has_already_burst/</guid>
-      <pubDate>2026-10-26T14:01:41+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/D-Gaea&quot;&gt; /u/D-Gaea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xfxo3a/in_china_the_ai_bubble_has_already_burst/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <title>[r/technology] Microsoft And Epic Games Suddenly Agree That AI Is Theft</title>
+      <link>https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/</guid>
+      <pubDate>2026-10-27T15:51:28+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/&quot;&gt; &lt;img alt=&quot;Microsoft And Epic Games Suddenly Agree That AI Is Theft&quot; src=&quot;https://external-preview.redd.it/E3HlwKsauIZRQBF1Cb17NPpdXI3mTjVUb7MdzYhk9n8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=37cc98171fed9bbed1608b282128830197ae88d9&quot; title=&quot;Microsoft And Epic Games Suddenly Agree That AI Is Theft&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tylerthe-theatre&quot;&gt; /u/tylerthe-theatre &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Lula Vows to Regulate Social Media Giants</title>
-      <link>https://www.reddit.com/r/technology/comments/1xfsb8t/lula_vows_to_regulate_social_media_giants/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xfsb8t/lula_vows_to_regulate_social_media_giants/</guid>
-      <pubDate>2026-10-26T09:43:13+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xfsb8t/lula_vows_to_regulate_social_media_giants/&quot;&gt; &lt;img alt=&quot;Lula Vows to Regulate Social Media Giants&quot; src=&quot;https://external-preview.redd.it/9Aq63O2sESUzR_jg9c3VbG4BUwy98EP-uP1QDMH_bR8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3e891aa4a12cdf42982315829a37986a90fb6486&quot; title=&quot;Lula Vows to Regulate Social Media Giants&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/l3tsgo0&quot;&gt; /u/l3tsgo0 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.riotimesonline.com/lula-victory-speech-social-media-regulation-2026/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xfsb8t/lula_vows_to_regulate_social_media_giants/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] voters demand regulation of Flock cameras</title>
+      <link>https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/</guid>
+      <pubDate>2026-10-27T12:39:22+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/&quot;&gt; &lt;img alt=&quot;'Constant surveillance is pushing us toward an authoritarian state': voters demand regulation of Flock cameras&quot; src=&quot;https://external-preview.redd.it/dhIs6XJ3UcSG8xGK0F4xeeWXUcQTi3kett-e_bdjR4M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e876687db31d6f2dd2c8399de0db41a78e73e2a6&quot; title=&quot;'Constant surveillance is pushing us toward an authoritarian state': voters demand regulation of Flock cameras&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Vucea&quot;&gt; /u/Vucea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://english.elpais.com/technology/2026-10-27/constant-surveillance-is-pushing-us-toward-an-authoritarian-state-voters-demand-regulation-of-flock-cameras.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
