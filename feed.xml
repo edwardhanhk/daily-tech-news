@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 28 Oct 2026 04:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:54:50 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Git for US Legislation</title>
-      <link>https://lexifina.com/blog/git-for-the-us-code</link>
-      <guid isPermaLink="true">https://lexifina.com/blog/git-for-the-us-code</guid>
-      <pubDate>Wed, 28 Oct 2026 01:47:50 +0000</pubDate>
+      <title>[HN] GitLab Security Incident: Attempted Exploitation of CVE-2026-97229</title>
+      <link>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</link>
+      <guid isPermaLink="true">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</guid>
+      <pubDate>Wed, 28 Oct 2026 23:45:46 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs</title>
-      <link>https://github.com/maharmstone/moxnox</link>
-      <guid isPermaLink="true">https://github.com/maharmstone/moxnox</guid>
-      <pubDate>Tue, 27 Oct 2026 23:53:41 +0000</pubDate>
+      <title>[HN] Zillow to pay $212.5M to settle class action for real estate venture</title>
+      <link>https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</link>
+      <guid isPermaLink="true">https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</guid>
+      <pubDate>Thu, 29 Oct 2026 03:48:05 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Reviewers rarely talk about reliability. Owners bring it up twice as often</title>
-      <link>https://www.bettascore.ai/research/reliability-reviewers-vs-owners</link>
-      <guid isPermaLink="true">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</guid>
-      <pubDate>Tue, 27 Oct 2026 22:31:15 +0000</pubDate>
+      <title>[HN] The Milwaukee Brewers win the first World Series title in franchise history</title>
+      <link>https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</link>
+      <guid isPermaLink="true">https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</guid>
+      <pubDate>Thu, 29 Oct 2026 03:44:12 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Expanding our partnership with GSA to bring Claude to all levels of government</title>
-      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
-      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
-      <pubDate>Tue, 27 Oct 2026 22:23:37 +0000</pubDate>
+      <title>[HN] Claude Code burns ~15–20% of your tokens on a 3-word status line</title>
+      <link>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</link>
+      <guid isPermaLink="true">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</guid>
+      <pubDate>Thu, 29 Oct 2026 03:33:42 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Early progress on accelerating drug development with Claude</title>
-      <link>https://www.anthropic.com/research/early-progress-drug-development</link>
-      <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
-      <pubDate>Tue, 27 Oct 2026 20:50:42 +0000</pubDate>
+      <title>[HN] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</title>
+      <link>https://divagr.com/blog/qwenputer</link>
+      <guid isPermaLink="true">https://divagr.com/blog/qwenputer</guid>
+      <pubDate>Thu, 29 Oct 2026 00:25:45 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages</title>
-      <link>https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/</guid>
-      <pubDate>2026-10-27T19:00:08+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/&quot;&gt; &lt;img alt=&quot;AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages&quot; src=&quot;https://external-preview.redd.it/vHx3xzZAPw6E8Ldw144k1JwdyIQQp7v-0VZXaO7szdA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a6ab8fec8cdfd171c9d392a5922f9183231ca622&quot; title=&quot;AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Malor777&quot;&gt; /u/Malor777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents</title>
+      <link>https://www.reddit.com/r/technology/comments/1xhz9fy/massive_leak_exposes_41000_homeland_security/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xhz9fy/massive_leak_exposes_41000_homeland_security/</guid>
+      <pubDate>2026-10-28T20:16:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhz9fy/massive_leak_exposes_41000_homeland_security/&quot;&gt; &lt;img alt=&quot;Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents&quot; src=&quot;https://external-preview.redd.it/bisWoflABc4JeYxihCQ1h1MKkgQebrTvvF28MwePFEk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dc31b52185252ceb76ee0b7190cd571602b73172&quot; title=&quot;Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CarciaNerissa&quot;&gt; /u/CarciaNerissa &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhz9fy/massive_leak_exposes_41000_homeland_security/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Grand Theft Auto 6 Download Size Revealed To Be 210 GB</title>
-      <link>https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/</guid>
-      <pubDate>2026-10-27T18:49:26+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/&quot;&gt; &lt;img alt=&quot;Grand Theft Auto 6 Download Size Revealed To Be 210 GB&quot; src=&quot;https://external-preview.redd.it/1RgDfX9txu7O_i1JEsS5Y-Mc17jgDUn6ga9fWan8Q-c.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=de25af7f15a39a31eeb74c0bd4dc5c383c8f57c4&quot; title=&quot;Grand Theft Auto 6 Download Size Revealed To Be 210 GB&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puzzleheaded_irl&quot;&gt; /u/Puzzleheaded_irl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://insider-gaming.com/gta-6-install-size-revealed-210-gb/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Police are pulling people over because license plate cameras say their travel patterns look &quot;suspicious&quot;</title>
+      <link>https://www.reddit.com/r/technology/comments/1xhw79t/police_are_pulling_people_over_because_license/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xhw79t/police_are_pulling_people_over_because_license/</guid>
+      <pubDate>2026-10-28T18:26:09+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhw79t/police_are_pulling_people_over_because_license/&quot;&gt; &lt;img alt=&quot;Police are pulling people over because license plate cameras say their travel patterns look &amp;quot;suspicious&amp;quot;&quot; src=&quot;https://external-preview.redd.it/rNVEdigAwqbrqZnJGPNEcEMcEk671k96RDAzDDFa2VI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b0cb3e2745d897624abf11e88d70165b5310923b&quot; title=&quot;Police are pulling people over because license plate cameras say their travel patterns look &amp;quot;suspicious&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114358-police-using-ai-powered-license-plate-cameras-pull.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhw79t/police_are_pulling_people_over_because_license/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'</title>
-      <link>https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/</guid>
-      <pubDate>2026-10-27T18:46:38+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/&quot;&gt; &lt;img alt=&quot;Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'&quot; src=&quot;https://external-preview.redd.it/gSlFfsLM1d-pVABsW2lnq90zwTwltG9fLpYYm9VKro0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=28c7fd6f16a0ad65b66933a9cc673a211885040f&quot; title=&quot;Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MoneyLibrarian9032&quot;&gt; /u/MoneyLibrarian9032 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://variety.com/2026/digital/news/trump-artificial-intelligence-officially-ban-term-ai-1236932249/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI</title>
+      <link>https://www.reddit.com/r/technology/comments/1xhv532/epileptic_woman_dies_after_going_to_chatgpt_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xhv532/epileptic_woman_dies_after_going_to_chatgpt_for/</guid>
+      <pubDate>2026-10-28T17:48:14+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhv532/epileptic_woman_dies_after_going_to_chatgpt_for/&quot;&gt; &lt;img alt=&quot;Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI&quot; src=&quot;https://external-preview.redd.it/8RJQuHzEWMValQvMevg4cKFwt9HkmgldYGtdVQCX2Ig.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=18e261f1a2fb5f5b921e3169f0ab97c5023fb04b&quot; title=&quot;Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhv532/epileptic_woman_dies_after_going_to_chatgpt_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Microsoft And Epic Games Suddenly Agree That AI Is Theft</title>
-      <link>https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/</guid>
-      <pubDate>2026-10-27T15:51:28+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/&quot;&gt; &lt;img alt=&quot;Microsoft And Epic Games Suddenly Agree That AI Is Theft&quot; src=&quot;https://external-preview.redd.it/E3HlwKsauIZRQBF1Cb17NPpdXI3mTjVUb7MdzYhk9n8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=37cc98171fed9bbed1608b282128830197ae88d9&quot; title=&quot;Microsoft And Epic Games Suddenly Agree That AI Is Theft&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tylerthe-theatre&quot;&gt; /u/tylerthe-theatre &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout, former BioWare dev alleges, &quot;so as to not cause offense&quot;</title>
+      <link>https://www.reddit.com/r/technology/comments/1xhsgqs/mass_effect_5_studio_was_reportedly_told_to_tone/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xhsgqs/mass_effect_5_studio_was_reportedly_told_to_tone/</guid>
+      <pubDate>2026-10-28T16:13:07+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhsgqs/mass_effect_5_studio_was_reportedly_told_to_tone/&quot;&gt; &lt;img alt=&quot;Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout, former BioWare dev alleges, &amp;quot;so as to not cause offense&amp;quot;&quot; src=&quot;https://external-preview.redd.it/mjvNzgp9nttm-4v12NnJT83qTX1riwE44nLcdj9POWw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=555301f99cbf7363b141b9d011af627517d5c82a&quot; title=&quot;Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout, former BioWare dev alleges, &amp;quot;so as to not cause offense&amp;quot;&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tylerthe-theatre&quot;&gt; /u/tylerthe-theatre &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gamesradar.com/games/mass-effect/mass-effect-5-studio-was-reportedly-told-to-tone-down-inclusivity-by-ea-after-saudi-arabia-buyout-former-bioware-dev-alleges-so-as-to-not-cause-offense/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhsgqs/mass_effect_5_studio_was_reportedly_told_to_tone/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] voters demand regulation of Flock cameras</title>
-      <link>https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/</guid>
-      <pubDate>2026-10-27T12:39:22+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/&quot;&gt; &lt;img alt=&quot;'Constant surveillance is pushing us toward an authoritarian state': voters demand regulation of Flock cameras&quot; src=&quot;https://external-preview.redd.it/dhIs6XJ3UcSG8xGK0F4xeeWXUcQTi3kett-e_bdjR4M.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e876687db31d6f2dd2c8399de0db41a78e73e2a6&quot; title=&quot;'Constant surveillance is pushing us toward an authoritarian state': voters demand regulation of Flock cameras&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Vucea&quot;&gt; /u/Vucea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://english.elpais.com/technology/2026-10-27/constant-surveillance-is-pushing-us-toward-an-authoritarian-state-voters-demand-regulation-of-flock-cameras.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History</title>
+      <link>https://www.reddit.com/r/technology/comments/1xhnxg6/ice_is_running_one_of_the_largest_antileft/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xhnxg6/ice_is_running_one_of_the_largest_antileft/</guid>
+      <pubDate>2026-10-28T13:22:16+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhnxg6/ice_is_running_one_of_the_largest_antileft/&quot;&gt; &lt;img alt=&quot;ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History&quot; src=&quot;https://external-preview.redd.it/wfuMkCY2cwu64ZoUwvkTQw-LIg5Wkh7QSnO2p7vmG9Y.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=27bd7fb5c970654175af8be410423d02820ded35&quot; title=&quot;ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Wagamaga&quot;&gt; /u/Wagamaga &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xhnxg6/ice_is_running_one_of_the_largest_antileft/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
