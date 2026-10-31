@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Fri, 30 Oct 2026 04:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:40:40 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation</title>
-      <link>https://www.penligent.ai/hackinglabs/cve-2026-98432/</link>
-      <guid isPermaLink="true">https://www.penligent.ai/hackinglabs/cve-2026-98432/</guid>
-      <pubDate>Fri, 30 Oct 2026 02:33:04 +0000</pubDate>
+      <title>[HN] OpenAI raises less than half of $30B target</title>
+      <link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</guid>
+      <pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge</title>
-      <link>https://github.com/Millillion/lasm</link>
-      <guid isPermaLink="true">https://github.com/Millillion/lasm</guid>
-      <pubDate>Fri, 30 Oct 2026 02:05:41 +0000</pubDate>
+      <title>[HN] Tell HN: Scribd Breached</title>
+      <link>https://news.ycombinator.com/item?id=50312756</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50312756</guid>
+      <pubDate>Sat, 31 Oct 2026 02:46:36 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Pico CSS is no longer maintained</title>
-      <link>https://github.com/picocss/pico/discussions/754</link>
-      <guid isPermaLink="true">https://github.com/picocss/pico/discussions/754</guid>
-      <pubDate>Fri, 30 Oct 2026 01:58:44 +0000</pubDate>
+      <title>[HN] Flock camera searches fell 95% after a dispatcher's misconduct was caught</title>
+      <link>https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e</link>
+      <guid isPermaLink="true">https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e</guid>
+      <pubDate>Sat, 31 Oct 2026 02:42:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Herdr has released native app</title>
-      <link>https://github.com/herdrdev/herdr-app</link>
-      <guid isPermaLink="true">https://github.com/herdrdev/herdr-app</guid>
-      <pubDate>Fri, 30 Oct 2026 00:42:41 +0000</pubDate>
+      <title>[HN] Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game</title>
+      <link>https://tng.episodle.com/</link>
+      <guid isPermaLink="true">https://tng.episodle.com/</guid>
+      <pubDate>Fri, 30 Oct 2026 23:51:24 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Cormac McCarthy's Library</title>
-      <link>https://cormacmccarthy.lib.utk.edu/</link>
-      <guid isPermaLink="true">https://cormacmccarthy.lib.utk.edu/</guid>
-      <pubDate>Fri, 30 Oct 2026 00:31:00 +0000</pubDate>
+      <title>[HN] sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust</title>
+      <link>https://www.firezone.dev/blog/introducing-sanstun</link>
+      <guid isPermaLink="true">https://www.firezone.dev/blog/introducing-sanstun</guid>
+      <pubDate>Fri, 30 Oct 2026 21:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Reddit will force everyone to log in / Reddit is becoming a ‘logged-in-only experience,’ says CEO Steve Huffman.</title>
-      <link>https://www.reddit.com/r/technology/comments/1xiuqhd/reddit_will_force_everyone_to_log_in_reddit_is/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xiuqhd/reddit_will_force_everyone_to_log_in_reddit_is/</guid>
-      <pubDate>2026-10-29T20:09:33+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xiuqhd/reddit_will_force_everyone_to_log_in_reddit_is/&quot;&gt; &lt;img alt=&quot;Reddit will force everyone to log in / Reddit is becoming a ‘logged-in-only experience,’ says CEO Steve Huffman.&quot; src=&quot;https://external-preview.redd.it/cok1ZRN3nVv9jR_pJKuO7Z6bZF3ShbaTc4Pal7kJQm0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fb717951236fb06f8c67b09148ea300370b7715b&quot; title=&quot;Reddit will force everyone to log in / Reddit is becoming a ‘logged-in-only experience,’ says CEO Steve Huffman.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xiuqhd/reddit_will_force_everyone_to_log_in_reddit_is/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months — president plucks former startup founder, telling him to 'go nuts'</title>
+      <link>https://www.reddit.com/r/technology/comments/1xjn25u/cisco_gives_27yearold_engineer_unlimited_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xjn25u/cisco_gives_27yearold_engineer_unlimited_ai/</guid>
+      <pubDate>2026-10-30T18:18:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xjn25u/cisco_gives_27yearold_engineer_unlimited_ai/&quot;&gt; &lt;img alt=&quot;Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months — president plucks former startup founder, telling him to 'go nuts'&quot; src=&quot;https://external-preview.redd.it/ASwKdp0z7hNQrbh-u7jMUKGr88jPe4vm-9Zw0fxseaw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=242536fdaa67984e3ec6dfaed44f5ba06b87f44f&quot; title=&quot;Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months — president plucks former startup founder, telling him to 'go nuts'&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/screw-britannia&quot;&gt; /u/screw-britannia &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xjn25u/cisco_gives_27yearold_engineer_unlimited_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Finnish police have now launched a criminal investigation into Google's alleged environmental destruction of 250,000 trees at the construction site of the company's planned data center in Finland</title>
-      <link>https://www.reddit.com/r/technology/comments/1xim2o9/finnish_police_have_now_launched_a_criminal/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xim2o9/finnish_police_have_now_launched_a_criminal/</guid>
-      <pubDate>2026-10-29T14:49:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xim2o9/finnish_police_have_now_launched_a_criminal/&quot;&gt; &lt;img alt=&quot;Finnish police have now launched a criminal investigation into Google's alleged environmental destruction of 250,000 trees at the construction site of the company's planned data center in Finland&quot; src=&quot;https://external-preview.redd.it/pIL7_x3iGsh87fgj4dkb2iL8utMVfuQYabxSyvlbikw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f076cd27d62e4880c544ee414790053a443de5ce&quot; title=&quot;Finnish police have now launched a criminal investigation into Google's alleged environmental destruction of 250,000 trees at the construction site of the company's planned data center in Finland&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/LogicalDirect&quot;&gt; /u/LogicalDirect &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://yle.fi/a/74-20254086&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xim2o9/finnish_police_have_now_launched_a_criminal/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] OpenAI CEO says it's 'quite terrible' for your PC to have RAM</title>
+      <link>https://www.reddit.com/r/technology/comments/1xjmixe/openai_ceo_says_its_quite_terrible_for_your_pc_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xjmixe/openai_ceo_says_its_quite_terrible_for_your_pc_to/</guid>
+      <pubDate>2026-10-30T17:59:02+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xjmixe/openai_ceo_says_its_quite_terrible_for_your_pc_to/&quot;&gt; &lt;img alt=&quot;OpenAI CEO says it's 'quite terrible' for your PC to have RAM&quot; src=&quot;https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=46878b5964fcad0e8127451cd7b6ee44a331ca80&quot; title=&quot;OpenAI CEO says it's 'quite terrible' for your PC to have RAM&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Mountain_Till_5868&quot;&gt; /u/Mountain_Till_5868 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xjmixe/openai_ceo_says_its_quite_terrible_for_your_pc_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Flock ignores Minnesota city’s orders not to reinstall AI surveillance cameras — citizens complain after spotting two cameras despite the city canceling its contract</title>
-      <link>https://www.reddit.com/r/technology/comments/1xijr1i/flock_ignores_minnesota_citys_orders_not_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xijr1i/flock_ignores_minnesota_citys_orders_not_to/</guid>
-      <pubDate>2026-10-29T13:18:47+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xijr1i/flock_ignores_minnesota_citys_orders_not_to/&quot;&gt; &lt;img alt=&quot;Flock ignores Minnesota city’s orders not to reinstall AI surveillance cameras — citizens complain after spotting two cameras despite the city canceling its contract&quot; src=&quot;https://external-preview.redd.it/6VOveQVMtE8jq61O4T8zEOiunjM69SeuKhSDhon8QR4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e0cce504912e59bc3e48f0d405add2c894c32378&quot; title=&quot;Flock ignores Minnesota city’s orders not to reinstall AI surveillance cameras — citizens complain after spotting two cameras despite the city canceling its contract&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HimikoTogaFromUSSR&quot;&gt; /u/HimikoTogaFromUSSR &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/big-tech/flock-ignores-minnesota-citys-orders-not-to-reinstall-ai-surveillance-cameras-citizens-complain-after-spotting-two-cameras-despite-the-city-canceling-its-contract&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xijr1i/flock_ignores_minnesota_citys_orders_not_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes</title>
+      <link>https://www.reddit.com/r/technology/comments/1xjdg5q/the_63_billion_binance_hack_was_pulled_off_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xjdg5q/the_63_billion_binance_hack_was_pulled_off_in/</guid>
+      <pubDate>2026-10-30T12:00:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xjdg5q/the_63_billion_binance_hack_was_pulled_off_in/&quot;&gt; &lt;img alt=&quot;The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes&quot; src=&quot;https://external-preview.redd.it/uspmx31_hnLmYMQ3f2nXEG2dXHfnHLnfp3lewpWJ3cc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=295678d56ece0254692fc0968cba3ab50611c40a&quot; title=&quot;The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hi_all_hwru&quot;&gt; /u/Hi_all_hwru &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xjdg5q/the_63_billion_binance_hack_was_pulled_off_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Man granted first-of-its-kind religious exemption against mandatory AI use at work — Humanist argues that offloading his thinking to LLMs violates his beliefs, Title VII accommodation protects employee</title>
-      <link>https://www.reddit.com/r/technology/comments/1xih1ic/man_granted_firstofitskind_religious_exemption/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xih1ic/man_granted_firstofitskind_religious_exemption/</guid>
-      <pubDate>2026-10-29T11:10:36+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xih1ic/man_granted_firstofitskind_religious_exemption/&quot;&gt; &lt;img alt=&quot;Man granted first-of-its-kind religious exemption against mandatory AI use at work — Humanist argues that offloading his thinking to LLMs violates his beliefs, Title VII accommodation protects employee&quot; src=&quot;https://external-preview.redd.it/4ZrrKwmcMCsm0kcil8d1e5lCsfsFQ02dJuCGfq2OM5s.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1abed19172dde71652806b02400634452d16f4ba&quot; title=&quot;Man granted first-of-its-kind religious exemption against mandatory AI use at work — Humanist argues that offloading his thinking to LLMs violates his beliefs, Title VII accommodation protects employee&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xih1ic/man_granted_firstofitskind_religious_exemption/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Flock just can't seem to take no for an answer as its cameras reappear in another city that rejected them</title>
+      <link>https://www.reddit.com/r/technology/comments/1xjda59/flock_just_cant_seem_to_take_no_for_an_answer_as/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xjda59/flock_just_cant_seem_to_take_no_for_an_answer_as/</guid>
+      <pubDate>2026-10-30T11:53:23+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xjda59/flock_just_cant_seem_to_take_no_for_an_answer_as/&quot;&gt; &lt;img alt=&quot;Flock just can't seem to take no for an answer as its cameras reappear in another city that rejected them&quot; src=&quot;https://external-preview.redd.it/4S3IgmAMvjay9T7tP8Bt85l3jwS4taSY87W41SE3wEE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4971122aed847871d7f8db7370d58d1e74573d91&quot; title=&quot;Flock just can't seem to take no for an answer as its cameras reappear in another city that rejected them&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Federal-Block-3275&quot;&gt; /u/Federal-Block-3275 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techspot.com/news/114389-flock-cant-take-no-answer-cameras-reappear-another.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xjda59/flock_just_cant_seem_to_take_no_for_an_answer_as/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Fox News’ pro-data center coverage increased by 420% following sobering GOP memo about data centers and midterms</title>
-      <link>https://www.reddit.com/r/technology/comments/1xickdy/fox_news_prodata_center_coverage_increased_by_420/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xickdy/fox_news_prodata_center_coverage_increased_by_420/</guid>
-      <pubDate>2026-10-29T06:38:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xickdy/fox_news_prodata_center_coverage_increased_by_420/&quot;&gt; &lt;img alt=&quot;Fox News’ pro-data center coverage increased by 420% following sobering GOP memo about data centers and midterms&quot; src=&quot;https://external-preview.redd.it/VcwQGFb5yGETH28uzjZRRqK6IuCLTVd-nTPYcBBTe3Q.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3811fe86beb748725d1542c3ddb5318d73c067cf&quot; title=&quot;Fox News’ pro-data center coverage increased by 420% following sobering GOP memo about data centers and midterms&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.mediamatters.org/artificial-intelligence-and-data-centers/fox-news-pro-data-center-coverage-increased-420-following&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xickdy/fox_news_prodata_center_coverage_increased_by_420/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History</title>
+      <link>https://www.reddit.com/r/technology/comments/1xj6gwl/north_korea_steals_usd_636_billion_from_binance/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xj6gwl/north_korea_steals_usd_636_billion_from_binance/</guid>
+      <pubDate>2026-10-30T04:59:26+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xj6gwl/north_korea_steals_usd_636_billion_from_binance/&quot;&gt; &lt;img alt=&quot;North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History&quot; src=&quot;https://external-preview.redd.it/yo1P_ezqAonatU7D34-21KuOFJMUsYTbThTbQB1A05E.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c49689e9ed27f713c889e69af7e63edafc7ef8f8&quot; title=&quot;North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Logical_Welder3467&quot;&gt; /u/Logical_Welder3467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xj6gwl/north_korea_steals_usd_636_billion_from_binance/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
