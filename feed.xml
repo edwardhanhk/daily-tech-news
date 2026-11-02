@@ -4,42 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 01 Nov 2026 05:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:01:16 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[r/technology] Reddit will soon force users to log in as Google search traffic drops by more than 1 million referrals a week</title>
-      <link>https://www.reddit.com/r/technology/comments/1xki4m4/reddit_will_soon_force_users_to_log_in_as_google/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xki4m4/reddit_will_soon_force_users_to_log_in_as_google/</guid>
-      <pubDate>2026-10-31T18:49:04+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xki4m4/reddit_will_soon_force_users_to_log_in_as_google/&quot;&gt; &lt;img alt=&quot;Reddit will soon force users to log in as Google search traffic drops by more than 1 million referrals a week&quot; src=&quot;https://external-preview.redd.it/AXF6mGc_grbhOaXJznVMsl860r4jpq5mH17MFJP0wUk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f288da49ae6ca694480927b32bbd56c5e9007da0&quot; title=&quot;Reddit will soon force users to log in as Google search traffic drops by more than 1 million referrals a week&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tweaktown.com/news/114410/reddit-will-soon-force-users-to-log-in-as-google-search-traffic-drops-by-more-than-1-million-referrals-a-week/index.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xki4m4/reddit_will_soon_force_users_to_log_in_as_google/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] The Megadonors Who Have Poured $1.2B into the Midterms</title>
+      <link>https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html</guid>
+      <pubDate>Sun, 01 Nov 2026 23:46:59 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030</title>
-      <link>https://www.reddit.com/r/technology/comments/1xkfac2/ai_data_centers_could_erase_15_years_of_americas/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xkfac2/ai_data_centers_could_erase_15_years_of_americas/</guid>
-      <pubDate>2026-10-31T16:56:18+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xkfac2/ai_data_centers_could_erase_15_years_of_americas/&quot;&gt; &lt;img alt=&quot;AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030&quot; src=&quot;https://external-preview.redd.it/wdhjr6tbkY8JcUJNUFGf30IhQML87OF4-OgZrUTfxSw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ab9bb7d9501496f519516a41b5a1b1124049f4a7&quot; title=&quot;AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IKeepItLayingAround&quot;&gt; /u/IKeepItLayingAround &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xkfac2/ai_data_centers_could_erase_15_years_of_americas/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix</title>
+      <link>https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</link>
+      <guid isPermaLink="true">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</guid>
+      <pubDate>Mon, 02 Nov 2026 01:59:38 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Anthropic's Claude AI blocks video game cloning and reverse-engineering</title>
-      <link>https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning/</guid>
-      <pubDate>2026-10-31T12:37:31+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning/&quot;&gt; &lt;img alt=&quot;Anthropic's Claude AI blocks video game cloning and reverse-engineering&quot; src=&quot;https://external-preview.redd.it/pD5YE6gGdfiTB0n3EVJgoPU1_s6tKLWc7-ziWXMhmBE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3b64f5aab34dd152fbf8819a51796d124edfde42&quot; title=&quot;Anthropic's Claude AI blocks video game cloning and reverse-engineering&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] AI fan wikis riddled with errors are muddying the waters of games culture</title>
+      <link>https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</guid>
+      <pubDate>Mon, 02 Nov 2026 01:47:07 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Apple Alerts Stores to iPhone Duo's Display Cracking Issue</title>
-      <link>https://www.reddit.com/r/technology/comments/1xk487v/apple_alerts_stores_to_iphone_duos_display/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xk487v/apple_alerts_stores_to_iphone_duos_display/</guid>
-      <pubDate>2026-10-31T07:49:40+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xk487v/apple_alerts_stores_to_iphone_duos_display/&quot;&gt; &lt;img alt=&quot;Apple Alerts Stores to iPhone Duo's Display Cracking Issue&quot; src=&quot;https://external-preview.redd.it/ZlgHPogcTUdJRD9NIZE9VFvk7Bz2-dV6llE4MKIw8w8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=371e8438f09913d4fc4b11ddb7c1724ded5bb3f8&quot; title=&quot;Apple Alerts Stores to iPhone Duo's Display Cracking Issue&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hi_all_hwru&quot;&gt; /u/Hi_all_hwru &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xk487v/apple_alerts_stores_to_iphone_duos_display/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] Trigger.dev customer environment variables exposed</title>
+      <link>https://trigger.dev/blog/security-incident-nov-2026</link>
+      <guid isPermaLink="true">https://trigger.dev/blog/security-incident-nov-2026</guid>
+      <pubDate>Mon, 02 Nov 2026 01:09:16 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP | Out-of-control pricing and soon completely out of stock</title>
-      <link>https://www.reddit.com/r/technology/comments/1xk1j63/nvidia_store_quietly_pulls_the_rtx_5080_following/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xk1j63/nvidia_store_quietly_pulls_the_rtx_5080_following/</guid>
-      <pubDate>2026-10-31T05:03:18+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xk1j63/nvidia_store_quietly_pulls_the_rtx_5080_following/&quot;&gt; &lt;img alt=&quot;Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP | Out-of-control pricing and soon completely out of stock&quot; src=&quot;https://external-preview.redd.it/f6hR9U8xq5nf4GRQ7hjArtxjYjR9Ieo5gquhCgSJl-U.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=16587f5d7b3e6c4a484eb4c29406dc60d0e4d43e&quot; title=&quot;Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP | Out-of-control pricing and soon completely out of stock&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xk1j63/nvidia_store_quietly_pulls_the_rtx_5080_following/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] OccupySaaS</title>
+      <link>https://occupysaas.com/</link>
+      <guid isPermaLink="true">https://occupysaas.com/</guid>
+      <pubDate>Mon, 02 Nov 2026 00:17:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/technology] Entire Police Department Quits After Finding Out What It Feels Like to Be Tracked</title>
+      <link>https://www.reddit.com/r/technology/comments/1xlj13w/tables_turned_entire_police_department_quits/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xlj13w/tables_turned_entire_police_department_quits/</guid>
+      <pubDate>2026-11-02T00:27:46+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xlj13w/tables_turned_entire_police_department_quits/&quot;&gt; &lt;img alt=&quot;Tables Turned: Entire Police Department Quits After Finding Out What It Feels Like to Be Tracked&quot; src=&quot;https://external-preview.redd.it/SSAUSqI-xzcaDMxP09_8GiJyfzkSus9_F49lZnuJlxo.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ada0ecbfee9e5959037d1bb6ca147b8854bebe24&quot; title=&quot;Tables Turned: Entire Police Department Quits After Finding Out What It Feels Like to Be Tracked&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/efap1701&quot;&gt; /u/efap1701 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.gadgetreview.com/tables-turned-entire-police-department-quits-after-finding-out-what-it-feels-like-to-be-tracked&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xlj13w/tables_turned_entire_police_department_quits/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Police Chief physically unplugs Flock cameras after the company ignores contract cancellation — city takes matters into its own hands amid privacy controversies</title>
+      <link>https://www.reddit.com/r/technology/comments/1xl3u8r/police_chief_physically_unplugs_flock_cameras/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xl3u8r/police_chief_physically_unplugs_flock_cameras/</guid>
+      <pubDate>2026-11-01T14:02:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xl3u8r/police_chief_physically_unplugs_flock_cameras/&quot;&gt; &lt;img alt=&quot;Police Chief physically unplugs Flock cameras after the company ignores contract cancellation — city takes matters into its own hands amid privacy controversies&quot; src=&quot;https://external-preview.redd.it/HHIB6PqYodsk3e1YoCE3UjIV1pyboQX7VXomDNIPE-E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=948ac3d6055d361cdc845c2b3e1f2b4fd904c856&quot; title=&quot;Police Chief physically unplugs Flock cameras after the company ignores contract cancellation — city takes matters into its own hands amid privacy controversies&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xl3u8r/police_chief_physically_unplugs_flock_cameras/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’ — 50-agent teams fail after falling into paralyzing bureaucracy</title>
+      <link>https://www.reddit.com/r/technology/comments/1xl2oer/ai_agent_swarms_unleashed_in_minecraft_to_build_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xl2oer/ai_agent_swarms_unleashed_in_minecraft_to_build_a/</guid>
+      <pubDate>2026-11-01T13:09:53+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xl2oer/ai_agent_swarms_unleashed_in_minecraft_to_build_a/&quot;&gt; &lt;img alt=&quot;AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’ — 50-agent teams fail after falling into paralyzing bureaucracy&quot; src=&quot;https://external-preview.redd.it/IpuJzrkQ16txmT4NYqD7z_ZPmf1LsE6x70RXOoM8a8A.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b5c950125f9cdc40554d63f7eefff3d78e195f6&quot; title=&quot;AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’ — 50-agent teams fail after falling into paralyzing bureaucracy&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hi_all_hwru&quot;&gt; /u/Hi_all_hwru &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xl2oer/ai_agent_swarms_unleashed_in_minecraft_to_build_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] Basically no one is using AI agents for their DoorDash orders</title>
+      <link>https://www.reddit.com/r/technology/comments/1xl21ad/basically_no_one_is_using_ai_agents_for_their/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xl21ad/basically_no_one_is_using_ai_agents_for_their/</guid>
+      <pubDate>2026-11-01T12:38:31+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xl21ad/basically_no_one_is_using_ai_agents_for_their/&quot;&gt; &lt;img alt=&quot;Basically no one is using AI agents for their DoorDash orders&quot; src=&quot;https://external-preview.redd.it/aoyoJnrLxIZXs_7pV8AJ8Fiq6kriQ3_K1IcTBcBmtMw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b813924365c5238b83617cd0e76f9ba072cba926&quot; title=&quot;Basically no one is using AI agents for their DoorDash orders&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xl21ad/basically_no_one_is_using_ai_agents_for_their/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>[r/technology] College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize</title>
+      <link>https://www.reddit.com/r/technology/comments/1xl1na4/college_student_unofficially_breaks_world_record/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xl1na4/college_student_unofficially_breaks_world_record/</guid>
+      <pubDate>2026-11-01T12:17:54+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xl1na4/college_student_unofficially_breaks_world_record/&quot;&gt; &lt;img alt=&quot;College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize&quot; src=&quot;https://external-preview.redd.it/idgFxpXxa4KcLQlxCegNxW9cRFsoiE1E19KMXYJCa0U.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cd755ea4d50fc6eb471c6b47546a92c52b0557e2&quot; title=&quot;College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Hi_all_hwru&quot;&gt; /u/Hi_all_hwru &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xl1na4/college_student_unofficially_breaks_world_record/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
