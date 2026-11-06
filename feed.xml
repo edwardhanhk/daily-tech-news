@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 05 Nov 2026 05:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:41:21 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Images 2.6</title>
-      <link>https://openai.com/index/introducing-images-2-6/</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-images-2-6/</guid>
-      <pubDate>Wed, 04 Nov 2026 23:35:44 +0000</pubDate>
+      <title>[HN] Pwn.college</title>
+      <link>https://pwn.college/</link>
+      <guid isPermaLink="true">https://pwn.college/</guid>
+      <pubDate>Fri, 06 Nov 2026 03:27:14 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] A thousand fewer paths to root</title>
-      <link>https://openai.com/index/a-thousand-fewer-paths-to-root/</link>
-      <guid isPermaLink="true">https://openai.com/index/a-thousand-fewer-paths-to-root/</guid>
-      <pubDate>Wed, 04 Nov 2026 23:33:14 +0000</pubDate>
+      <title>[HN] Nvidia Kubernetes Engine (NVKE)</title>
+      <link>https://github.com/dsx-ai-factory/nvke</link>
+      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
+      <pubDate>Fri, 06 Nov 2026 03:16:26 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements</title>
-      <link>https://icode4.coffee/?p=1746</link>
-      <guid isPermaLink="true">https://icode4.coffee/?p=1746</guid>
-      <pubDate>Wed, 04 Nov 2026 22:01:49 +0000</pubDate>
+      <title>[HN] Closed AI models dominate the price-performance frontier</title>
+      <link>https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/</link>
+      <guid isPermaLink="true">https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/</guid>
+      <pubDate>Fri, 06 Nov 2026 02:49:56 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Lemmings CSS Animation</title>
-      <link>https://markblah.github.io/lemmings/</link>
-      <guid isPermaLink="true">https://markblah.github.io/lemmings/</guid>
-      <pubDate>Thu, 05 Nov 2026 04:54:10 +0000</pubDate>
+      <title>[HN] MoofTCP – A modern replacement for MacTCP on 68k Macs</title>
+      <link>https://github.com/matthewmrichter/mooftcp</link>
+      <guid isPermaLink="true">https://github.com/matthewmrichter/mooftcp</guid>
+      <pubDate>Fri, 06 Nov 2026 00:54:15 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Starfall – Affordable, routine access to microgravity</title>
-      <link>https://www.spacex.com/starfall</link>
-      <guid isPermaLink="true">https://www.spacex.com/starfall</guid>
-      <pubDate>Thu, 05 Nov 2026 00:18:18 +0000</pubDate>
+      <title>[HN] Inkling 2 Small</title>
+      <link>https://thinkingmachines.ai/news/inkling-2-small/</link>
+      <guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-small/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] YouTuber discovers aircraft noise trick that can geolocate your videos to within 100m — 'Doppler effect' pinpoints locations from just 60 seconds of audio</title>
-      <link>https://www.reddit.com/r/technology/comments/1xnzmmf/youtuber_discovers_aircraft_noise_trick_that_can/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xnzmmf/youtuber_discovers_aircraft_noise_trick_that_can/</guid>
-      <pubDate>2026-11-04T20:55:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnzmmf/youtuber_discovers_aircraft_noise_trick_that_can/&quot;&gt; &lt;img alt=&quot;YouTuber discovers aircraft noise trick that can geolocate your videos to within 100m — 'Doppler effect' pinpoints locations from just 60 seconds of audio&quot; src=&quot;https://external-preview.redd.it/J-VP4DCxJDkUSr_-wDH2DA11Gl1NLbG6aG_HyRW0SY4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e2fd62431e195ed54cf6cf71803f0f88de759ed9&quot; title=&quot;YouTuber discovers aircraft noise trick that can geolocate your videos to within 100m — 'Doppler effect' pinpoints locations from just 60 seconds of audio&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/RCEGG&quot;&gt; /u/RCEGG &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.techradar.com/computing/cyber-security/youtuber-discovers-aircraft-noise-trick-that-can-geolocate-your-videos-to-within-100m-doppler-effect-pinpoints-locations-from-just-60-seconds-of-audio&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnzmmf/youtuber_discovers_aircraft_noise_trick_that_can/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms</title>
+      <link>https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in/</guid>
+      <pubDate>2026-11-05T22:19:44+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in/&quot;&gt; &lt;img alt=&quot;Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms&quot; src=&quot;https://external-preview.redd.it/BFowk3HwrUn0jMVPkcVBRBqTLlgtZq61M580DlpozNM.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=506a49dca8e64a16af99285bbae13f78e4de94fd&quot; title=&quot;Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ControlCAD&quot;&gt; /u/ControlCAD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control</title>
-      <link>https://www.reddit.com/r/technology/comments/1xnxmbt/ted_cruz_aims_to_stack_fcc_with_republicans/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xnxmbt/ted_cruz_aims_to_stack_fcc_with_republicans/</guid>
-      <pubDate>2026-11-04T19:36:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnxmbt/ted_cruz_aims_to_stack_fcc_with_republicans/&quot;&gt; &lt;img alt=&quot;Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control&quot; src=&quot;https://external-preview.redd.it/GYL9dZ3aUACPJNkt7rmCc9t2pVriNvJLm5sdMkpbc9g.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1f43fae84e5e5017e4f65b152ec2d43b4a4d6afb&quot; title=&quot;Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CoreClock&quot;&gt; /u/CoreClock &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnxmbt/ted_cruz_aims_to_stack_fcc_with_republicans/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Meta warns that election backlash against data centers could make AI expansion harder</title>
+      <link>https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data/</guid>
+      <pubDate>2026-11-05T19:14:24+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data/&quot;&gt; &lt;img alt=&quot;Meta warns that election backlash against data centers could make AI expansion harder&quot; src=&quot;https://external-preview.redd.it/rB5E4_Q0DeNhhCFPgAAmF71ZyW8SdEBei59XzHvnTkU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3ed5ccf1d5d00cc4a46eb00538cf2850a355a743&quot; title=&quot;Meta warns that election backlash against data centers could make AI expansion harder&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/?utm_medium=organic_social&amp;amp;utm_source=TWITTER&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] 10 States With Data Centers on the Ballot All Voted to Ban Them</title>
-      <link>https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/</guid>
-      <pubDate>2026-11-04T15:59:01+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/&quot;&gt; &lt;img alt=&quot;10 States With Data Centers on the Ballot All Voted to Ban Them&quot; src=&quot;https://external-preview.redd.it/fwcbAyEWSmb0Ic65FFwrvBLur4I_SJ7FgRZvJ8iDr3s.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=811640aa721d8fc4069614ebd150289bf4bbcfd8&quot; title=&quot;10 States With Data Centers on the Ballot All Voted to Ban Them&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/crates-of-bigfoots&quot;&gt; /u/crates-of-bigfoots &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://newrepublic.com/post/217485/data-centers-ballot-initiatives-midterms?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=tnr_daily&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Mark Cuban says Facebook knowingly runs AI deepfake scam ads as Meta docs reveal $16 billion in fraud-linked revenue</title>
+      <link>https://www.reddit.com/r/technology/comments/1xoqri7/mark_cuban_says_facebook_knowingly_runs_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xoqri7/mark_cuban_says_facebook_knowingly_runs_ai/</guid>
+      <pubDate>2026-11-05T18:47:12+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xoqri7/mark_cuban_says_facebook_knowingly_runs_ai/&quot;&gt; &lt;img alt=&quot;Mark Cuban says Facebook knowingly runs AI deepfake scam ads as Meta docs reveal $16 billion in fraud-linked revenue&quot; src=&quot;https://external-preview.redd.it/FZfHGzkBcsRdzT5f1oIrqzhre7GLjkR5OZ3XE0WjthA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cf5cd40300f3680feea600ef7fa28cc5724ff84f&quot; title=&quot;Mark Cuban says Facebook knowingly runs AI deepfake scam ads as Meta docs reveal $16 billion in fraud-linked revenue&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Just-Grocery-2229&quot;&gt; /u/Just-Grocery-2229 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xoqri7/mark_cuban_says_facebook_knowingly_runs_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Texas just went blue, and the tech bros are sad</title>
-      <link>https://www.reddit.com/r/technology/comments/1xnrp17/texas_just_went_blue_and_the_tech_bros_are_sad/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xnrp17/texas_just_went_blue_and_the_tech_bros_are_sad/</guid>
-      <pubDate>2026-11-04T15:52:01+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnrp17/texas_just_went_blue_and_the_tech_bros_are_sad/&quot;&gt; &lt;img alt=&quot;Texas just went blue, and the tech bros are sad&quot; src=&quot;https://external-preview.redd.it/rBamd598cMa-CshX5S_tgwP9DD461eEP9hrtYNr5yxY.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9a38761dca36a43656747d82651df86cf30c58ec&quot; title=&quot;Texas just went blue, and the tech bros are sad&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/texas-went-blue-tech-bros-democrats-2026-11&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnrp17/texas_just_went_blue_and_the_tech_bros_are_sad/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Republicans Learn X Is the Echo Chamber</title>
+      <link>https://www.reddit.com/r/technology/comments/1xopyuw/republicans_learn_x_is_the_echo_chamber/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xopyuw/republicans_learn_x_is_the_echo_chamber/</guid>
+      <pubDate>2026-11-05T18:17:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xopyuw/republicans_learn_x_is_the_echo_chamber/&quot;&gt; &lt;img alt=&quot;Republicans Learn X Is the Echo Chamber&quot; src=&quot;https://external-preview.redd.it/KXq1Qieb4uDdfLPYoETa_G_cZw6y2b_73OBE6bsqx1Y.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3130b32170b98cc350d4c201b8441a57c597da49&quot; title=&quot;Republicans Learn X Is the Echo Chamber&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Well_Socialized&quot;&gt; /u/Well_Socialized &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.404media.co/republicans-learn-x-is-an-echo-chamber/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xopyuw/republicans_learn_x_is_the_echo_chamber/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Tech billionaires suffer horrible night as Democrats drub Republicans</title>
-      <link>https://www.reddit.com/r/technology/comments/1xnjbg9/midterm_takeaways_tech_billionaires_suffer/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xnjbg9/midterm_takeaways_tech_billionaires_suffer/</guid>
-      <pubDate>2026-11-04T08:49:19+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnjbg9/midterm_takeaways_tech_billionaires_suffer/&quot;&gt; &lt;img alt=&quot;Midterm Takeaways: Tech billionaires suffer horrible night as Democrats drub Republicans&quot; src=&quot;https://external-preview.redd.it/OgTF6Mi66OYuXrNcbCIfFEX_yFgPh7C1pJcMs39wryU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=759089eded1096c8758a57fc63d7332408a2258d&quot; title=&quot;Midterm Takeaways: Tech billionaires suffer horrible night as Democrats drub Republicans&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/dumplank&quot;&gt; /u/dumplank &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xnjbg9/midterm_takeaways_tech_billionaires_suffer/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Tech is about to get hammered in Congress / Democrats have promised to drag CEOs to testify under oath and investigate corporate influence.</title>
+      <link>https://www.reddit.com/r/technology/comments/1xokqlr/tech_is_about_to_get_hammered_in_congress/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xokqlr/tech_is_about_to_get_hammered_in_congress/</guid>
+      <pubDate>2026-11-05T14:57:25+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xokqlr/tech_is_about_to_get_hammered_in_congress/&quot;&gt; &lt;img alt=&quot;Tech is about to get hammered in Congress / Democrats have promised to drag CEOs to testify under oath and investigate corporate influence.&quot; src=&quot;https://external-preview.redd.it/kkhzmfq3kCMVGySkt5UnFf2m_ocQc9fr2_hzi8Gr_5o.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=053f6637b32c89b9c7b6e1742f7c115809a70995&quot; title=&quot;Tech is about to get hammered in Congress / Democrats have promised to drag CEOs to testify under oath and investigate corporate influence.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xokqlr/tech_is_about_to_get_hammered_in_congress/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
