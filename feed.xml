@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Sun, 08 Nov 2026 05:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:18:11 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] I Use Development-Driven Specs, Not Spec-Driven Development</title>
-      <link>https://github.com/waywardgeek/ensemble</link>
-      <guid isPermaLink="true">https://github.com/waywardgeek/ensemble</guid>
-      <pubDate>Sun, 08 Nov 2026 03:51:55 +0000</pubDate>
+      <title>[HN] A Critique of GPUI</title>
+      <link>https://blog.zortax.de/posts/a-critique-of-gpui</link>
+      <guid isPermaLink="true">https://blog.zortax.de/posts/a-critique-of-gpui</guid>
+      <pubDate>Mon, 09 Nov 2026 03:51:10 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Goodbye Claude, Hello Pi</title>
-      <link>https://caleb.software/posts/claude-to-pi.html</link>
-      <guid isPermaLink="true">https://caleb.software/posts/claude-to-pi.html</guid>
-      <pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
+      <title>[HN] The Qlobe: Rotating Quine (2010)</title>
+      <link>http://mamememo.blogspot.com/2010/09/qlobe.html</link>
+      <guid isPermaLink="true">http://mamememo.blogspot.com/2010/09/qlobe.html</guid>
+      <pubDate>Mon, 09 Nov 2026 03:15:17 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Consumer brain wave headsets threaten privacy</title>
-      <link>https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F</link>
-      <guid isPermaLink="true">https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F</guid>
-      <pubDate>Sun, 08 Nov 2026 02:02:38 +0000</pubDate>
+      <title>[HN] A Bit about Email</title>
+      <link>https://maurycyz.com/misc/email/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/email/</guid>
+      <pubDate>Mon, 09 Nov 2026 02:46:21 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] ZapFast: A fast, native WhatsApp client in Rust and egui</title>
-      <link>https://github.com/crmne/zapfast</link>
-      <guid isPermaLink="true">https://github.com/crmne/zapfast</guid>
-      <pubDate>Sun, 08 Nov 2026 02:02:27 +0000</pubDate>
+      <title>[HN] RIP, Harvest</title>
+      <link>https://aphyr.com/posts/427-rip-harvest</link>
+      <guid isPermaLink="true">https://aphyr.com/posts/427-rip-harvest</guid>
+      <pubDate>Mon, 09 Nov 2026 01:58:21 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Commodore PET – The Worlds First Personal Computer</title>
-      <link>https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/</link>
-      <guid isPermaLink="true">https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/</guid>
-      <pubDate>Sat, 07 Nov 2026 23:15:34 +0000</pubDate>
+      <title>[HN] Unlocking any car from X brand in most of the world</title>
+      <link>https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</link>
+      <guid isPermaLink="true">https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</guid>
+      <pubDate>Mon, 09 Nov 2026 00:10:50 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] US intelligence believes Nvidia CEO Jensen Huang had affair with Chinese spy in honeypot operation</title>
-      <link>https://www.reddit.com/r/technology/comments/1xqbulk/us_intelligence_believes_nvidia_ceo_jensen_huang/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xqbulk/us_intelligence_believes_nvidia_ceo_jensen_huang/</guid>
-      <pubDate>2026-11-07T17:27:57+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xqbulk/us_intelligence_believes_nvidia_ceo_jensen_huang/&quot;&gt; &lt;img alt=&quot;US intelligence believes Nvidia CEO Jensen Huang had affair with Chinese spy in honeypot operation&quot; src=&quot;https://external-preview.redd.it/jMHo1BAhXDpYskb9XvuTRkDOo6qH5Z-UPaVVAzC5EU8.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b74a76caff6f8c6feee8d78e48dbd74e63a6b475&quot; title=&quot;US intelligence believes Nvidia CEO Jensen Huang had affair with Chinese spy in honeypot operation&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable_Phase_2519&quot;&gt; /u/Miserable_Phase_2519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xqbulk/us_intelligence_believes_nvidia_ceo_jensen_huang/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] NVIDIA CEO Admits Infidelity With Suspected Chinese Spy</title>
+      <link>https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/</guid>
+      <pubDate>2026-11-08T20:25:13+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/&quot;&gt; &lt;img alt=&quot;NVIDIA CEO Admits Infidelity With Suspected Chinese Spy&quot; src=&quot;https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7&quot; title=&quot;NVIDIA CEO Admits Infidelity With Suspected Chinese Spy&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/NPE-333&quot;&gt; /u/NPE-333 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] The tech billionaires who fled California are facing a new blue Texas</title>
-      <link>https://www.reddit.com/r/technology/comments/1xqaiys/the_tech_billionaires_who_fled_california_are/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xqaiys/the_tech_billionaires_who_fled_california_are/</guid>
-      <pubDate>2026-11-07T16:32:35+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xqaiys/the_tech_billionaires_who_fled_california_are/&quot;&gt; &lt;img alt=&quot;The tech billionaires who fled California are facing a new blue Texas&quot; src=&quot;https://external-preview.redd.it/bPRyTSeLAHCcAjKVekWHxSzsUD91Qn0WW4DPKgjrHas.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=45092075ba991b9e39df37cec8ceaf5cc629520c&quot; title=&quot;The tech billionaires who fled California are facing a new blue Texas&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/idkbruh653&quot;&gt; /u/idkbruh653 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2026/11/07/musk-fled-california-texas-now-his-red-state-refuge-is-revolt/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xqaiys/the_tech_billionaires_who_fled_california_are/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy</title>
+      <link>https://www.reddit.com/r/technology/comments/1xr7tzk/nvidia_opens_investigation_into_jensen_huangs/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xr7tzk/nvidia_opens_investigation_into_jensen_huangs/</guid>
+      <pubDate>2026-11-08T20:10:24+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xr7tzk/nvidia_opens_investigation_into_jensen_huangs/&quot;&gt; &lt;img alt=&quot;Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy&quot; src=&quot;https://external-preview.redd.it/olhdK7FRwvOdJFurEWWPPudrP5GLxZ_6Si7lKDEwlzI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6d14ec0959620ff9e2a6ce4c2fee2354b6b10b78&quot; title=&quot;Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SoulNew&quot;&gt; /u/SoulNew &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?smid=nytcore-ios-share&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xr7tzk/nvidia_opens_investigation_into_jensen_huangs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Texas Governor-Elect Requests Pause on Land Talks With SpaceX</title>
-      <link>https://www.reddit.com/r/technology/comments/1xq86a2/texas_governorelect_requests_pause_on_land_talks/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xq86a2/texas_governorelect_requests_pause_on_land_talks/</guid>
-      <pubDate>2026-11-07T14:52:04+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xq86a2/texas_governorelect_requests_pause_on_land_talks/&quot;&gt; &lt;img alt=&quot;Texas Governor-Elect Requests Pause on Land Talks With SpaceX&quot; src=&quot;https://external-preview.redd.it/Wa7nTjmYtuCtSrUSGGiwdMGgIWeI3fd6Ym8eRjjxHMI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=82d06a335c66e9adec6cbb77f7304f24926a96ad&quot; title=&quot;Texas Governor-Elect Requests Pause on Land Talks With SpaceX&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/l3tsgo0&quot;&gt; /u/l3tsgo0 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-11-05/texas-governor-elect-requests-pause-on-land-talks-with-spacex&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xq86a2/texas_governorelect_requests_pause_on_land_talks/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link</title>
+      <link>https://www.reddit.com/r/technology/comments/1xr4wwy/nvidia_ceo_jensen_huang_faces_bipartisan/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xr4wwy/nvidia_ceo_jensen_huang_faces_bipartisan/</guid>
+      <pubDate>2026-11-08T18:11:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xr4wwy/nvidia_ceo_jensen_huang_faces_bipartisan/&quot;&gt; &lt;img alt=&quot;Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link&quot; src=&quot;https://external-preview.redd.it/hIr_s8XpCb7-d46HcVCu-TSNmKtnyjH2n5eBpSNf7to.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=efd21975a30c78f3d9f7356964411bbcad083949&quot; title=&quot;Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xr4wwy/nvidia_ceo_jensen_huang_faces_bipartisan/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Former Rockstar dev says threat of unofficial AI ports could force GTA 6 onto PC sooner</title>
-      <link>https://www.reddit.com/r/technology/comments/1xq5x2u/former_rockstar_dev_says_threat_of_unofficial_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xq5x2u/former_rockstar_dev_says_threat_of_unofficial_ai/</guid>
-      <pubDate>2026-11-07T13:05:34+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xq5x2u/former_rockstar_dev_says_threat_of_unofficial_ai/&quot;&gt; &lt;img alt=&quot;Former Rockstar dev says threat of unofficial AI ports could force GTA 6 onto PC sooner&quot; src=&quot;https://external-preview.redd.it/FQOO99npxqmISKwhgnhj0IWwk6tacX4izLMcYMCnfOE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ed4e66a9e7fad0e84144ed463989ac36acfd03c8&quot; title=&quot;Former Rockstar dev says threat of unofficial AI ports could force GTA 6 onto PC sooner&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tylerthe-theatre&quot;&gt; /u/tylerthe-theatre &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.dexerto.com/gta/former-rockstar-dev-says-threat-of-unofficial-ai-ports-could-force-gta-6-onto-pc-sooner-3425613/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xq5x2u/former_rockstar_dev_says_threat_of_unofficial_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Dem Texas Governor-Elect Warns Big Tech</title>
+      <link>https://www.reddit.com/r/technology/comments/1xqxi5h/that_stops_when_im_governor_dem_texas/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xqxi5h/that_stops_when_im_governor_dem_texas/</guid>
+      <pubDate>2026-11-08T12:39:27+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xqxi5h/that_stops_when_im_governor_dem_texas/&quot;&gt; &lt;img alt=&quot;‘That Stops When I’m Governor’: Dem Texas Governor-Elect Warns Big Tech&quot; src=&quot;https://external-preview.redd.it/rjkcXMzK8EXdcT220CmbPZnWA8TpSFENDTjr4fVCdUg.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=64df443617ab07d643c598e91c697431cedd575c&quot; title=&quot;‘That Stops When I’m Governor’: Dem Texas Governor-Elect Warns Big Tech&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/l3tsgo0&quot;&gt; /u/l3tsgo0 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.huffpost.com/entry/gina-hinojosa-warns-big-tech-elon-musk-data-centers-that-stops-when-im-governor_n_6aedfeafe4b043b6d4e187f8&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xqxi5h/that_stops_when_im_governor_dem_texas/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Someone used Claude Code to reverse-engineer the Apple AirPods 3, and now head-tracking works on Linux</title>
-      <link>https://www.reddit.com/r/technology/comments/1xq2xd3/someone_used_claude_code_to_reverseengineer_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xq2xd3/someone_used_claude_code_to_reverseengineer_the/</guid>
-      <pubDate>2026-11-07T10:05:07+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xq2xd3/someone_used_claude_code_to_reverseengineer_the/&quot;&gt; &lt;img alt=&quot;Someone used Claude Code to reverse-engineer the Apple AirPods 3, and now head-tracking works on Linux&quot; src=&quot;https://external-preview.redd.it/zYuSDfjh0VSTWVJ1deMZHzkcGiHkzzgqNy9kiFhml2Q.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4f4e28b7f8066ea8229eaed651b0de8028573cc1&quot; title=&quot;Someone used Claude Code to reverse-engineer the Apple AirPods 3, and now head-tracking works on Linux&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Dark_Wing&quot;&gt; /u/_Dark_Wing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.xda-developers.com/someone-used-claude-code-to-reverse-engineer-the-apple-airpods-3-and-now-head-tracking-works-on-linux/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xq2xd3/someone_used_claude_code_to_reverseengineer_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Hackers Claim Leaked Rosstat Records Reveal Up to 450,000 Russian War Deaths</title>
+      <link>https://www.reddit.com/r/technology/comments/1xqxe29/hackers_claim_leaked_rosstat_records_reveal_up_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xqxe29/hackers_claim_leaked_rosstat_records_reveal_up_to/</guid>
+      <pubDate>2026-11-08T12:32:48+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xqxe29/hackers_claim_leaked_rosstat_records_reveal_up_to/&quot;&gt; &lt;img alt=&quot;Hackers Claim Leaked Rosstat Records Reveal Up to 450,000 Russian War Deaths&quot; src=&quot;https://external-preview.redd.it/I7sSNwNL5ByMSYwAPoGaGnzg5o07euOaN5eRU3iyH-w.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=576660de4dcf165e8175d1f8961e873bda8f59cd&quot; title=&quot;Hackers Claim Leaked Rosstat Records Reveal Up to 450,000 Russian War Deaths&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puzzleheaded_irl&quot;&gt; /u/Puzzleheaded_irl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.kyivpost.com/post/89484&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xqxe29/hackers_claim_leaked_rosstat_records_reveal_up_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
