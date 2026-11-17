@@ -4,72 +4,72 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Mon, 16 Nov 2026 05:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:05:58 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Linux was created as a rejection of robust software architecture and tools</title>
-      <link>https://twitter.com/GrapheneOS/status/2122079826257588569</link>
-      <guid isPermaLink="true">https://twitter.com/GrapheneOS/status/2122079826257588569</guid>
-      <pubDate>Mon, 16 Nov 2026 03:58:04 +0000</pubDate>
+      <title>[HN] Tokendoctor – the same Claude Code for up to 38% less</title>
+      <link>https://github.com/localixai/tokendoctor</link>
+      <guid isPermaLink="true">https://github.com/localixai/tokendoctor</guid>
+      <pubDate>Tue, 17 Nov 2026 02:19:50 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Tell HN: HN is being scraped for emails to scam</title>
-      <link>https://news.ycombinator.com/item?id=50513451</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513451</guid>
-      <pubDate>Mon, 16 Nov 2026 02:53:30 +0000</pubDate>
+      <title>[HN] If an App Asks for Full Disk Access or System and App Protection Override</title>
+      <link>https://support.apple.com/en-us/149699</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/149699</guid>
+      <pubDate>Tue, 17 Nov 2026 02:17:04 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Qwen4-Max</title>
-      <link>https://qwen.ai/blog?id=qwen4-max</link>
-      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen4-max</guid>
-      <pubDate>Mon, 16 Nov 2026 02:14:44 +0000</pubDate>
+      <title>[HN] Mem Is Shutting Down</title>
+      <link>https://get.mem.ai/blog/mem-is-shutting-down</link>
+      <guid isPermaLink="true">https://get.mem.ai/blog/mem-is-shutting-down</guid>
+      <pubDate>Tue, 17 Nov 2026 02:13:41 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Universal XSS in uBlock Origin from website-driven element picker</title>
-      <link>https://iter.ca/post/ubo-uxss/</link>
-      <guid isPermaLink="true">https://iter.ca/post/ubo-uxss/</guid>
-      <pubDate>Mon, 16 Nov 2026 02:04:48 +0000</pubDate>
+      <title>[HN] Running coding agents without handing them my credentials</title>
+      <link>https://blog.antonio.cx/running-agents-with-lend</link>
+      <guid isPermaLink="true">https://blog.antonio.cx/running-agents-with-lend</guid>
+      <pubDate>Tue, 17 Nov 2026 01:18:56 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Coles hit by a cybersecurity incident</title>
-      <link>https://www.colesgroup.com.au/updates/</link>
-      <guid isPermaLink="true">https://www.colesgroup.com.au/updates/</guid>
-      <pubDate>Mon, 16 Nov 2026 01:14:35 +0000</pubDate>
+      <title>[HN] Why 3dfx 1 cards had such a washed out color output?</title>
+      <link>https://twitter.com/id_aa_carmack/status/2122478083319992513</link>
+      <guid isPermaLink="true">https://twitter.com/id_aa_carmack/status/2122478083319992513</guid>
+      <pubDate>Tue, 17 Nov 2026 00:16:24 +0000</pubDate>
     </item>
     <item>
-      <title>[r/technology] Vulcan rocket fails, destroying 40 Amazon Leo satellites</title>
-      <link>https://www.reddit.com/r/technology/comments/1xx7xlz/vulcan_rocket_fails_destroying_40_amazon_leo/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xx7xlz/vulcan_rocket_fails_destroying_40_amazon_leo/</guid>
-      <pubDate>2026-11-15T21:55:38+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xx7xlz/vulcan_rocket_fails_destroying_40_amazon_leo/&quot;&gt; &lt;img alt=&quot;Vulcan rocket fails, destroying 40 Amazon Leo satellites&quot; src=&quot;https://external-preview.redd.it/ZgtPDC0OcfD1T_-7Fow5MOcwNj_wcWFbOIStD9Itzuk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=18427d6747a405edd7593f895d5d7d591a46067b&quot; title=&quot;Vulcan rocket fails, destroying 40 Amazon Leo satellites&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/collogue&quot;&gt; /u/collogue &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xx7xlz/vulcan_rocket_fails_destroying_40_amazon_leo/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] United Airlines says it has a widespread system outage just days after nationwide ground stop</title>
+      <link>https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/</guid>
+      <pubDate>2026-11-16T22:20:02+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/&quot;&gt; &lt;img alt=&quot;United Airlines says it has a widespread system outage just days after nationwide ground stop&quot; src=&quot;https://external-preview.redd.it/bAO2pUBtoDLDqgGzEoV7ltLwUSnyzVr-u79IFH2M0Ko.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1bdc64341ed3a58f8a16d4897190c89be58e5381&quot; title=&quot;United Airlines says it has a widespread system outage just days after nationwide ground stop&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/thatfreshjive&quot;&gt; /u/thatfreshjive &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Reddit's traffic is down 13%, partly thanks to AI Overviews</title>
-      <link>https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/</guid>
-      <pubDate>2026-11-15T19:31:00+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/&quot;&gt; &lt;img alt=&quot;Reddit's traffic is down 13%, partly thanks to AI Overviews&quot; src=&quot;https://external-preview.redd.it/iSXucelVQvxZ0ji2wP6839OGWpvW4horYXq2lbY1KxE.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dab94e6cd441915ab823411eb0ffb40e53624b14&quot; title=&quot;Reddit's traffic is down 13%, partly thanks to AI Overviews&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AdSpecialist6598&quot;&gt; /u/AdSpecialist6598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before His Downfall</title>
+      <link>https://www.reddit.com/r/technology/comments/1xy0zz2/jensen_huang_passed_billions_in_nvidia_stock_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xy0zz2/jensen_huang_passed_billions_in_nvidia_stock_to/</guid>
+      <pubDate>2026-11-16T20:56:03+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.barrons.com/articles/jensen-huang-nvidia-stock-trust-grat-estate-tax-357c1fd3&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xy0zz2/jensen_huang_passed_billions_in_nvidia_stock_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Donald Trump breaks silence on nationwide grounding of all flights, blames Biden</title>
-      <link>https://www.reddit.com/r/technology/comments/1xwyipo/donald_trump_breaks_silence_on_nationwide/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xwyipo/donald_trump_breaks_silence_on_nationwide/</guid>
-      <pubDate>2026-11-15T15:38:48+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xwyipo/donald_trump_breaks_silence_on_nationwide/&quot;&gt; &lt;img alt=&quot;Donald Trump breaks silence on nationwide grounding of all flights, blames Biden&quot; src=&quot;https://external-preview.redd.it/j8_npxMMFlQNhbUGHi61KfB8Hl4ydMLaO9njQKipvvA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=979f409546bf8d7738a7faeb75c61f21225255a3&quot; title=&quot;Donald Trump breaks silence on nationwide grounding of all flights, blames Biden&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/usefsaeed&quot;&gt; /u/usefsaeed &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.jpost.com/international/article-914962&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xwyipo/donald_trump_breaks_silence_on_nationwide/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Chase and other major banks hit by online outages</title>
+      <link>https://www.reddit.com/r/technology/comments/1xxyqfz/chase_and_other_major_banks_hit_by_online_outages/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xxyqfz/chase_and_other_major_banks_hit_by_online_outages/</guid>
+      <pubDate>2026-11-16T19:31:25+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxyqfz/chase_and_other_major_banks_hit_by_online_outages/&quot;&gt; &lt;img alt=&quot;Chase and other major banks hit by online outages&quot; src=&quot;https://external-preview.redd.it/avVrkKHqQkRXsBt10OPJnyhQtZB6RWcpKMVPgEU-dYA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9223ab95c9619c5c9ca0ae27aab5ab382580cd47&quot; title=&quot;Chase and other major banks hit by online outages&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/chase-other-major-banks-hit-by-online-outages-2026-11&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxyqfz/chase_and_other_major_banks_hit_by_online_outages/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal — Mark Stevens sold 4.2 million shares without a trading plan</title>
-      <link>https://www.reddit.com/r/technology/comments/1xww9xh/nvidia_board_director_cashed_out_1_billion_in/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xww9xh/nvidia_board_director_cashed_out_1_billion_in/</guid>
-      <pubDate>2026-11-15T14:03:42+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xww9xh/nvidia_board_director_cashed_out_1_billion_in/&quot;&gt; &lt;img alt=&quot;Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal — Mark Stevens sold 4.2 million shares without a trading plan&quot; src=&quot;https://external-preview.redd.it/HzigayDT2OAlBYmAvK3Up5MI6ax1HIjhEO29tS0H2sM.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2ab36bf563646bbc795951055eecfc66d17fb5b5&quot; title=&quot;Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal — Mark Stevens sold 4.2 million shares without a trading plan&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MarvelsGrantMan136&quot;&gt; /u/MarvelsGrantMan136 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/nvidia-board-director-cashed-out-usd1-billion-in-stock-before-jensen-huang-scandal-mark-stevens-sold-4-2-million-shares-without-a-trading-plan&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xww9xh/nvidia_board_director_cashed_out_1_billion_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] I went to a math class at Caltech. The professor no longer grades homework because everyone's using AI.</title>
+      <link>https://www.reddit.com/r/technology/comments/1xxr8bg/i_went_to_a_math_class_at_caltech_the_professor/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xxr8bg/i_went_to_a_math_class_at_caltech_the_professor/</guid>
+      <pubDate>2026-11-16T14:48:40+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxr8bg/i_went_to_a_math_class_at_caltech_the_professor/&quot;&gt; &lt;img alt=&quot;I went to a math class at Caltech. The professor no longer grades homework because everyone's using AI.&quot; src=&quot;https://external-preview.redd.it/zaTiYWFTTavx6HihgI1iMLI4iCk7ubnTLic58G60xCc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=673e928ad390ffb9b8df618c44391234176b15a1&quot; title=&quot;I went to a math class at Caltech. The professor no longer grades homework because everyone's using AI.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxr8bg/i_went_to_a_math_class_at_caltech_the_professor/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>[r/technology] Judge Allows DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron to Proceed</title>
-      <link>https://www.reddit.com/r/technology/comments/1xwud04/judge_allows_dram_supply_conspiracy_suit_against/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xwud04/judge_allows_dram_supply_conspiracy_suit_against/</guid>
-      <pubDate>2026-11-15T12:31:56+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xwud04/judge_allows_dram_supply_conspiracy_suit_against/&quot;&gt; &lt;img alt=&quot;Judge Allows DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron to Proceed&quot; src=&quot;https://external-preview.redd.it/BE23Okv930waQ7vhSe-JPUnQKKwKGeWA28F1zlzCuN0.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4f14d965d1b80ae5ea96a04200c938886e5fcf5b&quot; title=&quot;Judge Allows DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron to Proceed&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lkl34&quot;&gt; /u/lkl34 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://news.lavx.hu/article/judge-allows-dram-supply-conspiracy-suit-against-samsung-sk-hynix-micron-to-proceed&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xwud04/judge_allows_dram_supply_conspiracy_suit_against/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[r/technology] Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide</title>
+      <link>https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/</guid>
+      <pubDate>2026-11-16T12:02:31+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/&quot;&gt; &lt;img alt=&quot;Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide&quot; src=&quot;https://external-preview.redd.it/65z-MxO0EKYHMoyzmkkb3CqCG73inkLcF1A8_7SZeuI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2d793f68518e9b798de240804f0394a7138260fa&quot; title=&quot;Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TeamAlphaBOLD&quot;&gt; /u/TeamAlphaBOLD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://cybersecuritynews.com/microsoft-outage-incident-report/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
