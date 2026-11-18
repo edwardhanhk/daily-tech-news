@@ -4,72 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Tue, 17 Nov 2026 07:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:30:26 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Tokendoctor – the same Claude Code for up to 38% less</title>
-      <link>https://github.com/localixai/tokendoctor</link>
-      <guid isPermaLink="true">https://github.com/localixai/tokendoctor</guid>
-      <pubDate>Tue, 17 Nov 2026 02:19:50 +0000</pubDate>
+      <title>[HN] Why Fibonacci?</title>
+      <link>https://www.evilgeniuslabs.org/why-fibonacci</link>
+      <guid isPermaLink="true">https://www.evilgeniuslabs.org/why-fibonacci</guid>
+      <pubDate>Wed, 18 Nov 2026 05:35:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] If an App Asks for Full Disk Access or System and App Protection Override</title>
-      <link>https://support.apple.com/en-us/149699</link>
-      <guid isPermaLink="true">https://support.apple.com/en-us/149699</guid>
-      <pubDate>Tue, 17 Nov 2026 02:17:04 +0000</pubDate>
+      <title>[HN] Optimjack from the Outside: The Hijacked Script Was on Our Radar</title>
+      <link>https://blog.fortirix.com/blog/optimjack/</link>
+      <guid isPermaLink="true">https://blog.fortirix.com/blog/optimjack/</guid>
+      <pubDate>Wed, 18 Nov 2026 05:21:07 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Mem Is Shutting Down</title>
-      <link>https://get.mem.ai/blog/mem-is-shutting-down</link>
-      <guid isPermaLink="true">https://get.mem.ai/blog/mem-is-shutting-down</guid>
-      <pubDate>Tue, 17 Nov 2026 02:13:41 +0000</pubDate>
+      <title>[HN] Interviewed at a YC startup, found out they used my LinkedIn without permission</title>
+      <link>https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</link>
+      <guid isPermaLink="true">https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</guid>
+      <pubDate>Wed, 18 Nov 2026 05:11:30 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Running coding agents without handing them my credentials</title>
-      <link>https://blog.antonio.cx/running-agents-with-lend</link>
-      <guid isPermaLink="true">https://blog.antonio.cx/running-agents-with-lend</guid>
-      <pubDate>Tue, 17 Nov 2026 01:18:56 +0000</pubDate>
+      <title>[HN] Why is Gemini 4 Carbon taking so long?</title>
+      <link>https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</link>
+      <guid isPermaLink="true">https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</guid>
+      <pubDate>Wed, 18 Nov 2026 04:14:04 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Why 3dfx 1 cards had such a washed out color output?</title>
-      <link>https://twitter.com/id_aa_carmack/status/2122478083319992513</link>
-      <guid isPermaLink="true">https://twitter.com/id_aa_carmack/status/2122478083319992513</guid>
-      <pubDate>Tue, 17 Nov 2026 00:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/technology] United Airlines says it has a widespread system outage just days after nationwide ground stop</title>
-      <link>https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/</guid>
-      <pubDate>2026-11-16T22:20:02+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/&quot;&gt; &lt;img alt=&quot;United Airlines says it has a widespread system outage just days after nationwide ground stop&quot; src=&quot;https://external-preview.redd.it/bAO2pUBtoDLDqgGzEoV7ltLwUSnyzVr-u79IFH2M0Ko.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1bdc64341ed3a58f8a16d4897190c89be58e5381&quot; title=&quot;United Airlines says it has a widespread system outage just days after nationwide ground stop&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/thatfreshjive&quot;&gt; /u/thatfreshjive &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before His Downfall</title>
-      <link>https://www.reddit.com/r/technology/comments/1xy0zz2/jensen_huang_passed_billions_in_nvidia_stock_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xy0zz2/jensen_huang_passed_billions_in_nvidia_stock_to/</guid>
-      <pubDate>2026-11-16T20:56:03+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unusual-State1827&quot;&gt; /u/Unusual-State1827 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.barrons.com/articles/jensen-huang-nvidia-stock-trust-grat-estate-tax-357c1fd3&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xy0zz2/jensen_huang_passed_billions_in_nvidia_stock_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Chase and other major banks hit by online outages</title>
-      <link>https://www.reddit.com/r/technology/comments/1xxyqfz/chase_and_other_major_banks_hit_by_online_outages/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xxyqfz/chase_and_other_major_banks_hit_by_online_outages/</guid>
-      <pubDate>2026-11-16T19:31:25+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxyqfz/chase_and_other_major_banks_hit_by_online_outages/&quot;&gt; &lt;img alt=&quot;Chase and other major banks hit by online outages&quot; src=&quot;https://external-preview.redd.it/avVrkKHqQkRXsBt10OPJnyhQtZB6RWcpKMVPgEU-dYA.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9223ab95c9619c5c9ca0ae27aab5ab382580cd47&quot; title=&quot;Chase and other major banks hit by online outages&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ArgentineBeauty&quot;&gt; /u/ArgentineBeauty &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/chase-other-major-banks-hit-by-online-outages-2026-11&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxyqfz/chase_and_other_major_banks_hit_by_online_outages/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] I went to a math class at Caltech. The professor no longer grades homework because everyone's using AI.</title>
-      <link>https://www.reddit.com/r/technology/comments/1xxr8bg/i_went_to_a_math_class_at_caltech_the_professor/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xxr8bg/i_went_to_a_math_class_at_caltech_the_professor/</guid>
-      <pubDate>2026-11-16T14:48:40+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxr8bg/i_went_to_a_math_class_at_caltech_the_professor/&quot;&gt; &lt;img alt=&quot;I went to a math class at Caltech. The professor no longer grades homework because everyone's using AI.&quot; src=&quot;https://external-preview.redd.it/zaTiYWFTTavx6HihgI1iMLI4iCk7ubnTLic58G60xCc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=673e928ad390ffb9b8df618c44391234176b15a1&quot; title=&quot;I went to a math class at Caltech. The professor no longer grades homework because everyone's using AI.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lurker_bee&quot;&gt; /u/lurker_bee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxr8bg/i_went_to_a_math_class_at_caltech_the_professor/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>[r/technology] Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide</title>
-      <link>https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/</guid>
-      <pubDate>2026-11-16T12:02:31+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/&quot;&gt; &lt;img alt=&quot;Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide&quot; src=&quot;https://external-preview.redd.it/65z-MxO0EKYHMoyzmkkb3CqCG73inkLcF1A8_7SZeuI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2d793f68518e9b798de240804f0394a7138260fa&quot; title=&quot;Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TeamAlphaBOLD&quot;&gt; /u/TeamAlphaBOLD &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://cybersecuritynews.com/microsoft-outage-incident-report/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <title>[HN] Claude was trained on protein sequences at scale</title>
+      <link>http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</link>
+      <guid isPermaLink="true">http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</guid>
+      <pubDate>Wed, 18 Nov 2026 03:47:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
