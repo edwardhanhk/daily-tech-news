@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:30:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:32:22 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] Why Fibonacci?</title>
-      <link>https://www.evilgeniuslabs.org/why-fibonacci</link>
-      <guid isPermaLink="true">https://www.evilgeniuslabs.org/why-fibonacci</guid>
-      <pubDate>Wed, 18 Nov 2026 05:35:02 +0000</pubDate>
+      <title>[HN] We need smart people who give a shit</title>
+      <link>https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</link>
+      <guid isPermaLink="true">https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:53:49 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Optimjack from the Outside: The Hijacked Script Was on Our Radar</title>
-      <link>https://blog.fortirix.com/blog/optimjack/</link>
-      <guid isPermaLink="true">https://blog.fortirix.com/blog/optimjack/</guid>
-      <pubDate>Wed, 18 Nov 2026 05:21:07 +0000</pubDate>
+      <title>[HN] FailTrace – Reproduce a failed GitHub Actions run locally from its URL</title>
+      <link>https://github.com/Ri4dH/failtrace</link>
+      <guid isPermaLink="true">https://github.com/Ri4dH/failtrace</guid>
+      <pubDate>Thu, 19 Nov 2026 01:30:43 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Interviewed at a YC startup, found out they used my LinkedIn without permission</title>
-      <link>https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</link>
-      <guid isPermaLink="true">https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</guid>
-      <pubDate>Wed, 18 Nov 2026 05:11:30 +0000</pubDate>
+      <title>[HN] Unreal Tournament 2004 in the Browser</title>
+      <link>https://ut2004.dev/</link>
+      <guid isPermaLink="true">https://ut2004.dev/</guid>
+      <pubDate>Thu, 19 Nov 2026 01:29:29 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Why is Gemini 4 Carbon taking so long?</title>
-      <link>https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</link>
-      <guid isPermaLink="true">https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</guid>
-      <pubDate>Wed, 18 Nov 2026 04:14:04 +0000</pubDate>
+      <title>[HN] Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction</title>
+      <link>https://arxiv.org/abs/2607.29378</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.29378</guid>
+      <pubDate>Thu, 19 Nov 2026 01:27:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Claude was trained on protein sequences at scale</title>
-      <link>http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</link>
-      <guid isPermaLink="true">http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</guid>
-      <pubDate>Wed, 18 Nov 2026 03:47:43 +0000</pubDate>
+      <title>[HN] Gemini 4 Neon looks like an Opus 5.5 competitor</title>
+      <link>https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/</link>
+      <guid isPermaLink="true">https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:29:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
