@@ -4,37 +4,37 @@
     <title>每日科技热帖</title>
     <link>https://github.com/edwardhanhk/daily-tech-news</link>
     <description>每日自动抓取 Hacker News 和 Reddit 科技热帖</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:32:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:19:45 +0000</lastBuildDate>
     <generator>GitHub Actions + Python</generator>
     <item>
-      <title>[HN] We need smart people who give a shit</title>
-      <link>https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</link>
-      <guid isPermaLink="true">https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</guid>
-      <pubDate>Wed, 18 Nov 2026 23:53:49 +0000</pubDate>
+      <title>[HN] Google is pushing OEMs against GrapheneOS and bootloader unlocking</title>
+      <link>https://grapheneos.social/@GrapheneOS/117645038299496084</link>
+      <guid isPermaLink="true">https://grapheneos.social/@GrapheneOS/117645038299496084</guid>
+      <pubDate>Fri, 20 Nov 2026 05:21:02 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] FailTrace – Reproduce a failed GitHub Actions run locally from its URL</title>
-      <link>https://github.com/Ri4dH/failtrace</link>
-      <guid isPermaLink="true">https://github.com/Ri4dH/failtrace</guid>
-      <pubDate>Thu, 19 Nov 2026 01:30:43 +0000</pubDate>
+      <title>[HN] FFmpeg 9.1 'Gauss'</title>
+      <link>https://ffmpeg.org/download.html#release_9.1</link>
+      <guid isPermaLink="true">https://ffmpeg.org/download.html#release_9.1</guid>
+      <pubDate>Fri, 20 Nov 2026 04:02:39 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Unreal Tournament 2004 in the Browser</title>
-      <link>https://ut2004.dev/</link>
-      <guid isPermaLink="true">https://ut2004.dev/</guid>
-      <pubDate>Thu, 19 Nov 2026 01:29:29 +0000</pubDate>
+      <title>[HN] GIMP now has UI tests</title>
+      <link>https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</link>
+      <guid isPermaLink="true">https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</guid>
+      <pubDate>Fri, 20 Nov 2026 04:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction</title>
-      <link>https://arxiv.org/abs/2607.29378</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.29378</guid>
-      <pubDate>Thu, 19 Nov 2026 01:27:02 +0000</pubDate>
+      <title>[HN] PostgreSQL 19</title>
+      <link>https://www.postgresql.org/docs/release/19.0/</link>
+      <guid isPermaLink="true">https://www.postgresql.org/docs/release/19.0/</guid>
+      <pubDate>Fri, 20 Nov 2026 03:45:45 +0000</pubDate>
     </item>
     <item>
-      <title>[HN] Gemini 4 Neon looks like an Opus 5.5 competitor</title>
-      <link>https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/</link>
-      <guid isPermaLink="true">https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/</guid>
-      <pubDate>Thu, 19 Nov 2026 00:29:45 +0000</pubDate>
+      <title>[HN] Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup</title>
+      <link>https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/</link>
+      <guid isPermaLink="true">https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/</guid>
+      <pubDate>Fri, 20 Nov 2026 02:43:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
